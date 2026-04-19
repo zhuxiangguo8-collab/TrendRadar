@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T17:44:34.447127+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-04-19T18:36:50.043477+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -28,11 +28,12 @@
             7,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 17时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 18时36分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -60,11 +61,12 @@
             11,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 17时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 18时36分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -77,8 +79,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 17时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 18时36分]"
         },
         {
           "title": "消博会上的硬核科技展现未来趋势",
@@ -88,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时14分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时36分]"
         },
         {
           "title": "高科技产品惊艳亮相消博会",
@@ -99,8 +101,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时36分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -111,8 +113,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 17时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 18时36分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -132,11 +134,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时36分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -167,11 +170,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时36分]"
         },
         {
           "title": "AI让人越来越累",
@@ -184,6 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 15时14分]"
+        },
+        {
+          "title": "商务部：数码和智能产品成为消费品以旧换新新热点",
+          "url": "https://flash.jin10.com/detail/20260419174135443800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
