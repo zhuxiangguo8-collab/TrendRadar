@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T16:50:53.012071+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-04-19T17:44:34.447127+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 16时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 17时44分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -63,8 +63,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 16时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 17时44分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -77,8 +77,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 16时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 17时44分]"
         },
         {
           "title": "消博会上的硬核科技展现未来趋势",
@@ -88,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 17时44分]"
         },
         {
           "title": "高科技产品惊艳亮相消博会",
@@ -98,9 +98,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时44分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -111,19 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 16时50分]"
-        },
-        {
-          "title": "ST京蓝：靶材业务尚未正式启动生产 鑫联科技资产注入存不确定性",
-          "url": "https://flash.jin10.com/detail/20260419160537375800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 17时44分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -136,6 +125,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 15时14分]"
+        },
+        {
+          "title": "ST京蓝：靶材业务尚未正式启动生产 鑫联科技资产注入存不确定性",
+          "url": "https://flash.jin10.com/detail/20260419160537375800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时44分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -161,6 +162,18 @@
           "time_info": "[13时26分 ~ 16时50分]"
         },
         {
+          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
+          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 17时44分]"
+        },
+        {
           "title": "AI让人越来越累",
           "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%B4%AF&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        },
-        {
-          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
-          "url": "https://flash.jin10.com/detail/20260419155228082800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "美国空军首次使用AI兵棋推演系统",
