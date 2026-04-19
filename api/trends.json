@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T19:33:39.844853+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-04-19T20:54:40.570922+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,30 @@
           "time_info": "[00时35分 ~ 10时13分]"
         },
         {
+          "title": "消博会上的硬核科技展现未来趋势",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B1%95%E7%8E%B0%E6%9C%AA%E6%9D%A5%E8%B6%8B%E5%8A%BF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 20时54分]"
+        },
+        {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 20时54分]"
+        },
+        {
           "title": "up主转战AI动画遭手绘党声讨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
           "source": "贴吧",
@@ -29,11 +53,12 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 19时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 20时54分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -62,11 +87,12 @@
             16,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 19时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 20时54分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -76,22 +102,12 @@
             20,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 19时33分]"
-        },
-        {
-          "title": "消博会上的硬核科技展现未来趋势",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E5%B1%95%E7%8E%B0%E6%9C%AA%E6%9D%A5%E8%B6%8B%E5%8A%BF%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 19时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 20时54分]"
         },
         {
           "title": "高科技产品惊艳亮相消博会",
@@ -101,20 +117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时33分]"
-        },
-        {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 19时33分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 20时54分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
