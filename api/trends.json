@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T15:14:57.782577+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-04-19T16:50:53.012071+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 16时50分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -44,11 +45,12 @@
             26,
             28,
             27,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[01时34分 ~ 16时50分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -57,11 +59,12 @@
           "ranks": [
             11,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 16时50分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -70,11 +73,12 @@
           "ranks": [
             20,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 16时50分]"
         },
         {
           "title": "消博会上的硬核科技展现未来趋势",
@@ -83,9 +87,43 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时50分]"
+        },
+        {
+          "title": "高科技产品惊艳亮相消博会",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8%E6%B6%88%E5%8D%9A%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时50分"
+        },
+        {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 16时50分]"
+        },
+        {
+          "title": "ST京蓝：靶材业务尚未正式启动生产 鑫联科技资产注入存不确定性",
+          "url": "https://flash.jin10.com/detail/20260419160537375800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -98,18 +136,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 15时14分]"
-        },
-        {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时14分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -131,8 +157,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 16时50分]"
         },
         {
           "title": "AI让人越来越累",
@@ -156,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
+          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "美国空军首次使用AI兵棋推演系统",
