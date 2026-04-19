@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T00:36:43.890098+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-20T01:34:00.017293+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时34分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
           "url": "https://www.zhihu.com/question/3022969383",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时34分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -48,19 +49,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时34分]"
         },
         {
-          "title": "国投智能：公司已构建全链条AI安全能力体系",
-          "url": "https://flash.jin10.com/detail/20260419221748740800",
-          "source": "金十数据",
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时34分]"
         },
         {
           "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
@@ -70,15 +71,15 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时34分]"
         },
         {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
+          "title": "国投智能：公司已构建全链条AI安全能力体系",
+          "url": "https://flash.jin10.com/detail/20260419221748740800",
+          "source": "金十数据",
           "ranks": [
-            29
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
