@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:40:04.758584+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-04-20T04:34:02.745433+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -37,8 +37,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 03时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "新农人玩转种菜黑科技",
@@ -57,11 +57,23 @@
           "source": "知乎",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[02时43分 ~ 04时34分]"
+        },
+        {
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 04时34分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -85,17 +97,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 02时43分]"
-        },
-        {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 03时40分]"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
