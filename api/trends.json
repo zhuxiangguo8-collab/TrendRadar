@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T20:02:31.608937+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-04-20T22:46:52.009518+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 62,
+      "match_count": 73,
       "titles": [
         {
           "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
@@ -101,6 +101,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "爱奇艺称AI艺人库仅是合作意愿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "新农人玩转种菜黑科技",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%9C%E4%BA%BA%E7%8E%A9%E8%BD%AC%E7%A7%8D%E8%8F%9C%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -110,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "托克集团金属分析主管Graeme Train：战争已扰乱全球约3%的铝供应。",
+          "url": "https://flash.jin10.com/detail/20260420223716841800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "AI养马能代替养虾吗",
@@ -130,9 +152,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时46分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -159,17 +193,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时02分 ~ 20时02分]"
-        },
-        {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时02分]"
         },
         {
           "title": "张若昀工作室 没签过AI授权",
@@ -219,6 +242,18 @@
           "time_info": "[00时36分 ~ 02时43分]"
         },
         {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时46分]"
+        },
+        {
           "title": "国金牟一凌：科技“一枝独秀不是春”，市场或进入类似HALO的交易轮动",
           "url": "https://wallstreetcn.com/articles/3770348",
           "source": "华尔街见闻",
@@ -229,6 +264,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 16时02分]"
+        },
+        {
+          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
+          "url": "https://www.zhihu.com/question/2029556060424332961",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时46分]"
+        },
+        {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时46分]"
+        },
+        {
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 22时46分]"
         },
         {
           "title": "AI艺人库 自掘坟墓",
@@ -272,18 +342,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -321,15 +380,15 @@
           "time_info": "10时14分"
         },
         {
-          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
-          "url": "https://wallstreetcn.com/articles/3770390",
-          "source": "华尔街见闻",
+          "title": "英国将要求政府各部门进一步削减开支，吹捧AI带来的“重大胜利”",
+          "url": "https://wallstreetcn.com/livenews/3091206",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "22时46分"
         },
         {
           "title": "A股液冷概念股反复活跃，康盛股份7天4板，圣阳股份、科瑞技术、捷邦科技、立讯精密、力源信息涨幅居前。",
@@ -352,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "港股群核科技(00068.HK)持续走强，现涨近40%，现报25.96港元。",
@@ -393,7 +463,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -442,6 +512,28 @@
           "time_info": "10时14分"
         },
         {
+          "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
+          "url": "https://www.zhihu.com/question/2029557729014933493",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "华为首款AI眼镜来了",
+          "url": "https://www.toutiao.com/trending/7630378679035101225/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "港股消费电子概念走强，蓝思科技(06613.HK)涨6.14%，瑞声科技(02018.HK)涨3.63%，高伟电子(01415.HK)涨0.85%。",
           "url": "https://flash.jin10.com/detail/20260420095324274800",
           "source": "金十数据",
@@ -459,9 +551,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "截至早盘收盘，群核科技（MANYCORE TECH）上市第二日大涨47.42%，盘中一度涨超60%。",
@@ -475,17 +578,6 @@
           "time_info": "13时38分"
         },
         {
-          "title": "曝王楚然早就融了AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "爱奇艺AI艺人库",
           "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAAI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -495,17 +587,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
-          "url": "https://www.zhihu.com/question/2029556060424332961",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "广东省新增6款已完成登记的生成式人工智能服务",
@@ -547,7 +628,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -572,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "OpenAI将在未来数周发布新款图像模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3091192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "AI观众",
@@ -624,7 +716,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -635,9 +727,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "港股群核科技持续拉升，现涨超100%。",
@@ -695,6 +798,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "苏醒说AI艺人这方向真的对么",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4AI%E8%89%BA%E4%BA%BA%E8%BF%99%E6%96%B9%E5%90%91%E7%9C%9F%E7%9A%84%E5%AF%B9%E4%B9%88%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "富瀚微：除了面向商用场景，客户面向大众消费者的AI眼镜产品处于研发中。",
           "url": "https://flash.jin10.com/detail/20260420123410108800",
           "source": "金十数据",
@@ -712,9 +826,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "据港交所文件：浙江翼菲智能科技股份有限公司通过港交所上市聆讯。",
+          "url": "https://flash.jin10.com/detail/20260420220819732800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     }
