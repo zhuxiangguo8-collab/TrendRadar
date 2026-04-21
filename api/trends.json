@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T15:31:38.920441+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-04-21T17:31:48.661285+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 53,
+      "match_count": 61,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 15时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 17时31分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -57,11 +57,12 @@
             9,
             10,
             17,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 15时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 17时31分]"
         },
         {
           "title": "【早报】李强最新发声！事关能源安全：宁德时代将举办“超级科技日”",
@@ -90,6 +91,18 @@
           "time_info": "[00时05分 ~ 07时41分]"
         },
         {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 17时31分]"
+        },
+        {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
           "url": "https://www.zhihu.com/question/2029556060424332961",
           "source": "知乎",
@@ -114,18 +127,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时10分 ~ 15时31分]"
-        },
-        {
-          "title": "拆解AI艺人库背后野心",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时31分]"
         },
         {
           "title": "爱奇艺再回应AI艺人库",
@@ -237,6 +238,32 @@
           "time_info": "13时25分"
         },
         {
+          "title": "AI短剧是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 17时31分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 17时31分]"
+        },
+        {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
           "url": "https://wallstreetcn.com/articles/3770390",
           "source": "华尔街见闻",
@@ -260,30 +287,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时55分 ~ 05时43分]"
-        },
-        {
-          "title": "AI短剧是如何诞生的",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时31分]"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时31分]"
         },
         {
           "title": "曝王楚然早就融了AI",
@@ -402,6 +405,39 @@
           "time_info": "13时25分"
         },
         {
+          "title": "据伊朗方面消息称，伊朗航空（Iran Air）宣布，在暂停50天后，其国内航班将自明日（周三）起恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260421171511368800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "剑桥科技：不存在影响公司股票交易价格异常波动的重大事宜",
+          "url": "https://flash.jin10.com/detail/20260421171432790800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "国务院：深入实施“人工智能+”行动 支持采购大模型、智能体服务",
+          "url": "https://wallstreetcn.com/livenews/3091698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "A股化肥板块短线拉升，泰和科技涨超10%，潞化科技、四川美丰、湖北宜化、泸天化、云天化等跟涨。",
           "url": "https://flash.jin10.com/detail/20260421130232500800",
           "source": "金十数据",
@@ -441,9 +477,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "国务院：全链条补强生产性服务业薄弱环节，强化科技服务支撑作用",
+          "url": "https://wallstreetcn.com/livenews/3091691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "国务院：建立投早、投小、投长期、投硬科技的全生命周期融资体系",
+          "url": "https://flash.jin10.com/detail/20260421171030381800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "我国自主量子计算机“本源悟空”形成搭载人工智能运算能力",
@@ -457,15 +515,37 @@
           "time_info": "13时25分"
         },
         {
+          "title": "AI艺人库为何遭抵制",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "据路透社：招股说明书显示，SpaceX XAI去年的运营亏损扩大至64亿美元，较2024年的15.6亿美元和2023年的39.7亿美元有所增加。",
           "url": "https://flash.jin10.com/detail/20260421145055441800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://wallstreetcn.com/livenews/3091685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
@@ -578,6 +658,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "上海：开展人工智能知识产权快速协同保护指南编制",
+          "url": "https://wallstreetcn.com/livenews/3091671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "英媒：贝佐斯旗下的AI LAB在融资交易中估值接近380亿美元",
           "url": "https://flash.jin10.com/detail/20260421093407221800",
           "source": "金十数据",
@@ -606,7 +697,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
