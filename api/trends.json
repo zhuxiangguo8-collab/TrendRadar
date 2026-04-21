@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T01:59:42.848142+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-22T03:20:47.068965+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊僵局持续，企业盈利提振市场，纳指新高，科技股普涨，油价续跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -63,15 +63,38 @@
           "time_info": "00时57分"
         },
         {
+          "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
+          "url": "https://wallstreetcn.com/livenews/3092049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
           "url": "https://wallstreetcn.com/livenews/3092028",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时20分]"
+        },
+        {
+          "title": "拆解游戏工业的财务结构",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -86,17 +109,6 @@
           "time_info": "[00时57分 ~ 01时59分]"
         },
         {
-          "title": "拆解游戏工业的财务结构",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
-        },
-        {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
           "url": "https://www.zhihu.com/question/2027797621893244826",
           "source": "知乎",
@@ -105,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -116,8 +128,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "如何控制游戏平衡性？",
@@ -151,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美联储理事沃勒：需要更大的灵活性来捕捉效率并管理风险，例如网络安全，将人工智能融入我们的系统流程中。",
+          "url": "https://flash.jin10.com/detail/20260422023729287800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "内部备忘录显示，Meta Platforms(META.O)将安装追踪软件到美国员工的电脑上，以捕获工作流程数据用于人工智能训练。",
