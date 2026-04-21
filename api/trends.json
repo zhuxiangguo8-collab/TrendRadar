@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-22T03:20:47.068965+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-04-22T04:47:32.103446+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "美伊僵局持续，企业盈利提振市场，纳指新高，科技股普涨，油价续跌",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时20分]"
-        },
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
           "url": "https://www.cls.cn/detail/2350762",
@@ -26,26 +15,39 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时47分]"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时47分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时47分]"
+        },
+        {
+          "title": "美伊僵局持续，企业盈利提振市场，纳指新高，科技股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -69,9 +71,55 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "拆解游戏工业的财务结构",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时47分]"
+        },
+        {
+          "title": "奥多比宣布250亿美元股票回购计划，此前AI颠覆担忧拖累股价",
+          "url": "https://wallstreetcn.com/livenews/3092092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
+          "url": "https://www.zhihu.com/question/2027797621893244826",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时47分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时47分]"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -86,17 +134,6 @@
           "time_info": "[01时59分 ~ 03时20分]"
         },
         {
-          "title": "拆解游戏工业的财务结构",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时20分]"
-        },
-        {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
           "url": "https://wallstreetcn.com/livenews/3092003",
           "source": "华尔街见闻-快讯",
@@ -107,29 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时59分]"
-        },
-        {
-          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
-          "url": "https://www.zhihu.com/question/2027797621893244826",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时20分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时20分]"
         },
         {
           "title": "如何控制游戏平衡性？",
@@ -165,15 +179,37 @@
           "time_info": "00时57分"
         },
         {
+          "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3092085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "美联储理事沃勒：需要更大的灵活性来捕捉效率并管理风险，例如网络安全，将人工智能融入我们的系统流程中。",
           "url": "https://flash.jin10.com/detail/20260422023729287800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收跌，房地产板块跌1.94%，公用事业、工业、电信、原材料、保健板块也至多跌1.75%，信息技术/科技板块跌0.23%表现顺数第二，能源板块则收涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/3092081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "内部备忘录显示，Meta Platforms(META.O)将安装追踪软件到美国员工的电脑上，以捕获工作流程数据用于人工智能训练。",
@@ -196,6 +232,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.60%，报7020.14点。 热门中概股里，大全新能源初步收跌超9%，B站、阿特斯太阳能跌超6%，世纪互联跌5.8%，拼多多跌4.9%，新东方、小鹏、阿里、百度、蔚来、网易至少跌约3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.91%，中国科技指数ETF（CQQQ）收跌2.66%。 XtrackersHarvest中证50（ASHS）收跌1.86%，德银嘉实沪深300指数ETF（ASHR）收跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/3092076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股周二收盘，三大股指集体收跌，道指跌0.59%，纳指跌0.59%，标普500指数跌0.63%，热门科技股多数下跌，苹果跌超2%，英伟达、谷歌、特斯拉跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260422040117439800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "库克卸任：4万亿市值与AI失落的十年",
+          "url": "https://www.toutiao.com/trending/7631204301230050870/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     }
