@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T07:33:07.916559+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-04-22T10:08:25.801402+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 30,
+      "match_count": 45,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -13,18 +13,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "灵魂摆渡电影全AI生成",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -41,6 +29,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时33分]"
+        },
+        {
+          "title": "灵魂摆渡电影全AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 10时08分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -64,11 +65,12 @@
           "ranks": [
             8,
             10,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 10时08分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -78,8 +80,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 10时08分]"
         },
         {
           "title": "美伊僵局持续，企业盈利提振市场，纳指新高，科技股普涨，油价续跌",
@@ -91,6 +93,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 03时20分]"
+        },
+        {
+          "title": "AI创造营",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%9B%E9%80%A0%E8%90%A5&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -115,15 +128,48 @@
           "time_info": "03时20分"
         },
         {
+          "title": "恒生科技指数日内跌幅扩大至2%，恒指跌1.1%。哔哩哔哩跌近5%，腾讯音乐跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3092230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（4月22日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic旗下Mythos模型遭未授权用户入侵访问。</span><br/><span class=\"section-news\">2. 我国自主量子计算机“本源悟空”形成搭载人工智能运算能力。</span><br/><span class=\"section-news\">3. 特斯拉车机语音大模型服务完成备案。</span><br/><span class=\"section-news\">4. SpaceX：有权以600亿美元收购人工智能编程助手Cursor。</span><br/><span class=\"section-news\">5. OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。</span><br/>其他：<br/><span class=\"section-news\">1. 一季度工业机器人产量同比增长33.2%。</span><br/><span class=\"section-news\">2. 打击“囤积居奇” 工信部将引导存储器企业加强渠道管理。</span><br/><span class=\"section-news\">3. 亚马逊推出GLP-1减重项目 承诺\"快速、便捷\"获取药物。</span><br/><span class=\"section-news\">4. 工信部：万兆光网试点项目建设有序推进 试点目标完成情况良好。</span><br/><span class=\"section-news\">5. 宁德时代发布第三代神行超充电池，宁德时代钠电池年内将实现大规模量产。 </span>",
           "url": "https://flash.jin10.com/detail/20260422070939953800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "Meta计划监控员工鼠标与按键 用内部操作训练AI模型",
+          "url": "https://flash.jin10.com/detail/20260422095050937800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -219,6 +265,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
+          "url": "https://www.zhihu.com/question/2029861890638045761",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美联储主席提名人沃什：对人工智能将改善产出更有信心，而对其对劳动力市场的影响则不那么确定。",
           "url": "https://flash.jin10.com/detail/20260422003435028800",
           "source": "金十数据",
@@ -228,6 +285,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "A股猪肉股快速反弹，天邦食品直线涨停，龙大美食、大禹生物、立华股份、天康生物、正邦科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3092213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "库克宣布将于 9 月卸任苹果 CEO，回顾其整个任期，你认为苹果哪一款数码产品的创新力最为突出？",
+          "url": "https://www.zhihu.com/question/2029878909613732543",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "恒指日内跌1%，恒生科技指数跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3092210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
@@ -252,6 +342,39 @@
           "time_info": "03时20分"
         },
         {
+          "title": "A股钠离子电池概念上扬，同兴科技2连板，翔丰华涨超15%，传艺科技涨超8%，振华新材、维科技术、贝特瑞、容百科技高开。",
+          "url": "https://flash.jin10.com/detail/20260422093614104800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "《灵魂摆渡》电影全AI生成",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "港股AI概念股盘初走低，范式智能(06682.HK)跌10.38%，金山云(03896.HK)跌4.67%，群核科技(00068.HK)跌2.54%。",
+          "url": "https://flash.jin10.com/detail/20260422093556176800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "标普500指数的11个板块普遍收跌，房地产板块跌1.94%，公用事业、工业、电信、原材料、保健板块也至多跌1.75%，信息技术/科技板块跌0.23%表现顺数第二，能源板块则收涨1.31%。",
           "url": "https://wallstreetcn.com/livenews/3092081",
           "source": "华尔街见闻-快讯",
@@ -272,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "A股工业气体概念股盘初走高，华特气体涨超10%，金宏气体、中船特气、昊华科技、广钢气体冲高。",
+          "url": "https://flash.jin10.com/detail/20260422093332804800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美联储主席提名人沃什：美联储应该更加深入地挖掘人工智能（AI）的生产力意义。 数据中心产能将把需求提高几个百分点。",
@@ -296,15 +430,37 @@
           "time_info": "04时47分"
         },
         {
+          "title": "恒指低开0.69%，报26303.60点；恒生科技指数跌1.02%。百度、京东、阿里巴巴、腾讯音乐跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3092198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "SpaceX：获得600亿美元收购AI编程公司Cursor的权利",
           "url": "https://wallstreetcn.com/livenews/3092133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "恒生指数盘初跌幅扩大至1%，恒生科技指数现跌1.64%。",
+          "url": "https://flash.jin10.com/detail/20260422093146065800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "美股周二收盘，三大股指集体收跌，道指跌0.59%，纳指跌0.59%，标普500指数跌0.63%，热门科技股多数下跌，苹果跌超2%，英伟达、谷歌、特斯拉跌超1%。",
@@ -338,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "AI版灵魂摆渡监制是唐诡导演",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%89%88%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%9B%91%E5%88%B6%E6%98%AF%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "AI艺人库背后的商业逻辑",
