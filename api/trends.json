@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T06:44:31.402792+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-04-23T07:43:14.158707+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -16,8 +16,65 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时43分]"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时43分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时43分]"
+        },
+        {
+          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
+          "url": "https://www.cls.cn/detail/2352731",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时43分]"
+        },
+        {
+          "title": "游戏厂商叫苦:离线版成本太高",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时43分]"
+        },
+        {
+          "title": "游戏侵权案告破,嫌犯全部落网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353592&amp;topic_name=%E6%B8%B8%E6%88%8F%E4%BE%B5%E6%9D%83%E6%A1%88%E5%91%8A%E7%A0%B4%2C%E5%AB%8C%E7%8A%AF%E5%85%A8%E9%83%A8%E8%90%BD%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时43分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -56,61 +113,15 @@
           "time_info": "[00时55分 ~ 06时44分]"
         },
         {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
+          "title": "SK海力士：尽管第一季度通常是季节性淡季，但由于AI基础设施投资的扩大，需求依然强劲。",
+          "url": "https://wallstreetcn.com/livenews/3092904",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时44分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时44分]"
-        },
-        {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时44分]"
-        },
-        {
-          "title": "游戏厂商叫苦:离线版成本太高",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时44分]"
-        },
-        {
-          "title": "游戏侵权案告破,嫌犯全部落网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353592&amp;topic_name=%E6%B8%B8%E6%88%8F%E4%BE%B5%E6%9D%83%E6%A1%88%E5%91%8A%E7%A0%B4%2C%E5%AB%8C%E7%8A%AF%E5%85%A8%E9%83%A8%E8%90%BD%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.03%，报26169点。 恒生科技指数主连夜盘收涨0.24%，报4974点。",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（4月23日）",
+          "url": "https://flash.jin10.com/detail/20260423071123652800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -184,6 +206,18 @@
           "time_info": "[04时52分 ~ 05时48分]"
         },
         {
+          "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
+          "url": "https://wallstreetcn.com/livenews/3092882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时43分]"
+        },
+        {
           "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
           "url": "https://wallstreetcn.com/livenews/3092771",
           "source": "华尔街见闻-快讯",
@@ -208,15 +242,26 @@
           "time_info": "[04时52分 ~ 05时48分]"
         },
         {
-          "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
-          "url": "https://wallstreetcn.com/livenews/3092882",
+          "title": "当今AI音乐发展水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E4%BB%8AAI%E9%9F%B3%E4%B9%90%E5%8F%91%E5%B1%95%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
+          "url": "https://wallstreetcn.com/livenews/3092896",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时44分"
+          "time_info": "07时43分"
         },
         {
           "title": "甲骨文(ORCL.N)：随着公司为满足日益增长的客户需求而扩展人工智能基础设施，位于阿比林等地的设施已投入运营，同时新园区项目仍在按计划推进。",
