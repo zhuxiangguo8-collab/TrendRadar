@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T10:12:18.297254+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-04-23T13:27:48.588090+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -37,11 +37,25 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 13时27分]"
+        },
+        {
+          "title": "游戏厂商叫苦:离线版成本太高",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 13时27分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -56,28 +70,17 @@
           "time_info": "[00时55分 ~ 10时12分]"
         },
         {
-          "title": "游戏厂商叫苦:离线版成本太高",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时12分]"
-        },
-        {
           "title": "游戏侵权案告破,嫌犯全部落网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353592&amp;topic_name=%E6%B8%B8%E6%88%8F%E4%BE%B5%E6%9D%83%E6%A1%88%E5%91%8A%E7%A0%B4%2C%E5%AB%8C%E7%8A%AF%E5%85%A8%E9%83%A8%E8%90%BD%E7%BD%91",
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 13时27分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -133,9 +136,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "千里科技Q1营收利润双增，预计2026年底智驾搭载量达100-130万辆",
+          "url": "https://wallstreetcn.com/livenews/3093069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.03%，报26169点。 恒生科技指数主连夜盘收涨0.24%，报4974点。",
@@ -158,6 +172,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
+          "url": "https://www.cls.cn/detail/2352906",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时27分]"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -267,15 +293,16 @@
           "time_info": "[07时42分 ~ 07时43分]"
         },
         {
-          "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
-          "url": "https://www.cls.cn/detail/2352906",
-          "source": "财联社热门",
+          "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
+          "url": "https://www.zhihu.com/topic/2015450431187346551/hot",
+          "source": "知乎",
           "ranks": [
-            6
+            15,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时27分]"
         },
         {
           "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
@@ -295,7 +322,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -306,7 +333,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -317,7 +344,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -328,7 +355,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -339,7 +366,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -350,18 +377,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
-          "url": "https://www.zhihu.com/topic/2015450431187346551/hot",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -383,7 +399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -399,13 +415,24 @@
           "time_info": "05时48分"
         },
         {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "A股半导体材料概念开盘活跃，怡达股份、百川股份涨停，格林达、彤程新材、东材科技、容大感光高开。",
           "url": "https://flash.jin10.com/detail/20260423093427814800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -427,7 +454,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -438,7 +465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -482,7 +509,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -498,13 +525,24 @@
           "time_info": "04时52分"
         },
         {
+          "title": "阿里千问总裁吴嘉：“AI办事”对外开放，首家接入东航",
+          "url": "https://wallstreetcn.com/livenews/3093038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "A股环氧丙烷板块高开，怡达股份20CM一字涨停，瑞华技术、联泓新科、美邦科技、维远股份、渤海化学跟涨。",
           "url": "https://flash.jin10.com/detail/20260423092936314800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -515,7 +553,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -526,7 +564,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -548,9 +586,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "港股午评：恒生指数早盘震荡下行 权重科技股多数走弱",
+          "url": "https://flash.jin10.com/detail/20260423120542660800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "软银寻求以OpenAI股票作抵押，申请100亿美元保证金贷款。（彭博）",
@@ -559,7 +608,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
