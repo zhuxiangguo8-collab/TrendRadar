@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T15:46:44.461459+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-04-23T17:24:45.178523+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 57,
+      "match_count": 65,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -39,11 +39,12 @@
             10,
             11,
             14,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 17时24分]"
         },
         {
           "title": "游戏厂商叫苦:离线版成本太高",
@@ -53,11 +54,12 @@
             12,
             13,
             16,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 17时24分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -79,11 +81,12 @@
             21,
             22,
             25,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 15时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 17时24分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -122,6 +125,18 @@
           "time_info": "[00时55分 ~ 06时44分]"
         },
         {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 17时24分]"
+        },
+        {
           "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
           "url": "https://www.cls.cn/detail/2352906",
           "source": "财联社热门",
@@ -133,6 +148,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 15时46分]"
+        },
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 17时24分]"
+        },
+        {
+          "title": "神仙肉 AI配角",
+          "url": "https://s.weibo.com/weibo?q=%E7%A5%9E%E4%BB%99%E8%82%89%20AI%E9%85%8D%E8%A7%92&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "SK海力士：尽管第一季度通常是季节性淡季，但由于AI基础设施投资的扩大，需求依然强劲。",
@@ -168,17 +206,6 @@
           "time_info": "13时27分"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.03%，报26169点。 恒生科技指数主连夜盘收涨0.24%，报4974点。",
           "url": "https://wallstreetcn.com/livenews/3092798",
           "source": "华尔街见闻-快讯",
@@ -190,15 +217,15 @@
           "time_info": "03时19分"
         },
         {
-          "title": "受AI冲击 短剧霸总回家种地",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
-          "source": "百度热搜",
+          "title": "全国首例AI模型侵权案详情披露，类似案件审理仍面临难题",
+          "url": "https://wallstreetcn.com/livenews/3093203",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "17时24分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（4月23日）",
@@ -246,6 +273,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时48分]"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时24分]"
         },
         {
           "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
@@ -331,16 +371,15 @@
           "time_info": "[10时12分 ~ 13时27分]"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
+          "title": "荣耀“养虾本”发布 汇顶科技提供触控和指纹识别方案",
+          "url": "https://flash.jin10.com/detail/20260423165900522800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            17
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
@@ -382,7 +421,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -396,6 +435,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "游戏开发圈有个名言叫「门是所有人的噩梦」，如何理解这句话？",
+          "url": "https://www.zhihu.com/question/2029649478177571600",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "游戏地图是如何设计的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E5%9C%B0%E5%9B%BE%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "A股算力租赁板块短线走强，安诺其3连板，福鞍股份涨停，铜牛信息涨超15%，浙文互联、佳华科技、莲花控股、润泽科技、中贝通信跟涨。",
@@ -525,7 +597,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -572,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "AI再现黄海海战 福建舰北洋水师同框",
+          "url": "https://www.toutiao.com/trending/7630692654993227818/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "阿里千问总裁吴嘉：“AI办事”对外开放，首家接入东航",
@@ -649,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
+          "url": "https://wallstreetcn.com/livenews/3093173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "软银寻求以OpenAI股票作抵押，申请100亿美元保证金贷款。（彭博）",
