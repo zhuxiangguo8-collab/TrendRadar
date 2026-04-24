@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T01:48:22.590359+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-04-25T02:44:21.734864+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "国常会：要紧盯全球科技前沿动向，围绕国家战略需求与产业发展需要，加强原创性引领性科技攻关",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -48,8 +48,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3094244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -60,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -71,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -82,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -93,8 +104,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -104,8 +115,43 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时44分]"
+        },
+        {
+          "title": "核反应堆科技公司X-Energy Inc.（XE）美国IPO首日开盘报30.11美元，此前给出的IPO发行价为每股23美元。 该公司预计，2026年将为第一家核电站发放NRC许可证。",
+          "url": "https://wallstreetcn.com/livenews/3094220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时48分]"
+          "time_info": "[01时48分 ~ 02时44分]"
+        },
+        {
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 02时44分]"
+        },
+        {
+          "title": "中国AI隐形王者股价一年翻10倍",
+          "url": "https://www.toutiao.com/trending/7632244941749489179/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -117,28 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "核反应堆科技公司X-Energy Inc.（XE）美国IPO首日开盘报30.11美元，此前给出的IPO发行价为每股23美元。 该公司预计，2026年将为第一家核电站发放NRC许可证。",
-          "url": "https://wallstreetcn.com/livenews/3094220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "中方反对美方污蔑抹黑中国AI产业",
-          "url": "https://www.douyin.com/hot/2477525",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
         },
         {
           "title": "巴西财政部长：巴西将在6月前举行新的生态投资拍卖，重点关注关键矿产和人工智能。",
@@ -158,7 +182,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -180,7 +204,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
