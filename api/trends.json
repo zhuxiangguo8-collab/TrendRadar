@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T16:47:59.395229+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-25T17:50:08.139724+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 16时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 17时50分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -85,8 +85,35 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 16时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 17时50分]"
+        },
+        {
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时36分 ~ 17时50分]"
+        },
+        {
+          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
+          "url": "https://www.cls.cn/detail/2355600",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 17时50分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -113,8 +140,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 16时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 17时50分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -126,8 +153,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 16时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 17时50分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -143,42 +170,32 @@
           "time_info": "[00时52分 ~ 07时37分]"
         },
         {
-          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
-          "source": "澎湃新闻",
+          "title": "戛纳电影宫的中国AI时刻",
+          "url": "https://www.douyin.com/hot/2476611",
+          "source": "抖音",
           "ranks": [
-            20,
-            19,
-            5,
-            3,
-            2
+            16,
+            17,
+            13,
+            11,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时36分 ~ 16时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 17时50分]"
         },
         {
-          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
-          "url": "https://www.cls.cn/detail/2355600",
-          "source": "财联社热门",
+          "title": "国产新能源汽车黑科技：越开电越多",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%BB%91%E7%A7%91%E6%8A%80%EF%BC%9A%E8%B6%8A%E5%BC%80%E7%94%B5%E8%B6%8A%E5%A4%9A",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            3
+            1,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 16时47分]"
-        },
-        {
-          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
-          "url": "https://flash.jin10.com/detail/20260425162059332800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 17时50分]"
         },
         {
           "title": "第一次对AI感到恐惧",
@@ -187,11 +204,12 @@
           "ranks": [
             17,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 17时50分]"
         },
         {
           "title": "软银准备为AI数据中心制造电池",
@@ -202,11 +220,48 @@
             11,
             17,
             22,
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 17时50分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时37分 ~ 16时47分]"
+          "time_info": "[13时09分 ~ 17时50分]"
+        },
+        {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时50分]"
+        },
+        {
+          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
+          "url": "https://www.toutiao.com/trending/7632545381678878254/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 17时50分]"
         },
         {
           "title": "利用AI编造四川泸州楼房倒塌者被罚",
@@ -220,16 +275,16 @@
           "time_info": "13时09分"
         },
         {
-          "title": "国产新能源汽车黑科技：越开电越多",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%BB%91%E7%A7%91%E6%8A%80%EF%BC%9A%E8%B6%8A%E5%BC%80%E7%94%B5%E8%B6%8A%E5%A4%9A",
-          "source": "百度热搜",
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            25
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时47分]"
+          "time_info": "[16时47分 ~ 17时50分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（4月25日）",
@@ -241,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "诚迈科技与Qt Group于北京车展对未来潜在项目合作进行初步规划",
-          "url": "https://flash.jin10.com/detail/20260425160147563800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -274,21 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        },
-        {
-          "title": "戛纳电影宫的中国AI时刻",
-          "url": "https://www.douyin.com/hot/2476611",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            13,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 16时47分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -316,6 +345,19 @@
           "time_info": "[13时09分 ~ 16时47分]"
         },
         {
+          "title": "元戎CEO周光：目标成为物理世界的AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3094343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 17时50分]"
+        },
+        {
           "title": "中国AI隐形王者股价一年翻10倍",
           "url": "https://www.toutiao.com/trending/7632244941749489179/",
           "source": "今日头条",
@@ -340,39 +382,16 @@
           "time_info": "[10时02分 ~ 13时09分]"
         },
         {
-          "title": "元戎CEO周光：目标成为物理世界的AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3094343",
-          "source": "华尔街见闻-快讯",
+          "title": "诚迈科技与Qt Group于北京车展对未来潜在项目合作进行初步规划",
+          "url": "https://flash.jin10.com/detail/20260425160147563800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            11
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时47分]"
-        },
-        {
-          "title": "网警打谣|利用AI编造泸州楼房倒塌者被罚",
-          "url": "https://www.toutiao.com/trending/7632545381678878254/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时47分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时09分 ~ 16时47分]"
+          "time_info": "[16时47分 ~ 17时50分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
@@ -399,6 +418,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 06时36分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 17时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
@@ -451,17 +482,6 @@
           "time_info": "[03时50分 ~ 04时43分]"
         },
         {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260425120157689800",
           "source": "金十数据",
@@ -482,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
         },
         {
           "title": "标普本周累涨约0.4%，道指累跌0.5%，纳指累涨1.5%。 周五当天，标普500指数初步收涨0.8%，科技板块涨2.3%，可选消费板块涨1.4%，电信板块涨1%，医疗保健板块跌1.3%。 纳斯达克100指数初步收涨1.9%，成分股中，英特尔初步收涨22.9%，Arm控股、AMD、高通至少涨约11.5%，新思科技、核电股CEG、Sandisk至少涨6.3%，科磊、铿腾电子、英伟达至少涨超4%，Workday、亚马逊、拉姆研究也涨超3%，Insmed跌6.1%，康卡斯特跌12.5%，特许通讯跌26.2%。 费城半导体指数涨4.3%，连续第18个交易日上涨。",
@@ -589,7 +598,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
