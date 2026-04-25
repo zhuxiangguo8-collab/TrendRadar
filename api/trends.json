@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T06:34:21.466015+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-04-26T07:34:46.555191+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
@@ -37,33 +38,36 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
@@ -73,8 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -84,8 +88,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -95,8 +99,30 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
+        },
+        {
+          "title": "洛克风靡全网,洋人翻墙肝游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353671&amp;topic_name=%E6%B4%9B%E5%85%8B%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%BD%91%2C%E6%B4%8B%E4%BA%BA%E7%BF%BB%E5%A2%99%E8%82%9D%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时34分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -111,37 +137,16 @@
           "time_info": "[00时37分 ~ 06时34分]"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
-        },
-        {
-          "title": "洛克风靡全网,洋人翻墙肝游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353671&amp;topic_name=%E6%B4%9B%E5%85%8B%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%BD%91%2C%E6%B4%8B%E4%BA%BA%E7%BF%BB%E5%A2%99%E8%82%9D%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时34分]"
-        },
-        {
           "title": "AI帮忙投资靠谱吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 07时34分]"
         }
       ]
     }
