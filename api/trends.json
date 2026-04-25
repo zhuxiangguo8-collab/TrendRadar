@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:34:24.301860+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-26T06:34:21.466015+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
-        },
-        {
-          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
-          "url": "https://www.cls.cn/detail/2355600",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -39,8 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
+        },
+        {
+          "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
+          "url": "https://www.cls.cn/detail/2355600",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -50,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
@@ -72,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -83,8 +84,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -94,8 +95,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -106,8 +107,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -117,8 +118,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -128,8 +129,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 06时34分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
