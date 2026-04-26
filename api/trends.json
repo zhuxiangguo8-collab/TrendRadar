@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:43:01.463019+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-04-26T19:37:48.491794+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 18时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 19时37分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -77,6 +77,19 @@
           "time_info": "[00时37分 ~ 10时24分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 19时37分]"
+        },
+        {
           "title": "AI图以假乱真,恐怖谷效应拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
@@ -84,11 +97,12 @@
             14,
             19,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 18时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 19时37分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -98,11 +112,12 @@
             15,
             20,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 18时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 19时37分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -125,19 +140,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 10时24分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 18时43分]"
         },
         {
           "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
@@ -163,6 +165,31 @@
           "time_info": "[00时37分 ~ 10时24分]"
         },
         {
+          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
+          "url": "https://wallstreetcn.com/articles/3770913",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时37分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时37分]"
+        },
+        {
           "title": "游戏入侵完结",
           "url": "https://www.douyin.com/hot/2479119",
           "source": "抖音",
@@ -177,41 +204,30 @@
           "time_info": "[13时36分 ~ 17时54分]"
         },
         {
-          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
-          "url": "https://wallstreetcn.com/articles/3770913",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时43分]"
-        },
-        {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时43分]"
-        },
-        {
           "title": "专家热议AI短剧以规范促发展",
           "url": "https://www.douyin.com/hot/2479735",
           "source": "抖音",
           "ranks": [
             17,
-            21
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时37分]"
+        },
+        {
+          "title": "世嘉科技：2025年净亏损5654.8万元 同比由盈转亏",
+          "url": "https://flash.jin10.com/detail/20260426165826249800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时54分 ~ 18时43分]"
+          "time_info": "[17时54分 ~ 19时37分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -236,18 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时36分 ~ 15时24分]"
-        },
-        {
-          "title": "世嘉科技：2025年净亏损5654.8万元 同比由盈转亏",
-          "url": "https://flash.jin10.com/detail/20260426165826249800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时43分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
