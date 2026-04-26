@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T02:46:13.878300+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-04-27T03:44:19.959884+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
         },
         {
           "title": "为什么腾讯有钱、有人、有流量，做出来的游戏却总是 「 差一点意思 」？",
@@ -26,20 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
         },
         {
-          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
-          "url": "https://flash.jin10.com/detail/20260427010358748800",
+          "title": "科技记者古尔曼：苹果CEO蒂姆·库克正将一条实力雄厚的产品线移交给继任者约翰·特努斯，其中包括计划于九月发布的折叠屏iPhone。",
+          "url": "https://flash.jin10.com/detail/20260427024243091800",
           "source": "金十数据",
           "ranks": [
-            1,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -49,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -61,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -72,20 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -94,11 +81,25 @@
           "ranks": [
             15,
             14,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
+        },
+        {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -108,8 +109,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -119,8 +120,21 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 03时44分]"
+        },
+        {
+          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
+          "url": "https://flash.jin10.com/detail/20260427010358748800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时36分 ~ 03时44分]"
         },
         {
           "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
@@ -128,11 +142,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时44分]"
         }
       ]
     }
