@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T05:35:46.385405+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-04-27T06:35:25.832635+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "为什么腾讯有钱、有人、有流量，做出来的游戏却总是 「 差一点意思 」？",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             7,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -50,11 +51,24 @@
             13,
             7,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
+        },
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -69,19 +83,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
-        },
-        {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -93,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -104,8 +107,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -115,8 +118,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -153,11 +156,12 @@
           "ranks": [
             3,
             10,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 06时35分]"
         }
       ]
     }
