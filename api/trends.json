@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T10:24:36.105830+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-04-26T13:36:48.418439+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -33,6 +33,20 @@
           "time_info": "[00时37分 ~ 07时34分]"
         },
         {
+          "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时36分]"
+        },
+        {
           "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
           "url": "https://www.cls.cn/detail/2355600",
           "source": "财联社热门",
@@ -40,24 +54,12 @@
             4,
             5,
             6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时24分]"
-        },
-        {
-          "title": "中国科学院科技创新发展中心党委副书记、主任伍浩被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33053095",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
             7,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时36分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -77,22 +79,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时36分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353709&amp;topic_name=%E6%B8%B8%E6%88%8F%E9%87%8C%E6%9D%80%E7%94%9F%E9%80%A0%E5%AD%BD%3F%E9%AB%98%E5%83%A7%E5%B9%BD%E9%BB%98%E8%A7%A3%E6%83%91",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时36分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -152,15 +156,37 @@
           "time_info": "[00时37分 ~ 07时34分]"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
+        },
+        {
           "title": "《崩坏: 星穹铁道》「幻月新游戏」开幕战打响，还有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2031455402487961116",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "游戏入侵完结",
+          "url": "https://www.douyin.com/hot/2479119",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时36分"
         }
       ]
     }
