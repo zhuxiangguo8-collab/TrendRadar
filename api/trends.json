@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T13:36:48.418439+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-04-26T15:24:01.658642+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 15时24分]"
         },
         {
           "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
@@ -55,11 +55,12 @@
             5,
             6,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 15时24分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -80,11 +81,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 15时24分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -92,11 +94,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时36分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 15时24分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -144,6 +147,29 @@
           "time_info": "[00时37分 ~ 10时24分]"
         },
         {
+          "title": "游戏入侵完结",
+          "url": "https://www.douyin.com/hot/2479119",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 15时24分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
           "title": "AI帮忙投资靠谱吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
           "source": "bilibili 热搜",
@@ -160,11 +186,12 @@
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 15时24分]"
         },
         {
           "title": "《崩坏: 星穹铁道》「幻月新游戏」开幕战打响，还有哪些亮点值得关注？",
@@ -176,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "游戏入侵完结",
-          "url": "https://www.douyin.com/hot/2479119",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
         }
       ]
     }
