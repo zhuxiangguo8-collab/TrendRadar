@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:37:48.491794+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-04-26T20:58:51.976977+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -64,6 +64,20 @@
           "time_info": "[00时37分 ~ 19时37分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时23分 ~ 20时58分]"
+        },
+        {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
@@ -77,19 +91,6 @@
           "time_info": "[00时37分 ~ 10时24分]"
         },
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 19时37分]"
-        },
-        {
           "title": "AI图以假乱真,恐怖谷效应拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
@@ -98,11 +99,12 @@
             19,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 19时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 20时58分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -113,11 +115,12 @@
             20,
             21,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 19时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 20时58分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -171,11 +174,25 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 20时58分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时57分 ~ 19时37分]"
+          "time_info": "[17时54分 ~ 20时58分]"
         },
         {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
@@ -204,19 +221,6 @@
           "time_info": "[13时36分 ~ 17时54分]"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 19时37分]"
-        },
-        {
           "title": "世嘉科技：2025年净亏损5654.8万元 同比由盈转亏",
           "url": "https://flash.jin10.com/detail/20260426165826249800",
           "source": "金十数据",
@@ -228,6 +232,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时54分 ~ 19时37分]"
+        },
+        {
+          "title": "为什么腾讯有钱、有人、有流量，做出来的游戏却总是 「 差一点意思 」？",
+          "url": "https://www.zhihu.com/question/2030952709961021185",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时58分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -266,15 +282,15 @@
           "time_info": "[16时57分 ~ 17时54分]"
         },
         {
-          "title": "为什么腾讯有钱、有人、有流量，做出来的游戏却总是 「 差一点意思 」？",
-          "url": "https://www.zhihu.com/question/2030952709961021185",
-          "source": "知乎",
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "《崩坏: 星穹铁道》「幻月新游戏」开幕战打响，还有哪些亮点值得关注？",
