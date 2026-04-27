@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T03:14:21.608715+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-04-28T04:59:05.637134+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "伊拉克什叶派联盟提名Ali al-Zaidi为总理。（伊拉克国家新闻机构）",
@@ -26,7 +26,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -35,11 +35,12 @@
           "url": "https://wallstreetcn.com/articles/3770953",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "被AI骗去毒蛇窝徒步",
@@ -73,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -95,8 +96,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
+        },
+        {
+          "title": "数码宝贝（第一季）里的太一为什么能当领头大哥？",
+          "url": "https://www.zhihu.com/question/35190585",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
@@ -105,17 +117,6 @@
           "ranks": [
             12,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时14分]"
-        },
-        {
-          "title": "数码宝贝（第一季）里的太一为什么能当领头大哥？",
-          "url": "https://www.zhihu.com/question/35190585",
-          "source": "知乎",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -142,6 +143,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，日用消费品板块跌1.18%，房地产板块跌0.84%，信息技术/科技板块则收涨0.46%，金融板块涨0.65%，电信板块涨0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3095223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "美依礼芽回应歌手AI海报",
@@ -177,6 +200,28 @@
           "time_info": "01时19分"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "美国财长贝森特：美国汇聚了全球最具才华的人工智能研究人员。然而，桑德斯参议员非但不利用美国的创新力量，反而邀请外国人士来指导美国应如何监管人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428035318565800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
           "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
           "url": "https://flash.jin10.com/detail/20260428002123603800",
           "source": "金十数据",
@@ -194,7 +239,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -208,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "美国财长贝森特对参议院Sanders的AI监管立场颇多微词。",
+          "url": "https://wallstreetcn.com/livenews/3095210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         },
         {
           "title": "欧盟监管机构表示，相关措施将允许用户轻松激活相互竞争的人工智能服务。",
@@ -238,9 +294,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "伊拉克议员们表示：总统Nizar Amedi任命Ali al-Zaidi为总理。",
+          "url": "https://wallstreetcn.com/livenews/3095194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     }
