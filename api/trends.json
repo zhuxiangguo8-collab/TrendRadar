@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:23:02.876725+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-04-28T19:02:42.437964+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 67,
+      "match_count": 75,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -16,11 +16,23 @@
             4,
             6,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时19分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时19分 ~ 19时02分]"
+        },
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时34分 ~ 19时02分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -36,17 +48,6 @@
           "time_info": "[01时19分 ~ 13时56分]"
         },
         {
-          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时34分 ~ 16时23分]"
-        },
-        {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
           "url": "https://wallstreetcn.com/articles/3770953",
           "source": "华尔街见闻",
@@ -58,6 +59,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 10时34分]"
+        },
+        {
+          "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
+          "url": "https://www.cls.cn/detail/2357874",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 19时02分]"
         },
         {
           "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
@@ -82,6 +94,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时56分 ~ 16时23分]"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 19时02分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -109,17 +134,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时19分 ~ 07时51分]"
-        },
-        {
-          "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
-          "url": "https://www.cls.cn/detail/2357874",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "数码宝贝（第一季）里的太一为什么能当领头大哥？",
@@ -191,16 +205,15 @@
           "time_info": "06时48分"
         },
         {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
+          "title": "工信部：将开展“人工智能+软件”专项行动，加快智能编程研发应用",
+          "url": "https://www.cls.cn/detail/2358127",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 16时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "港股苹果概念震荡走弱，丘钛科技(01478.HK)、舜宇光学科技(02382.HK)双双跌超4%，瑞声科技(02018.HK)、比亚迪电子(00285.HK)均跌超3%，蓝思科技(06613.HK)、高伟电子(01415.HK)等个股跟跌。",
@@ -242,7 +255,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -392,6 +405,17 @@
           "time_info": "[04时59分 ~ 05时55分]"
         },
         {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "谷歌员工敦促其CEO拒绝参与机密军事人工智能项目",
           "url": "https://flash.jin10.com/detail/20260428003448866800",
           "source": "金十数据",
@@ -409,9 +433,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "大摩：中国AI芯片供应商，谁将胜出？",
+          "url": "https://wallstreetcn.com/articles/3771031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "重登“股王”宝座！源杰科技频获融资客加仓，这两大千元股也正紧随",
+          "url": "https://www.cls.cn/detail/2358284",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "伟测科技：第一季度净利润7085.8万元，同比增长173.39%",
@@ -420,7 +466,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -456,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "恒生指数午后跌超1%，恒生科技指数跌1.85%。",
@@ -541,9 +598,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "报道称OpenAI未达销售目标 相关股票下跌",
+          "url": "https://wallstreetcn.com/livenews/3095675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "你觉得现在大多数游戏的任务系统还是「跑腿送信」吗？有没有比「跑腿送信」更高级一点的任务逻辑？",
@@ -645,6 +713,17 @@
           "time_info": "13时56分"
         },
         {
+          "title": "DeepSeek还是最强国产AI吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "恒指低开0.43%，恒生科技指数低开0.33%。曦智科技在香港上市首日飙升380%。",
           "url": "https://wallstreetcn.com/livenews/3095332",
           "source": "华尔街见闻-快讯",
@@ -654,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "【章建平一季度新进北方稀土前十大流通股东，持股市值达34.45亿元】北方稀土发布的2026年一季报显示，章建平新进公司前十大流通股东，持股7225.44万股，占总股本比例为2%。以季末股价计算，持股市值达到34.45亿元。目前，章建平一季度持有4只个股，分别为北方稀土、东材科技、西部材料和四川黄金，除东材科技为加仓股，其他三只均为一季度新进。",
+          "url": "https://wallstreetcn.com/livenews/3095666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "年内逾200家港股公司回购，科技、消费类公司最积极",
