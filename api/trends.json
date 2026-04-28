@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T07:51:50.740291+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-04-28T10:34:24.122908+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 37,
+      "match_count": 50,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -37,11 +39,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -82,6 +85,18 @@
           "time_info": "[01时19分 ~ 07时51分]"
         },
         {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时34分]"
+        },
+        {
           "title": "被AI骗去毒蛇窝徒步",
           "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -93,6 +108,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 06时48分]"
+        },
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
@@ -112,7 +138,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -128,6 +154,17 @@
           "time_info": "06时48分"
         },
         {
+          "title": "港股苹果概念震荡走弱，丘钛科技(01478.HK)、舜宇光学科技(02382.HK)双双跌超4%，瑞声科技(02018.HK)、比亚迪电子(00285.HK)均跌超3%，蓝思科技(06613.HK)、高伟电子(01415.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260428100538949800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "伊拉克什叶派联盟提名Ali al-Zaidi为总理。（伊拉克国家新闻机构）",
           "url": "https://wallstreetcn.com/livenews/3095185",
           "source": "华尔街见闻-快讯",
@@ -139,24 +176,13 @@
           "time_info": "03时14分"
         },
         {
-          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
-          "url": "https://www.cls.cn/detail/2357431",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（4月28日）",
           "url": "https://flash.jin10.com/detail/20260428073342878800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -282,6 +308,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
           "url": "https://wallstreetcn.com/livenews/3095251",
           "source": "华尔街见闻-快讯",
@@ -291,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "4月28日投资避雷针：联翔股份、湘邮科技等11股明起将被实施ST",
+          "url": "https://www.cls.cn/detail/2357477",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah：对于中央银行而言，地缘政治压力的缓解意味着欧洲和英国的政策制定者在加息方面可能会不及市场预期的幅度。 其中一个风险是，宽松的金融环境可能会加剧通胀，尤其是在美国，人工智能支出、财政刺激和劳动力供应紧张已经为物价提供了支撑。",
@@ -315,15 +363,48 @@
           "time_info": "01时19分"
         },
         {
+          "title": "A股CPO概念震荡回升，铭普光磁涨停两连板，德科立涨超8%，汇绿生态，剑桥科技、光迅科技、红板科技等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428095701853800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "半导体产业链盘初调整，聚辰股份、盛美上海跌超10%，唯捷创芯、至纯科技、芯源微、航宇微跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3095344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "高盛：AI风险正加剧关于股票估值的争论",
           "url": "https://wallstreetcn.com/livenews/3095273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "你觉得现在大多数游戏的任务系统还是「跑腿送信」吗？有没有比「跑腿送信」更高级一点的任务逻辑？",
+          "url": "https://www.zhihu.com/question/2029649478882194763",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
@@ -370,13 +451,35 @@
           "time_info": "01时19分"
         },
         {
+          "title": "A股半导体板块震荡回升，欧莱新材涨超9%，中晶科技涨超8%，富乐德、康希通信、普冉股份、中微公司、国科微等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428095237578800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "恒指低开0.43%，恒生科技指数低开0.33%。曦智科技在香港上市首日飙升380%。",
+          "url": "https://wallstreetcn.com/livenews/3095332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "年内逾200家港股公司回购，科技、消费类公司最积极",
           "url": "https://wallstreetcn.com/livenews/3095264",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -387,7 +490,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -403,15 +506,48 @@
           "time_info": "01时19分"
         },
         {
+          "title": "上证指数转涨，航海装备，医疗服务，CRO、减肥药、游戏等概念盘初走强。",
+          "url": "https://flash.jin10.com/detail/20260428094555715800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "险资一季度优化权益配置，泛科技与新能源成核心主线",
           "url": "https://wallstreetcn.com/livenews/3095262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "花旗：上调澜起科技A和H股目标价，季报超预期并料受益于人工智能需求",
+          "url": "https://wallstreetcn.com/livenews/3095325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
@@ -423,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "A股钠离子电池板块局部走高，维科技术涨停，振华新材涨超10%，传艺科技、美联新材、丰元股份、科翔股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428094235842800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "伊拉克议员们表示：总统Nizar Amedi任命Ali al-Zaidi为总理。",
