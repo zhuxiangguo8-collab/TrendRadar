@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:16:13.886977+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-04-29T23:10:24.958256+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 91,
+      "match_count": 96,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时53分 ~ 20时16分]"
+          "appearance_count": 10,
+          "time_info": "[07时53分 ~ 23时10分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时54分 ~ 20时16分]"
+          "appearance_count": 12,
+          "time_info": "[06时54分 ~ 23时10分]"
         },
         {
           "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -108,6 +109,20 @@
           "time_info": "[06时54分 ~ 13时52分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 23时10分]"
+        },
+        {
           "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
           "url": "https://www.zhihu.com/question/2030222424457703714",
           "source": "知乎",
@@ -157,19 +172,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时34分 ~ 16时10分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 20时16分]"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -336,6 +338,29 @@
           "time_info": "02时15分"
         },
         {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 23时10分]"
+        },
+        {
           "title": "重登“股王”宝座！源杰科技频获融资客加仓，这两大千元股也正紧随",
           "url": "https://www.cls.cn/detail/2358284",
           "source": "财联社热门",
@@ -384,17 +409,6 @@
           "time_info": "[05时54分 ~ 06时55分]"
         },
         {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 20时16分]"
-        },
-        {
           "title": "澎湃AI晚新闻丨2026年4月28日",
           "url": "https://m.thepaper.cn/newsDetail_forward_33072106",
           "source": "澎湃新闻",
@@ -441,6 +455,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 06时55分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时15分 ~ 23时10分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -584,17 +610,6 @@
           "time_info": "[13时51分 ~ 13时52分]"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时15分 ~ 20时16分]"
-        },
-        {
           "title": "在异环中演奏See you again",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
           "source": "bilibili 热搜",
@@ -639,6 +654,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "加拿大央行行长麦克勒姆：人工智能目前对我们的政策决策没有产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20260429224617669800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "标普500指数初步收跌0.4%，科技板块跌1.3%，原材料板块跌1%，工业、可选消费、电信至多跌0.8%，能源板块涨1.6%。 纳斯达克100指数初步收跌1%，成分股中，Arm控股初步收跌7.9%，Sandisk跌5.9%，应用材料跌5.8%，科磊跌4.6%，铿腾电子跌3.5%，阿斯麦ADR跌3.2%，新思科技跌2.8%，财捷Intuit涨2.7%，Workday涨2.8%。 半导体指数连跌两天。",
           "url": "https://wallstreetcn.com/livenews/3095990",
           "source": "华尔街见闻-快讯",
@@ -670,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "中央网信办：将发布《人工智能应用伦理安全指引（1.0版）》",
@@ -725,6 +762,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33075663",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "网传 9 岁小孩哥已拿到杭州云谷中心游戏公司的 offer，你怎么看？",
+          "url": "https://www.zhihu.com/question/2030722229307229877",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "FDA计划利用实时数据和人工智能加快药物试验进程",
@@ -876,7 +935,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -920,7 +979,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
