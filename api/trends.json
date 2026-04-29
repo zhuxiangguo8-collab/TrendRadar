@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T07:53:31.702348+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-04-29T10:34:30.353843+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 59,
+      "match_count": 68,
       "titles": [
         {
           "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -56,6 +56,43 @@
           "time_info": "[00时07分 ~ 05时54分]"
         },
         {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时34分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 10时34分]"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 10时34分]"
+        },
+        {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
           "url": "https://www.zhihu.com/question/2032163714355263384",
           "source": "知乎",
@@ -71,15 +108,15 @@
           "time_info": "[00时07分 ~ 07时53分]"
         },
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
           "ranks": [
-            24
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时53分]"
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时34分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -93,18 +130,6 @@
           "time_info": "[06时54分 ~ 06时55分]"
         },
         {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 07时53分]"
-        },
-        {
           "title": "韩国散户，大举加仓中国科技巨头",
           "url": "https://wallstreetcn.com/articles/3771058",
           "source": "华尔街见闻",
@@ -115,17 +140,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时15分 ~ 07时53分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -168,21 +182,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        },
-        {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时53分]"
         },
         {
           "title": "晶澳科技全年净亏损46.1亿元人民币，预估亏损42.7亿元。 第一季度净亏损10.7亿元人民币。",
@@ -194,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
+          "url": "https://www.cls.cn/detail/2358910",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -263,8 +276,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 10时34分]"
+        },
+        {
+          "title": "岗位被AI替代怎么办？杭州发布指引",
+          "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时53分]"
+          "time_info": "[02时15分 ~ 10时34分]"
         },
         {
           "title": "数码宝贝（第一季）里的太一为什么能当领头大哥？",
@@ -291,6 +317,31 @@
           "time_info": "[02时15分 ~ 06时55分]"
         },
         {
+          "title": "锐评异环游戏流程设定",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%82%E7%8E%AF%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E8%AE%BE%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 10时34分]"
+        },
+        {
+          "title": "PCB龙头胜宏科技一季度营收突破55亿、净利增近四成 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771146",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时34分]"
+        },
+        {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
           "url": "https://wallstreetcn.com/livenews/3096044",
           "source": "华尔街见闻-快讯",
@@ -313,6 +364,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时55分]"
+        },
+        {
+          "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771123",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 10时34分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -399,30 +461,6 @@
           "time_info": "[06时55分 ~ 07时53分]"
         },
         {
-          "title": "岗位被AI替代怎么办？杭州发布指引",
-          "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 04时13分]"
-        },
-        {
-          "title": "锐评异环游戏流程设定",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%82%E7%8E%AF%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E8%AE%BE%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 04时13分]"
-        },
-        {
           "title": "报告发现：全球监管机构在AI领域落后于银行，Mythos引发监管担忧",
           "url": "https://wallstreetcn.com/livenews/3095914",
           "source": "华尔街见闻-快讯",
@@ -432,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "A股稀土永磁板块震荡走高，西磁科技涨超16%，北方稀土涨停，中科磁业、九菱科技、中国稀土、中稀有色等个股跟涨。消息面上，自然资源部发布我国最新矿产资源家底，我国稀土、钨、锡、钼、锑、镓、锗、铟、萤石、石墨等14种矿产储量居世界第一；北方稀土日前公告，第一季度实现净利润9.18亿元，同比增长113.12%。",
+          "url": "https://flash.jin10.com/detail/20260429101638939800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "标普500指数初步收跌0.4%，科技板块跌1.3%，原材料板块跌1%，工业、可选消费、电信至多跌0.8%，能源板块涨1.6%。 纳斯达克100指数初步收跌1%，成分股中，Arm控股初步收跌7.9%，Sandisk跌5.9%，应用材料跌5.8%，科磊跌4.6%，铿腾电子跌3.5%，阿斯麦ADR跌3.2%，新思科技跌2.8%，财捷Intuit涨2.7%，Workday涨2.8%。 半导体指数连跌两天。",
@@ -456,26 +505,15 @@
           "time_info": "00时07分"
         },
         {
-          "title": "PCB龙头胜宏科技一季度营收突破55亿、净利增近四成 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771146",
-          "source": "华尔街见闻",
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771123",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "10时34分"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -544,6 +582,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "猪肉股持续反弹，金新农、正邦科技触及涨停，巨星农牧、傲农生物、天康生物、唐人神跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3096127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
           "url": "https://wallstreetcn.com/livenews/3095934",
           "source": "华尔街见闻-快讯",
@@ -583,7 +632,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -599,6 +648,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "A股光伏设备板块低开高走，同享科技涨超14%，固德威、艾罗能源、锦浪科技、高测股份、中利集团、海优新材等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429100939584800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "纳斯达克100指数跌超1.5%，成分股Arm控股跌超8.7%，Sandisk跌7.6%，应用材料、美光科技、MPWR、拉姆研究、博通、西部数据至多跌6.4%，阿斯麦ADR跌4.2%，英特尔跌4.2%，新思科技、英伟达、铿腾电子至少跌2.9%。 费城半导体指数跌5.12%。 标普跌0.8%，道指跌0.05%，纳指跌1.39%，罗素2000指数也跌1.3%。",
           "url": "https://wallstreetcn.com/livenews/3095896",
           "source": "华尔街见闻-快讯",
@@ -608,6 +668,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "胜宏科技AH股齐涨，A股此前涨超3%，H股现涨近4%；公司第一季度净利润12.88亿元，同比增长39.95%。",
+          "url": "https://flash.jin10.com/detail/20260429100533729800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "公司引入AI后男子被裁员 法院判了",
+          "url": "https://www.toutiao.com/trending/7633739824914366527/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
@@ -665,6 +747,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "A股猪肉概念震荡走高，金新农涨停，正邦科技涨超9%，巨星农牧、天邦食品、神农集团、傲农生物、牧原股份等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260429095830430800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "希捷科技第三财季营收31.1亿美元，分析师预期29.5亿美元。 第三财季调整后运营利润率37.5%，分析师预期34.8%。 第三财季调整后每股收益（EPS）为4.10美元，分析师预期3.50美元。 预计第四财季营收33.5亿-35.5亿美元，分析师预期31.6亿美元。 预计第四财季调整后EPS为4.80-5.20美元，分析师预期3.96美元。",
           "url": "https://wallstreetcn.com/livenews/3095998",
           "source": "华尔街见闻-快讯",
@@ -685,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "香港恒生指数高开0.63%，报25842.63点；恒生科技指数涨1.07%。蔚来、京东健康涨超4%。比亚迪电子跌超6%，此前发布财报；华虹半导体跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3096097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     }
