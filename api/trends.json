@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T05:01:37.508903+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-30T06:07:19.835944+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -37,8 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
         },
         {
           "title": "高通(QCOM.O)：领先的超大规模定制芯片合作预计将在今年晚些时候开始初步交付。期待在6月24日的投资者日上提供关于包括数据中心和物理人工智能机遇的信息。",
@@ -59,7 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -82,8 +83,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
+        },
+        {
+          "title": "美股存储芯片指数收涨约2.7%，成分股希捷科技涨超11%、泰瑞达则跌超19%，恩智浦飙涨超25%、英特尔涨超12%",
+          "url": "https://wallstreetcn.com/livenews/3096969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "网传 9 岁小孩哥已拿到杭州云谷中心游戏公司的 offer，你怎么看？",
@@ -93,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -105,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
         },
         {
           "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
@@ -117,8 +129,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -128,8 +140,43 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 06时07分]"
+        },
+        {
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时07分]"
+        },
+        {
+          "title": "AI 对画师的斩杀线大概在哪个位置？",
+          "url": "https://www.zhihu.com/question/2012530352657282469",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时07分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时07分]"
         },
         {
           "title": "中美AI竞争的本质差距在哪",
@@ -143,15 +190,26 @@
           "time_info": "[03时19分 ~ 03时20分]"
         },
         {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
+          "title": "在异环中演奏See you again",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时07分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（4月29日），美国科技股七巨头（Magnificent 7）指数收跌0.55%，报213.57点，美股早盘冲高回落——北京时间22:37前后短暂地微幅上涨，后半段交易时间低位持稳。 “超大”市值科技股指数涨0.34%，报417.57点，呈现出两波V形反转行情。",
+          "url": "https://wallstreetcn.com/livenews/3096968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时07分"
         },
         {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
@@ -171,7 +229,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -193,20 +251,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
         {
-          "title": "AI 对画师的斩杀线大概在哪个位置？",
-          "url": "https://www.zhihu.com/question/2012530352657282469",
-          "source": "知乎",
+          "title": "Meta Platforms(META.O)CEO：公司专注于精简团队、扩大产品规模，并奖励人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20260430054236745800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时07分"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：正在利用人工智能提升Facebook、Instagram及广告业务。",
+          "url": "https://flash.jin10.com/detail/20260430053726660800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.81%，报25729点。 恒生科技指数主连夜盘收跌0.88%，报4869点。",
@@ -215,31 +284,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
+          "title": "Meta Platforms(META.O)CEO：人工智能将增强人类的能力，而不是取代他们。",
+          "url": "https://flash.jin10.com/detail/20260430053651922800",
+          "source": "金十数据",
           "ranks": [
-            19
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "在异环中演奏See you again",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时07分"
         }
       ]
     }
