@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T10:34:30.353843+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-29T13:52:13.695430+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 68,
+      "match_count": 77,
       "titles": [
         {
           "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -19,6 +19,31 @@
           "time_info": "[00时07分 ~ 06时55分]"
         },
         {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 13时52分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时15分 ~ 13时52分]"
+        },
+        {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
           "source": "财联社热门",
@@ -29,6 +54,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 07时53分]"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时54分 ~ 13时52分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时52分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -56,41 +105,29 @@
           "time_info": "[00时07分 ~ 05时54分]"
         },
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 10时34分]"
-        },
-        {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            10,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 10时34分]"
+          "appearance_count": 6,
+          "time_info": "[06时54分 ~ 13时52分]"
         },
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
+          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
+          "url": "https://www.cls.cn/detail/2358910",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4,
-            2
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时52分]"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -106,17 +143,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 07时53分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时34分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -198,17 +224,6 @@
           "time_info": "00时07分"
         },
         {
-          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
-          "url": "https://www.cls.cn/detail/2358910",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095950",
           "source": "华尔街见闻-快讯",
@@ -218,6 +233,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "锐评异环游戏流程设定",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%82%E7%8E%AF%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E8%AE%BE%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            30,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时15分 ~ 13时52分]"
         },
         {
           "title": "重登“股王”宝座！源杰科技频获融资客加仓，这两大千元股也正紧随",
@@ -256,6 +285,19 @@
           "time_info": "[04时13分 ~ 05时54分]"
         },
         {
+          "title": "PCB龙头胜宏科技一季度营收突破55亿、净利增近四成 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771146",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时52分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3096026",
           "source": "华尔街见闻-快讯",
@@ -268,16 +310,15 @@
           "time_info": "[05时54分 ~ 06时55分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
           "ranks": [
-            10,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 13时52分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -317,31 +358,6 @@
           "time_info": "[02时15分 ~ 06时55分]"
         },
         {
-          "title": "锐评异环游戏流程设定",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%82%E7%8E%AF%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E8%AE%BE%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 10时34分]"
-        },
-        {
-          "title": "PCB龙头胜宏科技一季度营收突破55亿、净利增近四成 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771146",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时34分]"
-        },
-        {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
           "url": "https://wallstreetcn.com/livenews/3096044",
           "source": "华尔街见闻-快讯",
@@ -375,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 10时34分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -461,6 +488,17 @@
           "time_info": "[06时55分 ~ 07时53分]"
         },
         {
+          "title": "从爆火出圈到重组出海，再到收购被要求撤销，Manus 这段跌宕历程，给中国科技企业合规出海带来什么启示？",
+          "url": "https://www.zhihu.com/question/2032175424285799040",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
           "title": "报告发现：全球监管机构在AI领域落后于银行，Mythos引发监管担忧",
           "url": "https://wallstreetcn.com/livenews/3095914",
           "source": "华尔街见闻-快讯",
@@ -478,7 +516,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -505,15 +543,15 @@
           "time_info": "00时07分"
         },
         {
-          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
-          "url": "https://www.zhihu.com/question/2030222424457703714",
-          "source": "知乎",
+          "title": "中央网信办：将发布《人工智能应用伦理安全指引（1.0版）》",
+          "url": "https://wallstreetcn.com/livenews/3096234",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时34分"
+          "time_info": "13时52分"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -536,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "杨元庆：AI PC和AI手机今年的增速都会达到30%以上",
+          "url": "https://flash.jin10.com/detail/20260429132822114800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "谷歌允许美国国防部在机密环境中使用人工智能工具。（华尔街日报）",
@@ -588,7 +637,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -637,6 +686,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "传闻拓竹科技存在入股、入主公司相关规划？银禧科技：不属实",
+          "url": "https://wallstreetcn.com/livenews/3096221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "众合科技：2026年一季度净亏损3319.49万元",
           "url": "https://flash.jin10.com/detail/20260428233457824800",
           "source": "金十数据",
@@ -654,9 +714,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "金十图示：2026年04月29日（周三）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260429131638958800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "国家数研院副院长：将算力与电网规划纳入统一空间体系，适度超前、动态适配AI发展",
+          "url": "https://wallstreetcn.com/livenews/3096218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "纳斯达克100指数跌超1.5%，成分股Arm控股跌超8.7%，Sandisk跌7.6%，应用材料、美光科技、MPWR、拉姆研究、博通、西部数据至多跌6.4%，阿斯麦ADR跌4.2%，英特尔跌4.2%，新思科技、英伟达、铿腾电子至少跌2.9%。 费城半导体指数跌5.12%。 标普跌0.8%，道指跌0.05%，纳指跌1.39%，罗素2000指数也跌1.3%。",
@@ -676,9 +758,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "中央网信办：将发布《人工智能应用伦理安全指引（1.0版）》",
+          "url": "https://flash.jin10.com/detail/20260429131155378800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "公司引入AI后男子被裁员 法院判了",
@@ -687,9 +780,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "A股电池产业链午后持续走强，鹏辉能源触及20cm涨停，德方纳米、丰元股份、龙蟠科技此前涨停，石大胜华、恩捷股份涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260429131042352800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
@@ -753,7 +857,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -786,7 +890,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
