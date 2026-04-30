@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T04:57:41.725318+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-01T05:56:54.010483+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "恒生指数主连夜盘收涨1.44%，报25992点。 恒生科技指数主连夜盘收涨1.62%，报4955点。",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
@@ -82,22 +82,24 @@
           "source": "今日头条",
           "ranks": [
             11,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
           "url": "https://www.cls.cn/detail/2361143",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -107,8 +109,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -117,11 +119,12 @@
           "ranks": [
             22,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "幻月新游戏",
@@ -130,9 +133,43 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时56分]"
+        },
+        {
+          "title": "独立游戏会不会出现饱和状态?",
+          "url": "https://www.zhihu.com/question/1973121218904355991",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时56分]"
+        },
+        {
+          "title": "西部数据预计季度营收将超出预期，得益于人工智能存储需求",
+          "url": "https://flash.jin10.com/detail/20260501045130303800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "05时56分"
+        },
+        {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美国总统特朗普：AI将创造大量就业机会。",
@@ -141,7 +178,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -199,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        },
-        {
-          "title": "独立游戏会不会出现饱和状态?",
-          "url": "https://www.zhihu.com/question/1973121218904355991",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
         },
         {
           "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
