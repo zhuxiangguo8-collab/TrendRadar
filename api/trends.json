@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:14:17.870721+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-04-30T23:07:08.327444+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -17,11 +17,24 @@
             9,
             11,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时25分 ~ 20时14分]"
+          "appearance_count": 15,
+          "time_info": "[01时25分 ~ 23时07分]"
+        },
+        {
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 23时07分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -48,6 +61,19 @@
           "time_info": "[01时25分 ~ 07时52分]"
         },
         {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时35分 ~ 23时07分]"
+        },
+        {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
           "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
@@ -71,18 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时14分 ~ 20时14分]"
-        },
-        {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 20时14分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
@@ -150,19 +164,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 10时35分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 20时14分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（4月30日）",
@@ -233,6 +234,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "白宫顾问哈塞特：债权人们可能会让航空公司Spirit Airlines获得更多时间。",
+          "url": "https://wallstreetcn.com/livenews/3097595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "世界艺术与科技对话",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E8%89%BA%E6%9C%AF%E4%B8%8E%E7%A7%91%E6%8A%80%E5%AF%B9%E8%AF%9D&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -267,6 +279,17 @@
           "time_info": "[13时55分 ~ 18时53分]"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850518&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/JW6c8ckJ-xzznMye3Dcia.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260430230011398800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美股存储芯片指数收涨约2.7%，成分股希捷科技涨超11%、泰瑞达则跌超19%，恩智浦飙涨超25%、英特尔涨超12%",
           "url": "https://wallstreetcn.com/livenews/3096969",
           "source": "华尔街见闻-快讯",
@@ -276,6 +299,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
+          "url": "https://www.cls.cn/detail/2361259",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 23时07分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -336,6 +371,17 @@
           "time_info": "[05时01分 ~ 06时07分]"
         },
         {
+          "title": "假如AI能模拟去世亲人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
           "title": "4月游戏版号公布",
           "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E6%B8%B8%E6%88%8F%E7%89%88%E5%8F%B7%E5%85%AC%E5%B8%83",
           "source": "bilibili 热搜",
@@ -346,6 +392,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 10时35分]"
+        },
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "不是AI芯片！索罗斯门徒：电气化才是未来十年主线，看好铜、铝、电缆",
@@ -368,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://www.cls.cn/detail/2361143",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "AI 对画师的斩杀线大概在哪个位置？",
@@ -470,17 +538,6 @@
           "time_info": "16时14分"
         },
         {
-          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
-          "url": "https://www.cls.cn/detail/2361259",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
           "url": "https://flash.jin10.com/detail/20260430010327901800",
           "source": "金十数据",
@@ -509,7 +566,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -699,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "Citadel证券与证券衍生品策略主管Scott Rubner：AI的开支与需求没有出现下滑迹象。 美国科技巨头被抛售，给投资者提供了进场机会。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3097574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "三星电子：正与人工智能和高性能计算的大客户就2纳米技术进行洽谈。",
