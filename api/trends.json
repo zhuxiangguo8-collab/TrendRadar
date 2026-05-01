@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-01T21:17:15.405990+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-05-01T22:52:48.769737+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
+          "url": "https://www.cls.cn/detail/2361649",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时50分 ~ 22时52分]"
+        },
+        {
+          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
+          "url": "https://www.zhihu.com/question/2033139439564580001",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 22时52分]"
+        },
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
           "url": "https://www.cls.cn/detail/2361259",
@@ -18,29 +43,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 10时41分]"
-        },
-        {
-          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
-          "url": "https://www.cls.cn/detail/2361649",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时50分 ~ 21时17分]"
-        },
-        {
-          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
-          "url": "https://www.zhihu.com/question/2033139439564580001",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 21时17分]"
         },
         {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
@@ -55,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时56分 ~ 21时17分]"
+          "appearance_count": 12,
+          "time_info": "[05时56分 ~ 22时52分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -70,8 +72,24 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 21时17分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 22时52分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            18,
+            20,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时41分 ~ 22时52分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -85,21 +103,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时50分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时41分 ~ 21时17分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -150,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "60秒看中国硬科技核心突破",
@@ -415,6 +429,17 @@
           "time_info": "10时41分"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "五角大楼宣布网络人工智能协议",
           "url": "https://wallstreetcn.com/livenews/3097883",
           "source": "华尔街见闻-快讯",
@@ -569,6 +594,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "如何说服家人同意自己从事游戏行业工作？",
+          "url": "https://www.zhihu.com/question/37966419",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
           "url": "https://flash.jin10.com/detail/20260501003417197800",
           "source": "金十数据",
@@ -591,13 +627,24 @@
           "time_info": "19时57分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、科技行业ETF、网络股指数ETF涨超1%，生物科技指数ETF跌超2%，区域银行ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3097921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国防部与7家AI公司达成协议",
           "url": "https://wallstreetcn.com/livenews/3097883",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
