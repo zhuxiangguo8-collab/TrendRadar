@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-01T22:52:48.769737+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2026-05-01T23:55:07.482792+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
+          "url": "https://www.zhihu.com/question/2033139439564580001",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时58分 ~ 23时55分]"
+        },
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
           "url": "https://www.cls.cn/detail/2361649",
@@ -17,20 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时50分 ~ 22时52分]"
-        },
-        {
-          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
-          "url": "https://www.zhihu.com/question/2033139439564580001",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时58分 ~ 22时52分]"
+          "appearance_count": 12,
+          "time_info": "[07时50分 ~ 23时55分]"
         },
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
@@ -43,6 +44,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 10时41分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            18,
+            20,
+            21,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 23时55分]"
         },
         {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
@@ -69,27 +87,12 @@
             22,
             27,
             28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时17分 ~ 22时52分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            18,
-            20,
-            21,
+            29,
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 22时52分]"
+          "appearance_count": 16,
+          "time_info": "[01时17分 ~ 23时54分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -155,15 +158,15 @@
           "time_info": "07时50分"
         },
         {
-          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
-          "url": "https://flash.jin10.com/detail/20260501222150341800",
-          "source": "金十数据",
+          "title": "甲骨文涨幅扩大至超过6.3%，刷新日高至171.49美元。美国五角大楼称，甲骨文将加入AI计划。",
+          "url": "https://wallstreetcn.com/livenews/3097953",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时52分"
+          "time_info": "23时55分"
         },
         {
           "title": "60秒看中国硬科技核心突破",
@@ -186,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "JetBlue Airlines涨幅扩大至11%。",
+          "url": "https://wallstreetcn.com/livenews/3097950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "孙杨玩游戏真打了范明一耳光",
@@ -274,6 +288,18 @@
           "time_info": "[01时17分 ~ 06时51分]"
         },
         {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时55分]"
+        },
+        {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
@@ -347,6 +373,18 @@
           "time_info": "[16时58分 ~ 19时57分]"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时55分]"
+        },
+        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -357,6 +395,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时51分 ~ 10时41分]"
+        },
+        {
+          "title": "如何说服家人同意自己从事游戏行业工作？",
+          "url": "https://www.zhihu.com/question/37966419",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时55分]"
         },
         {
           "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
@@ -429,15 +478,15 @@
           "time_info": "10时41分"
         },
         {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
+          "title": "航空公司Spirit Airlines准备关闭，该公司没能（与特朗普政府）达成一份救助协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时52分"
+          "time_info": "23时55分"
         },
         {
           "title": "五角大楼宣布网络人工智能协议",
@@ -594,17 +643,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "如何说服家人同意自己从事游戏行业工作？",
-          "url": "https://www.zhihu.com/question/37966419",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
           "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
           "url": "https://flash.jin10.com/detail/20260501003417197800",
           "source": "金十数据",
@@ -633,7 +671,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
