@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T19:57:31.001920+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-05-01T21:17:15.405990+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
@@ -20,6 +20,45 @@
           "time_info": "[01时17分 ~ 10时41分]"
         },
         {
+          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
+          "url": "https://www.cls.cn/detail/2361649",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时50分 ~ 21时17分]"
+        },
+        {
+          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
+          "url": "https://www.zhihu.com/question/2033139439564580001",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时58分 ~ 21时17分]"
+        },
+        {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[05时56分 ~ 21时17分]"
+        },
+        {
           "title": "AI魔改黑袍,星光姐被玩坏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
           "source": "贴吧",
@@ -27,11 +66,12 @@
             20,
             22,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 19时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 21时17分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -47,31 +87,19 @@
           "time_info": "[01时17分 ~ 07时50分]"
         },
         {
-          "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
-          "url": "https://www.cls.cn/detail/2361649",
-          "source": "财联社热门",
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            3
+            3,
+            6,
+            18,
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时50分 ~ 19时57分]"
-        },
-        {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时56分 ~ 19时57分]"
+          "appearance_count": 8,
+          "time_info": "[10时41分 ~ 21时17分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -86,17 +114,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时17分 ~ 16时58分]"
-        },
-        {
-          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
-          "url": "https://www.zhihu.com/question/2033139439564580001",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 19时57分]"
         },
         {
           "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
@@ -122,21 +139,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时50分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 19时57分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（5月1日）",
@@ -205,26 +207,29 @@
           "time_info": "03时15分"
         },
         {
-          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3097888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
           "title": "女子被AI误导闯入毒蛇窝",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时57分 ~ 21时17分]"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时17分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
@@ -279,6 +284,18 @@
           "time_info": "[01时17分 ~ 05时56分]"
         },
         {
+          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3097888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 21时17分]"
+        },
+        {
           "title": "幻月新游戏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -314,18 +331,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时58分 ~ 19时57分]"
-        },
-        {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 19时57分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -416,7 +421,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -427,7 +432,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -438,7 +443,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -471,7 +476,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -482,7 +487,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -515,7 +520,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         },
@@ -581,9 +586,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
+        },
+        {
+          "title": "美国防部与7家AI公司达成协议",
+          "url": "https://wallstreetcn.com/livenews/3097883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "受AI相关需求提振，韩国出口继续激增",
