@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T06:45:55.314527+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-05-02T07:48:35.080473+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时48分]"
         },
         {
           "title": "闻泰科技一夜“披星戴帽”",
@@ -27,22 +27,12 @@
             10,
             17,
             8,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时45分]"
-        },
-        {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创两年最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时48分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -53,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时48分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -67,8 +57,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时48分]"
         },
         {
           "title": "如何说服家人同意自己从事游戏行业工作？",
@@ -78,8 +68,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时48分]"
+        },
+        {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创两年最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         },
         {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。",
@@ -93,15 +105,15 @@
           "time_info": "05时50分"
         },
         {
-          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
-          "url": "https://wallstreetcn.com/livenews/3098073",
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时45分"
+          "time_info": "07时48分"
         },
         {
           "title": "标普500指数的11个板块几乎全线溃败，能源板块收跌1.31%，工业、公用事业、保健、金融等板块至多跌0.93%，可选消费板块则收涨0.51%，信息技术/科技板块涨1.41%。",
@@ -115,17 +127,89 @@
           "time_info": "04时47分"
         },
         {
+          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
+          "url": "https://www.zhihu.com/question/2029888609017422176",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
+          "url": "https://wallstreetcn.com/livenews/3098073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时48分]"
+        },
+        {
           "title": "女子被AI误导闯入毒蛇窝",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29,
             9,
-            7
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 07时48分]"
+        },
+        {
+          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
+          "url": "https://wallstreetcn.com/livenews/3098058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时50分]"
+          "time_info": "[05时50分 ~ 07时48分]"
+        },
+        {
+          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时48分]"
+        },
+        {
+          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3098052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时48分]"
+        },
+        {
+          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时50分 ~ 07时48分]"
         },
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
@@ -134,50 +218,6 @@
           "ranks": [
             14,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时45分]"
-        },
-        {
-          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
-          "url": "https://wallstreetcn.com/livenews/3098058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时45分]"
-        },
-        {
-          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时45分]"
-        },
-        {
-          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3098052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时45分]"
-        },
-        {
-          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -204,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
+          "url": "https://news.ifeng.com/c/8sn1WIx976g",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         },
         {
           "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
