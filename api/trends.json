@@ -1,400 +1,88 @@
 {
-  "generated_at": "2026-05-01T23:55:07.482792+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2026-05-02T00:54:37.556891+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 58,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
-          "url": "https://www.zhihu.com/question/2033139439564580001",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时58分 ~ 23时55分]"
-        },
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
           "url": "https://www.cls.cn/detail/2361649",
           "source": "财联社热门",
           "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时50分 ~ 23时55分]"
-        },
-        {
-          "title": "三部门：扩大科技创新和技术改造贷款投放 进一步支持设备更新",
-          "url": "https://www.cls.cn/detail/2361259",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 10时41分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            18,
-            20,
-            21,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时41分 ~ 23时55分]"
-        },
-        {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            11,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时56分 ~ 22时52分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            22,
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时17分 ~ 23时54分]"
-        },
-        {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时50分]"
-        },
-        {
-          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2361477",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 16时58分]"
-        },
-        {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 18时25分]"
-        },
-        {
-          "title": "假如AI能模拟去世亲人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 07时50分]"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（5月1日）",
-          "url": "https://flash.jin10.com/detail/20260501072018316800",
-          "source": "金十数据",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "00时54分"
         },
         {
-          "title": "甲骨文涨幅扩大至超过6.3%，刷新日高至171.49美元。美国五角大楼称，甲骨文将加入AI计划。",
-          "url": "https://wallstreetcn.com/livenews/3097953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "60秒看中国硬科技核心突破",
-          "url": "https://www.douyin.com/hot/2485299",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "女子被AI误导闯入响尾蛇窝",
-          "url": "https://www.toutiao.com/trending/7634484856417468470/",
+          "title": "闻泰科技一夜“披星戴帽”",
+          "url": "https://www.toutiao.com/trending/7634931653269261878/",
           "source": "今日头条",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "JetBlue Airlines涨幅扩大至11%。",
-          "url": "https://wallstreetcn.com/livenews/3097950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "孙杨玩游戏真打了范明一耳光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "如何评价 Anthropic 的 Claude Code 被曝出 HERMES.md 触发隐藏计费？",
-          "url": "https://www.zhihu.com/question/2033162416024985618",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨1.44%，报25992点。 恒生科技指数主连夜盘收涨1.62%，报4955点。",
-          "url": "https://wallstreetcn.com/livenews/3097675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时17分]"
-        },
-        {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 21时17分]"
-        },
-        {
-          "title": "闻泰科技将变更为*ST闻泰",
-          "url": "https://www.toutiao.com/trending/7634557457460629035/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时51分]"
-        },
-        {
-          "title": "深圳14岁男孩用AI备考押中奥赛题",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24,
-            29,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时51分]"
-        },
-        {
-          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
-          "url": "https://flash.jin10.com/detail/20260501222150341800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时52分 ~ 23时55分]"
-        },
-        {
-          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
-          "url": "https://www.zhihu.com/question/2033115543276930640",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 16时58分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时56分]"
-        },
-        {
-          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3097888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 21时17分]"
-        },
-        {
-          "title": "幻月新游戏",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时57分 ~ 07时50分]"
-        },
-        {
-          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
-          "url": "https://www.cls.cn/detail/2361143",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时56分]"
-        },
-        {
-          "title": "孙杨玩游戏真打了范明一耳光",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 19时57分]"
+          "time_info": "00时54分"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时52分 ~ 23时55分]"
-        },
-        {
-          "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
-          "url": "https://wallstreetcn.com/articles/3771342",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 10时41分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3097953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "JetBlue Airlines涨幅扩大至11%。",
+          "url": "https://wallstreetcn.com/livenews/3097950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "Spirit Air股价暴跌逾70%，报道称特朗普没能提供救助、该航司准备停止运营",
+          "url": "https://wallstreetcn.com/livenews/3097947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "如何说服家人同意自己从事游戏行业工作？",
@@ -404,298 +92,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时52分 ~ 23时55分]"
-        },
-        {
-          "title": "扎克伯格：销售放缓归咎于战争，裁员则因AI成本",
-          "url": "https://flash.jin10.com/detail/20260501054951579800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时50分]"
-        },
-        {
-          "title": "西部数据预计季度营收将超出预期，得益于人工智能存储需求",
-          "url": "https://flash.jin10.com/detail/20260501045130303800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时51分]"
-        },
-        {
-          "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
-          "url": "https://wallstreetcn.com/livenews/3097751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时41分]"
-        },
-        {
-          "title": "独立游戏会不会出现饱和状态?",
-          "url": "https://www.zhihu.com/question/1973121218904355991",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时56分]"
-        },
-        {
-          "title": "人民日报：不能让AI生成内容误导公众",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
-          "url": "https://flash.jin10.com/detail/20260501100005491800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "航空公司Spirit Airlines准备关闭，该公司没能（与特朗普政府）达成一份救助协议。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3097947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "五角大楼宣布网络人工智能协议",
-          "url": "https://wallstreetcn.com/livenews/3097883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美国防部与7家AI公司达成协议",
-          "url": "https://flash.jin10.com/detail/20260501194509832800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3097879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美国总统特朗普：AI将创造大量就业机会。",
-          "url": "https://wallstreetcn.com/livenews/3097697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "重庆：鼓励企业用好债券市场中长期、低成本资金 发行科技创新债券等创新产品",
-          "url": "https://wallstreetcn.com/livenews/3097834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "美国国防部副部长迈克尔：不能只依赖单一的人工智能合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260501194029217800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "AI踩平量化门槛，普通人入局机会在哪？",
-          "url": "https://flash.jin10.com/detail/20260501193515187800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
-          "url": "https://wallstreetcn.com/livenews/3097631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
-          "url": "https://wallstreetcn.com/livenews/3097661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/iahqvFRhLOCuS-TXYlZQU.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260501193512844800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
-          "url": "https://wallstreetcn.com/livenews/3097630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
-          "url": "https://wallstreetcn.com/livenews/3097660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
-          "url": "https://www.zhihu.com/question/2032183066840360184",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
-          "url": "https://wallstreetcn.com/livenews/3097659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
-          "url": "https://flash.jin10.com/detail/20260501003417197800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
-          "url": "https://flash.jin10.com/detail/20260501193320957800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时57分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、科技行业ETF、网络股指数ETF涨超1%，生物科技指数ETF跌超2%，区域银行ETF跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3097921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "美国防部与7家AI公司达成协议",
-          "url": "https://wallstreetcn.com/livenews/3097883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "受AI相关需求提振，韩国出口继续激增",
-          "url": "https://flash.jin10.com/detail/20260501082241087800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "00时54分"
         }
       ]
     }
