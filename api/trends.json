@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T13:34:29.713448+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-05-02T15:27:56.635028+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "【早报】易会满被“双开”；三部门发文！事关支持科技创新",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 13时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 15时27分]"
+        },
+        {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 15时27分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -27,11 +38,25 @@
             23,
             18,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 13时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 15时27分]"
+        },
+        {
+          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
+          "url": "https://www.zhihu.com/question/2029888609017422176",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 15时27分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -45,30 +70,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 10时16分]"
-        },
-        {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 13时34分]"
-        },
-        {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 13时34分]"
         },
         {
           "title": "闻泰科技一夜“披星戴帽”",
@@ -96,6 +97,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 07时48分]"
+        },
+        {
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 15时27分]"
         },
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创两年最长周涨，日元反弹暂歇但全周走强",
@@ -131,15 +143,15 @@
           "time_info": "04时47分"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
+          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
+          "url": "https://news.ifeng.com/c/8sn1WIx976g",
+          "source": "凤凰网",
           "ranks": [
-            5
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 15时27分]"
         },
         {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
@@ -155,6 +167,32 @@
           "time_info": "[06时45分 ~ 10时16分]"
         },
         {
+          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
+          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 15时27分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（5月2日）",
+          "url": "https://flash.jin10.com/detail/20260502093338044800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 15时27分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
           "url": "https://wallstreetcn.com/livenews/3098081",
           "source": "华尔街见闻-快讯",
@@ -168,28 +206,28 @@
           "time_info": "[07时48分 ~ 13时34分]"
         },
         {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
-          "source": "金十数据",
+          "title": "科技巨头的财报启示",
+          "url": "https://wallstreetcn.com/articles/3771458",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            15
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 13时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 15时27分]"
         },
         {
-          "title": "金十数据整理：每日科技要闻速递（5月2日）",
-          "url": "https://flash.jin10.com/detail/20260502093338044800",
-          "source": "金十数据",
+          "title": "马斯克承认蒸馏ChatGPT",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            16
+            9,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时16分 ~ 13时34分]"
+          "time_info": "[13时34分 ~ 15时27分]"
         },
         {
           "title": "女子被AI误导闯入毒蛇窝",
@@ -206,27 +244,17 @@
           "time_info": "[03时10分 ~ 07时48分]"
         },
         {
-          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
-          "url": "https://news.ifeng.com/c/8sn1WIx976g",
-          "source": "凤凰网",
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://flash.jin10.com/detail/20260502085918272800",
+          "source": "金十数据",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 13时34分]"
-        },
-        {
-          "title": "科技巨头的财报启示",
-          "url": "https://wallstreetcn.com/articles/3771458",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
+            8,
+            22,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时15分 ~ 13时34分]"
+          "time_info": "[10时16分 ~ 15时27分]"
         },
         {
           "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
@@ -277,16 +305,39 @@
           "time_info": "[05时50分 ~ 07时48分]"
         },
         {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://flash.jin10.com/detail/20260502085918272800",
-          "source": "金十数据",
+          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
+          "url": "https://www.zhihu.com/question/2033267772931749457",
+          "source": "知乎",
           "ranks": [
-            8,
-            22
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时16分 ~ 13时34分]"
+          "time_info": "[13时34分 ~ 15时27分]"
+        },
+        {
+          "title": "AI踩平量化门槛，普通人入局机会在哪？",
+          "url": "https://flash.jin10.com/detail/20260502120100922800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 15时27分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/Uq6lC4VFntqNQMXXh1scy.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260502120053425800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 15时27分]"
         },
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
@@ -301,6 +352,17 @@
           "time_info": "[05时50分 ~ 06时45分]"
         },
         {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 15时27分]"
+        },
+        {
           "title": "美军使用AI技术在霍尔木兹海峡扫雷",
           "url": "https://wallstreetcn.com/livenews/3098092",
           "source": "华尔街见闻-快讯",
@@ -311,6 +373,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时16分 ~ 13时34分]"
+        },
+        {
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 15时27分]"
+        },
+        {
+          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 15时27分]"
         },
         {
           "title": "美军使用AI技术在霍尔木兹海峡扫雷",
@@ -335,59 +421,48 @@
           "time_info": "[05时50分 ~ 06时45分]"
         },
         {
-          "title": "AI踩平量化门槛，普通人入局机会在哪？",
-          "url": "https://flash.jin10.com/detail/20260502120100922800",
-          "source": "金十数据",
+          "title": "网警提醒：警惕AI伪造骗局",
+          "url": "https://www.toutiao.com/trending/7634928581718294547/",
+          "source": "今日头条",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "15时27分"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/Uq6lC4VFntqNQMXXh1scy.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260502120053425800",
-          "source": "金十数据",
+          "title": "五一假期收好这份AI伪造防范指南",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BDAI%E4%BC%AA%E9%80%A0%E9%98%B2%E8%8C%83%E6%8C%87%E5%8D%97",
+          "source": "百度热搜",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "15时27分"
         },
         {
-          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
-          "url": "https://www.zhihu.com/question/2033267772931749457",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "马斯克承认蒸馏ChatGPT",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "title": "网警发布五一AI防骗指南",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "15时27分"
+        },
+        {
+          "title": "日本首相高市早苗：将继续加强与越南在能源、关键矿产、人工智能、半导体和太空领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260502133555635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "本周，标普500指数累涨超1%，道指累涨0.6%，纳指累涨超1%。 标普500指数初步收涨0.3%，能源板块跌1%，科技板块涨1.4%。 纳斯达克100指数初步收涨0.9%，成分股中，希捷科技初步收涨7.5%，SanDisk涨7.3%，Strategy涨7%，Zscaler、Datadog涨超6%，Insmed跌2.2%，ALNY跌4.1%，安进跌4.7%。 3M、麦当劳初步手得超2%，与安进领跌道指成分股，亚马逊、微软涨超1%，Merck涨2.8%，苹果涨3.2%，Salesforce涨4.2%。",
@@ -401,15 +476,26 @@
           "time_info": "04时47分"
         },
         {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
+          "title": "据日本经济产业省消息，日本太阳石油公司（Taiyo Oil）将接收一船来自俄罗斯“萨哈林2号”（Sakhalin-2）项目的原油。（日本每日新闻）",
+          "url": "https://wallstreetcn.com/livenews/3098116",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "15时27分"
+        },
+        {
+          "title": "日本首相高市早苗在河内表示：将继续加强与越南在能源、关键矿产、AI、半导体以及航天领域的合作。 日本将协助为越南宜山炼油石化公司协调原油供应。",
+          "url": "https://wallstreetcn.com/livenews/3098114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "赵又廷：别让AI取代我就行",
@@ -418,7 +504,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -434,15 +520,15 @@
           "time_info": "00时54分"
         },
         {
-          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2033639221991319346",
-          "source": "知乎",
+          "title": "专访｜赵又廷：别让AI取代我就行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "15时27分"
         },
         {
           "title": "市场消息：因担忧人工智能加剧黑客攻击，美国网络安全官员正考虑缩短漏洞修复期限，提议将修复网络安全漏洞的截止时间从两周缩短至三天。",
@@ -465,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "网警发布五一AI防骗指南",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "Spirit Air股价暴跌逾70%，报道称特朗普没能提供救助、该航司准备停止运营",
@@ -506,9 +603,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
+        },
+        {
+          "title": "时隔五年我用AI复活了父亲",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E6%88%91%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E4%BA%86%E7%88%B6%E4%BA%B2&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     }
