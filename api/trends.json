@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-03T06:37:37.529341+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-03T07:40:04.887017+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时40分]"
+        },
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
           "url": "https://wallstreetcn.com/articles/3771459",
@@ -19,15 +31,26 @@
           "time_info": "[00时42分 ~ 06时37分]"
         },
         {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
+          "title": "专访｜赵又廷：别让AI取代我就行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时40分]"
+        },
+        {
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -41,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -56,30 +79,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
-          "title": "专访｜赵又廷：别让AI取代我就行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
-          "source": "澎湃新闻",
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时37分]"
-        },
-        {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -93,19 +105,23 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
+          "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
+          "url": "https://www.zhihu.com/question/2031784120653697717",
+          "source": "知乎",
           "ranks": [
-            11
+            19,
+            18,
+            20,
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -119,22 +135,23 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 07时40分]"
         },
         {
-          "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
-          "url": "https://www.zhihu.com/question/2031784120653697717",
-          "source": "知乎",
+          "title": "误导女子闯入毒蛇窝AI道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            18,
-            20,
-            15
+            22,
+            12,
+            13,
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时40分]"
         },
         {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
@@ -146,22 +163,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时37分]"
-        },
-        {
-          "title": "误导女子闯入毒蛇窝AI道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            12,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时37分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时40分]"
         },
         {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
@@ -174,8 +177,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 06时37分]"
+          "appearance_count": 5,
+          "time_info": "[03时53分 ~ 07时40分]"
+        },
+        {
+          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
+          "url": "https://wallstreetcn.com/articles/3771481",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
