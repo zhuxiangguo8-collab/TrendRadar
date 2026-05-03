@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-05-03T21:02:25.008071+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-05-03T22:14:42.582313+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时32分 ~ 21时02分]"
-        },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
           "url": "https://www.cls.cn/detail/2362027",
@@ -33,8 +18,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 21时02分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 22时14分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            3,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时32分 ~ 22时14分]"
         },
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -46,6 +47,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 06时37分]"
+        },
+        {
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时55分 ~ 22时14分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -110,24 +124,12 @@
             14,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 21时02分]"
-        },
-        {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 21时02分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 22时14分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -158,6 +160,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 07时40分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时14分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -195,11 +211,12 @@
           "source": "微博",
           "ranks": [
             1,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时14分]"
         },
         {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
@@ -216,20 +233,6 @@
           "time_info": "[04时38分 ~ 10时33分]"
         },
         {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时02分]"
-        },
-        {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
           "url": "https://wallstreetcn.com/articles/3771503",
           "source": "华尔街见闻",
@@ -238,8 +241,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[15时57分 ~ 22时14分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -250,8 +253,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[15时57分 ~ 22时14分]"
         },
         {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
@@ -268,27 +271,17 @@
           "time_info": "[03时53分 ~ 07时40分]"
         },
         {
-          "title": "中国儒意：与腾讯代表公司签订2026年游戏合作框架协议",
-          "url": "https://flash.jin10.com/detail/20260503201654738800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "和AI玩猜历史人物游戏",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 22时14分]"
         },
         {
           "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
@@ -300,6 +293,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时57分 ~ 19时40分]"
+        },
+        {
+          "title": "中国儒意：与腾讯代表公司签订2026年游戏合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260503201654738800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时14分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
@@ -397,6 +402,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 01时42分]"
+        },
+        {
+          "title": "你心目中最好的十款单机游戏是什么？",
+          "url": "https://www.zhihu.com/question/479719590",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
