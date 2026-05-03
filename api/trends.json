@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T17:22:21.567494+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-05-03T18:52:29.871342+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 17时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 18时52分]"
         },
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -39,11 +39,12 @@
           "ranks": [
             2,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 18时52分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -110,8 +111,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 17时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 18时52分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -188,6 +189,30 @@
           "time_info": "[04时38分 ~ 10时33分]"
         },
         {
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时52分]"
+        },
+        {
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 18时52分]"
+        },
+        {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
           "url": "https://flash.jin10.com/detail/20260503021929638800",
           "source": "金十数据",
@@ -200,30 +225,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时53分 ~ 07时40分]"
-        },
-        {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 17时22分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
@@ -272,8 +273,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 18时52分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -283,8 +284,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 18时52分]"
+        },
+        {
+          "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
+          "url": "https://www.cls.cn/detail/2362207",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 18时52分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时22分]"
+          "time_info": "[17时22分 ~ 18时52分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（5月3日）",
@@ -309,17 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时42分]"
-        },
-        {
-          "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
-          "url": "https://www.cls.cn/detail/2362207",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 17时22分]"
         },
         {
           "title": "不盲目跟风 伯克希尔谨慎推进AI策略并确立三大原则",
@@ -357,17 +370,6 @@
           "time_info": "[01时41分 ~ 01时42分]"
         },
         {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "在 AI 时代，最重要的能力是什么？",
           "url": "https://www.zhihu.com/question/2026056884801520039",
           "source": "知乎",
@@ -379,13 +381,24 @@
           "time_info": "00时42分"
         },
         {
+          "title": "39岁上海科技大学教授王晨辉因营救至亲溺水遇险，不幸去世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33094459",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "AI会取代人类工作吗",
           "url": "https://www.toutiao.com/trending/7635085270475669546/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -445,13 +458,24 @@
           "time_info": "00时42分"
         },
         {
+          "title": "2个AI混入人类会被发现吗",
+          "url": "https://search.bilibili.com/all?keyword=2%E4%B8%AAAI%E6%B7%B7%E5%85%A5%E4%BA%BA%E7%B1%BB%E4%BC%9A%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "AI真正的意义",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
