@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T03:24:41.355592+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-05T05:05:44.599261+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "恒生指数主连夜盘收跌0.47%，报25885点。 恒生科技指数主连夜盘收跌0.26%，报4972点。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -25,9 +25,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.35%。 美国总统特朗普声称，美军海格塞斯和Caine将于周二早间举行新闻发布会。 伊朗曾就船只通行问题，对与冲突无关的国家发动过一些打击，包括一艘韩国货船。也许是时候让韩国加入这个行动了。",
@@ -41,16 +65,15 @@
           "time_info": "01时45分"
         },
         {
-          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
-          "url": "https://wallstreetcn.com/articles/3771537",
-          "source": "华尔街见闻",
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -60,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -71,20 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
-        },
-        {
-          "title": "牛散集体换仓：科技稀土黄金成新猎物",
-          "url": "https://www.toutiao.com/trending/7636037468252278318/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -94,8 +105,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
+        },
+        {
+          "title": "牛散集体换仓：科技稀土黄金成新猎物",
+          "url": "https://www.toutiao.com/trending/7636037468252278318/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -103,11 +127,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -118,19 +143,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时24分]"
+          "time_info": "[03时24分 ~ 05时05分]"
+        },
+        {
+          "title": "被AI抢走工作的人在忙什么",
+          "url": "https://www.toutiao.com/trending/7636039859584372251/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时05分]"
+        },
+        {
+          "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
+          "url": "https://wallstreetcn.com/livenews/3098641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -139,9 +187,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
+          "url": "https://wallstreetcn.com/livenews/3098638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
@@ -155,15 +214,15 @@
           "time_info": "01时45分"
         },
         {
-          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
-          "url": "https://wallstreetcn.com/articles/3771542",
-          "source": "华尔街见闻",
+          "title": "纳斯达克金龙中国指数收跌0.09%，报6881.09点。 热门中概股里，阿特斯太阳能初步收跌5.1%，携程跌2.5%，蔚来涨2.7%，大全新能源涨4%，小马智行涨5.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.66%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收跌1.02%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%。",
+          "url": "https://wallstreetcn.com/livenews/3098628",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "05时05分"
         },
         {
           "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
@@ -172,20 +231,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
         {
-          "title": "被AI抢走工作的人在忙什么",
-          "url": "https://www.toutiao.com/trending/7636039859584372251/",
-          "source": "今日头条",
+          "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
+          "url": "https://wallstreetcn.com/livenews/3098613",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "05时05分"
         }
       ]
     }
