@@ -1,309 +1,110 @@
 {
-  "generated_at": "2026-05-04T23:59:58.842207+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-05-05T01:45:41.915693+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 65,
+      "match_count": 11,
       "titles": [
         {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
-          "source": "华尔街见闻",
+          "title": "标普500指数跌幅收窄至0.35%。 美国总统特朗普声称，美军海格塞斯和Caine将于周二早间举行新闻发布会。 伊朗曾就船只通行问题，对与冲突无关的国家发动过一些打击，包括一艘韩国货船。也许是时候让韩国加入这个行动了。",
+          "url": "https://wallstreetcn.com/livenews/3098572",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时41分]"
-        },
-        {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 10时31分]"
-        },
-        {
-          "title": "你心目中最好的十款单机游戏是什么？",
-          "url": "https://www.zhihu.com/question/479719590",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时41分]"
-        },
-        {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 10时31分]"
-        },
-        {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 10时31分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时39分]"
-        },
-        {
-          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
-          "url": "https://www.zhihu.com/question/2034308747380482937",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            12,
-            11,
-            9,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时54分 ~ 14时09分]"
-        },
-        {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            9,
-            8,
-            18,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时44分 ~ 17时15分]"
-        },
-        {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时41分]"
-        },
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时53分 ~ 17时15分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时09分 ~ 23时59分]"
-        },
-        {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 10时31分]"
-        },
-        {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 19时46分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时09分 ~ 23时59分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时37分 ~ 23时59分]"
-        },
-        {
-          "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
-          "url": "https://wallstreetcn.com/livenews/3098298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            17,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时41分]"
-        },
-        {
-          "title": "博主：美军早就开始用AI进行实战了",
-          "url": "https://www.toutiao.com/trending/7635578022698946102/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            26,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 05时39分]"
-        },
-        {
-          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
-          "url": "https://www.zhihu.com/question/2032522089656230991",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 21时50分]"
-        },
-        {
-          "title": "央视披露公司用AI替岗35岁主管详情",
-          "url": "https://www.toutiao.com/trending/7635183364001234963/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            29,
-            21,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时54分 ~ 07时41分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
           "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 23时59分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
-          "title": "美股三大股指开盘涨跌不一，道指跌0.3%、标普500指数跌0.1%、纳指涨0.01%。存储芯片概念股走强，闪迪涨超3%、美光科技涨4%；eBay上涨5.6%，GameStop下跌6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3098500",
-          "source": "华尔街见闻-快讯",
+          "title": "牛散集体换仓：科技稀土黄金成新猎物",
+          "url": "https://www.toutiao.com/trending/7636037468252278318/",
+          "source": "今日头条",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -313,484 +114,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 23时59分]"
-        },
-        {
-          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "01时45分"
         },
         {
-          "title": "胜宏科技：目前公司高端产品价格较为稳定",
-          "url": "https://wallstreetcn.com/livenews/3098361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "AI狂潮继续！亚太股市逼近历史新高，韩股暴涨4%，SK海力士一度涨14%，恒科指大涨近3%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
-          "url": "https://wallstreetcn.com/articles/3771537",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时45分 ~ 23时59分]"
-        },
-        {
-          "title": "据华尔街日报：游戏驿站(GME.N)提出以每股125美元或约合560亿美元的价格收购eBay(EBAY.O)。",
-          "url": "https://flash.jin10.com/detail/20260504070408438800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "游戏驿站（GameStop）首席执行官Cohen 称提议以560亿美元收购eBay。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3098323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至3%，小米涨超6%，百度涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3098359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "39 岁上海科技大学教授王晨辉为救至亲溺水去世，他的离去带给我们怎样的触动？遇到有人溺水该怎么做？",
-          "url": "https://www.zhihu.com/question/2034260292213945927",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "港股商业航天股延续涨势，金风科技(02208.HK)、亚太卫星(01045.HK)涨超5%，航天控股(00031.HK)涨超3%，钧达股份(02865.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260504095852589800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美国副总统万斯：人工智能是一个在不大幅增加开支的情况下做更多的工具。",
-          "url": "https://flash.jin10.com/detail/20260504233834929800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至2.3%，百度涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3098358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 23时59分]"
-        },
-        {
-          "title": "公司引进AI后将员工降薪裁员",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 14时09分]"
-        },
-        {
-          "title": "港股科技股全线爆发 小米涨超8%",
-          "url": "https://www.toutiao.com/trending/7635863267747659818/",
+          "title": "被AI抢走工作的人在忙什么",
+          "url": "https://www.toutiao.com/trending/7636039859584372251/",
           "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        },
-        {
-          "title": "“房东”骗完租客转头问AI会被抓吗",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D%E9%AA%97%E5%AE%8C%E7%A7%9F%E5%AE%A2%E8%BD%AC%E5%A4%B4%E9%97%AEAI%E4%BC%9A%E8%A2%AB%E6%8A%93%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        },
-        {
-          "title": "港股苹果概念股震荡走高，丘钛科技(01478.HK)涨超8%，高伟电子(01415.HK)涨超6%，舜宇光学科技(02382.HK)涨超4%，瑞声科技(02018.HK)、蓝思科技(06613.HK)涨超3%，比亚迪电子(00285.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260504095528146800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "英特尔(INTC.O)：Alex Katouzian将领导客户端计算与实体AI事业部。",
-          "url": "https://flash.jin10.com/detail/20260504213142329800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "牛散集体换仓：科技稀土黄金成新猎物",
-          "url": "https://www.toutiao.com/trending/7636037468252278318/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
-          "url": "https://wallstreetcn.com/articles/3771508",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "恒指高开1.4%，恒生科技指数涨1.58%",
-          "url": "https://wallstreetcn.com/livenews/3098354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨1.24%，恒生科技指数收涨2.16%。剑桥科技涨约16%，天数智芯涨约20%，小米集团涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3098441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "胜宏科技：目前公司高端产品价格较为稳定",
-          "url": "https://flash.jin10.com/detail/20260504095135949800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美股开盘，道指跌0.3%、标普500指数跌0.1%、纳指平开。存储概念股走强，闪迪(SNDK.O)涨3.2%、美光科技(MU.O)涨4%。",
-          "url": "https://flash.jin10.com/detail/20260504213036971800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "Fujairah：阿联酋政府正设法控制石油设施的火情。",
-          "url": "https://wallstreetcn.com/livenews/3098533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "新西兰联储货币政策委员会成员Gai：当前经济条件支持超越传统框架的建议。",
-          "url": "https://flash.jin10.com/detail/20260504094831597800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3098437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "新西兰联储货币政策委员会成员Gai：只有当同步性高且协调机制有效运行时，先发制人的紧缩才是合理的。",
-          "url": "https://flash.jin10.com/detail/20260504094810391800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "OpenAI与私募巨头敲定100亿美元合资协议",
-          "url": "https://wallstreetcn.com/livenews/3098487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "金价跌2%，布油涨穿114美元，阿联酋称伊朗袭击Fujairah",
-          "url": "https://wallstreetcn.com/livenews/3098531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "新西兰联储货币政策委员会成员Gai：就霍尔木兹海峡冲击模型而言，没有任何信息暗示存在反射性的紧缩倾向。",
-          "url": "https://flash.jin10.com/detail/20260504094755879800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "39 岁上海科技大学教授王晨辉为救至亲溺水去世，我们该如何看待这种舍己救人的行为？",
-          "url": "https://www.zhihu.com/question/2034260292213945927",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "港股高开高走，恒生科技指数涨幅扩大至3%，重回5000点关口；恒生指数涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260504094002651800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "Alphabet与美国官员周四会谈中讨论了人工智能“产能”。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3098482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "如果 AI 演员真的可以普及，你最想看哪个老戏骨被 AI 化，又想看他们出演哪些影片呢？",
-          "url": "https://www.zhihu.com/question/2030620331904333198",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "游戏驿站（GameStop）：提议以每股125美元的价格收购eBay，收购方式为现金加股票。",
-          "url": "https://wallstreetcn.com/livenews/3098341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "港股收评：恒生指数涨1.24% 恒生科技指数涨2.16%",
-          "url": "https://flash.jin10.com/detail/20260504161341969800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "摩根士丹利认为，科技公司财报对股市的影响将超过伊朗战争的影响",
-          "url": "https://flash.jin10.com/detail/20260504182510010800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "小米集团持续走高，目前涨超10%。阿里巴巴、华虹半导体涨超6%。恒生科技指数现涨3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3098378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3098425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "香港恒生指数5月4日（周一）收盘上涨319.35点，涨幅1.24%，报26095.88点；<br/>香港恒生科技指数5月4日（周一）收盘上涨105.38点，涨幅2.16%，报4976.7点；<br/>国企指数5月4日（周一）收盘上涨92.56点，涨幅1.07%，报8774.39点；<br/>红筹指数5月4日（周一）收盘上涨20.91点，涨幅0.48%，报4411.24点。",
-          "url": "https://flash.jin10.com/detail/20260504161115575800",
-          "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "美股存储概念股涨幅扩大，美光科技涨超8％，闪迪涨5％，西部数据涨超3％。",
-          "url": "https://wallstreetcn.com/livenews/3098511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时59分"
-        },
-        {
-          "title": "港股收盘，恒指收涨1.24%，科指收涨2.16%。光通信、芯片股全天走强，剑桥科技(06166.HK)涨约16%，天数智芯(09903.HK)涨约20%，小米集团(01810.HK)涨超6%。",
-          "url": "https://flash.jin10.com/detail/20260504160856400800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "01时45分"
         }
       ]
     }
