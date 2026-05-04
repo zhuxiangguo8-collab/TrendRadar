@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-05T06:55:34.022479+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-05T07:52:39.449490+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时52分]"
+        },
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
           "url": "https://wallstreetcn.com/articles/3771537",
@@ -16,20 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 06时55分]"
-        },
-        {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时52分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.47%，报25885点。 恒生科技指数主连夜盘收跌0.26%，报4972点。",
@@ -54,6 +55,29 @@
           "time_info": "03时24分"
         },
         {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时52分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（5月5日）",
+          "url": "https://flash.jin10.com/detail/20260505072854614800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "标普500指数跌幅收窄至0.35%。 美国总统特朗普声称，美军海格塞斯和Caine将于周二早间举行新闻发布会。 伊朗曾就船只通行问题，对与冲突无关的国家发动过一些打击，包括一艘韩国货船。也许是时候让韩国加入这个行动了。",
           "url": "https://wallstreetcn.com/livenews/3098572",
           "source": "华尔街见闻-快讯",
@@ -65,17 +89,6 @@
           "time_info": "01时45分"
         },
         {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 06时55分]"
-        },
-        {
           "title": "美国豪赌AI,取代人类科学家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
           "source": "贴吧",
@@ -83,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时52分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -94,20 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 06时55分]"
-        },
-        {
-          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
-          "url": "https://wallstreetcn.com/livenews/3098642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时52分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -119,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时52分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -131,8 +132,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时52分]"
+        },
+        {
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 07时52分]"
         },
         {
           "title": "牛散集体换仓：科技稀土黄金成新猎物",
@@ -141,22 +155,24 @@
           "ranks": [
             8,
             26,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 07时52分]"
         },
         {
           "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
           "url": "https://wallstreetcn.com/articles/3771542",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 07时52分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
@@ -183,6 +199,29 @@
           "time_info": "[05时05分 ~ 06时55分]"
         },
         {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 07时52分]"
+        },
+        {
+          "title": "“大空头”Michael Burry清仓游戏驿站，此前游戏驿站宣布将收购eBay。",
+          "url": "https://wallstreetcn.com/livenews/3098648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时52分]"
+        },
+        {
           "title": "被AI抢走工作的人在忙什么",
           "url": "https://www.toutiao.com/trending/7636039859584372251/",
           "source": "今日头条",
@@ -206,15 +245,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
+          "title": "曝 3 月国内市场手机出货量 2115 万部，同比下降 7.1%，这对数码市场意味着什么？",
+          "url": "https://www.zhihu.com/question/2032115251391328602",
+          "source": "知乎",
           "ranks": [
-            10
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "07时52分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.09%，报6881.09点。 热门中概股里，阿特斯太阳能初步收跌5.1%，携程跌2.5%，蔚来涨2.7%，大全新能源涨4%，小马智行涨5.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.66%，中国科技指数ETF（CQQQ）收跌0.27%。 XtrackersHarvest中证50（ASHS）收跌1.02%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%。",
@@ -228,24 +267,13 @@
           "time_info": "05时05分"
         },
         {
-          "title": "“大空头”Michael Burry清仓游戏驿站，此前游戏驿站宣布将收购eBay。",
-          "url": "https://wallstreetcn.com/livenews/3098648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
           "title": "据华尔街日报：“大空头”迈克尔·伯里（Michael Burry）清仓了其在游戏驿站(GME.N)所持有的股份，此前游戏驿站(GME.N)宣布将收购eBay(EBAY.O)。",
           "url": "https://flash.jin10.com/detail/20260505050455944800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -256,7 +284,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
