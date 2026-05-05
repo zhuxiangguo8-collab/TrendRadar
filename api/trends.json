@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T10:26:08.503452+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-05-05T13:40:50.438982+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 10时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 13时40分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -28,11 +28,66 @@
             11,
             1,
             2,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 10时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 13时40分]"
+        },
+        {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 13时40分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 13时40分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 13时40分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 13时40分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -47,54 +102,17 @@
           "time_info": "[01时45分 ~ 10时26分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 10时26分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
+            10,
             9,
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时45分 ~ 10时26分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 10时26分]"
-        },
-        {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 10时26分]"
+          "time_info": "[03时24分 ~ 13时40分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.47%，报25885点。 恒生科技指数主连夜盘收跌0.26%，报4972点。",
@@ -106,29 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "港股半导体股延续昨日强势，澜起科技涨6%，晶门半导体涨近5%，芯智控股涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3098699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
-          "url": "https://wallstreetcn.com/articles/3771542",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时24分 ~ 10时26分]"
         },
         {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
@@ -164,26 +159,39 @@
           "time_info": "01时45分"
         },
         {
-          "title": "港股盘初快速走低，恒生指数、恒生科技指数跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3098695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
           "title": "港股半导体股延续昨日强势，澜起科技(06809.HK)涨超6.5%，晶门半导体(02878.HK)涨超3.5%，芯智控股(02166.HK)涨超3%，中电华大科技(00085.HK)、兆易创新(03986.HK)均涨1%。",
           "url": "https://flash.jin10.com/detail/20260505100722379800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 13时40分]"
+        },
+        {
+          "title": "港股半导体股延续昨日强势，澜起科技涨6%，晶门半导体涨近5%，芯智控股涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3098699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时40分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -197,6 +205,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时05分 ~ 07时52分]"
+        },
+        {
+          "title": "港股盘初快速走低，恒生指数、恒生科技指数跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时40分]"
+        },
+        {
+          "title": "曝 3 月国内市场手机出货量 2115 万部，同比下降 7.1%，这对数码市场意味着什么？",
+          "url": "https://www.zhihu.com/question/2032115251391328602",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 13时40分]"
         },
         {
           "title": "牛散集体换仓：科技稀土黄金成新猎物",
@@ -213,29 +246,6 @@
           "time_info": "[01时45分 ~ 07时52分]"
         },
         {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 10时26分]"
-        },
-        {
-          "title": "曝 3 月国内市场手机出货量 2115 万部，同比下降 7.1%，这对数码市场意味着什么？",
-          "url": "https://www.zhihu.com/question/2032115251391328602",
-          "source": "知乎",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时52分 ~ 10时26分]"
-        },
-        {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
           "url": "https://wallstreetcn.com/livenews/3098641",
           "source": "华尔街见闻-快讯",
@@ -246,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时05分 ~ 06时55分]"
+        },
+        {
+          "title": "港股低开，恒生指数开盘跌0.58%，恒生科技指数跌0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3098693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 13时40分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
@@ -290,20 +312,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
         {
-          "title": "港股低开，恒生指数开盘跌0.58%，恒生科技指数跌0.55%。",
-          "url": "https://wallstreetcn.com/livenews/3098693",
+          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
+          "url": "https://wallstreetcn.com/livenews/3098714",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "13时40分"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -317,13 +339,35 @@
           "time_info": "03时24分"
         },
         {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "中国移动将推出AI-eSIM产品",
+          "url": "https://wallstreetcn.com/livenews/3098701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "恒生科技指数跌幅扩大，现跌超2%，零跑汽车(09863.HK)、地平线机器人(09660.HK)跌超4%，比亚迪股份(01211.HK)、小米集团(01810.HK)跌超3.5%，金山软件(03888.HK)、同程旅行(00780.HK)、小鹏集团(09868.HK)跌超3%。",
           "url": "https://flash.jin10.com/detail/20260505094425511800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -378,7 +422,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -400,7 +444,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
