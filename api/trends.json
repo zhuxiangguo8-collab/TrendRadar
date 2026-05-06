@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-07T02:15:08.868093+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-05-07T04:20:14.032973+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
           "url": "https://www.cls.cn/detail/2363932",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "有AI真好 放以前没十几亿下不来",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
@@ -59,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -71,8 +72,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
@@ -83,8 +84,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -94,8 +95,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -103,33 +104,69 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时20分]"
+        },
+        {
+          "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
+          "url": "https://flash.jin10.com/detail/20260507040722308800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 04时20分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
           "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 04时20分]"
+        },
+        {
+          "title": "UP主解读宇树科技招股书",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%8B%9B%E8%82%A1%E4%B9%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时14分 ~ 02时15分]"
+          "time_info": "[04时19分 ~ 04时20分]"
+        },
+        {
+          "title": "AI记账软件怼用户买的衣服像寿衣",
+          "url": "https://www.baidu.com/s?wd=AI%E8%AE%B0%E8%B4%A6%E8%BD%AF%E4%BB%B6%E6%80%BC%E7%94%A8%E6%88%B7%E4%B9%B0%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%83%8F%E5%AF%BF%E8%A1%A3",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时20分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
@@ -138,9 +175,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至2%，成分股AMD涨18.2%，Arm控股涨14.4%，拉姆研究涨7.7%，阿斯麦ADR涨6.6%，拼多多涨6.3%，英伟达涨5.4%，思科跌3.2%，路透跌3.6%，VRSK跌4.8%，Workday跌5.1%，能源股Diamondback Energy跌6.3%。 纳指涨1.9%，标普涨超1.4%，道指涨700点短暂地重返5万点整数位心理关口上方、涨幅扩大至1.4%。半导体指数涨4.1%，生物科技指数涨2.1%，罗素2000指数涨1.3%。 利弗莫尔中概股龙头指数涨幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3099541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
+          "url": "https://wallstreetcn.com/livenews/3099540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "AI科技拥挤度爆表！5月资金会换新赛道？",
@@ -160,9 +219,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
+          "url": "https://wallstreetcn.com/livenews/3099536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.12%，报26423点。 恒生科技指数主连夜盘收涨1.79%，报5064点。",
+          "url": "https://wallstreetcn.com/livenews/3099533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "英伟达与ServiceNow联手打造新型自主AI智能体。",
@@ -174,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
+          "url": "https://wallstreetcn.com/livenews/3099520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
