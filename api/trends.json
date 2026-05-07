@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T13:59:03.342469+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-05-07T16:38:52.133095+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -140,6 +140,17 @@
           "time_info": "[06时05分 ~ 13时59分]"
         },
         {
+          "title": "消费基金重仓科技股，网友坐不住了，算不算“挂羊头卖狗肉”？",
+          "url": "https://www.cls.cn/detail/2364657",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 16时38分]"
+        },
+        {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
@@ -153,17 +164,6 @@
           "time_info": "[00时03分 ~ 06时05分]"
         },
         {
-          "title": "消费基金重仓科技股，网友坐不住了，算不算“挂羊头卖狗肉”？",
-          "url": "https://www.cls.cn/detail/2364657",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（5月7日）",
           "url": "https://flash.jin10.com/detail/20260507073702439800",
           "source": "金十数据",
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "深交所：对汉嘉数智科技集团股份有限公司业绩预告披露不准确下发监管函。",
+          "url": "https://flash.jin10.com/detail/20260507163104299800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -200,6 +211,17 @@
           "time_info": "[04时19分 ~ 07时46分]"
         },
         {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 16时38分]"
+        },
+        {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -212,15 +234,16 @@
           "time_info": "[02时14分 ~ 04时20分]"
         },
         {
-          "title": "“湖北惊现人造毒大米”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
           "ranks": [
-            11
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时59分]"
+          "time_info": "[13时58分 ~ 16时38分]"
         },
         {
           "title": "EXO ai篡改记忆",
@@ -240,17 +263,6 @@
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -331,7 +343,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -369,13 +381,46 @@
           "time_info": "07时46分"
         },
         {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "歌手2026 AI歌手",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2026%20AI%E6%AD%8C%E6%89%8B&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "A股AI应用板块短线拉升，易点天下涨超10%，引力传媒涨超7%，蓝色光标、浙文互联、天龙集团跟涨。",
           "url": "https://flash.jin10.com/detail/20260507133047188800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -413,6 +458,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3099685",
           "source": "华尔街见闻-快讯",
@@ -422,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.57%，恒生科技指数收涨3.06%。华虹半导体涨超8%，快手、周大福涨超7%。中国石油股份跌逾8%，中国海洋石油跌逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3099865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "AI科技拥挤度爆表！5月资金会换新赛道？",
@@ -496,7 +563,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -507,7 +574,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -529,7 +596,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -606,7 +673,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
