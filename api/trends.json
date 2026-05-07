@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T10:32:24.327966+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-05-07T13:59:03.342469+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 43,
+      "match_count": 54,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -65,11 +65,12 @@
             17,
             18,
             16,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 10时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 13时59分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -77,11 +78,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 10时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 13时59分]"
         },
         {
           "title": "从0开始了解Claude Code",
@@ -124,6 +126,20 @@
           "time_info": "[02时14分 ~ 10时32分]"
         },
         {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时05分 ~ 13时59分]"
+        },
+        {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
@@ -137,6 +153,17 @@
           "time_info": "[00时03分 ~ 06时05分]"
         },
         {
+          "title": "消费基金重仓科技股，网友坐不住了，算不算“挂羊头卖狗肉”？",
+          "url": "https://www.cls.cn/detail/2364657",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（5月7日）",
           "url": "https://flash.jin10.com/detail/20260507073702439800",
           "source": "金十数据",
@@ -146,20 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时05分 ~ 10时32分]"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -199,6 +212,51 @@
           "time_info": "[02时14分 ~ 04时20分]"
         },
         {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 13时59分]"
+        },
+        {
+          "title": "EXO ai篡改记忆",
+          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 13时59分]"
+        },
+        {
+          "title": "比亚迪正式加入IATF AISBL",
+          "url": "https://www.toutiao.com/trending/7636079480591106111/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
           "url": "https://flash.jin10.com/detail/20260507050409862800",
           "source": "金十数据",
@@ -223,6 +281,28 @@
           "time_info": "[06时05分 ~ 06时46分]"
         },
         {
+          "title": "马斯克解散 xAI，并入 SpaceX 更名为 SpaceXAI，此举整合 AI 与航天，背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2035666551223866960",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "xAI更名SpaceXAI",
+          "url": "https://s.weibo.com/weibo?q=%23xAI%E6%9B%B4%E5%90%8DSpaceXAI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "AI记账软件怼用户买的衣服像寿衣",
           "url": "https://www.baidu.com/s?wd=AI%E8%AE%B0%E8%B4%A6%E8%BD%AF%E4%BB%B6%E6%80%BC%E7%94%A8%E6%88%B7%E4%B9%B0%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%83%8F%E5%AF%BF%E8%A1%A3",
           "source": "百度热搜",
@@ -245,13 +325,24 @@
           "time_info": "02时15分"
         },
         {
+          "title": "A股半导体板块午后持续走高，华虹公司涨超10%创新高，澜起科技、阿石创、诚邦股份、裕太微涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "A股PCB概念板块震荡走强，合力泰两连板，山东玻纤封板涨停，同宇新材、兴森科技、大族激光、宏和科技、东材科技、日联科技、埃科光电、乔锋智能、科翔股份盘中创新高。",
           "url": "https://flash.jin10.com/detail/20260507100727254800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -262,7 +353,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -276,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "A股AI应用板块短线拉升，易点天下涨超10%，引力传媒涨超7%，蓝色光标、浙文互联、天龙集团跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507133047188800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股AMD涨18.2%，Arm控股涨14.4%，拉姆研究涨7.7%，阿斯麦ADR涨6.6%，拼多多涨6.3%，英伟达涨5.4%，思科跌3.2%，路透跌3.6%，VRSK跌4.8%，Workday跌5.1%，能源股Diamondback Energy跌6.3%。 纳指涨1.9%，标普涨超1.4%，道指涨700点短暂地重返5万点整数位心理关口上方、涨幅扩大至1.4%。半导体指数涨4.1%，生物科技指数涨2.1%，罗素2000指数涨1.3%。 利弗莫尔中概股龙头指数涨幅扩大至5%。",
@@ -295,7 +397,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -311,24 +413,13 @@
           "time_info": "04时20分"
         },
         {
-          "title": "“湖北惊现人造毒大米”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
           "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3099685",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -342,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "EXO ai篡改记忆",
-          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
         },
         {
           "title": "美联储古尔斯比：如果人工智能如宣传的那样优秀，那将是“美妙的”，但美联储仍需警惕经济过热。",
@@ -394,7 +474,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -410,6 +490,28 @@
           "time_info": "04时20分"
         },
         {
+          "title": "港股锂电池股午后震荡走低，龙蟠科技(02465.HK)跌超11%，天齐锂业(09696.HK)跌超5%，赣锋锂业(01772.HK)跌超4%，中创新航(03931.HK)、中国铝业(02600.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260507132405531800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "港股半导体芯片股午后直线冲高，壁仞科技(06082.HK)涨超17%，华虹半导体(01347.HK)涨近11%，澜起科技(06809.HK)涨超8%，天数智芯(09903.HK)涨超7%，中芯国际(00981.HK)、天域半导体(02658.HK)均涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260507132121540800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨1.12%，报26423点。 恒生科技指数主连夜盘收涨1.79%，报5064点。",
           "url": "https://wallstreetcn.com/livenews/3099533",
           "source": "华尔街见闻-快讯",
@@ -419,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "A股存储芯片板块午后再度拉升，科翔股份涨超13%，华虹公司、盛和晶微、飞凯材料等均涨超11%，迈为科技等跟涨",
+          "url": "https://flash.jin10.com/detail/20260507131932192800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "马斯克详解“Terafab”AI芯片项目：建设自主算力帝国",
@@ -471,7 +584,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -482,9 +595,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，快手涨超7%，华虹半导体涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3099731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "康宁公司（GLW）维持超过14%的涨幅，持稳于185美元附近，美股盘初曾达到195.81美元——盘中涨幅超过20.79%。 英伟达拟向该公司投资高达32亿美元，签署大规模光纤协议并新建三座AI专用工厂。",
@@ -504,7 +628,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
