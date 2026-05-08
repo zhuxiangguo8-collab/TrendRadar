@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:15:45.955003+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-05-08T19:10:54.382105+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时22分 ~ 17时15分]"
+          "appearance_count": 13,
+          "time_info": "[02时22分 ~ 19时10分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -88,6 +88,17 @@
           "time_info": "[07时55分 ~ 13时28分]"
         },
         {
+          "title": "科技赋能中国农业加速跑",
+          "url": "https://www.douyin.com/hot/2492301",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
           "title": "A股光纤概念股再度拉升，昀冢科技20cm涨停，通鼎互联此前封板，长光华芯涨超10%，烽火通信、杭电股份涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3100414",
           "source": "华尔街见闻-快讯",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
-        },
-        {
-          "title": "科技赋能中国农业加速跑",
-          "url": "https://www.douyin.com/hot/2492301",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -141,6 +141,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时10分]"
         },
         {
           "title": "AI四小龙估值破万亿",
@@ -179,18 +193,16 @@
           "time_info": "[06时59分 ~ 07时56分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
           "ranks": [
-            18,
-            15,
-            11,
-            10
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时15分]"
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时10分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -215,6 +227,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 15时25分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时10分]"
+        },
+        {
+          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
+          "url": "https://www.cls.cn/detail/2365785",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 19时10分]"
         },
         {
           "title": "为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”",
@@ -319,17 +354,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
           "title": "OpenAI推出新模型，以供网络安全团队使用",
           "url": "https://flash.jin10.com/detail/20260508065544953800",
           "source": "金十数据",
@@ -369,18 +393,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
-          "url": "https://www.cls.cn/detail/2365785",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -396,15 +409,15 @@
           "time_info": "02时22分"
         },
         {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
+          "title": "国际货币基金组织：AI对金融稳定构成潜在威胁",
+          "url": "https://wallstreetcn.com/livenews/3100631",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "19时10分"
         },
         {
           "title": "OpenAI：开始向用户推出“可信联系人”功能。",
@@ -435,7 +448,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -484,6 +497,17 @@
           "time_info": "10时38分"
         },
         {
+          "title": "南威软件：公司关注到近期市场对算力租赁、人工智能相关概念的关注度较高。目前，公司北京七星园数字经济产业智算中心主体结构仍在建设中，智算运营相关的AI工具仍处于测试阶段，尚未正式发版。公司上述业务收入不足1%，对当期业绩不构成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3100627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
           "title": "消息人士称，SK海力士已收到来自全球科技公司的投资提案，拟投资其芯片生产线，并为极紫外光刻机的采购提供资金。",
           "url": "https://flash.jin10.com/detail/20260508060231911800",
           "source": "金十数据",
@@ -523,7 +547,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -534,9 +558,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "南威软件：公司智算运营相关的AI工具仍处于测试阶段，尚未正式发版",
+          "url": "https://flash.jin10.com/detail/20260508182018476800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "四部门：到2030年，人工智能算力设施的清洁能源供给保障能力和能源领域人工智能应用水平大幅提升",
@@ -545,9 +580,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "三部门：完善政策法规和伦理规范，做好与人工智能伦理审查等制度衔接",
+          "url": "https://wallstreetcn.com/livenews/3100617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "美联储卡什卡利：对人工智能持乐观态度。",
@@ -570,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "三部门：引导国内人工智能开源社区加强智能体布局，开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
+          "url": "https://flash.jin10.com/detail/20260508181508907800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
