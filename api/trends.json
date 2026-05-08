@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-08T21:29:41.547553+08:00",
-  "total_titles_processed": 1548,
-  "failed_sources": [
-    "tieba"
-  ],
+  "generated_at": "2026-05-08T23:26:25.051808+08:00",
+  "total_titles_processed": 1702,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -67,6 +65,21 @@
           "time_info": "[02时22分 ~ 15时25分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时38分 ~ 23时26分]"
+        },
+        {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
           "url": "https://www.cls.cn/detail/2364810",
           "source": "财联社热门",
@@ -90,20 +103,6 @@
           "time_info": "[07时55分 ~ 13时28分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 21时29分]"
-        },
-        {
           "title": "如果打游戏可以上清华，那么清华学生仍是现在那帮人，对吗？",
           "url": "https://www.zhihu.com/question/2028854344368370305",
           "source": "知乎",
@@ -111,8 +110,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时26分]"
         },
         {
           "title": "科技赋能中国农业加速跑",
@@ -132,7 +131,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -143,7 +142,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -165,7 +164,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -203,6 +202,32 @@
           "time_info": "10时38分"
         },
         {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 23时26分]"
+        },
+        {
+          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
+          "url": "https://www.zhihu.com/question/2035827414475993469",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 23时26分]"
+        },
+        {
           "title": "AI四小龙估值破万亿",
           "url": "https://www.toutiao.com/trending/7637337803117825590/",
           "source": "今日头条",
@@ -237,31 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时56分]"
-        },
-        {
-          "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
-          "url": "https://www.zhihu.com/question/2035827414475993469",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 21时29分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 21时29分]"
         },
         {
           "title": "GAI专辑先行曲星梦",
@@ -359,6 +359,17 @@
           "time_info": "[10时38分 ~ 13时28分]"
         },
         {
+          "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
+          "url": "https://www.cls.cn/detail/2366454",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "昆仑芯（北京）科技股份有限公司启动上市辅导",
           "url": "https://flash.jin10.com/detail/20260508071535946800",
           "source": "金十数据",
@@ -409,9 +420,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
+        },
+        {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.87%，报26285点。 恒生科技指数主连夜盘收跌0.51%，报5088点。",
@@ -431,7 +453,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -574,7 +596,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -700,6 +722,17 @@
           "time_info": "19时10分"
         },
         {
+          "title": "顶级玩家已开始让AI用AI",
+          "url": "https://www.toutiao.com/trending/7637442790393122350/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "美联储卡什卡利：对人工智能持乐观态度。",
           "url": "https://flash.jin10.com/detail/20260508014100909800",
           "source": "金十数据",
@@ -720,6 +753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "报道：因担忧人工智能，TCI将微软持仓降至投资组合的1%",
+          "url": "https://wallstreetcn.com/livenews/3100790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "三部门：引导国内人工智能开源社区加强智能体布局，开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
