@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:28:29.272012+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-05-08T15:25:31.833795+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 13时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 15时25分]"
         },
         {
           "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
@@ -41,11 +41,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时22分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 15时25分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -56,11 +57,12 @@
             26,
             28,
             22,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时22分 ~ 13时28分]"
+          "appearance_count": 10,
+          "time_info": "[02时22分 ~ 15时25分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -92,18 +94,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "AI四小龙估值破万亿",
-          "url": "https://www.toutiao.com/trending/7637337803117825590/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -141,6 +132,18 @@
           "time_info": "10时38分"
         },
         {
+          "title": "AI四小龙估值破万亿",
+          "url": "https://www.toutiao.com/trending/7637337803117825590/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 15时25分]"
+        },
+        {
           "title": "消息人士：多家大型科技企业正向SK海力士抛出橄榄枝",
           "url": "https://flash.jin10.com/detail/20260508063241986800",
           "source": "金十数据",
@@ -165,6 +168,19 @@
           "time_info": "[06时59分 ~ 07时56分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 15时25分]"
+        },
+        {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
           "url": "https://www.cls.cn/detail/2365476",
           "source": "财联社热门",
@@ -175,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 13时28分]"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 15时25分]"
         },
         {
           "title": "为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”",
@@ -189,18 +217,6 @@
           "time_info": "[06时59分 ~ 07时56分]"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时28分]"
-        },
-        {
           "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
           "url": "https://www.zhihu.com/question/2035662942067225907",
           "source": "知乎",
@@ -211,6 +227,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 13时28分]"
+        },
+        {
+          "title": "GAI专辑先行曲星梦",
+          "url": "https://www.douyin.com/hot/2491118",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 15时25分]"
         },
         {
           "title": "昆仑芯（北京）科技股份有限公司启动上市辅导",
@@ -230,7 +258,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -244,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.87%，报26285点。 恒生科技指数主连夜盘收跌0.51%，报5088点。",
@@ -301,17 +340,6 @@
           "time_info": "07时56分"
         },
         {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
           "url": "https://flash.jin10.com/detail/20260508020011019800",
           "source": "金十数据",
@@ -332,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "恒生科技指数盘中翻红，此前一度跌近2%，恒生指数跌0.65%，快手(01024.HK)涨近9%，百度(09888.HK)涨近6%，金蝶国际(00268.HK)、金山软件(03888.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260508150117589800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -433,17 +472,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "GAI专辑先行曲星梦",
-          "url": "https://www.douyin.com/hot/2491118",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
           "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
           "url": "https://wallstreetcn.com/livenews/3100197",
           "source": "华尔街见闻-快讯",
@@ -461,7 +489,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
