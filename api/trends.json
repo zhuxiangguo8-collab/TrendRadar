@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T10:38:57.525002+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-05-08T13:28:29.272012+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 10时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时28分]"
         },
         {
           "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
@@ -26,11 +26,12 @@
             10,
             8,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 10时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时28分]"
         },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -43,8 +44,23 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时22分 ~ 13时28分]"
+        },
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            26,
+            28,
+            22,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[02时22分 ~ 10时38分]"
+          "time_info": "[02时22分 ~ 13时28分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -58,20 +74,6 @@
           "time_info": "[00时25分 ~ 04时13分]"
         },
         {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26,
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时22分 ~ 10时38分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
@@ -80,8 +82,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时38分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 13时28分]"
+        },
+        {
+          "title": "A股光纤概念股再度拉升，昀冢科技20cm涨停，通鼎互联此前封板，长光华芯涨超10%，烽火通信、杭电股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3100414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "AI四小龙估值破万亿",
+          "url": "https://www.toutiao.com/trending/7637337803117825590/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -90,7 +114,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -112,7 +136,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -141,6 +165,18 @@
           "time_info": "[06时59分 ~ 07时56分]"
         },
         {
+          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
+          "url": "https://www.cls.cn/detail/2365476",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 13时28分]"
+        },
+        {
           "title": "为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”",
           "url": "https://wallstreetcn.com/livenews/3100232",
           "source": "华尔街见闻-快讯",
@@ -153,6 +189,30 @@
           "time_info": "[06时59分 ~ 07时56分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 13时28分]"
+        },
+        {
+          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
+          "url": "https://www.zhihu.com/question/2035662942067225907",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 13时28分]"
+        },
+        {
           "title": "昆仑芯（北京）科技股份有限公司启动上市辅导",
           "url": "https://flash.jin10.com/detail/20260508071535946800",
           "source": "金十数据",
@@ -162,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "A股光纤概念板块午后再度拉升，昀冢科技20cm涨停，通鼎互联此前封板，长光华芯涨超10%，烽火通信、杭电股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260508131153623800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "企业赴港上市潮涌，硬科技赛道成主力军",
@@ -214,7 +285,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -230,15 +301,15 @@
           "time_info": "07时56分"
         },
         {
-          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
-          "url": "https://www.cls.cn/detail/2365476",
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "13时28分"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -302,18 +373,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
-          "url": "https://www.zhihu.com/question/2035662942067225907",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -327,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
         },
         {
           "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
@@ -357,7 +406,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -379,7 +428,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -390,7 +439,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -404,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850524&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/_7fDx_-OvpA6uVrXJZgJ9.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260508122500600800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "纳斯达克综合指数（纳指）涨穿26000点，创盘中历史新高，当前涨幅超过0.6%，半导体指数跌幅收窄至不足0.7%。 纳斯达克100指数的成分股中，Datadog涨29.6%，Fortinet涨23.5%，Axon Enterprise涨11.1%，Zscaler涨8.2%，派拓网络、CrowdStrike涨6.6%，Palantir、特斯拉涨4%，英伟达涨2.5%，微软涨2.3%，新思科技、铿腾电子、Meta至少涨1.4%，闪迪、Strategy跌2.7%，Diamondback Energy跌3.9%，贝克休斯跌5%，Arm控股跌6.6%，Insmed跌15.8%。",
