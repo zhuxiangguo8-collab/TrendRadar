@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-08T19:10:54.382105+08:00",
-  "total_titles_processed": 1390,
-  "failed_sources": [],
+  "generated_at": "2026-05-08T21:29:41.547553+08:00",
+  "total_titles_processed": 1548,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 57,
+      "match_count": 66,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -88,6 +90,31 @@
           "time_info": "[07时55分 ~ 13时28分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 21时29分]"
+        },
+        {
+          "title": "如果打游戏可以上清华，那么清华学生仍是现在那帮人，对吗？",
+          "url": "https://www.zhihu.com/question/2028854344368370305",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
           "title": "科技赋能中国农业加速跑",
           "url": "https://www.douyin.com/hot/2492301",
           "source": "抖音",
@@ -99,6 +126,28 @@
           "time_info": "[17时15分 ~ 19时10分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：数据显示人们在工作中使用人工智能工具。",
+          "url": "https://flash.jin10.com/detail/20260508211242198800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：人们应该利用人工智能工具来保护职业安全。",
+          "url": "https://flash.jin10.com/detail/20260508211238364800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "A股光纤概念股再度拉升，昀冢科技20cm涨停，通鼎互联此前封板，长光华芯涨超10%，烽火通信、杭电股份涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3100414",
           "source": "华尔街见闻-快讯",
@@ -108,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈AI导致的失业）如今我们正目睹AI创造就业。",
+          "url": "https://flash.jin10.com/detail/20260508211217764800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -141,20 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
-        },
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 19时10分]"
         },
         {
           "title": "AI四小龙估值破万亿",
@@ -198,11 +244,59 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 21时29分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 21时29分]"
+        },
+        {
+          "title": "GAI专辑先行曲星梦",
+          "url": "https://www.douyin.com/hot/2491118",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 21时29分]"
+        },
+        {
+          "title": "日本右翼重金炮制AI假视频抹黑中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E9%87%8D%E9%87%91%E7%82%AE%E5%88%B6AI%E5%81%87%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时15分 ~ 19时10分]"
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "OPPO 母亲节海报文案因称「妈妈有两个老公」引发争议，数码品牌营销的创意边界该如何界定？",
+          "url": "https://www.zhihu.com/question/2036116192138457884",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -227,17 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 15时25分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 19时10分]"
         },
         {
           "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
@@ -274,18 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 13时28分]"
-        },
-        {
-          "title": "GAI专辑先行曲星梦",
-          "url": "https://www.douyin.com/hot/2491118",
-          "source": "抖音",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 15时25分]"
         },
         {
           "title": "昆仑芯（北京）科技股份有限公司启动上市辅导",
@@ -332,6 +403,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：过去两个月的就业数据非常亮眼。 就业市场“异常火爆”。 现在我们看到人工智能正在创造就业。 尽管石油价格和就业形势，但核心通胀率依然保持稳定。 没有迹象表明通胀失控，美联储无需加息。 我认为我们今年会看到降息，因为美联储主席提名人沃什。",
+          "url": "https://wallstreetcn.com/livenews/3100750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.87%，报26285点。 恒生科技指数主连夜盘收跌0.51%，报5088点。",
           "url": "https://wallstreetcn.com/livenews/3100161",
           "source": "华尔街见闻-快讯",
@@ -341,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "网红牛散“鑫多多”陷争议，10倍“妖股”国晟科技游资魅影重重",
+          "url": "https://wallstreetcn.com/livenews/3100748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
@@ -415,7 +508,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -475,6 +568,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "贝莱德：非农对美联储意味着维持现状 宏观叙事已被AI主题主导",
+          "url": "https://flash.jin10.com/detail/20260508210349784800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3100153",
           "source": "华尔街见闻-快讯",
@@ -503,7 +607,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -569,7 +673,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -591,7 +695,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -624,7 +728,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
