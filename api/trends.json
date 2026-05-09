@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-05-09T21:08:24.356468+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-05-09T22:47:25.536251+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时47分]"
+        },
+        {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时47分]"
+        },
         {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
           "url": "https://www.cls.cn/detail/2366454",
@@ -21,34 +53,18 @@
           "time_info": "[01时12分 ~ 15时53分]"
         },
         {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时08分]"
-        },
-        {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
             11,
-            9,
-            6,
-            3,
-            2
+            8,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时08分]"
+          "time_info": "[13时46分 ~ 22时47分]"
         },
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
@@ -65,18 +81,34 @@
           "time_info": "[10时32分 ~ 21时08分]"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
+            20,
+            18,
+            16,
+            13,
+            9,
             8,
-            5,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时46分 ~ 21时08分]"
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 22时47分]"
+        },
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 22时47分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -107,33 +139,19 @@
           "time_info": "[10时32分 ~ 21时08分]"
         },
         {
-          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
-          "source": "澎湃新闻",
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            18,
-            16,
-            13,
+            11,
+            7,
+            8,
             9,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 21时08分]"
-        },
-        {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时08分]"
+          "appearance_count": 8,
+          "time_info": "[15时52分 ~ 22时47分]"
         },
         {
           "title": "私募和AI合体意味着什么",
@@ -151,18 +169,18 @@
           "time_info": "[01时12分 ~ 10时32分]"
         },
         {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
+          "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
+          "url": "https://www.cls.cn/detail/2366912",
           "source": "财联社热门",
           "ranks": [
-            11,
             7,
-            8,
-            9
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时52分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 22时47分]"
         },
         {
           "title": "如果打游戏可以上清华，那么清华学生仍是现在那帮人，对吗？",
@@ -216,17 +234,29 @@
           "time_info": "[13时46分 ~ 21时08分]"
         },
         {
-          "title": "谁是这波增量资金主力？融资净买入创年内新高，加杠杆押科技",
-          "url": "https://www.cls.cn/detail/2366912",
+          "title": "科技赋能 向新而行",
+          "url": "https://www.toutiao.com/trending/7637788918914859071/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
+          "url": "https://www.cls.cn/detail/2366890",
           "source": "财联社热门",
           "ranks": [
+            13,
+            9,
             7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 22时47分]"
         },
         {
           "title": "工信部启动人工智能科技伦理审查与服务先导计划",
@@ -238,6 +268,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 22时47分]"
         },
         {
           "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
@@ -302,17 +346,16 @@
           "time_info": "[07时55分 ~ 10时32分]"
         },
         {
-          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
-          "url": "https://www.cls.cn/detail/2366890",
-          "source": "财联社热门",
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            9,
-            7
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时08分]"
+          "time_info": "[17时16分 ~ 22时47分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -324,19 +367,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 05时57分]"
-        },
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时54分 ~ 21时08分]"
         },
         {
           "title": "美联储报告：地缘政治风险、石油冲击、人工智能、私人信贷以及持续通胀/货币紧缩是威胁美国金融稳定的五大主要风险。",
@@ -361,6 +391,19 @@
           "time_info": "[04时56分 ~ 07时55分]"
         },
         {
+          "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
+          "url": "https://wallstreetcn.com/livenews/3101064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 22时47分]"
+        },
+        {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.74%，刷新收盘历史高位至6573.22点；可选消费、原材料、房地产、日用消费品板块至多涨0.5%，工业、能源、金融、保健、公用事业板块至多跌0.91%。",
           "url": "https://wallstreetcn.com/livenews/3100914",
           "source": "华尔街见闻-快讯",
@@ -372,6 +415,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时56分 ~ 06时55分]"
+        },
+        {
+          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 22时47分]"
         },
         {
           "title": "振华科技：公司光电耦合器系列产品在光通信、光模块等领域已实现应用",
@@ -387,29 +443,6 @@
           "time_info": "[18时55分 ~ 21时08分]"
         },
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 21时08分]"
-        },
-        {
-          "title": "千亿级私募景林资产一季度大手笔加码科技与消费",
-          "url": "https://wallstreetcn.com/livenews/3101064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时08分]"
-        },
-        {
           "title": "美股信息科技指数收涨约4.2%",
           "url": "https://wallstreetcn.com/livenews/3100957",
           "source": "华尔街见闻-快讯",
@@ -420,18 +453,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 10时32分]"
-        },
-        {
-          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时08分]"
         },
         {
           "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
@@ -539,6 +560,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "郑栅洁主任赴上海人工智能实验室调研",
           "url": "https://flash.jin10.com/detail/20260509094422079800",
           "source": "金十数据",
@@ -572,6 +604,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
+          "url": "https://www.zhihu.com/question/2034624017219499142",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
           "url": "https://wallstreetcn.com/livenews/3100859",
           "source": "华尔街见闻-快讯",
@@ -581,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "本周，标普累涨2.2%，连涨六周；道指累涨0.1%，纳指累涨0.1%，半导体指数累涨约11%。 标普500指数初步收涨0.8%，科技板块涨2.6%，能源板块跌0.8%。 纳斯达克100指数初步收涨2.3%，成分股中，闪迪初步收涨16.3%，美光科技涨14.9%，英特尔涨14.1%，AMD涨11.5%，高通涨8.3%，阿斯麦ADR涨4.3%，特斯拉涨3.6%，西部数据涨3.3%，苹果涨2.1%，Doordash跌3.2%，Axon跌5.8%，CSGP跌6.1%，AppLovin跌6.3%，MercadoLibre跌12.5%。 麦当劳初步收跌3%，Salesforce跌2.6%，摩根大通跌1.5%，领跌道指成分股，英伟达涨1.7%，联合健康涨2.5%，波音涨2.9%，思科涨4.8%，与苹果领跑。",
