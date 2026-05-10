@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:53:43.101096+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-05-11T05:44:17.295960+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -38,19 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
-        },
-        {
-          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
-          "url": "https://www.cls.cn/detail/2366890",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -60,11 +49,23 @@
             6,
             9,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
+        },
+        {
+          "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
+          "url": "https://www.cls.cn/detail/2366890",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -73,11 +74,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -87,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -98,11 +100,12 @@
             24,
             20,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -113,8 +116,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时44分]"
         },
         {
           "title": "如何评价改编自经典游戏的动作电影《真人快打 2》？",
@@ -122,11 +125,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时58分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时58分 ~ 05时44分]"
         },
         {
           "title": "AI正在污染我们的判断力",
