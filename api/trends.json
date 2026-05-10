@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:09:56.793620+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-05-10T22:49:49.596079+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 21时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 22时49分]"
         },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -91,8 +91,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 21时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 22时49分]"
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时43分 ~ 22时49分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -108,19 +121,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 14时08分]"
-        },
-        {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时43分 ~ 21时09分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -148,6 +148,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时43分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 22时49分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -186,19 +199,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时51分 ~ 06时39分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 21时09分]"
         },
         {
           "title": "男子打游戏中闪光弹主机不断冒火花",
@@ -287,17 +287,6 @@
           "time_info": "[00时51分 ~ 06时39分]"
         },
         {
-          "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
-          "url": "https://flash.jin10.com/detail/20260510100308967800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "妈妈的AI在岁月里具象",
           "url": "https://www.douyin.com/hot/2494006",
           "source": "抖音",
@@ -309,8 +298,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 21时09分]"
+          "appearance_count": 6,
+          "time_info": "[14时08分 ~ 22时49分]"
+        },
+        {
+          "title": "消息人士：阿里巴巴将把千问AI与淘宝整合，推出智能购物服务",
+          "url": "https://flash.jin10.com/detail/20260510100308967800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
@@ -349,6 +349,34 @@
           "time_info": "[10时35分 ~ 18时11分]"
         },
         {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 22时49分]"
+        },
+        {
+          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
+          "url": "https://wallstreetcn.com/livenews/3101113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            17,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 22时49分]"
+        },
+        {
           "title": "Cui71 韩国游戏",
           "url": "https://s.weibo.com/weibo?q=Cui71%20%E9%9F%A9%E5%9B%BD%E6%B8%B8%E6%88%8F&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -361,20 +389,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时55分 ~ 05时40分]"
-        },
-        {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 21时09分]"
         },
         {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
@@ -417,16 +431,16 @@
           "time_info": "[14时08分 ~ 19时48分]"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
+          "title": "“科技叙事”正在重构资本市场底色",
+          "url": "https://www.cls.cn/detail/2367094",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时51分 ~ 21时09分]"
+          "time_info": "[14时08分 ~ 22时49分]"
         },
         {
           "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
@@ -454,18 +468,6 @@
           "time_info": "[07时43分 ~ 14时08分]"
         },
         {
-          "title": "“科技叙事”正在重构资本市场底色",
-          "url": "https://www.cls.cn/detail/2367094",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 19时48分]"
-        },
-        {
           "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
           "url": "https://wallstreetcn.com/articles/3771897",
           "source": "华尔街见闻",
@@ -476,6 +478,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 14时08分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时49分]"
         },
         {
           "title": "用AI花3个月完成百名程序员7年工作",
@@ -523,17 +536,6 @@
           "time_info": "07时43分"
         },
         {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
@@ -554,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "科技巨头争相投资SK海力士生产线",
