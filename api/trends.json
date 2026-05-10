@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T03:59:11.771881+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-05-11T04:53:43.101096+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
           "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "美科技股“火爆行情”很快结束？资深分析师列四大信号力证！",
@@ -48,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -62,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -75,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -86,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -96,11 +97,12 @@
           "ranks": [
             24,
             20,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -111,8 +113,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 04时53分]"
+        },
+        {
+          "title": "如何评价改编自经典游戏的动作电影《真人快打 2》？",
+          "url": "https://www.zhihu.com/question/2035872181381486169",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时58分 ~ 04时53分]"
         },
         {
           "title": "AI正在污染我们的判断力",
@@ -150,15 +164,16 @@
           "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "如何评价改编自经典游戏的动作电影《真人快打 2》？",
-          "url": "https://www.zhihu.com/question/2035872181381486169",
-          "source": "知乎",
+          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
+          "url": "https://flash.jin10.com/detail/20260511030929783800",
+          "source": "金十数据",
           "ranks": [
-            19
+            10,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时58分 ~ 03时59分]"
+          "time_info": "[03时59分 ~ 04时53分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -171,17 +186,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时48分]"
-        },
-        {
-          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
-          "url": "https://flash.jin10.com/detail/20260511030929783800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         }
       ]
     }
