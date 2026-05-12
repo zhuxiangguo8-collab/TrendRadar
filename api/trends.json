@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T17:35:26.081271+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-05-12T19:52:23.604393+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 53,
+      "match_count": 62,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -17,11 +17,30 @@
             8,
             1,
             6,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 17时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 19时52分]"
+        },
+        {
+          "title": "AI时代如何评价各专业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            18,
+            20,
+            25,
+            24,
+            26,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 19时52分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -40,24 +59,6 @@
           "time_info": "[00时31分 ~ 17时35分]"
         },
         {
-          "title": "AI时代如何评价各专业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            18,
-            20,
-            25,
-            24,
-            26,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 17时35分]"
-        },
-        {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
@@ -67,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 17时35分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 19时52分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -83,8 +84,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 14时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 19时52分]"
+        },
+        {
+          "title": "宇树科技发布载人变形机甲 390万起",
+          "url": "https://www.toutiao.com/trending/7638860347448757798/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 19时52分]"
         },
         {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
@@ -110,15 +123,17 @@
           "time_info": "10时37分"
         },
         {
-          "title": "宇树科技发布载人变形机甲 390万起",
-          "url": "https://www.toutiao.com/trending/7638860347448757798/",
-          "source": "今日头条",
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
           "ranks": [
-            2
+            10,
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时52分]"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -154,6 +169,18 @@
           "time_info": "10时37分"
         },
         {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时52分]"
+        },
+        {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2367918",
           "source": "财联社热门",
@@ -176,30 +203,6 @@
           "time_info": "14时12分"
         },
         {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时35分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时35分]"
-        },
-        {
           "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
           "url": "https://www.cls.cn/detail/2368705",
           "source": "财联社热门",
@@ -208,8 +211,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时52分]"
+        },
+        {
+          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
+          "url": "https://www.zhihu.com/question/1969364589067105538",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 19时52分]"
         },
         {
           "title": "为什么《王者荣耀世界》的开发成本看起来这么高？游戏开发的主要开销在哪里？",
@@ -225,17 +242,17 @@
           "time_info": "[02时56分 ~ 06时04分]"
         },
         {
-          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
-          "url": "https://www.zhihu.com/question/1969364589067105538",
-          "source": "知乎",
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            9,
-            10
+            16,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时37分 ~ 17时35分]"
+          "time_info": "[14时12分 ~ 19时52分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，能源板块收涨2.63%，原材料、工业、信息技术/科技板块至少涨1%，电信板块则收跌2.33%。",
@@ -250,16 +267,27 @@
           "time_info": "[04时46分 ~ 06时04分]"
         },
         {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
+          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
+          "url": "https://www.zhihu.com/question/2033154931448918850",
+          "source": "知乎",
           "ranks": [
-            16,
-            11
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时35分]"
+          "time_info": "[17时35分 ~ 19时52分]"
+        },
+        {
+          "title": "专访硅谷AI大佬姚顺宇",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%93%E8%AE%BF%E7%A1%85%E8%B0%B7AI%E5%A4%A7%E4%BD%AC%E5%A7%9A%E9%A1%BA%E5%AE%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "韩国政策高层称人工智能公民红利将取自超额税收 而非企业利润",
@@ -284,6 +312,28 @@
           "time_info": "10时37分"
         },
         {
+          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
+          "url": "https://www.cls.cn/detail/2369167",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "申万宏源：子公司31亿元科技创新公司债券将于5月11日深交所上市",
+          "url": "https://flash.jin10.com/detail/20260512193731040800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "标普500指数初步收涨0.1%，能源板块涨2.6%，科技板块涨0.9%，电信板块跌2.2%。 纳斯达克100指数初步收涨0.2%，成分股中，高通初步收涨8.6%，西部数据涨7.3%，美光涨6.8%，希捷科技涨6.3%，Strategy涨4.4%，Diamondback Energy涨4.1%，Booking、罗斯百货跌4.9%，Workday跌5%，ISRG跌6.6%，Shopify跌7.2%。 费城半导体指数涨2.6%。",
           "url": "https://wallstreetcn.com/livenews/3101840",
           "source": "华尔街见闻-快讯",
@@ -293,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "中微公司：发行股份及支付现金购买杭州众硅电子科技有限公司64.69%股权",
+          "url": "https://flash.jin10.com/detail/20260512193455028800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "英国金融科技公司 Wise 在美双重上市，完成交易首秀",
@@ -356,7 +417,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -414,17 +475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
-          "url": "https://www.zhihu.com/question/2033154931448918850",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段",
@@ -526,6 +576,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "宇树科技回应机甲390万元起：目前价格确实比较贵，功能优化和降低成本仍需要时间",
+          "url": "https://wallstreetcn.com/livenews/3102235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "AI会取代哪些职业？多个AI意见不统一",
           "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
           "source": "百度热搜",
@@ -559,6 +620,28 @@
           "time_info": "14时12分"
         },
         {
+          "title": "中天科技成交额创历史“天量”",
+          "url": "https://www.toutiao.com/trending/7638925589017247787/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "中英战略科技工作组第一次会议成功举行",
+          "url": "https://flash.jin10.com/detail/20260512192413095800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
           "url": "https://wallstreetcn.com/livenews/3101938",
           "source": "华尔街见闻-快讯",
@@ -576,7 +659,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -592,6 +675,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "中国华能董事长会见宇树科技创始人",
+          "url": "https://www.toutiao.com/trending/7638871622849527862/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
           "url": "https://flash.jin10.com/detail/20260512013750764800",
           "source": "金十数据",
@@ -601,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "宇树科技发布载人机甲，投资人回应",
+          "url": "https://wallstreetcn.com/livenews/3102231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "周一（5月11日），美股信息科技指数收涨2.30%，报397.38点，再创收盘历史新高。 成分股Lumentum Holdings Inc.（LITE）收涨16.52%领跑，创2025年11月以来最大单日涨幅；IonQ涨15.54%，高意公司/相干公司Coherent涨13.25%，Credo科技集团涨11.52%，康宁公司涨10.94%，高通涨8.42%表现第六，SoundHound则收跌4.84%跌幅第五大，Workday跌5.01%，戴尔科技跌5.15%，超微电脑跌5.23%，IREN跌9.89%。",
@@ -620,7 +725,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
