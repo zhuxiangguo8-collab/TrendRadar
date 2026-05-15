@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-05-16T05:56:52.812175+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-16T06:54:02.208207+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时54分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时54分]"
+        },
         {
           "title": "OpenAI与Plaid构建合作伙伴关系，将利用ChatGPT提供个性化金融顾问服务。",
           "url": "https://wallstreetcn.com/livenews/3104554",
@@ -17,6 +43,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
+          "url": "https://www.zhihu.com/question/2037259013860087102",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时54分]"
         },
         {
           "title": "Anthropic：普华永道（PwC）将推出Claude Code & CoWork。 普华永道在Claude的基础上推出新的Finance Business Group。",
@@ -41,17 +80,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 05时56分]"
-        },
-        {
           "title": "AI威胁逼近，底特律三巨头已削减超2万个美国受薪职位",
           "url": "https://wallstreetcn.com/livenews/3104552",
           "source": "华尔街见闻-快讯",
@@ -64,30 +92,29 @@
           "time_info": "[00时04分 ~ 02时20分]"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
+          "title": "国行Switch成单机游戏机",
+          "url": "https://www.douyin.com/hot/2499780",
+          "source": "抖音",
           "ranks": [
-            19,
-            17,
-            10,
-            6
+            26,
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时04分 ~ 05时56分]"
+          "time_info": "[02时20分 ~ 06时54分]"
         },
         {
-          "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
-          "url": "https://www.zhihu.com/question/2037259013860087102",
-          "source": "知乎",
+          "title": "美股收盘：三大指数收低 科技股显著回调",
+          "url": "https://flash.jin10.com/detail/20260516040037420800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            18
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时54分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -102,28 +129,50 @@
           "time_info": "[00时04分 ~ 04时14分]"
         },
         {
-          "title": "美股收盘：三大指数收低 科技股显著回调",
-          "url": "https://flash.jin10.com/detail/20260516040037420800",
-          "source": "金十数据",
+          "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
+          "url": "https://www.zhihu.com/question/2038779949444757193",
+          "source": "知乎",
           "ranks": [
-            7,
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时56分]"
+          "time_info": "[06时53分 ~ 06时54分]"
         },
         {
-          "title": "国行Switch成单机游戏机",
-          "url": "https://www.douyin.com/hot/2499780",
-          "source": "抖音",
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
           "ranks": [
-            26,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时20分 ~ 05时56分]"
+          "time_info": "[06时53分 ~ 06时54分]"
+        },
+        {
+          "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3104628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
+          "url": "https://wallstreetcn.com/livenews/3104627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "云南小伙用AI制作短片爆红",
@@ -135,6 +184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 04时14分]"
+        },
+        {
+          "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
+          "url": "https://wallstreetcn.com/livenews/3104626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "据华尔街日报：Anthropic正寻求再融资300亿美元，人工智能实验室正在吸纳风险投资的大部分资金。",
@@ -170,37 +231,15 @@
           "time_info": "00时04分"
         },
         {
-          "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3104628",
+          "title": "美国总统特朗普：AI是一个了不起的东西。",
+          "url": "https://wallstreetcn.com/livenews/3104655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
-          "url": "https://wallstreetcn.com/livenews/3104627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
-          "url": "https://wallstreetcn.com/livenews/3104626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "06时54分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
@@ -220,7 +259,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -242,7 +281,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
@@ -253,7 +292,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
         },
