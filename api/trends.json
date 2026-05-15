@@ -1,881 +1,110 @@
 {
-  "generated_at": "2026-05-15T21:58:12.803840+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-05-16T00:04:19.992552+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 75,
+      "match_count": 9,
       "titles": [
         {
-          "title": "国家反诈中心APP 检测AI图",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83APP%20%E6%A3%80%E6%B5%8BAI%E5%9B%BE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "OpenAI与Plaid构建合作伙伴关系，将利用ChatGPT提供个性化金融顾问服务。",
+          "url": "https://wallstreetcn.com/livenews/3104554",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            2,
-            4,
-            9
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 10时45分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
-          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
-          "source": "澎湃新闻",
+          "title": "AI威胁逼近，底特律三巨头已削减超2万个美国受薪职位",
+          "url": "https://wallstreetcn.com/livenews/3104552",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            17,
-            13,
-            12
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 21时58分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic正寻求再融资300亿美元，人工智能实验室正在吸纳风险投资的大部分资金。",
+          "url": "https://flash.jin10.com/detail/20260515233259808800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时49分 ~ 21时58分]"
-        },
-        {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5,
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 19时53分]"
-        },
-        {
-          "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
-          "url": "https://www.cls.cn/detail/2371678",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 10时45分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
           "url": "https://wallstreetcn.com/articles/3772300",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 21时58分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
-          "title": "国行Switch成单机游戏机",
-          "url": "https://www.douyin.com/hot/2499780",
-          "source": "抖音",
+          "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
+          "url": "https://wallstreetcn.com/livenews/3104546",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            19,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 21时58分]"
-        },
-        {
-          "title": "美记者在北京体验中国科技",
-          "url": "https://www.douyin.com/hot/2498543",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 10时45分]"
-        },
-        {
-          "title": "美股三大股指集体低开，道指跌0.66%，标普500指数跌0.85%，纳指跌1.3%。科技股多数下跌，英特尔、美光科技跌超5%，英伟达跌超2%。微软开盘涨1%，比尔·阿克曼表示，潘兴广场重仓微软。",
-          "url": "https://wallstreetcn.com/livenews/3104481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "官方慌神?洛手急聘游戏策划",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354239&amp;topic_name=%E5%AE%98%E6%96%B9%E6%85%8C%E7%A5%9E%3F%E6%B4%9B%E6%89%8B%E6%80%A5%E8%81%98%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 10时45分]"
-        },
-        {
-          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
-          "url": "https://www.zhihu.com/question/2037926535315677917",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
-        },
-        {
-          "title": "港股低开低走，恒生指数跌1%，恒生科技指数跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260515102503291800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
-          "url": "https://wallstreetcn.com/livenews/3103819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
-          "url": "https://wallstreetcn.com/articles/3772167",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时08分]"
-        },
-        {
-          "title": "xAI正式推出Grok Build早期测试版，旨在为超级Grok重度用户提供编码代理服务。",
-          "url": "https://flash.jin10.com/detail/20260515021742369800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "香港恒生指数日内跌幅扩大至1%，恒生科技指数跌1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3104044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "股价大跌因“谈价失败”？胜宏科技回应：不实信息",
-          "url": "https://wallstreetcn.com/livenews/3104153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "北自科技：公司关注到市场对人形机器人概念关注度较高，经自查，截至本公告披露日，公司聚焦产业化落地，未生产人形机器人本体及零部件，亦未发现其他可能或已经对公司股票交易价格产生影响的媒体报道、市场传闻或涉及其他热点概念的事项。",
-          "url": "https://wallstreetcn.com/livenews/3104405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时49分 ~ 21时58分]"
-        },
-        {
-          "title": "美国期权交易员加码看涨中国科技股",
-          "url": "https://wallstreetcn.com/livenews/3103951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "Codex登陆ChatGPT手机App",
-          "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
-          "url": "https://wallstreetcn.com/livenews/3103912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "液冷概念股逆势活跃，大元泵业拉升封板，金富科技此前涨停，润泽科技、领益智造、网宿科技、强瑞技术涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3104041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2371414",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
-        },
-        {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 17时50分]"
-        },
-        {
-          "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
-          "url": "https://www.cls.cn/detail/2371337",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
-        },
-        {
-          "title": "周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数ETF跌0.76%。",
-          "url": "https://wallstreetcn.com/livenews/3103886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时08分]"
-        },
-        {
-          "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨1.85%，能源板块涨0.77%，原材料板块跌0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3103884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时08分]"
-        },
-        {
-          "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
-          "url": "https://flash.jin10.com/detail/20260515041632296800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时08分]"
-        },
-        {
-          "title": "Cerebras Systems美国IPO首日收涨68.15%，报311.07美元。 半导体概念股中，思科也涨13.41%，Wolfspeed涨11.76%，Nova涨10.42%，联电涨7.6%，博通、纳微半导体、台积电、英伟达涨5.52%-4.39%，安费诺涨3.65%。 凌云半导体则跌2.17%，慧荣科技跌2.23%，美光跌3.44%，英特尔跌3.62%，虎虎科技跌3.72%，闪迪跌4.46%，高通跌6.14%。",
-          "url": "https://wallstreetcn.com/livenews/3103883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时08分]"
-        },
-        {
-          "title": "xAI发布Grok Build的一个早期测试版。",
-          "url": "https://wallstreetcn.com/livenews/3103859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 04时26分]"
-        },
-        {
-          "title": "黄仁勋谈中国AI发展",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            27,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 06时08分]"
-        },
-        {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 19时53分]"
-        },
-        {
-          "title": "AI还原烂梗有多毒",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 07时55分]"
+          "time_info": "00时04分"
         },
         {
           "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
           "url": "https://www.zhihu.com/question/2037259013860087102",
           "source": "知乎",
           "ranks": [
-            20,
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 21时58分]"
-        },
-        {
-          "title": "AI续写轻音少女第三季",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 06时08分]"
-        },
-        {
-          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
-          "url": "https://wallstreetcn.com/articles/3772269",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 04时26分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
-          "url": "https://flash.jin10.com/detail/20260515040418915800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时08分]"
-        },
-        {
-          "title": "智界V9首发9大安全黑科技",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E7%95%8CV9%E9%A6%96%E5%8F%919%E5%A4%A7%E5%AE%89%E5%85%A8%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
           "url": "https://www.zhihu.com/question/2035685308566610183",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
-        },
-        {
-          "title": "外交部回应中美人工智能合作",
-          "url": "https://www.toutiao.com/trending/7639709816608276534/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
-        },
-        {
-          "title": "“股王”源杰科技副总经理被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%BA%90%E6%9D%B0%E7%A7%91%E6%8A%80%E5%89%AF%E6%80%BB%E7%BB%8F%E7%90%86%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 06时08分]"
-        },
-        {
-          "title": "周四（5月14日），美股信息科技指数涨0.89%，报394.40点。 成分股Onda Inc.收涨26.52%，思科系统涨13.41%，AppLovin涨6.97%，Nebius涨6.70%，惠与（HPE）涨6.42%，Lumentum则收跌2.77%，美光跌3.44%，英特尔跌3.62%，闪迪跌4.46%，高通跌6.14%。 在标普500指数科技板块，成分股思科、AppLovin、惠与领跑，美光、英特尔、闪迪、高通领跌。",
-          "url": "https://wallstreetcn.com/livenews/3103911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "恒生科技指数午后跌幅扩大至3%。",
-          "url": "https://wallstreetcn.com/livenews/3104148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "安徽：充分发挥科技“策源”价值 支持企业创新创造",
-          "url": "https://wallstreetcn.com/livenews/3104401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
-          "url": "https://flash.jin10.com/detail/20260515021140763800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "创业板指跌幅收窄至0.7%，快手概念、氟化工、短剧游戏、足球概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260515101804965800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
-          "url": "https://wallstreetcn.com/livenews/3103910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "科技软件公司Figma美股盘后上涨8.5%，公司上调年度营收预期，前预计2026年营收将在14.2亿美元至14.3亿美元之间，此前预测为13.6亿美元至13.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260515052821816800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "马化腾称一年前以为上了 AI 的船，结果发现漏水了，腾讯的 AI 哪里「漏水」了？还有机会补救吗？",
-          "url": "https://www.zhihu.com/question/2038001830735655715",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "从2600到8000：仅一年AI狂潮引爆韩国股市",
-          "url": "https://flash.jin10.com/detail/20260515101412153800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "标普500指数初步收涨0.7%，科技板块涨1.8%，能源板块涨0.7%，金融板块涨0.5%，原材料板块跌0.8%。 纳斯达克100指数初步收涨0.7%，成分股中，思科系统初步收涨13.3%，AppLovin涨7.1%，TTWO涨6.9%，博通涨5.7%，美光科技跌2.9%，英特尔跌3.4%，汤森路透跌3.6%，拼多多跌4.1%，闪迪跌4.9%，高通跌6.1%。 英伟达初步收涨4.4%，与思科领跑道指成分股，亚马逊、3M跌1.3%，波音跌超4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3103875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
-          "url": "https://wallstreetcn.com/livenews/3104308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
-          "url": "https://www.cls.cn/detail/2371792",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "帝国时代 2 中有没有哪些科技是毫无作用的？",
-          "url": "https://www.zhihu.com/question/321788002",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "港股风电股震荡走低，金风科技(02208.HK)跌超5%，协和新能源(00182.HK)、东方电气(01072.HK)跌超3%，大唐新能源(01798.HK)跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260515100747051800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.02%，报26341点。 恒生科技指数主连夜盘收跌0.43%，报5066点。",
-          "url": "https://wallstreetcn.com/livenews/3103865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
-          "url": "https://www.zhihu.com/question/2038588162453104310",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
-          "url": "https://wallstreetcn.com/livenews/3103841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "00时04分"
         },
         {
-          "title": "港股光通信板块集体走弱，华虹半导体(01347.HK)、长飞光纤光缆(06869.HK)跌超7%，剑桥科技(06166.HK)、汇聚科技(01729.HK)、曦智科技-P(01879.HK)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260515100618779800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "CPO概念股再度拉升，铭普光磁直线涨停，光莆股份涨超10%，杰普特、泰晶科技、中富电路、锐捷网络跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3104009",
+          "title": "英国政府：企业应采取措施限制前沿AI模型的风险",
+          "url": "https://wallstreetcn.com/livenews/3104522",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "AI扩建，驱动美国最大电网电费暴涨76%",
-          "url": "https://wallstreetcn.com/livenews/3103927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：生产力强劲，不仅仅与AI有关。 预计生产力将继续强劲增长。 理解市场为何对经济的未来感到乐观。",
-          "url": "https://wallstreetcn.com/livenews/3103926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
-          "url": "https://wallstreetcn.com/livenews/3103925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "股价大跌因“谈价失败”？胜宏科技回应：不实信息",
-          "url": "https://flash.jin10.com/detail/20260515135514849800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "道指涨幅扩大至1%，伊朗战争爆发以来首次创盘中历史新高，标普涨0.96%、科技板块涨1.9%，纳指涨1.1%，半导体指数涨超0.5%，银行指数涨1.3%，罗素2000指数涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3103830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "中芯国际赵海军：一季度产能利用率环比下滑受AI“虹吸效应”及新厂走出开办期影响",
-          "url": "https://wallstreetcn.com/livenews/3104003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "我被AI短剧盗脸了",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E4%BA%86&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "任泽平谈科技牛还能走多远",
-          "url": "https://www.toutiao.com/trending/7639756540135607849/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "港股午后扩大跌幅，恒生科技指数跌超3%，恒生指数跌近2%。",
-          "url": "https://flash.jin10.com/detail/20260515135347361800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "美股开盘，道指跌0.66%，标普500指数跌0.85%，纳指跌1.3%。AI芯片股普跌，英特尔(INTC.O)跌超5%，百度(BIDU.O)跌近4%，AMD(AMD.O)跌3.5%，英伟达(NVDA.O)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260515213022273800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "氟化工概念开盘强势，滨化股份、中欣氟材一字涨停，中巨芯涨超15%，金石资源、多氟多、巨化股份、永和股份、三美股份纷纷高开，业内人士透露，韩国无水氢氟酸生产商包括Solbrain、ENF Technology、Huseong等将向包括三星电子和SK海力士在内的半导体公司供应电子级氢氟酸，且价格预计将在6月和7月大幅上涨。",
-          "url": "https://wallstreetcn.com/livenews/3104002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "保姆级Claude Code速成攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "科技股之外美股散户还在炒作什么主线",
-          "url": "https://www.toutiao.com/trending/7638781423885139987/",
-          "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "00时04分"
         }
       ]
     }
