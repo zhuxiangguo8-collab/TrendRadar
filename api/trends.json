@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T07:55:44.973546+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-05-15T10:45:38.687588+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 39,
+      "match_count": 56,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -14,11 +14,51 @@
           "ranks": [
             18,
             2,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 10时45分]"
+        },
+        {
+          "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
+          "url": "https://www.cls.cn/detail/2371678",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 10时45分]"
+        },
+        {
+          "title": "美记者在北京体验中国科技",
+          "url": "https://www.douyin.com/hot/2498543",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 10时45分]"
+        },
+        {
+          "title": "官方慌神?洛手急聘游戏策划",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354239&amp;topic_name=%E5%AE%98%E6%96%B9%E6%85%8C%E7%A5%9E%3F%E6%B4%9B%E6%89%8B%E6%80%A5%E8%81%98%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 10时45分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -34,6 +74,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 07时55分]"
+        },
+        {
+          "title": "港股低开低走，恒生指数跌1%，恒生科技指数跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260515102503291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
@@ -71,28 +122,37 @@
           "time_info": "02时53分"
         },
         {
+          "title": "香港恒生指数日内跌幅扩大至1%，恒生科技指数跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3104044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "美国期权交易员加码看涨中国科技股",
           "url": "https://wallstreetcn.com/livenews/3103951",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
         {
-          "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
-          "url": "https://www.cls.cn/detail/2371678",
-          "source": "财联社热门",
+          "title": "Codex登陆ChatGPT手机App",
+          "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
@@ -106,17 +166,26 @@
           "time_info": "06时08分"
         },
         {
-          "title": "美记者在北京体验中国科技",
-          "url": "https://www.douyin.com/hot/2498543",
-          "source": "抖音",
+          "title": "液冷概念股逆势活跃，大元泵业拉升封板，金富科技此前涨停，润泽科技、领益智造、网宿科技、强瑞技术涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3104041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -135,17 +204,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时55分]"
-        },
-        {
-          "title": "官方慌神?洛手急聘游戏策划",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354239&amp;topic_name=%E5%AE%98%E6%96%B9%E6%85%8C%E7%A5%9E%3F%E6%B4%9B%E6%89%8B%E6%80%A5%E8%81%98%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92",
-          "source": "贴吧",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -320,6 +378,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "创业板指跌幅收窄至0.7%，快手概念、氟化工、短剧游戏、足球概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260515101804965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
           "url": "https://wallstreetcn.com/livenews/3103910",
           "source": "华尔街见闻-快讯",
@@ -342,6 +411,28 @@
           "time_info": "06时08分"
         },
         {
+          "title": "马化腾称一年前以为上了 AI 的船，结果发现漏水了，腾讯的 AI 哪里「漏水」了？还有机会补救吗？",
+          "url": "https://www.zhihu.com/question/2038001830735655715",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "从2600到8000：仅一年AI狂潮引爆韩国股市",
+          "url": "https://flash.jin10.com/detail/20260515101412153800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "标普500指数初步收涨0.7%，科技板块涨1.8%，能源板块涨0.7%，金融板块涨0.5%，原材料板块跌0.8%。 纳斯达克100指数初步收涨0.7%，成分股中，思科系统初步收涨13.3%，AppLovin涨7.1%，TTWO涨6.9%，博通涨5.7%，美光科技跌2.9%，英特尔跌3.4%，汤森路透跌3.6%，拼多多跌4.1%，闪迪跌4.9%，高通跌6.1%。 英伟达初步收涨4.4%，与思科领跑道指成分股，亚马逊、3M跌1.3%，波音跌超4.6%。",
           "url": "https://wallstreetcn.com/livenews/3103875",
           "source": "华尔街见闻-快讯",
@@ -353,15 +444,59 @@
           "time_info": "04时26分"
         },
         {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
+          "url": "https://www.cls.cn/detail/2371792",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "帝国时代 2 中有没有哪些科技是毫无作用的？",
           "url": "https://www.zhihu.com/question/321788002",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "港股风电股震荡走低，金风科技(02208.HK)跌超5%，协和新能源(00182.HK)、东方电气(01072.HK)跌超3%，大唐新能源(01798.HK)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260515100747051800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.02%，报26341点。 恒生科技指数主连夜盘收跌0.43%，报5066点。",
@@ -386,13 +521,35 @@
           "time_info": "02时53分"
         },
         {
+          "title": "港股光通信板块集体走弱，华虹半导体(01347.HK)、长飞光纤光缆(06869.HK)跌超7%，剑桥科技(06166.HK)、汇聚科技(01729.HK)、曦智科技-P(01879.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260515100618779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "CPO概念股再度拉升，铭普光磁直线涨停，光莆股份涨超10%，杰普特、泰晶科技、中富电路、锐捷网络跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3104009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "AI扩建，驱动美国最大电网电费暴涨76%",
           "url": "https://wallstreetcn.com/livenews/3103927",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -403,7 +560,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -414,7 +571,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -430,6 +587,28 @@
           "time_info": "02时53分"
         },
         {
+          "title": "中芯国际赵海军：一季度产能利用率环比下滑受AI“虹吸效应”及新厂走出开办期影响",
+          "url": "https://wallstreetcn.com/livenews/3104003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "我被AI短剧盗脸了",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "任泽平谈科技牛还能走多远",
           "url": "https://www.toutiao.com/trending/7639756540135607849/",
           "source": "今日头条",
@@ -439,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "氟化工概念开盘强势，滨化股份、中欣氟材一字涨停，中巨芯涨超15%，金石资源、多氟多、巨化股份、永和股份、三美股份纷纷高开，业内人士透露，韩国无水氢氟酸生产商包括Solbrain、ENF Technology、Huseong等将向包括三星电子和SK海力士在内的半导体公司供应电子级氢氟酸，且价格预计将在6月和7月大幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3104002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "保姆级Claude Code速成攻略",
