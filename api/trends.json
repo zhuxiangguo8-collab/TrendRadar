@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T14:32:18.821482+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-05-15T17:50:04.536262+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -34,6 +34,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 10时45分]"
+        },
+        {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 17时50分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "美记者在北京体验中国科技",
@@ -139,7 +163,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -188,18 +212,6 @@
           "time_info": "10时45分"
         },
         {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时32分]"
-        },
-        {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
           "url": "https://www.cls.cn/detail/2371414",
           "source": "财联社热门",
@@ -211,6 +223,17 @@
           "time_info": "[00时14分 ~ 07时55分]"
         },
         {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 17时50分]"
+        },
+        {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
           "url": "https://www.cls.cn/detail/2371337",
           "source": "财联社热门",
@@ -220,6 +243,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 07时55分]"
+        },
+        {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 17时50分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -281,6 +317,19 @@
           "time_info": "[04时26分 ~ 06时08分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时50分]"
+        },
+        {
           "title": "xAI发布Grok Build的一个早期测试版。",
           "url": "https://wallstreetcn.com/livenews/3103859",
           "source": "华尔街见闻-快讯",
@@ -291,6 +340,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 04时26分]"
+        },
+        {
+          "title": "国行Switch成单机游戏机",
+          "url": "https://www.douyin.com/hot/2499780",
+          "source": "抖音",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时50分]"
         },
         {
           "title": "黄仁勋谈中国AI发展",
@@ -319,29 +380,6 @@
           "time_info": "[00时14分 ~ 07时55分]"
         },
         {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时32分]"
-        },
-        {
-          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时32分]"
-        },
-        {
           "title": "AI续写轻音少女第三季",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
           "source": "bilibili 热搜",
@@ -367,26 +405,15 @@
           "time_info": "[02时53分 ~ 04时26分]"
         },
         {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
-          "title": "国行Switch成单机游戏机",
-          "url": "https://www.douyin.com/hot/2499780",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
@@ -399,6 +426,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 06时08分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "智界V9首发9大安全黑科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E7%95%8CV9%E9%A6%96%E5%8F%919%E5%A4%A7%E5%AE%89%E5%85%A8%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
+        },
+        {
+          "title": "外交部回应中美人工智能合作",
+          "url": "https://www.toutiao.com/trending/7639709816608276534/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "“股王”源杰科技副总经理被刑拘",
@@ -430,7 +490,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -510,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
+          "url": "https://wallstreetcn.com/livenews/3104308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
@@ -628,7 +699,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -683,7 +754,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
