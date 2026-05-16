@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:44:40.028189+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-05-17T06:42:24.595113+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -48,19 +48,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
           "url": "https://wallstreetcn.com/articles/3772419",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -70,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -83,8 +84,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -94,8 +95,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时42分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
