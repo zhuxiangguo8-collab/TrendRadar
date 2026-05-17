@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T05:52:41.411986+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-18T06:50:43.682297+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -81,11 +81,12 @@
           "ranks": [
             2,
             4,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -94,11 +95,12 @@
           "ranks": [
             5,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -108,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -118,11 +120,12 @@
           "ranks": [
             10,
             12,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "长鑫科技预计上半年净利超500亿元",
@@ -135,8 +138,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -146,8 +149,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时50分]"
         },
         {
           "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -157,17 +171,6 @@
             19,
             21,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时52分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
