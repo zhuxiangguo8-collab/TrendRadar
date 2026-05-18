@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T02:02:53.707139+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-19T03:43:59.109947+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -15,35 +15,46 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "戴尔AI业务加速扩张 “AI工厂”客户数量新增1000家",
-          "url": "https://flash.jin10.com/detail/20260519014351133800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
-          "url": "https://wallstreetcn.com/livenews/3105548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
           "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
+          "url": "https://wallstreetcn.com/articles/3772508",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "吧友支招,60岁老哥求推游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354373&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%94%AF%E6%8B%9B%2C60%E5%B2%81%E8%80%81%E5%93%A5%E6%B1%82%E6%8E%A8%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "戴尔AI业务加速扩张 “AI工厂”客户数量新增1000家",
+          "url": "https://flash.jin10.com/detail/20260519014351133800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
@@ -63,26 +74,60 @@
           "time_info": "02时02分"
         },
         {
-          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
-          "url": "https://wallstreetcn.com/articles/3772508",
-          "source": "华尔街见闻",
+          "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
+          "url": "https://wallstreetcn.com/livenews/3105548",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
-          "title": "吧友支招,60岁老哥求推游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354373&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%94%AF%E6%8B%9B%2C60%E5%B2%81%E8%80%81%E5%93%A5%E6%B1%82%E6%8E%A8%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
+          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
+          "url": "https://www.cls.cn/detail/2374260",
+          "source": "财联社热门",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
+          "url": "https://www.cls.cn/detail/2374303",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
+          "url": "https://wallstreetcn.com/articles/3772477",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
+        },
+        {
+          "title": "广西一官方号发“套圈美女游戏”视频引争议",
+          "url": "https://news.ifeng.com/c/8tEVYty9McK",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时43分]"
         },
         {
           "title": "法官驳回埃隆·马斯克对OpenAI及其CEO奥尔特曼的诉讼",
@@ -96,48 +141,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
-          "url": "https://www.cls.cn/detail/2374260",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
-          "url": "https://www.cls.cn/detail/2374303",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
-          "url": "https://wallstreetcn.com/articles/3772477",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "广西一官方号发“套圈美女游戏”视频引争议",
-          "url": "https://news.ifeng.com/c/8tEVYty9McK",
-          "source": "凤凰网",
+          "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
+          "url": "https://flash.jin10.com/detail/20260519025828812800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "03时43分"
         },
         {
           "title": "戴尔AI服务器新增1,000家客户，全力进军企业级用户市场",
@@ -151,6 +163,28 @@
           "time_info": "02时02分"
         },
         {
+          "title": "恒生指数主连夜盘收跌0.21%，报25558点。 恒生科技指数主连夜盘收跌0.58%，报4817点。",
+          "url": "https://wallstreetcn.com/livenews/3105565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "提醒：英伟达CEO黄仁勋与与戴尔科技CEO在彭博电视的讲话结束。",
+          "url": "https://wallstreetcn.com/livenews/3105563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
           "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3105527",
           "source": "华尔街见闻-快讯",
@@ -160,6 +194,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
+          "url": "https://wallstreetcn.com/livenews/3105558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
+          "url": "https://wallstreetcn.com/livenews/3105549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "AI自动驾驶赛车有搞头吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "用AI记录早餐奶奶的一生",
