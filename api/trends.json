@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-18T07:55:35.681338+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-05-18T10:53:17.561438+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
+          "url": "https://wallstreetcn.com/articles/3772456",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时53分]"
+        },
+        {
+          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
+          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时53分]"
+        },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
           "url": "https://www.cls.cn/detail/2373269",
@@ -32,28 +55,6 @@
           "time_info": "[00时54分 ~ 07时55分]"
         },
         {
-          "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
-          "url": "https://wallstreetcn.com/articles/3772456",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时55分]"
-        },
-        {
-          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
-          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时55分]"
-        },
-        {
           "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
           "url": "https://www.zhihu.com/question/667429963",
           "source": "知乎",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 07时55分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时53分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -75,6 +87,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 07时55分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时53分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -106,17 +130,6 @@
           "time_info": "[00时54分 ~ 07时55分]"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时55分]"
-        },
-        {
           "title": "长鑫科技预计上半年净利超500亿元",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E8%B6%85500%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -132,24 +145,13 @@
           "time_info": "[00时54分 ~ 07时55分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时55分]"
-        },
-        {
           "title": "为破解净值困局 部分“消费”基金转投科技",
           "url": "https://wallstreetcn.com/livenews/3104941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -185,9 +187,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "A股商业航天概念震荡拉升，信维通信大涨超15%，索辰科技、海格通信、派克新材、东方钽业等多股涨停，西部材料、通宇通讯、霍莱沃、中环海陆等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3105058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "恒生科技指数跌超2%，理想汽车跌超11%，零跑汽车跌近10%。",
+          "url": "https://wallstreetcn.com/livenews/3105053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -228,6 +252,39 @@
           "time_info": "[00时54分 ~ 03时04分]"
         },
         {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "4月中国手游出海成绩出炉：世纪华通3款游戏跻身收入TOP10 悠星网络占据增长榜冠亚军",
+          "url": "https://www.cls.cn/detail/2373414",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "GAI新专Real G完整锐评",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E4%B8%93Real%20G%E5%AE%8C%E6%95%B4%E9%94%90%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
           "title": "瑞典首相：居住在瑞典的8万多名印度裔群体对我们的经济和社会做出了重大贡献，尤为值得一提的是，他们为瑞典各地的高科技领域带来了亟需的专业技能。",
           "url": "https://flash.jin10.com/detail/20260518031625378800",
           "source": "金十数据",
@@ -262,15 +319,37 @@
           "time_info": "[00时54分 ~ 01时57分]"
         },
         {
+          "title": "港股蓝思科技(06613.HK)快速拉升，日内涨超13%。",
+          "url": "https://flash.jin10.com/detail/20260518103633273800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
           "url": "https://wallstreetcn.com/livenews/3104924",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "港股芯片股走势分化，兆易创新(03986.HK)涨超9%，澜起科技(06809.HK)涨超3%，华虹半导体(01347.HK)等跟涨，英诺赛科(02577.HK)跌超5%，天数智芯(09903.HK)跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260518103026311800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "AI预测世界杯西班牙夺冠",
@@ -279,7 +358,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -306,6 +385,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "A股存储芯片板块震荡拉升，深科技涨停，同有科技、佰维存储涨超10%，大普微、华海诚科、朗科科技、商络电子涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3105016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "【中国证监会副主席李超：以更大力度推进北京证券交易所深化改革】中国证监会副主席李超5月18日在2026北京上市公司高质量发展大会暨投融资并购对接会上表示，将全力稳定和增强资本市场信心，并提出三点举措：以更大力度支持科技创新和产业创新深度融合、以更大力度推进北京证券交易所深化改革、以更大力度夯实上市公司高质量发展基础。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3105009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "谁卡住AI算力瓶颈谁就离财富越近",
           "url": "https://www.toutiao.com/trending/7640834668656332351/",
           "source": "今日头条",
@@ -315,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "恒指日内跌幅扩大至1%，恒生科技指数跌1.6%。零跑汽车、理想汽车跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3105007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
