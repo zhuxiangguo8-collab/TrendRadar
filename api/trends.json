@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T19:05:47.145451+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-05-18T23:21:21.615075+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 56,
+      "match_count": 64,
       "titles": [
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -131,6 +131,19 @@
           "time_info": "[00时54分 ~ 07时55分]"
         },
         {
+          "title": "吧友支招,60岁老哥求推游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354373&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%94%AF%E6%8B%9B%2C60%E5%B2%81%E8%80%81%E5%93%A5%E6%B1%82%E6%8E%A8%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 23时21分]"
+        },
+        {
           "title": "长鑫科技预计上半年净利超500亿元",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E8%B6%85500%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -146,16 +159,15 @@
           "time_info": "[00时54分 ~ 07时55分]"
         },
         {
-          "title": "吧友支招,60岁老哥求推游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354373&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%94%AF%E6%8B%9B%2C60%E5%B2%81%E8%80%81%E5%93%A5%E6%B1%82%E6%8E%A8%E6%B8%B8%E6%88%8F",
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
           "source": "贴吧",
           "ranks": [
-            1,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时54分 ~ 19时05分]"
+          "time_info": "[19时05分 ~ 23时21分]"
         },
         {
           "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
@@ -217,17 +229,6 @@
           "time_info": "07时55分"
         },
         {
-          "title": "AI恶意P图白嫖,卖家哭晕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
           "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
           "url": "https://www.cls.cn/detail/2373552",
           "source": "财联社热门",
@@ -257,9 +258,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
+          "url": "https://wallstreetcn.com/articles/3772508",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "恒生科技指数跌超2%，理想汽车跌超11%，零跑汽车跌近10%。",
@@ -322,6 +334,42 @@
           "time_info": "[10时52分 ~ 10时53分]"
         },
         {
+          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
+          "url": "https://wallstreetcn.com/articles/3772477",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 23时21分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
+          "url": "https://www.cls.cn/detail/2374260",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 23时21分]"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
+          "url": "https://www.cls.cn/detail/2374303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 23时21分]"
+        },
+        {
           "title": "GAI新专Real G完整锐评",
           "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E4%B8%93Real%20G%E5%AE%8C%E6%95%B4%E9%94%90%E8%AF%84",
           "source": "bilibili 热搜",
@@ -343,6 +391,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时52分]"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 23时21分]"
         },
         {
           "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
@@ -367,24 +427,35 @@
           "time_info": "[00时54分 ~ 01时57分]"
         },
         {
+          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://www.cls.cn/detail/2374609",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "高盛：地缘政治担忧的缓解推动了股市和人工智能板块的大幅上涨，但下行尾部风险仍被低估。",
+          "url": "https://flash.jin10.com/detail/20260518224755430800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "索辰科技：公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争格局发生不利变化，物理AI业务收入及盈利贡献存在不及预期风险。",
           "url": "https://wallstreetcn.com/livenews/3105355",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
-          "url": "https://wallstreetcn.com/articles/3772477",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -398,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "摩尔线程：发布首款家庭AI中枢MTT AICUBE",
+          "url": "https://wallstreetcn.com/livenews/3105486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "诺贝尔经济学奖得主迈克尔・斯宾塞：AI有望提升劳动生产率，给全球经济带来积极影响",
@@ -422,26 +504,26 @@
           "time_info": "14时54分"
         },
         {
-          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
-          "url": "https://www.cls.cn/detail/2374260",
-          "source": "财联社热门",
+          "title": "广西一官方号发“套圈美女游戏”视频引争议",
+          "url": "https://news.ifeng.com/c/8tEVYty9McK",
+          "source": "凤凰网",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "23时21分"
         },
         {
-          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
-          "url": "https://www.cls.cn/detail/2374303",
-          "source": "财联社热门",
+          "title": "Meta：正在推出一系列新的AI眼镜功能，旨在提供更直观、更便捷的免提交互体验。",
+          "url": "https://flash.jin10.com/detail/20260518223936465800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "23时21分"
         },
         {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
@@ -461,7 +543,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -505,9 +587,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "据上交所官网，杭州云深处科技股份有限公司IPO审核状态变更为“已受理”。",
+          "url": "https://wallstreetcn.com/livenews/3105470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -560,9 +653,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "美光科技迅速回吐涨幅，闪迪扩大跌幅至3%。",
+          "url": "https://wallstreetcn.com/livenews/3105465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "A股存储芯片板块震荡拉升，深科技涨停，同有科技、佰维存储涨超10%，大普微、华海诚科、朗科科技、商络电子涨超7%。",
@@ -593,7 +697,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -604,7 +708,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
@@ -640,17 +744,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
-        },
-        {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
         }
       ]
     }
