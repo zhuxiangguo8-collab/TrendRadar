@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-19T20:01:42.225301+08:00",
-  "total_titles_processed": 1174,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-05-19T23:37:16.718979+08:00",
+  "total_titles_processed": 1343,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 78,
+      "match_count": 85,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -18,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时57分 ~ 20时01分]"
+          "appearance_count": 10,
+          "time_info": "[06时57分 ~ 23时37分]"
         },
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -52,11 +50,12 @@
             2,
             12,
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时02分 ~ 20时01分]"
+          "appearance_count": 14,
+          "time_info": "[02时02分 ~ 23时37分]"
         },
         {
           "title": "吧友支招,60岁老哥求推游戏",
@@ -66,11 +65,52 @@
             5,
             15,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时02分 ~ 20时01分]"
+          "appearance_count": 14,
+          "time_info": "[02时02分 ~ 23时37分]"
+        },
+        {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时00分 ~ 23时37分]"
+        },
+        {
+          "title": "赢!米哈游携千亿进军AI行业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 23时37分]"
+        },
+        {
+          "title": "莫奈钓出嘉豪哥,真迹变AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时57分 ~ 23时37分]"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -118,19 +158,6 @@
           "time_info": "[20时00分 ~ 20时01分]"
         },
         {
-          "title": "赢!米哈游携千亿进军AI行业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 20时01分]"
-        },
-        {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
           "url": "https://www.cls.cn/detail/2374260",
           "source": "财联社热门",
@@ -148,22 +175,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
-        },
-        {
-          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
-          "url": "https://www.cls.cn/detail/2375439",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
+          "appearance_count": 4,
+          "time_info": "[20时00分 ~ 23时37分]"
         },
         {
           "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
@@ -178,6 +195,17 @@
           "time_info": "[16时27分 ~ 20时01分]"
         },
         {
+          "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
+          "url": "https://www.cls.cn/detail/2375797",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
+        },
+        {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
           "url": "https://www.cls.cn/detail/2374303",
           "source": "财联社热门",
@@ -190,6 +218,18 @@
           "time_info": "[02时02分 ~ 06时58分]"
         },
         {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 23时37分]"
+        },
+        {
           "title": "中专生花10天手搓AI短片火遍全网",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
           "source": "百度热搜",
@@ -200,6 +240,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时27分 ~ 20时01分]"
+        },
+        {
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 23时37分]"
         },
         {
           "title": "戴尔AI业务加速扩张 “AI工厂”客户数量新增1000家",
@@ -235,19 +288,6 @@
           "time_info": "05时09分"
         },
         {
-          "title": "莫奈钓出嘉豪哥,真迹变AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 20时01分]"
-        },
-        {
           "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
           "url": "https://wallstreetcn.com/livenews/3105548",
           "source": "华尔街见闻-快讯",
@@ -260,28 +300,28 @@
           "time_info": "[02时02分 ~ 03时43分]"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            11,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时27分 ~ 20时01分]"
+          "time_info": "[20时00分 ~ 23时37分]"
         },
         {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            17
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时27分 ~ 20时01分]"
+          "time_info": "[20时00分 ~ 23时37分]"
         },
         {
           "title": "AI自动驾驶赛车有搞头吗",
@@ -320,17 +360,6 @@
           "time_info": "[20时00分 ~ 20时01分]"
         },
         {
-          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
-          "url": "https://www.cls.cn/detail/2375531",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
-        },
-        {
           "title": "英伟达重磅CPU Vera交付：专为智能体AI设计 甲骨文承诺部署数十万颗",
           "url": "https://www.cls.cn/detail/2374998",
           "source": "财联社热门",
@@ -340,6 +369,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时00分 ~ 20时01分]"
+        },
+        {
+          "title": "【数据看盘】五家机构博弈光迅科技 一线游资、量化资金扎堆沪硅产业",
+          "url": "https://www.cls.cn/detail/2375599",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "Figure AI人形机器人直播分拣包裹五天不间断，网友：分拣工要失业了",
@@ -353,15 +393,15 @@
           "time_info": "[16时27分 ~ 16时28分]"
         },
         {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
-          "source": "澎湃新闻",
+          "title": "如何评价新发布的联想 AI 平板拯救者 Y900 系列？如何解读它「AI 平板定义者」的定位？",
+          "url": "https://www.zhihu.com/question/2040040155403270138",
+          "source": "知乎",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "中专生花10天手搓AI短片火遍全网",
@@ -386,6 +426,17 @@
           "time_info": "[16时27分 ~ 16时28分]"
         },
         {
+          "title": "A股反弹 科技股当先锋",
+          "url": "https://www.toutiao.com/trending/7640652663009624102/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
+        },
+        {
           "title": "朱一明携半年赚500亿的长鑫科技IPO",
           "url": "https://www.toutiao.com/trending/7641442878736043546/",
           "source": "今日头条",
@@ -395,6 +446,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "两轮科技牛市有何不同",
+          "url": "https://www.toutiao.com/trending/7641242446558904339/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "法官驳回埃隆·马斯克对OpenAI及其CEO奥尔特曼的诉讼",
@@ -436,7 +498,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -474,6 +536,17 @@
           "time_info": "16时28分"
         },
         {
+          "title": "OpenAI联合创始人Andrej Karpathy正式加入Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260519233044878800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
           "url": "https://wallstreetcn.com/livenews/3105605",
           "source": "华尔街见闻-快讯",
@@ -507,6 +580,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "三星推出下一代Odyssey游戏和Viewfinity显示器。",
+          "url": "https://flash.jin10.com/detail/20260519232655565800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
           "url": "https://wallstreetcn.com/livenews/3105604",
           "source": "华尔街见闻-快讯",
@@ -524,7 +608,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
@@ -788,7 +872,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时01分"
         },
