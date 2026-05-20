@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-05-20T19:48:28.422018+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-05-20T23:03:19.777688+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            11,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 23时03分]"
+        },
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
           "url": "https://www.cls.cn/detail/2375797",
@@ -21,32 +36,18 @@
           "time_info": "[02时02分 ~ 08时02分]"
         },
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            11,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 19时48分]"
-        },
-        {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
           "url": "https://wallstreetcn.com/articles/3772658",
           "source": "华尔街见闻",
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 19时48分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 23时03分]"
         },
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -168,6 +169,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 08时02分]"
+        },
+        {
+          "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
+          "url": "https://www.cls.cn/detail/2376986",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（5月20日）",
@@ -331,6 +343,18 @@
           "time_info": "[02时02分 ~ 04时29分]"
         },
         {
+          "title": "长鑫科技业绩暴增 日赚近3.6亿",
+          "url": "https://www.toutiao.com/trending/7641906739377344042/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 23时03分]"
+        },
+        {
           "title": "费城半导体指数涨超1.1%，纳斯达克100指数几乎完全收复日内稍早失地。迈威尔科技涨5.9%，美光涨5.4%，闪迪涨3.3%，英特尔涨2.7%，拼多多涨2.4%，Lumentum涨1.9%，恩智浦涨1.6%。特斯拉跌1.8%，汤森路透跌2.8%，Doordash跌4.9%。",
           "url": "https://wallstreetcn.com/livenews/3106188",
           "source": "华尔街见闻-快讯",
@@ -370,7 +394,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -397,6 +421,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "如何评价中专生花 10 天手搓 AI 短片《丧尸清道夫》火遍全网，被好莱坞制作人全网寻人？这部短片好在哪里？",
           "url": "https://www.zhihu.com/question/2040109953877112007",
           "source": "知乎",
@@ -419,6 +454,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "据港交所文件：踏歌智行科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260520223217621800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "xAI允许在OpenClaw中使用Grok。",
           "url": "https://wallstreetcn.com/livenews/3106232",
           "source": "华尔街见闻-快讯",
@@ -436,7 +482,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -458,7 +504,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -502,9 +548,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
+          "url": "https://www.cls.cn/detail/2376780",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
@@ -513,7 +570,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -667,7 +724,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -703,17 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "长鑫科技业绩暴增 日赚近3.6亿",
-          "url": "https://www.toutiao.com/trending/7641906739377344042/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
         }
       ]
     }
