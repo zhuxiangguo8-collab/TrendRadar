@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T04:52:18.476739+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-05-22T06:18:05.596286+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -60,8 +60,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
+        },
+        {
+          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
+          "url": "https://www.cls.cn/detail/2378186",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -75,6 +86,18 @@
           "time_info": "02时58分"
         },
         {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
+        },
+        {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
           "url": "https://flash.jin10.com/detail/20260522022949905800",
           "source": "金十数据",
@@ -86,15 +109,17 @@
           "time_info": "02时58分"
         },
         {
-          "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
-          "url": "https://wallstreetcn.com/livenews/3107625",
-          "source": "华尔街见闻-快讯",
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
@@ -108,53 +133,18 @@
           "time_info": "00时15分"
         },
         {
-          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
-          "url": "https://www.cls.cn/detail/2378186",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
-        },
-        {
-          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
-        },
-        {
           "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
           "url": "https://www.zhihu.com/question/2040569394959491641",
           "source": "知乎",
           "ranks": [
             12,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "投了长鑫科技 合肥赚了一个合肥",
@@ -166,8 +156,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -175,11 +165,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 06时18分]"
+        },
+        {
+          "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3107625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 06时18分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，公用事业板块涨1.03%，可选消费板块涨0.77%，信息技术/科技板块涨0.28%，能源板块跌1.01%，日用消费品板块跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3107621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 06时18分]"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -227,15 +242,15 @@
           "time_info": "02时58分"
         },
         {
-          "title": "标普500指数的11个板块多数收涨，公用事业板块涨1.03%，可选消费板块涨0.77%，信息技术/科技板块涨0.28%，能源板块跌1.01%，日用消费品板块跌1.63%。",
-          "url": "https://wallstreetcn.com/livenews/3107621",
-          "source": "华尔街见闻-快讯",
+          "title": "据科技媒体TechCrunsh：Alphabet(GOOG.O)旗下Waymo已暂停在旧金山、洛杉矶、凤凰城和迈阿密的高速公路上提供Robotaxi服务。",
+          "url": "https://flash.jin10.com/detail/20260522051629687800",
+          "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "06时18分"
         },
         {
           "title": "逆转裁判但网文AI对决",
@@ -244,7 +259,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -348,13 +363,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "纳斯达克金龙中国指数收跌1.50%，报6659.19点。 热门中概股里，贝壳初步收跌6.5%，新东方跌4.5%，B站跌3.7%，万国数据跌3.5%，腾讯跌3.1%，百度跌2.9%，阿里跌2.1%，小米跌1.3%，大全新能源涨2.4%，文远知行涨3.4%，阿特斯太阳能涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.74%。 XtrackersHarvest中证50（ASHS）收跌2.39%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%，MSCI新兴市场ex中国ETF（EMXC）收涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3107612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
           "title": "消息人士：内部消息称，星巴克终止旨在解决产品短缺的人工智能项目。",
           "url": "https://flash.jin10.com/detail/20260522025524231800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -365,7 +391,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
