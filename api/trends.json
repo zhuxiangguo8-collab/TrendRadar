@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T08:00:20.135980+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-05-22T12:08:27.670867+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 39,
+      "match_count": 55,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时00分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 12时08分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -105,6 +105,20 @@
           "time_info": "[00时15分 ~ 08时00分]"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 12时08分]"
+        },
+        {
           "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
           "url": "https://www.zhihu.com/question/2040569394959491641",
           "source": "知乎",
@@ -114,20 +128,6 @@
             15,
             17,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 08时00分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            19,
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -148,6 +148,28 @@
           "time_info": "[00时15分 ~ 08时00分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-22）",
+          "url": "https://flash.jin10.com/detail/20260522114816207800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "朗新科技：公司一季度完成交易电量近45亿度 是去年同期的6倍",
+          "url": "https://flash.jin10.com/detail/20260522114545422800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
           "url": "https://wallstreetcn.com/livenews/3107589",
           "source": "华尔街见闻-快讯",
@@ -159,6 +181,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "恒生指数涨幅扩大至1.1%，恒生科技指数涨1.8%。联想集团涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3107770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
           "url": "https://flash.jin10.com/detail/20260522022949905800",
           "source": "金十数据",
@@ -168,6 +201,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "为何AI总会一本正经地胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "联合国准备改写全球征税规则，科技巨头“低税时代”恐将结束",
+          "url": "https://flash.jin10.com/detail/20260522113945167800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
@@ -191,6 +246,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 06时18分]"
+        },
+        {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 12时08分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，公用事业板块涨1.03%，可选消费板块涨0.77%，信息技术/科技板块涨0.28%，能源板块跌1.01%，日用消费品板块跌1.63%。",
@@ -228,17 +295,6 @@
           "time_info": "[02时58分 ~ 04时52分]"
         },
         {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
           "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
           "url": "https://flash.jin10.com/detail/20260522022849271800",
           "source": "金十数据",
@@ -261,6 +317,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "恒生科技指数持续走强涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260522113748755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
           "url": "https://wallstreetcn.com/livenews/3107583",
           "source": "华尔街见闻-快讯",
@@ -270,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "国家发改委：正在谋划出台加快“人工智能+”落地的配套文件 进一步加大要素保障",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "据科技媒体TechCrunsh：Alphabet(GOOG.O)旗下Waymo已暂停在旧金山、洛杉矶、凤凰城和迈阿密的高速公路上提供Robotaxi服务。",
@@ -283,13 +361,35 @@
           "time_info": "06时18分"
         },
         {
+          "title": "国家发改委：要让真正的硬科技企业受益，2026年集成电路企业税收优惠清单与往年保持一致。",
+          "url": "https://wallstreetcn.com/livenews/3107751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "国网68亿采购引爆电力机器人赛道 申昊科技订单放量力争扭亏 | 直击股东会",
+          "url": "https://www.cls.cn/detail/2378518",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（5月22日）",
           "url": "https://flash.jin10.com/detail/20260522071645202800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -322,9 +422,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "国家发改委：正在谋划出台加快人工智能落地的配套文件",
+          "url": "https://wallstreetcn.com/livenews/3107744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "恒指午盘前持续走强涨超1%，联想集团(00992.HK)涨超15%领涨成分股，恒生科技指数现涨1.7%。",
+          "url": "https://flash.jin10.com/detail/20260522112849020800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
@@ -371,6 +493,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "智谱大涨逾20% 公司推出ZCube组网架构且有望入恒生科技指数",
+          "url": "https://wallstreetcn.com/livenews/3107737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美联储巴尔金：从近期的就业增长中受到鼓舞，但不难想象人工智能可能导致的就业损失。",
           "url": "https://flash.jin10.com/detail/20260522020357566800",
           "source": "金十数据",
@@ -380,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "港股AI应用板块持续走强，智谱(02513.HK)涨超21%，MINIMAX-W(00100.HK)涨超11%，网易-S(09999.HK)涨超7%，知行科技(01274.HK)、佑驾创新(02431.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522112056100800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "白宫推迟美国总统特朗普的人工智能（AI）行政命令的签字仪式。（Axios）",
@@ -393,6 +537,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "国家发改委：从未要求中国科技企业不得接受外商投资",
+          "url": "https://wallstreetcn.com/livenews/3107734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "为什么搞AI的赚不过卖存储的",
           "url": "https://www.toutiao.com/trending/7642241770243231286/",
           "source": "今日头条",
@@ -402,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "曝桃花坞游戏抄袭",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%B8%B8%E6%88%8F%E6%8A%84%E8%A2%AD%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "微软和安永将联合投资超10亿美元，帮助客户启动重大AI项目",
@@ -448,13 +614,24 @@
           "time_info": "04时52分"
         },
         {
+          "title": "中国贸促会：第四届链博会首次设立人工智能专区 集聚英伟达等中外人工智能领域领军企业",
+          "url": "https://flash.jin10.com/detail/20260522111320425800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
           "url": "https://flash.jin10.com/detail/20260522061919828800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         }
