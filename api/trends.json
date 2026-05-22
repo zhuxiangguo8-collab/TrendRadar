@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-05-23T05:06:59.680550+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-05-23T06:55:22.354170+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 06时55分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -25,22 +38,12 @@
           "ranks": [
             11,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时06分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -48,11 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -60,11 +64,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 06时55分]"
         },
         {
           "title": "夏奇拉来批daidai作业啦",
@@ -72,11 +77,24 @@
           "source": "抖音",
           "ranks": [
             27,
-            22
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 06时55分]"
+        },
+        {
+          "title": "ai漫剧硬通货 泡面火腿纯净水",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时29分 ~ 05时06分]"
+          "time_info": "[05时06分 ~ 06时55分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.49%，报25430点。 恒生科技指数主连夜盘收跌0.74%，报4824点。",
@@ -90,26 +108,26 @@
           "time_info": "03时29分"
         },
         {
-          "title": "ai漫剧硬通货 泡面火腿纯净水",
-          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
           "title": "标普500指数的11个板块多数收涨，医疗保健板块涨1.19%，公用事业、工业、信息技术/科技、能源板块至少涨0.44%，电信板块跌0.68%。",
           "url": "https://wallstreetcn.com/livenews/3108232",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3108254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "美光科技CEO Mehrotra：存储芯片供应短缺问题将持续到2026年之后。（彭博）",
@@ -140,7 +158,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
