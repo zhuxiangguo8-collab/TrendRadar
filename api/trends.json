@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T03:29:58.286963+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-23T05:06:59.680550+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时06分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时06分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -38,19 +39,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时06分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
           "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时06分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -61,8 +63,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时06分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 05时06分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.49%，报25430点。 恒生科技指数主连夜盘收跌0.74%，报4824点。",
@@ -71,9 +85,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "ai漫剧硬通货 泡面火腿纯净水",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，医疗保健板块涨1.19%，公用事业、工业、信息技术/科技、能源板块至少涨0.44%，电信板块跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3108232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时06分"
         },
         {
           "title": "美光科技CEO Mehrotra：存储芯片供应短缺问题将持续到2026年之后。（彭博）",
@@ -82,7 +118,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
@@ -98,15 +134,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
+          "title": "本周，标普累涨约0.9%，道指涨2.1%，纳指涨0.3%，半导体指数涨5.1%，超大规模云服务商指数跌1.1%，科技股七巨头指数跌1.2%。 标普500指数初步收涨0.4%，保健板块涨1.2%，科技板块涨0.5%，能源板块涨0.2%，电信板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，高通初步收涨11.5%，罗斯百货涨17.6%，Zscaler涨6.8%，恩智浦涨5.8%，Workday涨4.8%，Strategy跌3%，拼多多跌3.3%，闪迪跌3.7%，游戏股TTWO跌4.2% Merck初步收涨5.7%，Salesforce涨2.3%，思科涨2%，领跑道指成分股，麦当劳跌0.7%，沃尔玛跌0.7%，英伟达跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3108222",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时06分"
         }
       ]
     }
