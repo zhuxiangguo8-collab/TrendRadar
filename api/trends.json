@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T06:49:29.259668+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-05-24T07:54:54.124427+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -14,20 +14,6 @@
           "ranks": [
             3,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
-        },
-        {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -44,8 +30,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 07时54分]"
+        },
+        {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时54分]"
         },
         {
           "title": "英伟达重组,游戏部门other",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时54分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -66,11 +66,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时54分]"
         },
         {
           "title": "闻泰科技起诉安世荷兰：索赔至少80亿元，要求恢复完整控制权",
@@ -80,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 07时54分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -106,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 07时54分]"
         },
         {
           "title": "长鑫科技董事长拿出7.68亿股给员工",
@@ -143,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     }
