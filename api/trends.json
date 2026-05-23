@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:52:09.336240+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-05-24T06:49:29.259668+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 06时49分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 06时49分]"
         },
         {
           "title": "闻泰科技国内起诉安世半导体及外籍高管、索赔 80 亿，能否「抢回」 安世半导体？",
@@ -39,11 +40,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 06时49分]"
         },
         {
           "title": "英伟达重组,游戏部门other",
@@ -54,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 06时49分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -67,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 06时49分]"
         },
         {
           "title": "闻泰科技起诉安世荷兰：索赔至少80亿元，要求恢复完整控制权",
@@ -78,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 06时49分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -89,8 +91,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 06时49分]"
         },
         {
           "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
@@ -100,11 +102,12 @@
             19,
             12,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 06时49分]"
         },
         {
           "title": "长鑫科技董事长拿出7.68亿股给员工",
@@ -112,11 +115,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 06时49分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
