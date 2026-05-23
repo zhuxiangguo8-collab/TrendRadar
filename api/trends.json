@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T01:59:11.181653+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-05-24T03:16:02.433090+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时16分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时16分]"
         },
         {
           "title": "英伟达重组,游戏部门other",
@@ -40,8 +40,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时16分]"
+        },
+        {
+          "title": "闻泰科技国内起诉安世半导体及外籍高管、索赔 80 亿，能否「抢回」 安世半导体？",
+          "url": "https://www.zhihu.com/question/2041475722070454805",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时59分]"
+          "time_info": "[01时58分 ~ 03时16分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -52,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时16分]"
         },
         {
           "title": "闻泰科技起诉安世荷兰：索赔至少80亿元，要求恢复完整控制权",
@@ -63,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时16分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -74,19 +86,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 01时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时16分]"
         },
         {
-          "title": "闻泰科技国内起诉安世半导体及外籍高管、索赔 80 亿，能否「抢回」 安世半导体？",
-          "url": "https://www.zhihu.com/question/2041475722070454805",
+          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
+          "url": "https://www.zhihu.com/question/2040505406502524785",
           "source": "知乎",
           "ranks": [
-            6
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 03时16分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -100,15 +113,15 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
-          "url": "https://www.zhihu.com/question/2040505406502524785",
-          "source": "知乎",
+          "title": "长鑫科技董事长拿出7.68亿股给员工",
+          "url": "https://www.toutiao.com/trending/7643027831630335542/",
+          "source": "今日头条",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "time_info": "[03时15分 ~ 03时16分]"
         },
         {
           "title": "SpaceX抢跑 OpenAI追击",
