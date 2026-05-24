@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T10:50:18.505011+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-05-24T14:35:48.671387+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "闻泰科技国内起诉安世半导体及外籍高管、索赔 80 亿，能否「抢回」 安世半导体？",
@@ -41,23 +41,12 @@
             7,
             6,
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时50分]"
-        },
-        {
-          "title": "英伟达重组,游戏部门other",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 14时35分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -74,6 +63,19 @@
           "time_info": "[00时02分 ~ 07时54分]"
         },
         {
+          "title": "英伟达重组,游戏部门other",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 14时35分]"
+        },
+        {
           "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
           "url": "https://www.zhihu.com/question/2040505406502524785",
           "source": "知乎",
@@ -83,11 +85,12 @@
             13,
             10,
             9,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 10时50分]"
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 14时35分]"
         },
         {
           "title": "闻泰科技起诉安世荷兰：索赔至少80亿元，要求恢复完整控制权",
@@ -97,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 14时35分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -131,7 +134,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -144,8 +147,43 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 14时35分]"
+        },
+        {
+          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
+          "url": "https://wallstreetcn.com/articles/3772969",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时54分 ~ 10时50分]"
+          "time_info": "[10时50分 ~ 14时35分]"
+        },
+        {
+          "title": "闻泰科技称安世荷兰阻挠审计",
+          "url": "https://www.douyin.com/hot/2509947",
+          "source": "抖音",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 14时35分]"
+        },
+        {
+          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/2040070496926922044",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 14时35分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -176,42 +214,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
         {
-          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
-          "url": "https://wallstreetcn.com/articles/3772969",
-          "source": "华尔街见闻",
+          "title": "AI时代最不可替代的东西",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%97%B6%E4%BB%A3%E6%9C%80%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "14时35分"
         },
         {
-          "title": "闻泰科技称安世荷兰阻挠审计",
-          "url": "https://www.douyin.com/hot/2509947",
-          "source": "抖音",
+          "title": "当AI有一副人的身体",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E6%9C%89%E4%B8%80%E5%89%AF%E4%BA%BA%E7%9A%84%E8%BA%AB%E4%BD%93&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "14时35分"
         },
         {
-          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
-          "url": "https://www.zhihu.com/question/2040070496926922044",
-          "source": "知乎",
+          "title": "AI正在学会撒谎求生",
+          "url": "https://www.toutiao.com/trending/7643267343396638234/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "14时35分"
         }
       ]
     }
