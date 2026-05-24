@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T00:08:25.641613+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T01:57:33.069855+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
+        },
+        {
+          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
+          "url": "https://flash.jin10.com/detail/20260525012651977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "01时57分"
         },
         {
           "title": "英伟达重组,游戏部门other",
@@ -37,8 +48,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -48,8 +59,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -59,8 +70,41 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 01时57分]"
+        },
+        {
+          "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
+          "url": "https://flash.jin10.com/detail/20260525010427079800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
+          "url": "https://flash.jin10.com/detail/20260525010206221800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
+          "url": "https://www.zhihu.com/question/2039273480357684027",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     }
