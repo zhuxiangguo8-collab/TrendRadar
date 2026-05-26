@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T03:15:59.937670+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-27T05:40:49.139161+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 05时40分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 05时40分]"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -35,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 05时40分]"
         },
         {
           "title": "【数据看盘】机构活跃度明显下降 北向资金联手游资抢筹华天科技",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 05时40分]"
         },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -61,8 +62,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 05时40分]"
+        },
+        {
+          "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
+          "url": "https://www.zhihu.com/question/2042336304244019752",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 03时15分]"
+          "time_info": "[03时15分 ~ 05时40分]"
         },
         {
           "title": "美光科技(MU.O)涨超20%，创2011年以来最大单日涨幅。",
@@ -71,9 +84,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "美光科技涨幅扩大至超过20%，创2011年以来盘中最大涨幅。",
@@ -82,7 +106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -93,20 +117,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
         {
-          "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
-          "url": "https://www.zhihu.com/question/2042336304244019752",
-          "source": "知乎",
+          "title": "周二（5月26日），美股行业ETF涨跌各异，半导体ETF收涨4.48%，全球航空业ETF涨4.17%，全球科技股指数ETF、科技行业ETF、银行业ETF也至少涨1.10%，能源业ETF则收跌2.76%。",
+          "url": "https://wallstreetcn.com/livenews/3109647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时15分"
+          "time_info": "05时40分"
         },
         {
           "title": "美国公司用AI辅助设计高超音速发动机",
@@ -120,15 +144,59 @@
           "time_info": "00时40分"
         },
         {
+          "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨1.69%，工业、原材料板块至多涨1.48%，能源板块则收跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3109646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。（黎巴嫩电视台Al-Mayadeen）",
           "url": "https://wallstreetcn.com/livenews/3109598",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美光科技市值突破1万亿美元，瑞银预计其股价未来一年可能翻番",
+          "url": "https://wallstreetcn.com/livenews/3109640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.57%，报6549.12点。 热门中概股里，盛大科技初步收涨29%，老虎证券涨14.2%，奇富科技涨8.3%，小鹏涨6.4%。 ETF中，中国科技指数ETF（CQQQ）收涨3.32%，中概互联网指数ETF（KWEB）收涨1.30%。 MSCI新兴市场ex中国ETF（EMXC）收涨4.59%，德银嘉实沪深300指数ETF（ASHR）收涨2.12%，XtrackersHarvest中证50（ASHS）收涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3109639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "标普500指数收涨45.65点，涨幅0.61%，报7519.12点，突破5月14日所创收盘历史最高位7501.24点。 道琼斯工业平均指数收跌118.02点，跌幅0.23%，报50461.68点。 纳斯达克综合指数（纳指）收涨312.21点，涨幅1.19%，报26656.181点，突破5月14日所创收盘历史最高位26635.22点。 纳斯达克100指数收涨519.677点，涨幅1.76%，报30001.319点，突破5月14日所创收盘历史最高位29580.30点，成分股美光科技飙涨19.29%。",
+          "url": "https://wallstreetcn.com/livenews/3109637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         }
       ]
     }
