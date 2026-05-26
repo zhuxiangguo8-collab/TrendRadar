@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T13:02:11.172513+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-05-26T16:37:54.762370+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -53,11 +53,24 @@
           "source": "贴吧",
           "ranks": [
             3,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 13时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时40分 ~ 16时37分]"
+        },
+        {
+          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
+          "url": "https://www.cls.cn/detail/2381183",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时37分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -111,18 +124,6 @@
           "time_info": "[01时40分 ~ 08时06分]"
         },
         {
-          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
-          "url": "https://www.cls.cn/detail/2381183",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时02分]"
-        },
-        {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
           "url": "https://www.cls.cn/detail/2380739",
           "source": "财联社热门",
@@ -141,9 +142,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "生物科技公司英矽智能据悉考虑在阿联酋第二上市。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3109320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "人形机器人第一股大考在即，谁是宇树科技IPO背后的超级赢家？",
+          "url": "https://www.cls.cn/detail/2381451",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时37分]"
         },
         {
           "title": "宇树科技IPO将于6月1日上会",
@@ -176,8 +200,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时37分]"
         },
         {
           "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
@@ -190,17 +214,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 05时02分]"
-        },
-        {
-          "title": "人形机器人第一股大考在即，谁是宇树科技IPO背后的超级赢家？",
-          "url": "https://www.cls.cn/detail/2381451",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "百亿级私募仓位指数升至82%以上，“科技+能源”均衡布局",
@@ -226,6 +239,28 @@
           "time_info": "[13时01分 ~ 13时02分]"
         },
         {
+          "title": "小学生男孩，因为不玩游戏，班里的男同学课间几乎不找他玩，他主动加入也无法融入，该怎么办？",
+          "url": "https://www.zhihu.com/question/2037540754919306345",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
+          "url": "https://wallstreetcn.com/articles/3773084",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（2026-05-26）",
           "url": "https://flash.jin10.com/detail/20260526073511826800",
           "source": "金十数据",
@@ -243,9 +278,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "恒生指数收盘跌0.03%，恒生科技指数涨1.59%，华虹半导体涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3109307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "香港恒生指数5月26日（周二）收盘下跌6.58点，跌幅0.03%，报25599.45点；<br/>香港恒生科技指数5月26日（周二）收盘上涨77.31点，涨幅1.59%，报4946.88点；<br/>国企指数5月26日（周二）收盘上涨26.02点，涨幅0.3%，报8576.89点；<br/>红筹指数5月26日（周二）收盘上涨6.46点，涨幅0.15%，报4444.76点。",
+          "url": "https://flash.jin10.com/detail/20260526161117820800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "深圳“十五五”规划纲要：提升具身智能机器人发展能级，打造全球具身智能科技创新和产业发展高地",
@@ -254,9 +311,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "天工AI发布SkyClaw-v1.0",
+          "url": "https://wallstreetcn.com/livenews/3109302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "深圳“十五五”规划纲要：大力发展人工智能终端、低空经济、具身智能机器人、海洋经济、商业航天等一批新兴支柱产业",
@@ -265,7 +333,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -281,13 +349,24 @@
           "time_info": "01时40分"
         },
         {
+          "title": "蚂蚁集团CEO韩歆毅：已构建适配智能体商业的全新AI支付服务",
+          "url": "https://wallstreetcn.com/livenews/3109293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-05-26）",
           "url": "https://flash.jin10.com/detail/20260526115702163800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
