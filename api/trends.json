@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-28T05:01:31.356276+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-28T06:46:20.685437+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2042900633947038528",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
-        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -27,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
@@ -38,8 +26,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
+        },
+        {
+          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2042900633947038528",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -49,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
@@ -59,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -93,19 +94,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "长鑫科技，科创板IPO过会！",
           "url": "https://wallstreetcn.com/articles/3773236",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "女子网吧打游戏开挂被发现与老板争执",
@@ -113,11 +115,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "野生vs养殖,AI大战鲤鱼图",
@@ -127,8 +130,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -138,8 +141,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时23分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时23分 ~ 06时46分]"
         },
         {
           "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
@@ -164,13 +167,46 @@
           "time_info": "[05时00分 ~ 05时01分]"
         },
         {
+          "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
+          "url": "https://wallstreetcn.com/livenews/3110288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "报道：Meta拟成立新部门 为企业客户定制AI服务",
+          "url": "https://wallstreetcn.com/livenews/3110284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
+          "url": "https://www.cls.cn/detail/2383460",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
           "title": "迈威尔科技一季度净营收24.2亿美元，分析师预期24.1亿美元。 预计二季度净营收25.7亿-28.4亿美元，分析师预期26.1亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110251",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -181,7 +217,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -192,9 +228,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3110280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
@@ -214,9 +261,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
+          "url": "https://wallstreetcn.com/livenews/3110274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "迈威尔科技：预计2027财年销售115亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         }
       ]
     }
