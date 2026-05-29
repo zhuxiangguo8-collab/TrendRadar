@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T18:43:00.829641+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-05-29T21:57:48.039723+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 68,
+      "match_count": 81,
       "titles": [
         {
           "title": "两部门联手 系统布局人工智能计量能力建设",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 07时12分]"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 21时57分]"
         },
         {
           "title": "最亮的星致敬中国科技工作者",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时34分 ~ 10时48分]"
-        },
-        {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 18时43分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -116,6 +117,42 @@
           "time_info": "[02时34分 ~ 14时52分]"
         },
         {
+          "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
+          "url": "https://www.cls.cn/detail/2385558",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，科技行业ETF涨超2%，全球科技股指数ETF、半导体ETF涨1.62%，日常消费品ETF、能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            14,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时34分 ~ 21时57分]"
+        },
+        {
           "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
           "url": "https://wallstreetcn.com/livenews/3110939",
           "source": "华尔街见闻-快讯",
@@ -125,6 +162,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "都叫科技基金，有些竟是亏的，基民调侃：误以为自己站在光里",
+          "url": "https://www.cls.cn/detail/2385586",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美股iShares科技软件行业ETF涨2.4%，创四个月新高。",
+          "url": "https://flash.jin10.com/detail/20260529214903634800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "A股半导体产业链集体调整，华大九天跌超10%，龙图光罩、士兰微、国芯科技、明微电子、中芯国际等多股跌超6%。",
@@ -138,13 +197,26 @@
           "time_info": "10时48分"
         },
         {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 21时57分]"
+        },
+        {
           "title": "传艺科技：拟定增募资不超8.71亿元，投资智能制造中心扩产等项目",
           "url": "https://flash.jin10.com/detail/20260529183247353800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -171,6 +243,29 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美股盘初：费城半导体指数涨超1%，戴尔科技涨约33%，超微电脑涨约9%",
+          "url": "https://wallstreetcn.com/livenews/3111484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时48分 ~ 21时57分]"
+        },
+        {
           "title": "戴尔科技：一季度订单积压513亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110936",
           "source": "华尔街见闻-快讯",
@@ -187,19 +282,6 @@
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 10时48分]"
-        },
-        {
-          "title": "AI改写黑袍纠察队结局",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14,
-            18
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -228,31 +310,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时34分 ~ 10时48分]"
-        },
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 18时43分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时48分 ~ 18时43分]"
         },
         {
           "title": "戴尔(DELL.N)首席财务官：剔除人工智能组合的影响，我们的毛利率展望比上个季度更好；预计全年毛利率将继续扩张。",
@@ -359,6 +416,40 @@
           "time_info": "[02时34分 ~ 07时12分]"
         },
         {
+          "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
+          "url": "https://www.cls.cn/detail/2385444",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时57分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时57分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时57分]"
+        },
+        {
           "title": "如何看待微软取消了 Claude Code 订阅？",
           "url": "https://www.zhihu.com/question/2042203258689672770",
           "source": "知乎",
@@ -393,28 +484,6 @@
           "time_info": "[18时42分 ~ 18时43分]"
         },
         {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
-          "url": "https://www.cls.cn/detail/2385444",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
-        },
-        {
           "title": "92岁老艺术家手搓AI写了封情书",
           "url": "https://www.douyin.com/hot/2515594",
           "source": "抖音",
@@ -425,17 +494,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 14时52分]"
-        },
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -511,9 +569,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "科技股究竟因何调整？四大原因讨论最多",
+          "url": "https://www.cls.cn/detail/2385809",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：公司在本季度结束时，人工智能订单积压创纪录达到513亿美元。",
@@ -527,13 +596,35 @@
           "time_info": "05时07分"
         },
         {
+          "title": "广东夏季高考用AI批卷系不实传言",
+          "url": "https://www.toutiao.com/trending/7644786880849182729/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "石头科技：董事长提议以3亿元-4亿元回购公司股份",
           "url": "https://wallstreetcn.com/livenews/3111358",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -580,6 +671,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "“广东夏季高考将用AI批卷”不实",
+          "url": "https://www.douyin.com/hot/2516863",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "AI需求激增！鸿海董事长：内存短缺影响有限 对下半年非常乐观",
+          "url": "https://www.cls.cn/detail/2385295",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "标普500科技板块创历史新高，现涨1.7%。",
+          "url": "https://flash.jin10.com/detail/20260529214256877800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "国产AI芯片三国杀",
@@ -665,7 +789,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -687,7 +811,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -753,7 +877,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -769,6 +893,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "【亨通光电：拟分拆子公司亨通华海至科创板上市，公司直接持股64.26%】亨通光电公告，公司拟分拆所属子公司江苏亨通华海科技股份有限公司至科创板上市。本次分拆完成后，公司仍将保持对亨通华海的控制权，直接持股64.26%。该事项已获公司第九届董事会第十六次会议审议通过，尚需提交股东会审议，并需取得上交所审核同意及中国证监会注册程序。",
+          "url": "https://wallstreetcn.com/livenews/3111448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.60%，报24995点。 恒生科技指数主连夜盘收涨0.70%，报4907点。",
           "url": "https://wallstreetcn.com/livenews/3110906",
           "source": "华尔街见闻-快讯",
@@ -778,6 +913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "中富电路：拟定增募资不超8.5亿元用于AI用PCB产线改扩建项目",
+          "url": "https://wallstreetcn.com/livenews/3111444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     }
