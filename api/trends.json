@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T17:56:26.345699+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-05-30T19:18:53.662027+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "上证50、科创50等指数调整样本，华虹公司、源杰科技等热门股被纳入多条指数",
@@ -17,6 +17,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时33分 ~ 15时39分]"
+        },
+        {
+          "title": "科技股究竟因何调整？四大原因讨论最多",
+          "url": "https://www.cls.cn/detail/2385809",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            10,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时33分 ~ 19时18分]"
         },
         {
           "title": "都叫科技基金，有些竟是亏的，基民调侃：误以为自己站在光里",
@@ -31,19 +47,18 @@
           "time_info": "[01时33分 ~ 12时50分]"
         },
         {
-          "title": "科技股究竟因何调整？四大原因讨论最多",
-          "url": "https://www.cls.cn/detail/2385809",
-          "source": "财联社热门",
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
           "ranks": [
-            6,
-            5,
-            10,
-            9,
-            8
+            15,
+            18,
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时33分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[01时33分 ~ 19时18分]"
         },
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -58,20 +73,6 @@
           "time_info": "[01时33分 ~ 08时07分]"
         },
         {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时33分 ~ 17时56分]"
-        },
-        {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
@@ -81,8 +82,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 19时18分]"
+        },
+        {
+          "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
+          "url": "https://www.cls.cn/detail/2386026",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时07分 ~ 17时56分]"
+          "time_info": "[12时50分 ~ 19时18分]"
         },
         {
           "title": "走近“最美科技工作者”",
@@ -107,17 +121,39 @@
           "time_info": "[12时50分 ~ 15时39分]"
         },
         {
-          "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
-          "url": "https://www.cls.cn/detail/2386026",
-          "source": "财联社热门",
+          "title": "两名初中生田间用AI识图发现罂粟",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E7%94%B0%E9%97%B4%E7%94%A8AI%E8%AF%86%E5%9B%BE%E5%8F%91%E7%8E%B0%E7%BD%82%E7%B2%9F",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            3,
+            4,
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时18分]"
+        },
+        {
+          "title": "全国科技工作者日",
+          "url": "https://www.douyin.com/hot/2517876",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时18分]"
+        },
+        {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时50分 ~ 17时56分]"
+          "time_info": "[15时38分 ~ 19时18分]"
         },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -178,15 +214,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "全国科技工作者日",
-          "url": "https://www.douyin.com/hot/2517876",
-          "source": "抖音",
+          "title": "全国首个绿色算力全栈AI平台在呼和浩特正式上线",
+          "url": "https://wallstreetcn.com/livenews/3111792",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时18分"
         },
         {
           "title": "美联储戴利：预计人工智能将推动生产率增长出现积极迹象。",
@@ -198,29 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
-          "url": "https://wallstreetcn.com/articles/3773482",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 17时56分]"
-        },
-        {
-          "title": "两名初中生田间用AI识图发现罂粟",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E7%94%B0%E9%97%B4%E7%94%A8AI%E8%AF%86%E5%9B%BE%E5%8F%91%E7%8E%B0%E7%BD%82%E7%B2%9F",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "美联储戴利：实现人工智能持续生产力增长的障碍主要是监管问题。",
@@ -243,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "当我用游戏的方式打开vlog",
-          "url": "https://www.douyin.com/hot/2517623",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "网易副总裁、网易智企总经理阮良：正帮助企业构建“AI员工”",
@@ -312,6 +314,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时33分 ~ 08时07分]"
+        },
+        {
+          "title": "当我用游戏的方式打开vlog",
+          "url": "https://www.douyin.com/hot/2517623",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时18分]"
         },
         {
           "title": "标普500指数的11个板块普遍收跌，日用消费品板块收跌2%，电信板块跌1.7%，能源板块跌1.07%，可选消费板块跌1.05%，金融板块则收涨0.56%，信息技术/科技板块涨1.87%。",
@@ -407,6 +421,18 @@
           "time_info": "[04时15分 ~ 08时07分]"
         },
         {
+          "title": "A股科技行情结束了吗",
+          "url": "https://www.toutiao.com/trending/7645515272840810038/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时18分]"
+        },
+        {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
           "url": "https://wallstreetcn.com/livenews/3111637",
           "source": "华尔街见闻-快讯",
@@ -443,15 +469,15 @@
           "time_info": "[06时27分 ~ 08时07分]"
         },
         {
-          "title": "A股科技行情结束了吗",
-          "url": "https://www.toutiao.com/trending/7645515272840810038/",
-          "source": "今日头条",
+          "title": "全国首个绿色算力全栈AI平台在呼和浩特正式上线",
+          "url": "https://flash.jin10.com/detail/20260530184817484800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时18分"
         },
         {
           "title": "传奇对冲基金经理Dan Loeb：拒绝进化的“死硬价值派”都死了，不学AI注定灭绝",
@@ -537,7 +563,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
