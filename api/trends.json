@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:58:38.904080+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-05-31T06:59:55.674793+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -51,31 +51,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
-          "url": "https://wallstreetcn.com/livenews/3111833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "因为切西瓜和打游戏的事，跟男友大吵一架，他说「我没有义务承接你的情绪」，是我小题大做了吗？",
@@ -85,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "当我用游戏的方式打开vlog",
@@ -98,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "“中国造”灭蚊黑科技走红",
@@ -108,22 +97,24 @@
           "ranks": [
             20,
             15,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "科技股究竟因何调整？四大原因讨论最多",
           "url": "https://www.cls.cn/detail/2385809",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -131,11 +122,50 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
+        },
+        {
+          "title": "用AI整理会议记录导致泄密",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            17,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时59分]"
+        },
+        {
+          "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
+          "url": "https://wallstreetcn.com/livenews/3111833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时59分]"
         },
         {
           "title": "科技股突然杀跌意味着什么",
@@ -151,41 +181,6 @@
           "time_info": "[00时58分 ~ 05时58分]"
         },
         {
-          "title": "用AI整理会议记录导致泄密",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
-          "url": "https://wallstreetcn.com/livenews/3111836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
@@ -195,8 +190,46 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 06时59分]"
+        },
+        {
+          "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
+          "url": "https://wallstreetcn.com/livenews/3111836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 06时59分]"
+        },
+        {
+          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
+          "url": "https://flash.jin10.com/detail/20260531031045565800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 06时59分]"
+        },
+        {
+          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
+          "url": "https://flash.jin10.com/detail/20260531024909031800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 06时59分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -208,30 +241,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 04时07分]"
-        },
-        {
-          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
-          "url": "https://flash.jin10.com/detail/20260531031045565800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 05时58分]"
-        },
-        {
-          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
-          "url": "https://flash.jin10.com/detail/20260531024909031800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 05时58分]"
         },
         {
           "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
