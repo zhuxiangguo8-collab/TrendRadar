@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T01:19:27.059000+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-03T04:43:09.452861+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
-          "url": "https://wallstreetcn.com/livenews/3113215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
         },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -35,6 +24,50 @@
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "再升科技：相关主体编造虚假内容、误导资本市场，必要时将报案",
+          "url": "https://www.cls.cn/detail/2388734",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
+          "url": "https://wallstreetcn.com/livenews/3113215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,37 +85,26 @@
           "time_info": "01时19分"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
+          "title": "周二（6月2日），彭博电动汽车价格回报指数涨1.99%，报4082.15点。 北京时间09:53跌至3961.41点刷新日低，随后持续走高。 成分股中，意法半导体巴黎股价收涨15.14%，禾赛科技涨9.2%，微宏控股涨8.9%，蔚来集团H股收涨8.34%、中创新航科技集团H股涨6.25%、小鹏集团H股涨6.19%、理想汽车H股涨5.72%表现第八，智利化工矿业公司（SQM）则跌3.6%，Ecopro BM Co. Ltd.跌4.35%，Lucid集团跌5.6%，三星SDI有限公司收跌7.67%。",
+          "url": "https://wallstreetcn.com/livenews/3113266",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "04时43分"
         },
         {
-          "title": "再升科技：相关主体编造虚假内容、误导资本市场，必要时将报案",
-          "url": "https://www.cls.cn/detail/2388734",
-          "source": "财联社热门",
+          "title": "迈威尔科技/美满科技收涨33%，创2000年以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/3113265",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "04时43分"
         },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
@@ -92,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
         },
         {
           "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
@@ -103,19 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2388416",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
         },
         {
           "title": "6月科技产业有哪些催化？",
@@ -123,6 +134,74 @@
           "source": "财联社热门",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "网易游戏 26 年新游计划降至 4 款，10+ 在研项目被砍，是失血太多或谨慎观望？如何评价现今网易游戏的策略？",
+          "url": "https://www.zhihu.com/question/2042983322993913991",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "日企黑科技:塑料变石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 04时43分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.1%，公用事业板、原材料、能源、工业板块至少涨约1%，电信板块跌2.6%。 纳斯达克100指数初步收涨0.5%，成分股中，黄仁勋一句话让迈威尔科技/美满科技初步收涨32.2%，Lumentum涨13.9%，应用材料涨7.1%，思科、高通涨超3.4%，谷歌A跌3.8%，Autodesk跌4.3%，Palantir跌5.4%，Workday跌6%，Zscaler跌7.6%，汤森路透跌7.9%，财捷跌8.9%，Strategy跌9.2%。 卡特彼勒涨超5%，IBM涨超3%，苹果涨约2.8%，与思科领跑道指成分股，波音、微软、Salesforce、耐克至少跌超3%表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3113264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2388416",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -195,26 +274,59 @@
           "time_info": "01时19分"
         },
         {
-          "title": "网易游戏 26 年新游计划降至 4 款，10+ 在研项目被砍，是失血太多或谨慎观望？如何评价现今网易游戏的策略？",
-          "url": "https://www.zhihu.com/question/2042983322993913991",
-          "source": "知乎",
+          "title": "恒生指数主连夜盘收跌0.37%，报25853点。 恒生科技指数主连夜盘收跌0.96%，报5150点。",
+          "url": "https://wallstreetcn.com/livenews/3113250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "据The Information：在员工就隐私、电池续航以及对屏幕数据的控制权提出担忧后，Meta Platforms(META.O)正在缩减其一款员工追踪工具的部分功能。该工具旨在通过监测员工使用电脑的方式，来训练人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260603040305500800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "04时43分"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
+          "title": "美股收盘：三大股指收涨 迈威尔科技大涨超30%",
+          "url": "https://flash.jin10.com/detail/20260603040117832800",
+          "source": "金十数据",
           "ranks": [
-            23
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "04时43分"
+        },
+        {
+          "title": "微软：微软人工智能首次推出推理大模型MAI-THINKING-1",
+          "url": "https://wallstreetcn.com/livenews/3113243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "微软推出“Project Solara” 旨在将AI融入企业移动设备中",
+          "url": "https://flash.jin10.com/detail/20260603034649380800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
@@ -228,26 +340,15 @@
           "time_info": "01时19分"
         },
         {
-          "title": "日企黑科技:塑料变石油",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "微软发布可充当行政助理的AI软件",
+          "url": "https://wallstreetcn.com/livenews/3113231",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "04时43分"
         }
       ]
     }
