@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T09:44:38.669440+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-06-03T14:50:18.054132+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 51,
+      "match_count": 63,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 09时44分]"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 09时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 14时50分]"
         },
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -53,6 +42,31 @@
           "time_info": "[01时19分 ~ 07时01分]"
         },
         {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 14时50分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时00分 ~ 14时50分]"
+        },
+        {
           "title": "再升科技：相关主体编造虚假内容、误导资本市场，必要时将报案",
           "url": "https://www.cls.cn/detail/2388734",
           "source": "财联社热门",
@@ -65,16 +79,27 @@
           "time_info": "[01时19分 ~ 09时44分]"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 14时50分]"
+        },
+        {
+          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
+          "url": "https://www.cls.cn/detail/2389049",
           "source": "财联社热门",
           "ranks": [
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时00分 ~ 09时44分]"
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 14时50分]"
         },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
@@ -87,17 +112,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 09时44分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
         },
         {
           "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
@@ -117,7 +131,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -164,7 +178,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -213,6 +227,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "快手旗下可灵AI正进行融资：投前估值180亿美元，计划2027年赴港上市",
+          "url": "https://wallstreetcn.com/livenews/3113545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "【焦点复盘】沪指深V反转收复60日线，硬科技方向重获资金抱团，稀贵金属概念异军突起",
           "url": "https://www.cls.cn/detail/2388469",
           "source": "财联社热门",
@@ -224,24 +249,13 @@
           "time_info": "[01时19分 ~ 07时01分]"
         },
         {
-          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
-          "url": "https://www.cls.cn/detail/2389049",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
           "title": "A股玻璃基板概念反复走强，红星发展走出7天5板，TCL科技一度逼近涨停，美迪凯、鸿利智汇、京东方A、沃格光电跟涨。",
           "url": "https://flash.jin10.com/detail/20260603093640727800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -255,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "AI可能不是铜多头期待的“需求引擎”：数据中心铜需求面临多重制约",
+          "url": "https://flash.jin10.com/detail/20260603143110795800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "迈威尔科技/美满科技收涨33%，创2000年以来最佳单日表现。",
@@ -292,6 +317,18 @@
           "time_info": "[01时19分 ~ 04时43分]"
         },
         {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 14时50分]"
+        },
+        {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
@@ -320,7 +357,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -364,9 +401,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "微软(MSFT.O)宣布推出Surface RTX Spark Dev Box——一款搭载英伟达 RTX Spark芯片、基于 Windows开发平台打造的紧凑型开发者电脑，专为本地优先的AI开发而设计。",
@@ -391,15 +439,37 @@
           "time_info": "01时19分"
         },
         {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "A股光纤概念板块高开，天孚通信、蘅东光高开超9%，亨通光电、科瑞技术、炬光科技涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260603093120087800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "AI热潮带旺芯片设备陶瓷需求 日本东陶加码半导体相关投资",
+          "url": "https://wallstreetcn.com/livenews/3113530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "超百家险资机构扎堆调研 5月汇川技术获30家险资到访 科技、制造赛道持续受宠",
@@ -411,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "快手旗下可灵AI正进行融资：投前估值180亿美元，计划2027年赴港上市",
+          "url": "https://flash.jin10.com/detail/20260603141457143800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "挪威财长：挪威财富基金需要持有大型科技股",
@@ -441,9 +522,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "据The Information：在员工就隐私、电池续航以及对屏幕数据的控制权提出担忧后，Meta Platforms(META.O)正在缩减其一款员工追踪工具的部分功能。该工具旨在通过监测员工使用电脑的方式，来训练人工智能模型。",
@@ -457,15 +549,15 @@
           "time_info": "04时43分"
         },
         {
-          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
-          "url": "https://www.zhihu.com/question/2045210107105862467",
-          "source": "知乎",
+          "title": "A股半导体板块涨幅扩大，盛美上海涨超14%，珂玛科技、沫曦股份涨超13%，寒武纪涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3113519",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "14时50分"
         },
         {
           "title": "美股收盘：三大股指收涨 迈威尔科技大涨超30%",
@@ -485,7 +577,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -518,9 +610,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "百度(BIDU.O)首席财务官：预计未来几个季度将实现由人工智能驱动的稳健营收增长。",
+          "url": "https://flash.jin10.com/detail/20260603140509033800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "翘楚演员回应被认成AI",
+          "url": "https://www.douyin.com/hot/2521565",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "微软推出“Project Solara” 旨在将AI融入企业移动设备中",
@@ -534,13 +659,24 @@
           "time_info": "04时43分"
         },
         {
+          "title": "A股互联金融概念震荡下挫，银之杰跌超10%，汇金科技、慧博云通、安硕信息、汇金股份、赢时胜等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260603140116885800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "再升科技股价大跌后发声明",
           "url": "https://www.douyin.com/hot/2521658",
           "source": "抖音",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
