@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T19:49:35.505375+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-06-04T22:50:10.914532+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "长线外资看好中国 持续加码硬科技",
@@ -36,11 +36,25 @@
           "ranks": [
             6,
             7,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 19时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 22时50分]"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 22时50分]"
         },
         {
           "title": "【焦点复盘】市场延续极致二八分化，个股炸板率超四成，科技与能源板块再现跷跷板",
@@ -90,6 +104,19 @@
           "time_info": "[11时35分 ~ 16时17分]"
         },
         {
+          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 22时50分]"
+        },
+        {
           "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
           "url": "https://wallstreetcn.com/articles/3773733",
           "source": "华尔街见闻",
@@ -113,16 +140,16 @@
           "time_info": "[11时35分 ~ 11时36分]"
         },
         {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 19时49分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 22时50分]"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
@@ -241,6 +268,19 @@
           "time_info": "11时36分"
         },
         {
+          "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
+          "url": "https://www.zhihu.com/question/2041193028925264772",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 22时50分]"
+        },
+        {
           "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
           "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
           "source": "澎湃新闻",
@@ -273,30 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 19时49分]"
-        },
-        {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 19时49分]"
         },
         {
           "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
@@ -335,6 +351,32 @@
           "time_info": "[16时17分 ~ 19时49分]"
         },
         {
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 22时50分]"
+        },
+        {
+          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 22时50分]"
+        },
+        {
           "title": "6月4日投资避雷针：2连板实益达公告 仅持有宇树科技约0.01%股权",
           "url": "https://www.cls.cn/detail/2390227",
           "source": "财联社热门",
@@ -346,6 +388,53 @@
           "time_info": "[11时35分 ~ 16时17分]"
         },
         {
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 22时50分]"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 22时50分]"
+        },
+        {
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 22时50分]"
+        },
+        {
+          "title": "瑞银：A股科技股拥挤程度远未到峰值",
+          "url": "https://www.toutiao.com/trending/7646379761480089636/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
+        },
+        {
           "title": "【每日收评】市场午后震荡加剧，创业板指冲高回落涨1.65%，科技赛道延续强势",
           "url": "https://www.cls.cn/detail/2389664",
           "source": "财联社热门",
@@ -355,18 +444,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 19时49分]"
         },
         {
           "title": "宇树科技“闪电”过会引爆市场",
@@ -381,16 +458,15 @@
           "time_info": "[16时17分 ~ 19时49分]"
         },
         {
-          "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
-          "url": "https://www.zhihu.com/question/2041193028925264772",
-          "source": "知乎",
+          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时17分 ~ 19时49分]"
+          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "2030年AI耗水量够13亿人用一年",
@@ -405,6 +481,17 @@
           "time_info": "[16时17分 ~ 19时49分]"
         },
         {
+          "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
+          "url": "https://wallstreetcn.com/articles/3773793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
+        },
+        {
           "title": "Valve 创始人纽厄尔驳斥 Steam 垄断指控，称「玩家有丰富的游戏购买渠道」，如何看待？",
           "url": "https://www.zhihu.com/question/2045091353588131084",
           "source": "知乎",
@@ -414,18 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 04时17分]"
-        },
-        {
-          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 19时49分]"
         },
         {
           "title": "近日有学生发现，同一篇论文在知网 AI 率为 3%，但在维普却高达 67% ，差异为何如此之大？",
@@ -533,7 +608,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -566,18 +641,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
-          "url": "https://www.cls.cn/detail/2390870",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -610,7 +674,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -637,17 +701,6 @@
           "time_info": "04时17分"
         },
         {
-          "title": "猎鹰崛起AI先导片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
           "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
           "url": "https://wallstreetcn.com/livenews/3114157",
           "source": "华尔街见闻-快讯",
@@ -665,7 +718,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -676,7 +729,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -698,7 +751,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -709,18 +762,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "男子AI写歌月收入十几万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -764,7 +806,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -808,7 +850,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
