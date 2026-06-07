@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-07T08:02:18.683250+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-06-07T13:19:54.763845+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 18,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 13时19分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -36,22 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 08时02分]"
-        },
-        {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 13时19分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -61,11 +52,37 @@
             2,
             7,
             13,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 13时19分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 13时19分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 13时19分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -82,6 +99,31 @@
           "time_info": "[01时08分 ~ 08时02分]"
         },
         {
+          "title": "报道：黄仁勋周日将会见韩国游戏公司CEO，SK海力士老板回应HBM会谈提问，预告“下周另有安排”",
+          "url": "https://wallstreetcn.com/livenews/3115491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 13时19分]"
+        },
+        {
+          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
+          "url": "https://wallstreetcn.com/livenews/3115520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "高考新增AI监考员",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -96,40 +138,16 @@
           "time_info": "[01时08分 ~ 08时02分]"
         },
         {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 08时02分]"
-        },
-        {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 08时02分]"
-        },
-        {
-          "title": "报道：黄仁勋周日将会见韩国游戏公司CEO，SK海力士老板回应HBM会谈提问，预告“下周另有安排”",
-          "url": "https://wallstreetcn.com/livenews/3115491",
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            9,
-            10
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[06时09分 ~ 13时19分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -181,6 +199,29 @@
           "time_info": "[01时08分 ~ 03时16分]"
         },
         {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 13时19分]"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
           "url": "https://flash.jin10.com/detail/20260607002708297800",
           "source": "金十数据",
@@ -198,20 +239,64 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
+          "url": "https://www.zhihu.com/question/2025012000539846038",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
+          "url": "https://flash.jin10.com/detail/20260607120910109800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "AI炒完“传、存、算”，下一张牌桌在哪里？",
+          "url": "https://flash.jin10.com/detail/20260607120615529800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "13时19分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正在准备对ChatGPT进行其推出以来规模最大的一次改版。该公司计划将ChatGPT转型为结合编码工具和人工智能体的“超级应用”，并添加高管们认为能够创造更多收入的产品。",
+          "url": "https://flash.jin10.com/detail/20260607120518642800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
@@ -223,6 +308,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "AI写的高考作文你打几分",
+          "url": "https://www.douyin.com/hot/2525981",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "北京高考作文考教老人用AI",
+          "url": "https://flash.jin10.com/detail/20260607113905644800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "AI写的高考作文你打几分",
+          "url": "https://www.toutiao.com/trending/7647893809128279615/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
