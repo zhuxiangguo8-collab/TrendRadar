@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T03:17:08.510073+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-06-08T05:08:12.928327+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "游戏圈遭毒手,女仆变丫头",
@@ -72,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -95,8 +96,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
@@ -107,8 +108,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时08分]"
         },
         {
           "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
