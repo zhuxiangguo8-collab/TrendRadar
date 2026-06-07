@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T06:09:49.489346+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-06-07T08:02:18.683250+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
           "url": "https://wallstreetcn.com/articles/3774007",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
           "url": "https://www.cls.cn/detail/2392569",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
@@ -47,9 +49,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 08时02分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -62,8 +64,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -76,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -90,8 +92,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -102,8 +104,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -113,8 +115,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 08时02分]"
         },
         {
           "title": "报道：黄仁勋周日将会见韩国游戏公司CEO，SK海力士老板回应HBM会谈提问，预告“下周另有安排”",
@@ -126,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 06时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 08时02分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -188,6 +190,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "北大UP主手搓AI猫娘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
