@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T07:02:03.196491+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-08T11:33:48.063186+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -21,15 +21,54 @@
           "time_info": "[01时11分 ~ 07时02分]"
         },
         {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 11时33分]"
+        },
+        {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 11时33分]"
+        },
+        {
+          "title": "游戏圈遭毒手,女仆变丫头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354946&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%9C%88%E9%81%AD%E6%AF%92%E6%89%8B%2C%E5%A5%B3%E4%BB%86%E5%8F%98%E4%B8%AB%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 11时33分]"
+        },
+        {
+          "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33328819",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 11时33分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -54,29 +93,6 @@
           "time_info": "[01时11分 ~ 07时02分]"
         },
         {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时02分]"
-        },
-        {
-          "title": "游戏圈遭毒手,女仆变丫头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354946&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%9C%88%E9%81%AD%E6%AF%92%E6%89%8B%2C%E5%A5%B3%E4%BB%86%E5%8F%98%E4%B8%AB%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时02分]"
-        },
-        {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
           "url": "https://wallstreetcn.com/articles/3774027",
           "source": "华尔街见闻",
@@ -89,16 +105,15 @@
           "time_info": "[01时11分 ~ 07时02分]"
         },
         {
-          "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33328819",
-          "source": "澎湃新闻",
+          "title": "港股PCB概念震荡走高，建滔积层板(01888.HK)涨超13%，建滔集团(00148.HK)涨超12%，胜宏科技(02476.HK)逆市走低跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260608111034505800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            20
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "A股市场震荡回调，机构称科技成长仍是下半年核心主线",
@@ -107,7 +122,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -118,7 +133,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -134,6 +149,18 @@
           "time_info": "[01时11分 ~ 05时08分]"
         },
         {
+          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
+          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 11时33分]"
+        },
+        {
           "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
           "url": "https://wallstreetcn.com/livenews/3115568",
           "source": "华尔街见闻-快讯",
@@ -146,15 +173,92 @@
           "time_info": "[01时11分 ~ 03时17分]"
         },
         {
-          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
-          "url": "https://www.zhihu.com/question/1969653840065332479",
-          "source": "知乎",
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260608110102277800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "ChatGPT将迎最大改版",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B0%86%E8%BF%8E%E6%9C%80%E5%A4%A7%E6%94%B9%E7%89%88&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "“科技改造世界时，也改造着我们的想象”，2026年上海高考作文题新鲜出炉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327993",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "人工智能成为中国经济关键新力量",
+          "url": "https://www.toutiao.com/trending/7648827225752911898/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260608105318770800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
