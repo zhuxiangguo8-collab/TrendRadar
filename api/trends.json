@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T20:33:56.748188+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-06-09T23:53:07.477379+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 79,
+      "match_count": 89,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -42,6 +42,31 @@
           "time_info": "[01时20分 ~ 08时02分]"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 23时53分]"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 23时53分]"
+        },
+        {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
           "url": "https://www.cls.cn/detail/2393646",
           "source": "财联社热门",
@@ -51,18 +76,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 06时24分]"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 20时33分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -88,16 +101,15 @@
           "time_info": "[01时20分 ~ 04时09分]"
         },
         {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
+          "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时35分 ~ 20时33分]"
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
@@ -112,6 +124,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 13时02分]"
+        },
+        {
+          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2047261881392422944",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 23时53分]"
         },
         {
           "title": "大作太多!新游挤爆夏日游戏节",
@@ -154,7 +179,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -170,6 +195,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时09分 ~ 08时02分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 23时53分]"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
@@ -316,6 +354,19 @@
           "time_info": "[06时24分 ~ 08时02分]"
         },
         {
+          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
+          "url": "https://www.cls.cn/detail/2394851",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 23时53分]"
+        },
+        {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
@@ -328,28 +379,16 @@
           "time_info": "[08时02分 ~ 13时02分]"
         },
         {
-          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2047261881392422944",
-          "source": "知乎",
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 20时33分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时02分 ~ 20时33分]"
+          "time_info": "[20时33分 ~ 23时53分]"
         },
         {
           "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
@@ -386,16 +425,26 @@
           "time_info": "[13时02分 ~ 17时35分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
-          "url": "https://www.cls.cn/detail/2394851",
-          "source": "财联社热门",
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
           "ranks": [
-            12,
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时35分 ~ 20时33分]"
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "胜宏科技“电梯门”风波影响几何",
@@ -408,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 04时09分]"
+        },
+        {
+          "title": "米哈游多款游戏已接入 AI，原神未来会引入 AI 功能吗？",
+          "url": "https://www.zhihu.com/question/2041514273738847722",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
@@ -427,7 +487,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -438,7 +498,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -531,15 +591,15 @@
           "time_info": "13时02分"
         },
         {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
+          "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
+          "url": "https://wallstreetcn.com/livenews/3116930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "23时53分"
         },
         {
           "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
@@ -647,7 +707,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -685,6 +745,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "都在盯地缘和AI，真正没准备的可能是加息风险！",
+          "url": "https://flash.jin10.com/detail/20260609233117276800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "游戏行业里有哪些著名的「开发者和玩家互相斗法」的故事？",
           "url": "https://www.zhihu.com/question/2043733025616352525",
           "source": "知乎",
@@ -718,6 +789,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850547&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/DHZMW3QcAvif7iwXSllRk.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260609233114936800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "花旗策略师：交易员们正在积极建立美国股票的空头头寸，而对科技板块的看涨押注仍然过高，这给市场带来了风险。",
           "url": "https://flash.jin10.com/detail/20260609170313972800",
           "source": "金十数据",
@@ -727,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "纳指日内跌幅扩大至逾1.5%，标普500指数跌1%。费城半导体指数跌3.7%，高通(QCOM.O)跌7.5%，英特尔(INTC.O)跌3.6%，美光科技(MU.O)跌4%。",
+          "url": "https://flash.jin10.com/detail/20260609232837504800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "标普500指数的11个板块普遍收跌，公用事业板块跌1.92%，房地产板块跌1.63%，原材料板块跌1.28%，电信板块跌1.07%，能源板块则收涨1.14%，信息技术/科技板块涨1.47%。",
@@ -749,6 +842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "摩根大通计划今年部署更强大的人工智能代理",
+          "url": "https://flash.jin10.com/detail/20260609232435076800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
@@ -782,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "布局“AI+能源” 南通三年行动方案出炉",
+          "url": "https://wallstreetcn.com/livenews/3116916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
@@ -823,7 +938,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -867,7 +982,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -889,7 +1004,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
