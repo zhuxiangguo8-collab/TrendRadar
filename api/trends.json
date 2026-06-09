@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T08:02:56.015803+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-06-09T13:02:47.219018+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 51,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 13时02分]"
+        },
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
           "url": "https://www.cls.cn/detail/2393919",
@@ -24,18 +36,6 @@
           "source": "财联社热门",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 08时02分]"
-        },
-        {
-          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
-          "url": "https://wallstreetcn.com/articles/3774087",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -74,6 +74,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 04时09分]"
+        },
+        {
+          "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
+          "url": "https://www.cls.cn/detail/2394108",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 13时02分]"
+        },
+        {
+          "title": "大作太多!新游挤爆夏日游戏节",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354981&amp;topic_name=%E5%A4%A7%E4%BD%9C%E5%A4%AA%E5%A4%9A%21%E6%96%B0%E6%B8%B8%E6%8C%A4%E7%88%86%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 13时02分]"
+        },
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
@@ -179,19 +216,6 @@
           "time_info": "[01时20分 ~ 08时02分]"
         },
         {
-          "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
-          "url": "https://www.cls.cn/detail/2394108",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 08时02分]"
-        },
-        {
           "title": "任泽平：科技牛的下一个光",
           "url": "https://www.toutiao.com/trending/7648967385814142491/",
           "source": "今日头条",
@@ -220,15 +244,16 @@
           "time_info": "[01时20分 ~ 08时02分]"
         },
         {
-          "title": "大作太多!新游挤爆夏日游戏节",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354981&amp;topic_name=%E5%A4%A7%E4%BD%9C%E5%A4%AA%E5%A4%9A%21%E6%96%B0%E6%B8%B8%E6%8C%A4%E7%88%86%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82",
-          "source": "贴吧",
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
           "ranks": [
-            21
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 08时02分]"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 13时02分]"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -241,6 +266,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 08时02分]"
+        },
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 13时02分]"
         },
         {
           "title": "胜宏科技董事长“电梯门”事件",
@@ -264,6 +301,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2047261881392422944",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 13时02分]"
         },
         {
           "title": "胜宏科技“电梯门”风波影响几何",
@@ -295,7 +343,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -306,7 +354,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -317,20 +365,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
         {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "13时02分"
         },
         {
           "title": "OpenAI自曝已秘密提交IPO申请",
@@ -342,6 +390,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
@@ -366,15 +447,26 @@
           "time_info": "04时09分"
         },
         {
-          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2047261881392422944",
-          "source": "知乎",
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "13时02分"
+        },
+        {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
@@ -432,17 +524,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
-          "url": "https://www.zhihu.com/question/2047324900080051711",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
           "url": "https://flash.jin10.com/detail/20260609051127110800",
           "source": "金十数据",
@@ -471,9 +552,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "微信AI生态开启内测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E4%BF%A1AI%E7%94%9F%E6%80%81%E5%BC%80%E5%90%AF%E5%86%85%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
@@ -504,7 +596,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -570,9 +662,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850546&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/XwDktBDFsH0IWvPEOfuIo.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260609121731119800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
@@ -584,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "AI视觉模型能看懂世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E8%83%BD%E7%9C%8B%E6%87%82%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
