@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-10T17:51:56.066669+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-06-10T20:54:02.182652+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时09分 ~ 20时54分]"
+        },
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
           "url": "https://wallstreetcn.com/articles/3774181",
@@ -19,15 +30,26 @@
           "time_info": "[01时58分 ~ 13时14分]"
         },
         {
-          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3774176",
-          "source": "华尔街见闻",
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 17时51分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时54分]"
+        },
+        {
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
@@ -64,6 +86,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 04时09分]"
+        },
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
@@ -169,17 +202,6 @@
           "time_info": "[01时58分 ~ 08时10分]"
         },
         {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2047261881392422944",
           "source": "知乎",
@@ -215,6 +237,30 @@
           "time_info": "[13时14分 ~ 17时51分]"
         },
         {
+          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 20时54分]"
+        },
+        {
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时54分]"
+        },
+        {
           "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
           "url": "https://www.cls.cn/detail/2394851",
           "source": "财联社热门",
@@ -225,6 +271,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 06时21分]"
+        },
+        {
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时54分]"
         },
         {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
@@ -238,6 +296,18 @@
           "time_info": "[01时58分 ~ 06时21分]"
         },
         {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时54分]"
+        },
+        {
           "title": "知名科技记者爆料：Anthropic明天将发布“公开版本Mythos”",
           "url": "https://wallstreetcn.com/articles/3774197",
           "source": "华尔街见闻",
@@ -247,18 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 17时51分]"
         },
         {
           "title": "2026 年高考志愿填报，孩子应该选择电气、能动、机械、医学、计算机、还是火爆的人工智能？",
@@ -272,6 +330,39 @@
           "time_info": "[08时09分 ~ 08时10分]"
         },
         {
+          "title": "分析｜受AI产业热潮、价格因素等推动，5月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344044",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "要不要从科技转战老蓝筹",
+          "url": "https://www.toutiao.com/trending/7649692694536523327/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "小米AI上岛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3AI%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
           "url": "https://www.zhihu.com/question/2046196309359646371",
           "source": "知乎",
@@ -283,17 +374,6 @@
           "time_info": "01时58分"
         },
         {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "恒生指数主连夜盘收跌0.74%，报24441点。 恒生科技指数主连夜盘收跌1.12%，报4752点。",
           "url": "https://wallstreetcn.com/livenews/3116992",
           "source": "华尔街见闻-快讯",
@@ -303,17 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "金刚石助力芯片突破散热瓶颈 AI算力进一步打开应用空间",
@@ -333,7 +402,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -344,7 +413,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -358,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：相关各方决定目前不推进对TMTG部分媒体资产（包括Truth Social）的潜在分拆。",
+          "url": "https://flash.jin10.com/detail/20260610203414636800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
@@ -377,7 +457,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -437,24 +517,13 @@
           "time_info": "08时10分"
         },
         {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "微盟宣布接入微信AI生态",
           "url": "https://wallstreetcn.com/livenews/3117351",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -498,7 +567,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -553,7 +622,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
