@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T16:22:03.891915+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-06-12T20:16:29.181083+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 48,
+      "match_count": 59,
       "titles": [
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
@@ -185,7 +185,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -196,9 +196,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "世界杯揭幕赛前记者实测多家 AI，多数倾向墨西哥胜，千问将红牌都预测中，如何评价 AI 在赛事预测中表现？",
+          "url": "https://www.zhihu.com/question/2048790626066510507",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "OpenAI将收购Ona 强化Codex代理能力",
@@ -210,6 +221,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 20时16分]"
         },
         {
           "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
@@ -236,6 +259,18 @@
           "time_info": "[11时32分 ~ 16时22分]"
         },
         {
+          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
+          "url": "https://www.cls.cn/detail/2398028",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 20时16分]"
+        },
+        {
           "title": "UP主做了个AI谢苗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
           "source": "bilibili 热搜",
@@ -253,28 +288,6 @@
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
-          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
-          "url": "https://www.cls.cn/detail/2398028",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -364,7 +377,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -378,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
@@ -424,6 +448,50 @@
           "time_info": "11时32分"
         },
         {
+          "title": "深南电路：拟定增募资不超过48.8亿元，用于无锡深南电路AI算力电子电路产品项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3118865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "如果让你选三个最能代表中国游戏行业精神的人（不一定是最成功的），你会选谁？他们身上体现了什么特质？",
+          "url": "https://www.zhihu.com/question/2043732532865265937",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "业内称全球科技半导体板块将大调整",
+          "url": "https://www.toutiao.com/trending/7650034609186701353/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "Sharon AI宣布与英伟达达成六年战略算力合作",
+          "url": "https://wallstreetcn.com/livenews/3118860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "A股商业航天概念集体走强，航天发展、中航西飞、天奥电子、中天火箭等多股涨停，创远信科、索辰科技涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3118514",
           "source": "华尔街见闻-快讯",
@@ -457,6 +525,28 @@
           "time_info": "11时32分"
         },
         {
+          "title": "安佑生物科技集团股份有限公司深市主板IPO获受理，预计融资金额8.0995亿元。",
+          "url": "https://wallstreetcn.com/livenews/3118856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "LKs AI和真人推歌大PK",
+          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
           "url": "https://flash.jin10.com/detail/20260612041932514800",
           "source": "金十数据",
@@ -474,7 +564,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -501,6 +591,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "A股贵金属板块震荡走高，招金黄金涨超6%，湖南白银涨超5%，晓程科技、恒邦股份、四川黄金、兴业银锡等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260612103501524800",
           "source": "金十数据",
@@ -523,6 +624,17 @@
           "time_info": "11时32分"
         },
         {
+          "title": "我国成功研制出三维多层片上电容 可直接应用于AI/GPU芯片、高性能处理器等高端芯片",
+          "url": "https://wallstreetcn.com/livenews/3118851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "UP主做了个AI预测世界杯赛果",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%9B%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -532,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "美国财经媒体Semafor：OpenAI创始人奥尔特曼原定于本周末访问阿布扎比，但已取消行程。",
+          "url": "https://flash.jin10.com/detail/20260612195519793800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.25%，报6296.64点，北京时间01:28出现一波强势反弹行情——从6200点拉升大约60点。 热门中概股里，日月光半导体初步收涨7.2%，网易涨0.2%，阿里跌1.5%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨5.33%，XtrackersHarvest中证50（ASHS）收涨1.39%，德银嘉实沪深300指数ETF（ASHR）收涨1.04%。 中国科技指数ETF（CQQQ）收涨1.29%，中概互联网指数ETF（KWEB）收涨0.49%。",
