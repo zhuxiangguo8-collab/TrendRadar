@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T01:19:32.632286+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T03:20:03.117270+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -15,41 +15,78 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时20分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
           "url": "https://wallstreetcn.com/articles/3774577",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时20分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
           "url": "https://www.cls.cn/detail/2399104",
           "source": "财联社热门",
           "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时20分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时20分]"
         },
         {
           "title": "业绩下滑遭炮轰、新战略被指“不务正业” 同仁堂科技转型困局凸显|直击股东会",
           "url": "https://www.cls.cn/detail/2398830",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时20分]"
+        },
+        {
+          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时20分]"
+        },
+        {
+          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
+          "url": "https://www.zhihu.com/question/1997586495188521827",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 03时20分]"
         },
         {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
@@ -63,33 +100,11 @@
           "time_info": "01时19分"
         },
         {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
           "url": "https://flash.jin10.com/detail/20260614001329812800",
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
