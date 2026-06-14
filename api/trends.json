@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T21:54:10.069347+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-06-14T23:47:57.838970+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时29分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[13时29分 ~ 23时47分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -50,21 +50,6 @@
           "time_info": "[07时01分 ~ 19时54分]"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时19分 ~ 21时54分]"
-        },
-        {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
           "url": "https://wallstreetcn.com/articles/3774601",
           "source": "华尔街见闻",
@@ -73,8 +58,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 21时54分]"
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 23时47分]"
+        },
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时19分 ~ 23时47分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -85,11 +86,12 @@
             8,
             7,
             6,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时19分 ~ 21时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时19分 ~ 23时47分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -103,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时19分 ~ 21时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时19分 ~ 23时47分]"
         },
         {
           "title": "科技让文物可看可感",
@@ -165,6 +167,19 @@
           "time_info": "17时28分"
         },
         {
+          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
+          "url": "https://wallstreetcn.com/articles/3774608",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时53分 ~ 23时47分]"
+        },
+        {
           "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
           "url": "https://wallstreetcn.com/articles/3774579",
           "source": "华尔街见闻",
@@ -175,18 +190,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时18分 ~ 17时28分]"
-        },
-        {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时53分 ~ 21时54分]"
         },
         {
           "title": "美禁止外国主体使用安特罗匹克最新AI模型",
@@ -226,6 +229,17 @@
           "time_info": "[05时11分 ~ 08时18分]"
         },
         {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时47分]"
+        },
+        {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
           "url": "https://www.zhihu.com/question/1997586495188521827",
           "source": "知乎",
@@ -236,17 +250,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时11分]"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？",
@@ -271,6 +274,17 @@
           "time_info": "[19时53分 ~ 19时54分]"
         },
         {
+          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
+          "url": "https://wallstreetcn.com/articles/3774621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
           "url": "https://flash.jin10.com/detail/20260614004325694800",
           "source": "金十数据",
@@ -293,13 +307,24 @@
           "time_info": "01时19分"
         },
         {
+          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：给以色列开绿灯，换不来任何让步。“好警察、坏警察”的游戏已经玩腻了。",
           "url": "https://flash.jin10.com/detail/20260614203559661800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
