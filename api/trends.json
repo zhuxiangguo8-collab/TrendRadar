@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T14:32:29.678341+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-06-16T20:10:43.969182+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 30,
+      "match_count": 47,
       "titles": [
         {
           "title": "【焦点复盘】硬科技、小金属携手发力，沪指日线6连阳收复20日均线，全市场超280股涨逾10%",
@@ -20,6 +20,17 @@
           "time_info": "[03时44分 ~ 08时28分]"
         },
         {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "AI为何成为能源之战",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
           "source": "bilibili 热搜",
@@ -31,6 +42,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时44分 ~ 08时28分]"
+        },
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -113,6 +135,18 @@
           "time_info": "[03时44分 ~ 03时45分]"
         },
         {
+          "title": "继 Uzi 后 Doinb 确认《英雄联盟》怀旧服下月推出，会给游戏带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2045139251206084211",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 20时10分]"
+        },
+        {
           "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
           "url": "https://www.cls.cn/detail/2400563",
           "source": "财联社热门",
@@ -136,15 +170,37 @@
           "time_info": "[03时44分 ~ 03时45分]"
         },
         {
-          "title": "继 Uzi 后 Doinb 确认《英雄联盟》怀旧服下月推出，会给游戏带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2045139251206084211",
-          "source": "知乎",
+          "title": "金富科技：拟定增募资不超过3亿元用于液冷散热组件扩产",
+          "url": "https://wallstreetcn.com/livenews/3120298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "行云科技：深圳行云签订算力服务协议，金额10.14亿元",
+          "url": "https://wallstreetcn.com/livenews/3120295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "20时10分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.13%，报24799点。 恒生科技指数主连夜盘收跌0.15%，报4763点。",
@@ -164,9 +220,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "一博科技：公司光模块PCBA业务已进入量产阶段",
+          "url": "https://wallstreetcn.com/livenews/3120294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
+          "url": "https://www.cls.cn/detail/2401117",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "法国总理勒科尔尼：法国计划在人工智能领域追加投资6.55亿欧元。",
@@ -175,9 +253,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "Equinix携手思科(CSCO.O)与英伟达(NVDA.O)部署AI工厂。",
+          "url": "https://flash.jin10.com/detail/20260616200250375800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "闻泰科技向下修正“闻泰转债”转股价格至18.36元/股 6月18日生效",
+          "url": "https://wallstreetcn.com/livenews/3120293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "6月16日投资避雷针：国晟科技因信息披露不及时收到北京证监局警示函",
@@ -186,7 +286,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -197,9 +297,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨超2%，AI硬件持续爆发，MLCC、玻纤等细分领涨",
+          "url": "https://www.cls.cn/detail/2400951",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（6月16日）",
@@ -219,9 +330,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "AI投硬币概率是多少",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%8A%95%E7%A1%AC%E5%B8%81%E6%A6%82%E7%8E%87%E6%98%AF%E5%A4%9A%E5%B0%91&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "你对未来人与 AI 的关系，最期待出现哪种积极变化？",
@@ -230,7 +352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -255,6 +377,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "昀冢科技：目前公司MLCC产品暂未应用于车规安全系统、AI算力服务器等",
+          "url": "https://wallstreetcn.com/livenews/3120277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "西部数据(WDC.O)盘前涨幅扩大至10%，希捷科技涨幅扩大至7%。",
+          "url": "https://flash.jin10.com/detail/20260616195830494800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "AI宝可梦 看到正版皮卡丘了",
@@ -301,6 +445,28 @@
           "time_info": "06时16分"
         },
         {
+          "title": "金富科技：拟定增募资不超过3亿元用于液冷散热组件扩产",
+          "url": "https://flash.jin10.com/detail/20260616195351244800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
+          "title": "富信科技：公司近期未新增通信领域重大客户，亦未获取新增大额订单",
+          "url": "https://flash.jin10.com/detail/20260616195338869800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
           "url": "https://wallstreetcn.com/livenews/3119866",
           "source": "华尔街见闻-快讯",
@@ -310,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "返利科技：实际控制人及其一致行动人正在筹划公司股份协议转让事宜，该事项可能导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3120272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "在成长与安全之间寻找平衡点，公私募探讨下半年科技投资大方向",
@@ -343,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
+          "url": "https://wallstreetcn.com/livenews/3120263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     }
