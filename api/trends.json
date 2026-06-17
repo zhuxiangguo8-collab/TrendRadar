@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T05:58:27.602679+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-06-18T07:25:59.789924+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
         },
         {
           "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
         },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
@@ -37,11 +39,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -49,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
         },
         {
           "title": "26 岁成年人在家做游戏代练被送入戒网瘾机构遭非法拘禁，背后体现何问题？父母有权限制成年子女人身自由吗？",
@@ -63,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -75,8 +79,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
         },
         {
           "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
@@ -87,8 +91,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
         },
         {
           "title": "老哥与游戏NPC同居被分手",
@@ -96,11 +100,24 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 07时25分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时48分 ~ 05时58分]"
+          "time_info": "[04时17分 ~ 07时25分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -113,17 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 04时18分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时17分 ~ 05时58分]"
         },
         {
           "title": "如何理解韩国作家金爱烂所说的：「人类拥有而 AI 没有的一样东西，是犹豫不决」？",
@@ -160,6 +166,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
+          "url": "https://wallstreetcn.com/livenews/3121289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "电子游戏史上有哪些堪称「神迹」的故事？",
           "url": "https://www.zhihu.com/question/2043732533108528830",
           "source": "知乎",
@@ -169,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "存储涨价的荒诞现实：一块游戏机硬盘已能抵三台完整主机",
+          "url": "https://www.cls.cn/detail/2402925",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "AI Agent 的核心技术是什么？",
@@ -188,7 +216,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -199,7 +227,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -243,7 +271,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -254,7 +282,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -276,7 +304,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
