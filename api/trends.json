@@ -1,747 +1,176 @@
 {
-  "generated_at": "2026-06-17T20:54:23.211235+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-06-18T00:48:25.727554+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 65,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 16时59分]"
-        },
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 20时54分]"
-        },
-        {
-          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
-          "url": "https://www.cls.cn/detail/2401113",
-          "source": "财联社热门",
-          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
-          "url": "https://www.zhihu.com/question/2050239948306092201",
-          "source": "知乎",
-          "ranks": [
-            16,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 11时37分]"
-        },
-        {
-          "title": "据英国金融时报：在Anthropic模型相关争议之后，美国和欧洲讨论人工智能模型的准入问题。",
-          "url": "https://flash.jin10.com/detail/20260617012619758800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "证监会实质举措推动科技革命，三类企业受益，一线解读来了",
-          "url": "https://www.cls.cn/detail/2402254",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "吴清：打造首批资本市场科技金融实践样本",
-          "url": "https://wallstreetcn.com/livenews/3120707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "炽夏全员玩游戏童心未泯",
-          "url": "https://www.douyin.com/hot/2537067",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            17,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 20时54分]"
-        },
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2049548864626202351",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 20时54分]"
-        },
-        {
-          "title": "老哥与游戏NPC同居被分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 20时54分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 20时54分]"
-        },
-        {
-          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
-          "url": "https://www.cls.cn/detail/2401117",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
-          "url": "https://www.cls.cn/detail/2401317",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "26岁游戏代练被母亲骗进戒网瘾机构",
-          "url": "https://s.weibo.com/weibo?q=%2326%E5%B2%81%E6%B8%B8%E6%88%8F%E4%BB%A3%E7%BB%83%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%AA%97%E8%BF%9B%E6%88%92%E7%BD%91%E7%98%BE%E6%9C%BA%E6%9E%84%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 07时21分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 16时59分]"
-        },
-        {
-          "title": "微信支付宝打响AI支付战",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "00时48分"
         },
         {
           "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
           "url": "https://www.cls.cn/detail/2402510",
           "source": "财联社热门",
           "ranks": [
-            7
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "00时48分"
         },
         {
-          "title": "惠通科技：高韧性3D打印PLA专用料已完成初期验证",
-          "url": "https://flash.jin10.com/detail/20260617163128193800",
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "CrowdStrike(CRWD.O)扩展了Falcon AI检测功能。",
+          "url": "https://flash.jin10.com/detail/20260618002230664800",
           "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "证监会：将严查借科技之名炒概念行为",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%B0%86%E4%B8%A5%E6%9F%A5%E5%80%9F%E7%A7%91%E6%8A%80%E4%B9%8B%E5%90%8D%E7%82%92%E6%A6%82%E5%BF%B5%E8%A1%8C%E4%B8%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "摩根士丹利Gokul LAROIA：中国市场人工智能相关投资机遇巨大",
-          "url": "https://wallstreetcn.com/livenews/3121013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "00时48分"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
           "url": "https://www.cls.cn/detail/2402436",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "上交所邱勇：更大力度支持科技创新，落实好人工智能领域配套规则",
-          "url": "https://flash.jin10.com/detail/20260617162941610800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
-          "url": "https://flash.jin10.com/detail/20260617111125135800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "上交所：发行人应在人工智能大模型领域行业地位突出、排名靠前",
-          "url": "https://wallstreetcn.com/livenews/3120854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "上交所：发布人工智能大模型企业适用科创板第五套上市标准审核指引",
-          "url": "https://wallstreetcn.com/livenews/3120852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "市场消息：通用汽车与雷神科技、L3哈里斯就提升军火产量展开对话。",
-          "url": "https://flash.jin10.com/detail/20260617063335194800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
-          "url": "https://wallstreetcn.com/livenews/3120696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "玉马科技：公司目前尚无PTFE膜生产。",
-          "url": "https://flash.jin10.com/detail/20260617162528024800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：欧盟与美国的金融体系相互交织；让欧盟公民和企业使用最先进的人工智能模型，符合双方的共同利益。",
-          "url": "https://flash.jin10.com/detail/20260617203320648800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "恒生指数收盘跌0.74%，恒生科技指数涨0.22%",
-          "url": "https://wallstreetcn.com/livenews/3120848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "联想计划发行20亿美元零息可转债：资本市场重估AI与ISG增长潜力",
-          "url": "https://wallstreetcn.com/livenews/3120911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "如何用AI模型预测世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8AI%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "证监会主席吴清：科创板第五套标准扩大至人工智能大模型行业",
-          "url": "https://flash.jin10.com/detail/20260617110711965800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "民进党当局被曝“正考虑对向大陆销售人工智能芯片实施严厉管制”，国台办回应",
-          "url": "https://wallstreetcn.com/livenews/3120694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "HPE强化面向AI客户的网络设备，西门子能源加入合作",
-          "url": "https://wallstreetcn.com/livenews/3120434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "【证监会主席吴清：科创板第五套标准扩大至人工智能大模型行业】在2026陆家嘴论坛开幕式上，中国证监会主席吴清表示，科创板将第五套标准适用范围将扩大至人工智能大模型行业。",
-          "url": "https://wallstreetcn.com/livenews/3120693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "0利息也能吸走540亿！华尔街疯狂涌入小众风口，只为搭上AI快车",
-          "url": "https://flash.jin10.com/detail/20260617162336747800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "证监会主席吴清：主动拥抱新一轮科技革命和产业变革",
-          "url": "https://wallstreetcn.com/livenews/3120690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2050039889400435846",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "证监会主席吴清在2026陆家嘴论坛上表示，主动拥抱新一轮科技革命和产业变革，持续增强资本市场制度包容性、适应性。",
-          "url": "https://flash.jin10.com/detail/20260617110554310800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "依视路陆逊梯卡董事长兼首席执行官Francesco Milleri：我们相信，先进光学、AI与可穿戴技术的融合将为消费者开启全新一代的体验。 数十年来，依视路陆逊梯卡不断推动镜片和视觉性能的突破性创新，帮助重新定义人们感知周围世界的方式。 与应用材料公司携手，我们期待共同探索智能光学技术，助力塑造智能眼镜和下一代视觉计算的未来，为显示可穿戴设备品类的扩张打造新的全球驱动力。",
-          "url": "https://wallstreetcn.com/livenews/3120432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "00时48分"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
           "url": "https://www.zhihu.com/question/2050618204980863708",
           "source": "知乎",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.50%，报6192.86点，跌穿2025年4月8日收盘位6198.18点、逼近2024年9月23日收盘位5917.72点。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.78%，中国科技指数ETF（CQQQ）收跌1.62%。 MSCI新兴市场ex中国ETF（EMXC）收跌1.51%，德银嘉实沪深300指数ETF（ASHR）收跌0.50%，XtrackersHarvest中证50（ASHS）收涨0.61%。",
-          "url": "https://wallstreetcn.com/livenews/3120485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时40分"
+          "time_info": "00时48分"
         },
         {
-          "title": "【证监会主席吴清：目前A股科技板块市值占比超过3成】证监会主席吴清在2026陆家嘴论坛上表示，目前A股科技板块市值占比超过3成，市值超千亿的科技企业占比达到45%。",
-          "url": "https://wallstreetcn.com/livenews/3120687",
-          "source": "华尔街见闻-快讯",
+          "title": "电子游戏史上有哪些堪称「神迹」的故事？",
+          "url": "https://www.zhihu.com/question/2043732533108528830",
+          "source": "知乎",
           "ranks": [
-            21
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "00时48分"
         },
         {
-          "title": "证监会主席吴清在2026陆家嘴论坛上表示，目前A股科技板块市值占比超过3成，市值超千亿的科技企业占比达到45%。",
-          "url": "https://flash.jin10.com/detail/20260617110411266800",
-          "source": "金十数据",
+          "title": "26 岁成年人在家做游戏代练被送入戒网瘾机构遭非法拘禁，背后体现何问题？父母有权限制成年子女人身自由吗？",
+          "url": "https://www.zhihu.com/question/2050501939901592201",
+          "source": "知乎",
           "ranks": [
-            22
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "00时48分"
         },
         {
-          "title": "港股收评：恒指收跌0.74% AI次新股强势领涨",
-          "url": "https://flash.jin10.com/detail/20260617161715957800",
-          "source": "金十数据",
+          "title": "AI Agent 的核心技术是什么？",
+          "url": "https://www.zhihu.com/question/1906023807417811104",
+          "source": "知乎",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "道指创收盘历史新高、逼近5.2万点，银行指数创新高，纳指科技指数跌约2.4%，半导体指数5.7%",
-          "url": "https://wallstreetcn.com/livenews/3120483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "【智谱科创板IPO辅导状态变更为“辅导验收”】据证监会网站披露，北京智谱华章科技股份有限公司科创板IPO辅导状态变更为“辅导验收”，辅导券商为国泰海通证券。",
-          "url": "https://wallstreetcn.com/livenews/3120838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "AI支付",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%94%AF%E4%BB%98&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
+          "time_info": "00时48分"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
-          "source": "百度热搜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
           "ranks": [
-            25
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "00时48分"
         },
         {
-          "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
-          "url": "https://wallstreetcn.com/livenews/3120511",
+          "title": "老哥与游戏NPC同居被分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
+        },
+        {
+          "title": "新加坡冬海集团悄然进军美国市场，测试AI聊天机器人Migoo",
+          "url": "https://wallstreetcn.com/livenews/3121130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "00时48分"
         },
         {
-          "title": "宁德时代：确定科技创新公司债券（第二期）票面利率为1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3120992",
+          "title": "惠与（HPE）：Vultr为AI基础设施选择本公司和英伟达。",
+          "url": "https://wallstreetcn.com/livenews/3121129",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "00时48分"
         },
         {
-          "title": "宏和科技：子公司产线扩建最终实施落地需要时间 产能投放节奏以及最终是否可以实施落地仍存在较大不确定性",
-          "url": "https://wallstreetcn.com/livenews/3120990",
+          "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
+          "url": "https://wallstreetcn.com/livenews/3121128",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "工信部：深入实施“人工智能＋制造”专项行动 深入整治“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3120981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "26岁游戏代练被母亲骗进戒网瘾机构",
-          "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E6%B8%B8%E6%88%8F%E4%BB%A3%E7%BB%83%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%AA%97%E8%BF%9B%E6%88%92%E7%BD%91%E7%98%BE%E6%9C%BA%E6%9E%84",
-          "source": "百度热搜",
-          "ranks": [
-            28
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "上交所：发行人应在人工智能大模型领域行业地位突出、排名靠前",
-          "url": "https://flash.jin10.com/detail/20260617161220483800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "证监会：严查借科技之名炒概念行为",
-          "url": "https://www.toutiao.com/trending/7652208026585382954/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "高盛交易员：中东局势缓和推动美股投资者关注AI以外板块",
-          "url": "https://wallstreetcn.com/livenews/3120418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
-          "url": "https://wallstreetcn.com/livenews/3120472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "time_info": "00时48分"
         }
       ]
     }
