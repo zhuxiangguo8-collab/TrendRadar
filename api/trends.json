@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T16:59:19.741518+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-06-17T20:54:23.211235+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 53,
+      "match_count": 65,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 20时54分]"
         },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
@@ -66,17 +66,6 @@
           "time_info": "[02时02分 ~ 11时37分]"
         },
         {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
           "title": "据英国金融时报：在Anthropic模型相关争议之后，美国和欧洲讨论人工智能模型的准入问题。",
           "url": "https://flash.jin10.com/detail/20260617012619758800",
           "source": "金十数据",
@@ -88,6 +77,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "证监会实质举措推动科技革命，三类企业受益，一线解读来了",
+          "url": "https://www.cls.cn/detail/2402254",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "吴清：打造首批资本市场科技金融实践样本",
           "url": "https://wallstreetcn.com/livenews/3120707",
           "source": "华尔街见闻-快讯",
@@ -97,6 +97,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "炽夏全员玩游戏童心未泯",
+          "url": "https://www.douyin.com/hot/2537067",
+          "source": "抖音",
+          "ranks": [
+            21,
+            18,
+            17,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 20时54分]"
         },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -125,30 +140,29 @@
           "time_info": "[02时02分 ~ 07时21分]"
         },
         {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 20时54分]"
+        },
+        {
           "title": "老哥与游戏NPC同居被分手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
           "source": "贴吧",
           "ranks": [
             5,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 16时59分]"
-        },
-        {
-          "title": "炽夏全员玩游戏童心未泯",
-          "url": "https://www.douyin.com/hot/2537067",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 20时54分]"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -161,6 +175,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 07时21分]"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 20时54分]"
         },
         {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
@@ -200,18 +226,6 @@
           "time_info": "[02时02分 ~ 07时21分]"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 16时59分]"
-        },
-        {
           "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
@@ -224,13 +238,35 @@
           "time_info": "[11时37分 ~ 16时59分]"
         },
         {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
+          "url": "https://www.cls.cn/detail/2402510",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "惠通科技：高韧性3D打印PLA专用料已完成初期验证",
           "url": "https://flash.jin10.com/detail/20260617163128193800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -241,9 +277,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "摩根士丹利Gokul LAROIA：中国市场人工智能相关投资机遇巨大",
+          "url": "https://wallstreetcn.com/livenews/3121013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "上交所邱勇：更大力度支持科技创新，落实好人工智能领域配套规则",
@@ -252,7 +310,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -285,7 +343,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -296,9 +354,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "市场消息：通用汽车与雷神科技、L3哈里斯就提升军火产量展开对话。",
@@ -329,9 +398,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：欧盟与美国的金融体系相互交织；让欧盟公民和企业使用最先进的人工智能模型，符合双方的共同利益。",
+          "url": "https://flash.jin10.com/detail/20260617203320648800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "恒生指数收盘跌0.74%，恒生科技指数涨0.22%",
@@ -340,9 +420,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "联想计划发行20亿美元零息可转债：资本市场重估AI与ISG增长潜力",
+          "url": "https://wallstreetcn.com/livenews/3120911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "如何用AI模型预测世界杯",
@@ -406,7 +497,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -455,6 +546,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌2.50%，报6192.86点，跌穿2025年4月8日收盘位6198.18点、逼近2024年9月23日收盘位5917.72点。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.78%，中国科技指数ETF（CQQQ）收跌1.62%。 MSCI新兴市场ex中国ETF（EMXC）收跌1.51%，德银嘉实沪深300指数ETF（ASHR）收跌0.50%，XtrackersHarvest中证50（ASHS）收涨0.61%。",
           "url": "https://wallstreetcn.com/livenews/3120485",
           "source": "华尔街见闻-快讯",
@@ -494,7 +596,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -516,7 +618,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -527,7 +629,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -554,6 +656,39 @@
           "time_info": "07时21分"
         },
         {
+          "title": "宁德时代：确定科技创新公司债券（第二期）票面利率为1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3120992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "宏和科技：子公司产线扩建最终实施落地需要时间 产能投放节奏以及最终是否可以实施落地仍存在较大不确定性",
+          "url": "https://wallstreetcn.com/livenews/3120990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "工信部：深入实施“人工智能＋制造”专项行动 深入整治“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3120981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "26岁游戏代练被母亲骗进戒网瘾机构",
           "url": "https://www.baidu.com/s?wd=26%E5%B2%81%E6%B8%B8%E6%88%8F%E4%BB%A3%E7%BB%83%E8%A2%AB%E6%AF%8D%E4%BA%B2%E9%AA%97%E8%BF%9B%E6%88%92%E7%BD%91%E7%98%BE%E6%9C%BA%E6%9E%84",
           "source": "百度热搜",
@@ -571,7 +706,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -582,7 +717,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
