@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T11:29:46.817748+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-06-18T16:42:40.306513+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 37,
+      "match_count": 50,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -34,6 +34,35 @@
           "time_info": "[00时48分 ~ 07时25分]"
         },
         {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时17分 ~ 16时42分]"
+        },
+        {
+          "title": "老哥与游戏NPC同居被分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            19,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 16时42分]"
+        },
+        {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
@@ -47,6 +76,17 @@
           "time_info": "[00时48分 ~ 07时25分]"
         },
         {
+          "title": "恒生指数收盘跌1.59%，恒生科技指数跌1.39%",
+          "url": "https://wallstreetcn.com/livenews/3121550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "中国正加紧筹建世界人工智能合作组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
           "source": "澎湃新闻",
@@ -54,20 +94,6 @@
             15,
             16,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 11时29分]"
-        },
-        {
-          "title": "老哥与游戏NPC同居被分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18,
-            19,
-            21
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -85,19 +111,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 07时25分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时17分 ~ 11时29分]"
         },
         {
           "title": "26 岁成年人在家做游戏代练被送入戒网瘾机构遭非法拘禁，背后体现何问题？父母有权限制成年子女人身自由吗？",
@@ -121,6 +134,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 07时25分]"
+        },
+        {
+          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
+          "url": "https://www.zhihu.com/question/2050522294171039185",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 16时42分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -158,6 +183,17 @@
           "time_info": "[04时17分 ~ 05时58分]"
         },
         {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 16时42分]"
+        },
+        {
           "title": "存储涨价的荒诞现实：一块游戏机硬盘已能抵三台完整主机",
           "url": "https://www.cls.cn/detail/2402925",
           "source": "财联社热门",
@@ -168,6 +204,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 11时29分]"
+        },
+        {
+          "title": "普门科技：取得糖化血红蛋白测定试剂盒医疗器械注册证",
+          "url": "https://flash.jin10.com/detail/20260618161304963800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "黄金和AI：谁在见顶？",
+          "url": "https://wallstreetcn.com/articles/3774914",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "CrowdStrike(CRWD.O)扩展了Falcon AI检测功能。",
@@ -192,37 +250,26 @@
           "time_info": "07时25分"
         },
         {
-          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
-          "url": "https://www.zhihu.com/question/2050522294171039185",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
-          "url": "https://www.zhihu.com/question/14853864339",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
           "url": "https://wallstreetcn.com/articles/3774870",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "用AI打开端午的一百种方式",
+          "url": "https://www.douyin.com/hot/2539388",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "电子游戏史上有哪些堪称「神迹」的故事？",
@@ -234,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "香港恒生指数6月18日（周四）收盘下跌387.35点，跌幅1.59%，报23924.81点；<br/>香港恒生科技指数6月18日（周四）收盘下跌64.72点，跌幅1.39%，报4604.35点；<br/>国企指数6月18日（周四）收盘下跌167.99点，跌幅2.06%，报7976.04点；<br/>红筹指数6月18日（周四）收盘下跌162.24点，跌幅3.89%，报4009.59点。",
+          "url": "https://flash.jin10.com/detail/20260618161119330800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "AI Agent 的核心技术是什么？",
@@ -253,9 +311,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "精研科技：安特信业绩补偿进展披露 仍存不确定性",
+          "url": "https://flash.jin10.com/detail/20260618160623733800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
@@ -269,13 +338,24 @@
           "time_info": "05时58分"
         },
         {
+          "title": "八年开发终于修成正果，如何评价游戏《太吾绘卷》1.0 完全版？",
+          "url": "https://www.zhihu.com/question/2050628077214852981",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "金十图示：2026年06月18日（周四）中国科技互联网公司市值排名TOP 50一览",
           "url": "https://flash.jin10.com/detail/20260618105423020800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -289,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "专家谈现在还能不能入手科技股",
+          "url": "https://www.toutiao.com/trending/7652586557089533494/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "新加坡冬海集团悄然进军美国市场，测试AI聊天机器人Migoo",
@@ -308,9 +399,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "小米称西安警方侦破 AI 造谣刑案，4 人被刑拘，利用 AI 造谣将面临哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2050636227766964582",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "惠与（HPE）：Vultr为AI基础设施选择本公司和英伟达。",
@@ -330,9 +432,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "天阳科技：签订3.03亿元算力云服务协议",
+          "url": "https://flash.jin10.com/detail/20260618160410733800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "摩根资产管理：AI热潮料推动美股续涨，下半年宜持有高风险资产",
@@ -352,9 +465,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "远景发布Mission Gobi计划，2030年将建5GW绿色AI算力中心",
+          "url": "https://wallstreetcn.com/livenews/3121520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.14%，报6122.30点。 热门中概股里，理想跌3.4%，阿里跌3.1%，蔚来涨0.2%，日月光半导体涨2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.93%，中国科技指数ETF（CQQQ）收涨1.72%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.35%，德银嘉实沪深300指数ETF（ASHR）收跌0.08%，XtrackersHarvest中证50（ASHS）收涨0.31%。",
@@ -407,9 +531,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "太吾绘卷游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E5%90%BE%E7%BB%98%E5%8D%B7%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
@@ -429,9 +564,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "端午和周星驰拍上AI食神大片了",
+          "url": "https://www.douyin.com/hot/2538982",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     }
