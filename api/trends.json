@@ -1,565 +1,66 @@
 {
-  "generated_at": "2026-06-19T22:55:54.896709+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-06-20T01:16:28.570098+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 48,
+      "match_count": 5,
       "titles": [
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            2,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时03分 ~ 19时19分]"
-        },
-        {
-          "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2403717",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 14时14分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时23分 ~ 22时55分]"
-        },
-        {
-          "title": "让AI走进千家万户",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 08时23分]"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时03分 ~ 14时14分]"
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "整活?小钰把Bin塞进游戏界面",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
           "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 22时55分]"
-        },
-        {
-          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
-          "url": "https://www.cls.cn/detail/2403645",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 08时23分]"
-        },
-        {
-          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时13分 ~ 22时55分]"
-        },
-        {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时31分 ~ 14时14分]"
-        },
-        {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时31分 ~ 19时19分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
-          "url": "https://flash.jin10.com/detail/20260619030734047800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
-          "url": "https://www.zhihu.com/question/2050522294171039185",
-          "source": "知乎",
-          "ranks": [
-            4,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时04分]"
-        },
-        {
-          "title": "Claude：Claude Code现在支持Artifacts。",
-          "url": "https://wallstreetcn.com/livenews/3121857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "01时16分"
         },
         {
-          "title": "老哥与游戏NPC同居被分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 08时23分]"
-        },
-        {
-          "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
-          "url": "https://www.cls.cn/detail/2403949",
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时04分]"
-        },
-        {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时23分 ~ 14时14分]"
-        },
-        {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时23分 ~ 14时14分]"
-        },
-        {
-          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
-          "url": "https://wallstreetcn.com/articles/3775047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 22时55分]"
-        },
-        {
-          "title": "八年开发终于修成正果，如何评价游戏《太吾绘卷》1.0 完全版？",
-          "url": "https://www.zhihu.com/question/2050628077214852981",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 03时31分]"
-        },
-        {
-          "title": "如何看待南方都市报报道 26 岁男子因在家做游戏代练被母亲送进网瘾特训基地？",
-          "url": "https://www.zhihu.com/question/2050949678271656137",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
-        },
-        {
-          "title": "知名作家承认新书AI写作比重占一半",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
-        },
-        {
-          "title": "AI预测科隆Major夺冠队伍",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
-        },
-        {
-          "title": "美国采取行动，加快AI数据中心接入电网",
-          "url": "https://wallstreetcn.com/livenews/3121905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "用AI打开端午节的一百种方式",
-          "url": "https://www.douyin.com/hot/2540919",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "周四（6月18日），美股存储芯片与硬件供应链指数涨6.29%，报266.26点，突破6月15日所创收盘历史最高位253.05点。 成分股全面上涨，闪迪收涨11.54%，时隔两个交易日再创收盘历史新高；美光科技涨8.70%，时隔两天再创收盘历史新高；Rambus涨8.51%，泰瑞达涨7.19%，西部数据涨4.79%，连续四天创收盘历史新高，6月11日以来累计上涨52.27%；应用材料涨4.08%，拉姆研究涨3.97%，希捷科技涨0.39%，也连续四天创新高。",
-          "url": "https://wallstreetcn.com/livenews/3121904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（6月18日），美国科技股七巨头（Magnificent 7）指数涨1.52%，报213.40点。 “超大”市值科技股指数涨2.27%，报442.43点。",
-          "url": "https://wallstreetcn.com/livenews/3121901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "01时16分"
         },
         {
           "title": "丁彦雨航玩CBA选球员游戏",
           "url": "https://www.douyin.com/hot/2540492",
           "source": "抖音",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心",
-          "url": "https://wallstreetcn.com/livenews/3122066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "01时16分"
         },
         {
-          "title": "Alphabet、Visa等公司释放加强AI监管信号",
-          "url": "https://wallstreetcn.com/livenews/3121845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "高盛一篮子欧洲国防股指数一度上涨2%，Renk一度上涨4.5%，Exail一度上涨4.0%，莱茵金属上涨2.9%，Leonardo上涨3.4%，Kongsberg上涨3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3122063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "能源情报集团记者Amena Bakr：三艘载有约600万桶原油的沙特超大型油轮（VLCC）已通过霍尔木兹海峡，在消失两个多月后重新出现在AIS（船舶自动识别系统）上。",
-          "url": "https://flash.jin10.com/detail/20260619024509451800",
+          "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260619234155159800",
           "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
-          "url": "https://wallstreetcn.com/livenews/3121892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
-          "url": "https://wallstreetcn.com/livenews/3121891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "因AI翻译意外爆红的帖子",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%A0AI%E7%BF%BB%E8%AF%91%E6%84%8F%E5%A4%96%E7%88%86%E7%BA%A2%E7%9A%84%E5%B8%96%E5%AD%90&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "全球科技升温，公募加速布局韩国赛道",
-          "url": "https://wallstreetcn.com/livenews/3122110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "Meta Platforms(META.O)与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20260619042115583800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "【报道：亚马逊洽谈向其他公司出售英伟达竞品芯片】亚马逊正在洽谈出售其定制的人工智能芯片，以供其他公司的数据中心使用，这是其努力削弱英伟达公司主导地位的关键扩张举措。亚马逊AI业务负责人表示，公司已开始与潜在客户进行讨论，但拒绝透露具体名称，并认为AI基础设施正在快速演变。亚马逊第三代AI加速器Trainium已基本售罄，且预计明年推出的第四代产品已引起强烈兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3121801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "广东省人民政府印发《广东省推进服务业扩能提质实施方案》的通知，其中提到，抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心。培育引进更多具有核心竞争力的软件企业，打造一批全国领先的数字化转型服务商。",
-          "url": "https://flash.jin10.com/detail/20260619182004847800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "周四四（6月18日），美股行业ETF多数收涨，半导体ETF涨5.76%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至多涨3.75%，网络股指数ETF涨1.11%，医疗业ETF、金融业ETF则至多收跌0.89%，能源业ETF跌1.65%。",
-          "url": "https://wallstreetcn.com/livenews/3121887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（6月19日）",
-          "url": "https://flash.jin10.com/detail/20260619075254816800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3121914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "缅甸总统敏昂莱一行到访宇树科技参观",
-          "url": "https://wallstreetcn.com/livenews/3122051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "Meta Platforms与数据中心公司Crusoe敲定AI计算协议。 Meta将根据合同购买对方两个数据中心（美国密苏里+得克萨斯）的算力。 Meta有望获得大约1.6 GW算力。",
-          "url": "https://wallstreetcn.com/livenews/3121883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "太吾绘卷与中国独立游戏的八年",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E5%90%BE%E7%BB%98%E5%8D%B7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E7%9A%84%E5%85%AB%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
-          "url": "https://wallstreetcn.com/livenews/3121912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "理想AI转型背后",
-          "url": "https://www.toutiao.com/trending/7652722015660412454/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "AI巨头为啥在这个时间窗口集体上市",
-          "url": "https://www.toutiao.com/trending/7652700214209285675/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "01时16分"
         }
       ]
     }
