@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-20T01:16:28.570098+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-20T03:44:35.335082+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
         {
           "title": "整活?小钰把Bin塞进游戏界面",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
@@ -26,8 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时44分]"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时44分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -37,19 +38,53 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时44分]"
         },
         {
           "title": "丁彦雨航玩CBA选球员游戏",
           "url": "https://www.douyin.com/hot/2540492",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时44分]"
+        },
+        {
+          "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
+          "url": "https://wallstreetcn.com/articles/3775053",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "03时44分"
+        },
+        {
+          "title": "吴清表示「严查严处借科技之名蹭热点、炒概念甚至操纵市场，内幕交易等违法违规行为」，释放了什么监管信号？",
+          "url": "https://www.zhihu.com/question/2050541541630940368",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
