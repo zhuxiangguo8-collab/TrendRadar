@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T03:19:24.413853+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-06-21T05:13:09.423726+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "这个端午科技范十足家国情更浓",
@@ -26,41 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
-        },
-        {
-          "title": "存储芯片公司英韧科技完成IPO辅导，主营业务为高性能固态硬盘主控芯片的设计与供应",
-          "url": "https://wallstreetcn.com/livenews/3122273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -70,19 +61,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -92,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -103,8 +95,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "整活?小钰把Bin塞进游戏界面",
@@ -112,11 +104,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -124,11 +117,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -136,11 +130,23 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时13分]"
+        },
+        {
+          "title": "存储芯片公司英韧科技完成IPO辅导，主营业务为高性能固态硬盘主控芯片的设计与供应",
+          "url": "https://wallstreetcn.com/livenews/3122273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 05时13分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -149,7 +155,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         }
