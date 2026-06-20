@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-20T19:14:27.475981+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-06-20T21:52:57.090425+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "整活?小钰把Bin塞进游戏界面",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 21时52分]"
+        },
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
@@ -20,20 +34,6 @@
           "time_info": "[01时16分 ~ 08时06分]"
         },
         {
-          "title": "整活?小钰把Bin塞进游戏界面",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 19时14分]"
-        },
-        {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时16分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 21时52分]"
         },
         {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
@@ -60,6 +60,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时44分 ~ 19时14分]"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 21时52分]"
         },
         {
           "title": "吴清表示「严查严处借科技之名蹭热点、炒概念甚至操纵市场，内幕交易等违法违规行为」，释放了什么监管信号？",
@@ -77,18 +89,6 @@
           "time_info": "[03时44分 ~ 13时09分]"
         },
         {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 19时14分]"
-        },
-        {
           "title": "第一次见心眼这么多的AI",
           "url": "https://www.douyin.com/hot/2541043",
           "source": "抖音",
@@ -99,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 16时49分]"
+        },
+        {
+          "title": "这个端午科技范十足家国情更浓",
+          "url": "https://www.douyin.com/hot/2541868",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "丁彦雨航玩CBA选球员游戏",
@@ -126,6 +137,18 @@
           "time_info": "[16时49分 ~ 19时14分]"
         },
         {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 21时52分]"
+        },
+        {
           "title": "为什么早期 2D 游戏的像素风格至今看来仍不过时，但早期 3D 游戏画质却难以接受?",
           "url": "https://www.zhihu.com/question/390563281",
           "source": "知乎",
@@ -137,6 +160,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时52分 ~ 13时09分]"
+        },
+        {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 21时52分]"
         },
         {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
@@ -164,16 +200,17 @@
           "time_info": "[06时52分 ~ 08时06分]"
         },
         {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时09分 ~ 19时14分]"
+          "time_info": "[16时49分 ~ 21时52分]"
         },
         {
           "title": "G7峰会背后的权力游戏",
@@ -189,20 +226,8 @@
           "time_info": "[13时09分 ~ 19时14分]"
         },
         {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 19时14分]"
-        },
-        {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -210,7 +235,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时49分 ~ 19时14分]"
+          "time_info": "[19时14分 ~ 21时52分]"
         },
         {
           "title": "美国电网扛不住AI热潮",
@@ -219,7 +244,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -230,7 +255,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -246,15 +271,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "21时52分"
         },
         {
           "title": "挪威将禁止小学生使用生成式人工智能",
@@ -274,9 +299,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "AI短剧“买脸” 每张脸500元一年",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
@@ -310,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "AI 时代，我们还需要背诵知识吗？",
+          "url": "https://www.zhihu.com/question/2046245649616835938",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "男子称高价挂专家号 医生竟悄悄问AI",
@@ -373,7 +431,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
