@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T05:11:11.120425+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-06-22T07:10:01.359121+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "科技赋能 全国夏播粮食进度近七成",
@@ -27,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
-        },
-        {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
@@ -49,8 +38,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
+        },
+        {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -59,11 +60,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "市场“不可调和的矛盾”：如何给科技股估值",
@@ -74,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
@@ -86,8 +88,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "“加息”涨科技？",
@@ -97,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -108,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
@@ -119,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
@@ -130,8 +132,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -140,11 +142,12 @@
           "ranks": [
             21,
             18,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
         },
         {
           "title": "整活?小钰把Bin塞进游戏界面",
@@ -152,11 +155,34 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时10分]"
+        },
+        {
+          "title": "首程控股(00697.HK)：近日，本集团所属首程资本旗下公司所管理的基金投资AI服务公司智子芯元。",
+          "url": "https://flash.jin10.com/detail/20260622062950039800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
+          "url": "https://wallstreetcn.com/livenews/3122399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         }
       ]
     }
