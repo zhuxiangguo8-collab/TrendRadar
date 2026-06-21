@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T16:26:22.071605+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-06-21T19:43:34.275288+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -56,30 +56,18 @@
           "time_info": "[01时22分 ~ 11时40分]"
         },
         {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 11时40分]"
-        },
-        {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 19时43分]"
         },
         {
           "title": "整活?小钰把Bin塞进游戏界面",
@@ -94,8 +82,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 19时43分]"
+        },
+        {
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 11时40分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
@@ -108,6 +109,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 16时26分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 19时43分]"
         },
         {
           "title": "存储芯片公司英韧科技完成IPO辅导，主营业务为高性能固态硬盘主控芯片的设计与供应",
@@ -123,6 +137,17 @@
           "time_info": "[01时22分 ~ 16时26分]"
         },
         {
+          "title": "数学博士生2年研究被AI抢发",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F2%E5%B9%B4%E7%A0%94%E7%A9%B6%E8%A2%ABAI%E6%8A%A2%E5%8F%91%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "这场龙舟赛“科技味”十足",
           "url": "https://www.toutiao.com/trending/7653072490532720164/",
           "source": "今日头条",
@@ -134,13 +159,24 @@
           "time_info": "11时40分"
         },
         {
+          "title": "大学生自己的恋爱游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%AA%E5%B7%B1%E7%9A%84%E6%81%8B%E7%88%B1%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "兴业科技：拟5500万元收购磷化铟衬底相关业务",
           "url": "https://flash.jin10.com/detail/20260621161647564800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -195,16 +231,16 @@
           "time_info": "[01时22分 ~ 07时04分]"
         },
         {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
+          "title": "市场“不可调和的矛盾”：如何给科技股估值",
+          "url": "https://wallstreetcn.com/articles/3775123",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 16时26分]"
+          "time_info": "[16时26分 ~ 19时43分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -212,11 +248,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 19时43分]"
         },
         {
           "title": "女子用AI写3000字股市谣言被罚",
@@ -226,8 +263,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 19时43分]"
         },
         {
           "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
@@ -235,11 +272,48 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 19时43分]"
+        },
+        {
+          "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
+          "url": "https://www.cls.cn/detail/2404743",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 16时26分]"
+          "time_info": "[16时26分 ~ 19时43分]"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时43分]"
+        },
+        {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时43分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -254,15 +328,27 @@
           "time_info": "[03时19分 ~ 07时04分]"
         },
         {
-          "title": "市场“不可调和的矛盾”：如何给科技股估值",
-          "url": "https://wallstreetcn.com/articles/3775123",
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 19时43分]"
+        },
+        {
+          "title": "“加息”涨科技？",
+          "url": "https://wallstreetcn.com/articles/3775132",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "19时43分"
         },
         {
           "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
@@ -287,24 +373,13 @@
           "time_info": "11时40分"
         },
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "如何看待王树国辟谣「福耀科技大学不发课本只发岗位清单」，称「对学生知识基础要求严，数学用英文教材」？",
           "url": "https://www.zhihu.com/question/2051957893398783738",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -320,26 +395,37 @@
           "time_info": "07时04分"
         },
         {
-          "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
-          "url": "https://www.cls.cn/detail/2404743",
-          "source": "财联社热门",
+          "title": "五只科技股杀入A股市值前十",
+          "url": "https://www.toutiao.com/trending/7653657296974646825/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "19时43分"
         },
         {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "19时43分"
+        },
+        {
+          "title": "AI短剧严重“缺脸” 500元买一张脸",
+          "url": "https://www.toutiao.com/trending/7653430042109853737/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "巨星科技：拟3.2元/股收购网商银行1.54%股权",
@@ -348,18 +434,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
