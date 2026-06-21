@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T22:01:27.282335+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-06-21T23:59:20.878784+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 22时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时22分 ~ 23时59分]"
         },
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -42,11 +42,12 @@
             14,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 22时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时22分 ~ 23时59分]"
         },
         {
           "title": "这个端午科技范十足家国情更浓",
@@ -58,6 +59,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 07时04分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 23时59分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
@@ -86,19 +101,6 @@
           "time_info": "[01时22分 ~ 11时40分]"
         },
         {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 22时01分]"
-        },
-        {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
           "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
@@ -110,6 +112,43 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 11时40分]"
+        },
+        {
+          "title": "科技赋能 全国夏播粮食进度近七成",
+          "url": "https://www.toutiao.com/trending/7653411322935803946/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时00分 ~ 23时59分]"
+        },
+        {
+          "title": "市场“不可调和的矛盾”：如何给科技股估值",
+          "url": "https://wallstreetcn.com/articles/3775123",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 23时59分]"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 23时59分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
@@ -124,27 +163,30 @@
           "time_info": "[11时40分 ~ 16时26分]"
         },
         {
-          "title": "科技赋能 全国夏播粮食进度近七成",
-          "url": "https://www.toutiao.com/trending/7653411322935803946/",
-          "source": "今日头条",
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
           "ranks": [
+            13,
+            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时01分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 23时59分]"
         },
         {
-          "title": "市场“不可调和的矛盾”：如何给科技股估值",
-          "url": "https://wallstreetcn.com/articles/3775123",
-          "source": "华尔街见闻",
+          "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
+          "url": "https://www.cls.cn/detail/2404743",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            10,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时01分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 23时59分]"
         },
         {
           "title": "存储芯片公司英韧科技完成IPO辅导，主营业务为高性能固态硬盘主控芯片的设计与供应",
@@ -158,6 +200,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 16时26分]"
+        },
+        {
+          "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
+          "url": "https://www.cls.cn/detail/2404712",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 23时59分]"
         },
         {
           "title": "数学博士生2年研究被AI抢发",
@@ -193,32 +249,6 @@
           "time_info": "19时43分"
         },
         {
-          "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
-          "url": "https://www.cls.cn/detail/2404743",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时01分]"
-        },
-        {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时01分]"
-        },
-        {
           "title": "兴业科技：拟5500万元收购磷化铟衬底相关业务",
           "url": "https://flash.jin10.com/detail/20260621161647564800",
           "source": "金十数据",
@@ -240,20 +270,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 07时04分]"
-        },
-        {
-          "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
-          "url": "https://www.cls.cn/detail/2404712",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 22时01分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -294,16 +310,27 @@
           "time_info": "[01时22分 ~ 07时04分]"
         },
         {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
+          "title": "“加息”涨科技？",
+          "url": "https://wallstreetcn.com/articles/3775132",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            8
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时26分 ~ 22时01分]"
+          "time_info": "[19时43分 ~ 23时59分]"
+        },
+        {
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 23时59分]"
         },
         {
           "title": "父亲节用AI表达爱",
@@ -319,15 +346,16 @@
           "time_info": "[16时26分 ~ 22时01分]"
         },
         {
-          "title": "“加息”涨科技？",
-          "url": "https://wallstreetcn.com/articles/3775132",
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
           "source": "华尔街见闻",
           "ranks": [
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时43分 ~ 22时01分]"
+          "time_info": "[22时00分 ~ 23时59分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -352,28 +380,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 19时43分]"
-        },
-        {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 22时01分]"
-        },
-        {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时00分 ~ 22时01分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -441,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "为什么好像手办模玩大多是基于动漫角色展开的，游戏的经典角色和形象就不能大规模转化为手办模玩吗？",
+          "url": "https://www.zhihu.com/question/2050254108230268790",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "AI短剧严重“缺脸” 500元买一张脸",
