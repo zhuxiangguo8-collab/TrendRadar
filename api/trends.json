@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T10:49:19.757994+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-06-23T14:48:33.344300+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 31,
+      "match_count": 44,
       "titles": [
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时22分 ~ 07时26分]"
+        },
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 14时48分]"
+        },
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时22分 ~ 14时48分]"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
@@ -44,29 +67,6 @@
           "time_info": "[06时00分 ~ 10时49分]"
         },
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时49分]"
-        },
-        {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时22分 ~ 10时49分]"
-        },
-        {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
@@ -78,6 +78,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时22分 ~ 10时49分]"
+        },
+        {
+          "title": "科创50指数尾盘跌超3%，澜起科技跌超8%领跌成分股。",
+          "url": "https://flash.jin10.com/detail/20260623143039194800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "印度摸头闪避游戏新预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E6%91%B8%E5%A4%B4%E9%97%AA%E9%81%BF%E6%B8%B8%E6%88%8F%E6%96%B0%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "科创50指数尾盘跌超3%，澜起科技跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3123231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.29%，报23830点。 恒生科技指数主连夜盘收涨0.26%，报4565点。",
@@ -103,6 +136,42 @@
           "time_info": "[07时25分 ~ 10时49分]"
         },
         {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时48分]"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时48分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时48分]"
+        },
+        {
           "title": "物理AI第一股上市首日高开302%",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -112,6 +181,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "韩国和日本股市因科技股大幅抛售而下跌",
+          "url": "https://flash.jin10.com/detail/20260623142319115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
@@ -125,26 +216,15 @@
           "time_info": "06时01分"
         },
         {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
+          "title": "科技热潮降温 ，亚洲股市全线下跌，韩股暴跌8%触发熔断，黄金回吐隔夜涨幅",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时48分"
         },
         {
           "title": "A股动漫概念部分走高，涟升科技涨超6%，光线传媒涨超4%，天舟文化、慈文传媒、苏宁环球等跟涨。",
@@ -153,7 +233,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -175,18 +255,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -197,9 +266,64 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "消息人士：日产汽车在去年年初已停止开发其电动版Qashqai SUV。即使重启项目，该车型也要到下个十年才能上市。",
+          "url": "https://flash.jin10.com/detail/20260623141237233800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "武亮说峰学要拥抱AI带来的变化",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E4%BA%AE%E8%AF%B4%E5%B3%B0%E5%AD%A6%E8%A6%81%E6%8B%A5%E6%8A%B1AI%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "万代防BOT,猫鼠游戏玩麻了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355525&amp;topic_name=%E4%B8%87%E4%BB%A3%E9%98%B2BOT%2C%E7%8C%AB%E9%BC%A0%E6%B8%B8%E6%88%8F%E7%8E%A9%E9%BA%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至3%，恒生指数跌1.7%。MINIMAX跌超18%，智谱跌近12%。",
+          "url": "https://wallstreetcn.com/livenews/3123215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "深成指跌超3%，成份股中，德福科技跌超14%，铜冠铜箔跌超11%。",
+          "url": "https://flash.jin10.com/detail/20260623140725174800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "A股面板概念股活跃，凯盛科技盘中续创新高，彩虹股份涨停，八亿时空涨超10%，华塑控股、深华发A、同兴达跟涨。",
@@ -208,7 +332,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -230,7 +354,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -268,6 +392,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "港股午后扩大跌幅，恒生科技指数跌超3%，恒生指数跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260623135940054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "周一（6月22日），美股行业ETF多数收涨，生物科技指数ETF收涨1.94%，半导体ETF涨1.37%，能源业ETF涨1.28%，全球科技股指数ETF涨0.59%，可选消费ETF则收跌1.70%，网络股指数ETF跌2.24%。",
           "url": "https://wallstreetcn.com/livenews/3123018",
           "source": "华尔街见闻-快讯",
@@ -296,7 +431,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -318,7 +453,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -329,7 +464,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -343,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "港股存储芯片板块震荡走低，南方两倍做多海力士跌超20%，澜起科技跌超9%，兆易创新跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3123196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
