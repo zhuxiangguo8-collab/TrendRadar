@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T04:46:38.038073+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-06-25T06:14:19.140769+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "产业扎根大地 科技赋能民生",
@@ -49,8 +49,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
@@ -62,20 +75,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
+          "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
+          "url": "https://flash.jin10.com/detail/20260625061135675800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -89,26 +112,26 @@
           "time_info": "02时50分"
         },
         {
-          "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
-          "url": "https://wallstreetcn.com/livenews/3124230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
           "title": "Hugging Face CEO：来自Hugging Face生态系统的AI模型计划将被集成并部署到高通平台上。",
           "url": "https://flash.jin10.com/detail/20260625044048197800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
+          "url": "https://flash.jin10.com/detail/20260625060708840800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
@@ -127,11 +150,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
@@ -141,19 +165,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "受美光科技(MU.O)等芯片股盘后上涨提振，纳指期货周四开涨2%。",
+          "url": "https://flash.jin10.com/detail/20260625060151037800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -164,8 +211,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -176,19 +223,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时14分]"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
+          "url": "https://wallstreetcn.com/livenews/3124230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时14分]"
         },
         {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
@@ -196,11 +256,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 06时14分]"
+        },
+        {
+          "title": "AI 对制造业的影响预计何时显现？",
+          "url": "https://www.zhihu.com/question/2019843435763353551",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 06时14分]"
         },
         {
           "title": "游戏里的「暴击率 +5%」和「暴击伤害 +10%」，哪个更好？",
@@ -213,17 +286,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时50分]"
-        },
-        {
-          "title": "AI 对制造业的影响预计何时显现？",
-          "url": "https://www.zhihu.com/question/2019843435763353551",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 04时46分]"
         },
         {
           "title": "知名投资人提示科技股泡沫破裂风险",
@@ -241,11 +303,48 @@
           "url": "https://wallstreetcn.com/livenews/3124226",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时14分]"
+        },
+        {
+          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+          "url": "https://wallstreetcn.com/articles/3775365",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时14分]"
+        },
+        {
+          "title": "美光科技财报",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时14分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时14分]"
         },
         {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
@@ -276,20 +375,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "url": "https://wallstreetcn.com/articles/3775365",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "04时46分"
         },
         {
           "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
@@ -298,7 +386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -309,7 +397,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -331,18 +419,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -375,7 +452,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -397,7 +474,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -419,20 +496,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "美光科技财报",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "04时46分"
         },
         {
           "title": "美光科技(MU.O)：截至目前已签署的战略客户协议下，公司预计将获得约220亿美元的现金存款及相关金融承诺。",
@@ -441,7 +507,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -463,9 +529,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625045426358800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "港交所文件显示，安徽华恒生物科技股份有限公司通过港交所上市聆讯。",
@@ -485,7 +562,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -496,7 +573,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -507,7 +584,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -518,7 +595,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -529,7 +606,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -540,7 +617,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -551,7 +628,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -562,7 +639,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -584,7 +661,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -606,7 +683,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
