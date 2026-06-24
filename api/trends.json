@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T18:20:06.357902+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-06-24T21:18:24.232398+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 85,
+      "match_count": 99,
       "titles": [
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -57,6 +57,17 @@
           "time_info": "[00时26分 ~ 07时06分]"
         },
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 21时18分]"
+        },
+        {
           "title": "米游AI女友上线,玩家有福了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
           "source": "贴吧",
@@ -66,11 +77,12 @@
             14,
             19,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 21时18分]"
         },
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -95,17 +107,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 05时29分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 18时20分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -134,16 +135,41 @@
           "time_info": "[07时05分 ~ 14时44分]"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时18分]"
+        },
+        {
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
           "ranks": [
             4,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时44分 ~ 18时20分]"
+          "time_info": "[18时19分 ~ 21时18分]"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 21时18分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
@@ -179,17 +205,6 @@
           "time_info": "[00时26分 ~ 07时06分]"
         },
         {
-          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
-          "url": "https://www.cls.cn/detail/2407855",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
@@ -211,17 +226,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 07时06分]"
-        },
-        {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
@@ -312,6 +316,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "产业扎根大地 科技赋能民生",
+          "url": "https://www.toutiao.com/trending/7654856924794847268/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "软银CEO孙正义：公司已开始利用机器人装配线大规模生产AI机器人。",
           "url": "https://flash.jin10.com/detail/20260624103940257800",
           "source": "金十数据",
@@ -340,9 +355,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 21时18分]"
         },
         {
           "title": "红板科技：拟投资不超9亿元建设高阶HDI精密电路板生产线智能化改造项目",
@@ -351,9 +379,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "软银CEO孙正义：英特尔(INTC.O)的制造角色至关重要，科技巨头们在寻求超越台积电(TSM.N)。",
@@ -365,6 +404,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 21时18分]"
         },
         {
           "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
@@ -379,28 +431,52 @@
           "time_info": "[10时49分 ~ 18时20分]"
         },
         {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
+          "title": "游戏里的「暴击率 +5%」和「暴击伤害 +10%」，哪个更好？",
+          "url": "https://www.zhihu.com/question/2050162370757055174",
+          "source": "知乎",
           "ranks": [
             11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 18时20分]"
-        },
-        {
-          "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33441921",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时44分 ~ 18时20分]"
+          "time_info": "[18时19分 ~ 21时18分]"
+        },
+        {
+          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
+          "url": "https://www.cls.cn/detail/2407987",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时18分]"
+        },
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时18分]"
+        },
+        {
+          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
+          "url": "https://www.zhihu.com/question/2035742574737143093",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时18分]"
         },
         {
           "title": "为什么很多盗版游戏的民间翻译，反而比官方译名更深入人心？你还记得哪些深入人心的民间翻译？",
@@ -436,50 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 14时44分]"
-        },
-        {
-          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
-          "url": "https://www.cls.cn/detail/2407987",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "游戏里的「暴击率 +5%」和「暴击伤害 +10%」，哪个更好？",
-          "url": "https://www.zhihu.com/question/2050162370757055174",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
-          "url": "https://www.zhihu.com/question/2035742574737143093",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2408036",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "你有没有因为一个游戏，去学一项现在基本没用的技能或者知识点？",
@@ -526,15 +558,37 @@
           "time_info": "07时06分"
         },
         {
+          "title": "返利科技：安徽繁枫智能装备有限公司拟受让公司16%股份，成为公司控股股东",
+          "url": "https://flash.jin10.com/detail/20260624210816241800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "苏州英特模科技股份有限公司创业板IPO审核状态变更为“已问询”，保荐机构为华泰联合。",
           "url": "https://wallstreetcn.com/livenews/3123931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
+          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "鸿海与夏普签署战略合作备忘录，聚焦AI基础设施与机器人等新业务",
@@ -546,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "博通和OpenAI表示，早期测试显示，Jalapeño的每瓦性能将显著优于当前的最先进水平。",
+          "url": "https://flash.jin10.com/detail/20260624210650083800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -590,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "据The Information：xAI正加大力度开发视频和图像生成工具。",
+          "url": "https://flash.jin10.com/detail/20260624210621281800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "美国参议院共和党成员Steve Daines：参议院正酝酿自己版本的加密货币税收草案。 预计将“宜早不宜迟地”披露我们的计划。 可能会在秋季公之于众。",
@@ -724,6 +800,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "博通与OpenAI联合推出Jalapeño，这是OpenAI首款智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210354905800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "美国敦促Meta Platforms同意接受人工智能（AI）审查。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3123659",
           "source": "华尔街见闻-快讯",
@@ -744,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "微软最新发布的《教育领域人工智能报告》指出，人工智能在教育领域的应用已十分广泛，且对相关支持的需求日益增长。",
+          "url": "https://flash.jin10.com/detail/20260624210337373800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
@@ -790,6 +888,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "AI时代劳动价值论过时了吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%8A%B3%E5%8A%A8%E4%BB%B7%E5%80%BC%E8%AE%BA%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "孙正义“推迟退休”：将再干10-15年，全力押注AI",
           "url": "https://flash.jin10.com/detail/20260624102355467800",
           "source": "金十数据",
@@ -799,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
+          "url": "https://flash.jin10.com/detail/20260624210245809800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "标普500指数收跌107.33点，跌幅1.44%，报7365.46点。 道琼斯工业平均指数收跌45.87点，跌幅0.09%，报51666.84点。 纳斯达克综合指数（纳指）收跌579.563点，跌幅2.22%，报25587.039点。 纳斯达克100指数收跌999.81点，跌幅3.30%，报29347.273点。 纳斯达克科技市值加权指数收跌3.65%，报2872.5950点。 费城半导体指数收跌1152.214点，跌幅7.87%，创6月5日以来最差单日表现，报13482.508点。 费城证交所KBW银行指数收涨0.65%，报183.54点，连续第二个交易日创收盘历史新高。 道琼斯KBW地区银行指数收涨1.44%，报142.19点，逼近2月6日所创收盘历史最高位142.30点。 罗素2000指数收跌0.96%，报2975.481点，脱离收盘历史最高位。 纳斯达克生物科技指数收涨0.85%，报6185.56点。 标普中盘股400指数收跌1.04%，纳斯达克美国中等市值指数跌0.62%。 恐慌指数VIX收涨12.73%，报19.48。",
@@ -821,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
+          "url": "https://flash.jin10.com/detail/20260624210227845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "Anthropic因Fable AI模型的限制措施而遭到用户起诉。",
@@ -867,6 +998,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "OpenAI与博通(AVGO.O)联合发布针对大型语言模型（LLM）优化的智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210204398800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "联邦快递：预计AI和数据中心将带来两位数（百分比）营收增长。",
           "url": "https://wallstreetcn.com/livenews/3123655",
           "source": "华尔街见闻-快讯",
@@ -889,6 +1031,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
+          "url": "https://flash.jin10.com/detail/20260624210130831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "恒生科技指数涨幅扩大至2%，华虹宏力涨近20%，剑桥科技涨超10%，中芯国际涨超9%。",
           "url": "https://wallstreetcn.com/livenews/3123802",
           "source": "华尔街见闻-快讯",
@@ -906,9 +1059,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "国产狩猎游戏预告片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E7%8B%A9%E7%8C%8E%E6%B8%B8%E6%88%8F%E9%A2%84%E5%91%8A%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "美光科技跌幅扩大至超过13%，恐创2025年4月以来最大单日跌幅。",
@@ -950,7 +1114,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
