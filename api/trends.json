@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-24T07:06:15.880632+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-06-24T10:49:56.178561+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 49,
+      "match_count": 63,
       "titles": [
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 10时49分]"
+        },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
@@ -22,18 +34,6 @@
           "title": "AI算力新变局：谁能动英伟达奶酪",
           "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
           "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时06分]"
-        },
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
           "ranks": [
             4,
             5
@@ -67,6 +67,31 @@
           "time_info": "[00时26分 ~ 05时29分]"
         },
         {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 10时49分]"
+        },
+        {
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 10时49分]"
+        },
+        {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
@@ -78,27 +103,18 @@
           "time_info": "[07时05分 ~ 07时06分]"
         },
         {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
-          "source": "财联社热门",
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            3
+            12,
+            13,
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 07时06分]"
-        },
-        {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 10时49分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -133,6 +149,42 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 07时06分]"
+        },
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
+          "url": "https://www.zhihu.com/question/2051696278954946774",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时08分 ~ 10时49分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -172,17 +224,17 @@
           "time_info": "[00时26分 ~ 07时06分]"
         },
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
           "ranks": [
-            12,
-            13,
-            14
+            20,
+            22,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时06分]"
+          "time_info": "[03时08分 ~ 10时49分]"
         },
         {
           "title": "整活?小钰把Bin塞进游戏界面",
@@ -217,9 +269,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "软银CEO孙正义：公司已开始利用机器人装配线大规模生产AI机器人。",
+          "url": "https://flash.jin10.com/detail/20260624103940257800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
@@ -228,34 +291,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
         {
-          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
-          "url": "https://www.zhihu.com/question/2051696278954946774",
+          "title": "软银CEO孙正义：英特尔(INTC.O)的制造角色至关重要，科技巨头们在寻求超越台积电(TSM.N)。",
+          "url": "https://flash.jin10.com/detail/20260624103446389800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "为什么很多盗版游戏的民间翻译，反而比官方译名更深入人心？你还记得哪些深入人心的民间翻译？",
+          "url": "https://www.zhihu.com/question/2043732532957557193",
           "source": "知乎",
           "ranks": [
             15,
-            10,
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 07时06分]"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 07时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 10时49分]"
         },
         {
           "title": "AI时代计算机专业还能学吗",
@@ -268,17 +329,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时06分]"
-        },
-        {
-          "title": "为什么很多盗版游戏的民间翻译，反而比官方译名更深入人心？你还记得哪些深入人心的民间翻译？",
-          "url": "https://www.zhihu.com/question/2043732532957557193",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 07时06分]"
         },
         {
           "title": "你有没有因为一个游戏，去学一项现在基本没用的技能或者知识点？",
@@ -303,15 +353,48 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
+          "title": "国防科技大学招生视频",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%8B%9B%E7%94%9F%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "AI算力需求传导，“纤维之王”对位芳纶步入高景气周期",
           "url": "https://wallstreetcn.com/livenews/3123674",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -353,9 +436,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”",
+          "url": "https://www.cls.cn/detail/2407327",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
@@ -364,7 +469,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -386,9 +491,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "软银CEO孙正义：我们的机器人物理AI工厂已开始生产机器人。",
+          "url": "https://flash.jin10.com/detail/20260624103103501800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收跌3.66%，工业板块跌2.03%，房地产、保健、日用消费品板块则至多收涨1.78%。 在科技板块，闪迪、美光、安森美半导体、高意公司Coherent收跌13.64%-10.40%，ServiceNOW则收涨3.15%表现第三，IBM 涨5.04%，CDW Corporation涨5.25%。",
@@ -424,6 +540,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "半导体产业链震荡拉升，西陇科学2连板，汇成股份、赛英电子、富满微、格科微均涨超10%，神工股份、中科飞测、长电科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3123734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
           "url": "https://wallstreetcn.com/livenews/3123630",
           "source": "华尔街见闻-快讯",
@@ -441,7 +568,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -452,7 +579,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -496,9 +623,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "孙正义“推迟退休”：将再干10-15年，全力押注AI",
+          "url": "https://flash.jin10.com/detail/20260624102355467800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "标普500指数收跌107.33点，跌幅1.44%，报7365.46点。 道琼斯工业平均指数收跌45.87点，跌幅0.09%，报51666.84点。 纳斯达克综合指数（纳指）收跌579.563点，跌幅2.22%，报25587.039点。 纳斯达克100指数收跌999.81点，跌幅3.30%，报29347.273点。 纳斯达克科技市值加权指数收跌3.65%，报2872.5950点。 费城半导体指数收跌1152.214点，跌幅7.87%，创6月5日以来最差单日表现，报13482.508点。 费城证交所KBW银行指数收涨0.65%，报183.54点，连续第二个交易日创收盘历史新高。 道琼斯KBW地区银行指数收涨1.44%，报142.19点，逼近2月6日所创收盘历史最高位142.30点。 罗素2000指数收跌0.96%，报2975.481点，脱离收盘历史最高位。 纳斯达克生物科技指数收涨0.85%，报6185.56点。 标普中盘股400指数收跌1.04%，纳斯达克美国中等市值指数跌0.62%。 恐慌指数VIX收涨12.73%，报19.48。",
@@ -518,9 +656,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "香港恒生指数开盘涨0.36%，恒生科技指数涨0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3123722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "联邦快递：预计AI和数据中心将带来两位数（百分比）营收增长。",
@@ -529,9 +678,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "软银CEO孙正义：随着人工智能向以CPU为中心的设计方向发展，Arm(ARM.O)股价可能进一步上涨。Arm当前价值才刚起步，预计将增长十倍。",
+          "url": "https://flash.jin10.com/detail/20260624102025198800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "美光科技跌幅扩大至超过13%，恐创2025年4月以来最大单日跌幅。",
