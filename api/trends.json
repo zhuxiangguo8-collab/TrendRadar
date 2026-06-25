@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-26T03:54:12.267096+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-26T05:28:53.987350+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 26,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
+        },
+        {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
+        },
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3775443",
@@ -19,37 +42,41 @@
           "time_info": "[01时09分 ~ 03时54分]"
         },
         {
-          "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
+          "title": "Steam夏促史低游戏盘点",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E5%A4%8F%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            9,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
-          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
-          "url": "https://www.cls.cn/detail/2409082",
-          "source": "财联社热门",
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
           "ranks": [
-            2
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "你对AI脸产生生理性厌恶了吗",
           "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "美联储威廉姆斯：通胀水平“无疑处于高位，且远超”目标，这反映了关税、能源价格以及人工智能（AI）相关科技产品需求的影响。",
@@ -58,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
@@ -74,28 +101,15 @@
           "time_info": "01时09分"
         },
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "美国防部更新目标定位指南 放宽AI参与作战决策限制",
+          "url": "https://flash.jin10.com/detail/20260626051908223800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
-        },
-        {
-          "title": "Steam夏促史低游戏盘点",
-          "url": "https://search.bilibili.com/all?keyword=Steam%E5%A4%8F%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "欧盟就Anthropic的AI模型访问权限与白宫进行讨论",
@@ -109,6 +123,19 @@
           "time_info": "01时09分"
         },
         {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
+        },
+        {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
           "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
           "source": "澎湃新闻",
@@ -116,20 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
@@ -140,8 +155,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
@@ -149,11 +164,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -164,8 +180,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -175,8 +191,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "美光科技、闪迪股价大涨近20%",
@@ -186,8 +202,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "美光科技市值首超Meta",
@@ -197,8 +213,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
@@ -209,8 +225,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时28分]"
         },
         {
           "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
@@ -220,8 +236,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
+          "appearance_count": 3,
+          "time_info": "[03时53分 ~ 05时28分]"
+        },
+        {
+          "title": "OpenAI倾向于等到2027年再IPO。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3124858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
+          "url": "https://flash.jin10.com/detail/20260626044755013800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.33%，报23005点。 恒生科技指数主连夜盘收跌0.70%，报4378点。",
@@ -230,9 +268,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，可选消费板块收跌1.78%，日用消费品、电信板块至多跌1.08%，信息技术/科技板块跌0.09%，原材料板块涨1.39%，保健板块涨1.49%，工业板块涨2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3124853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260626043517228800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美光科技收涨16%，创5月26日以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/3124852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "市场消息：微软Xbox游戏机512GB版本的价格将上调100美元，1TB机型价格将上调150美元。",
@@ -246,6 +317,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3124851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "苹果将​​跳过高端M6 Mac芯片，发力打造主打AI功能的M7系列",
           "url": "https://flash.jin10.com/detail/20260626004459925800",
           "source": "金十数据",
@@ -255,6 +337,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3124849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
+          "url": "https://flash.jin10.com/detail/20260626041922109800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
+          "url": "https://wallstreetcn.com/livenews/3124845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
+          "url": "https://flash.jin10.com/detail/20260626040729452800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "标普、纳指四连跌，半导体指数涨约3.6%，银行指数、生物科技指数、小盘股指创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3124843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "市场消息：苹果将​​跳过高端M6 Mac芯片，转而采用侧重于AI的M7芯片；此举是一项罕见的战略调整，旨在满足AI工作流程的需求。",
@@ -279,6 +416,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "据The Information：根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。",
+          "url": "https://flash.jin10.com/detail/20260626040241840800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
           "url": "https://wallstreetcn.com/livenews/3124752",
           "source": "华尔街见闻-快讯",
@@ -299,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "UP主手搓AI实时生成游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     }
