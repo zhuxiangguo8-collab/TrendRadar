@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T14:53:44.146909+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2026-06-26T18:21:41.005515+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 65,
+      "match_count": 78,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -31,6 +31,22 @@
           "time_info": "[01时09分 ~ 05时28分]"
         },
         {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            9,
+            11,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 18时21分]"
+        },
+        {
           "title": "Steam夏促史低游戏盘点",
           "url": "https://search.bilibili.com/all?keyword=Steam%E5%A4%8F%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
@@ -54,21 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 03时54分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            9,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 14时53分]"
         },
         {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
@@ -109,6 +110,17 @@
           "time_info": "[01时09分 ~ 07时14分]"
         },
         {
+          "title": "宏和科技：股票交易异常波动，市盈率804倍提示估值过高风险",
+          "url": "https://wallstreetcn.com/livenews/3125218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
           "source": "澎湃新闻",
@@ -133,6 +145,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 10时54分]"
+        },
+        {
+          "title": "科技股突发跳水 四大原因找到",
+          "url": "https://www.toutiao.com/trending/7655529505725087750/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美联储威廉姆斯：通胀水平“无疑处于高位，且远超”目标，这反映了关税、能源价格以及人工智能（AI）相关科技产品需求的影响。",
@@ -278,6 +301,18 @@
           "time_info": "[01时09分 ~ 10时54分]"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 18时21分]"
+        },
+        {
           "title": "UP主手搓AI实时生成游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -361,6 +396,29 @@
           "time_info": "[05时28分 ~ 07时14分]"
         },
         {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 18时21分]"
+        },
+        {
+          "title": "分析师：AI热潮有推高通胀前景的风险",
+          "url": "https://flash.jin10.com/detail/20260626174545955800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "OpenAI倾向于等到2027年再IPO。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3124858",
           "source": "华尔街见闻-快讯",
@@ -372,15 +430,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时53分"
+          "time_info": "18时21分"
         },
         {
           "title": "主流AI Coding开发鹅腿识别",
@@ -411,7 +469,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -422,9 +480,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.33%，报23005点。 恒生科技指数主连夜盘收跌0.70%，报4378点。",
@@ -444,9 +513,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "我国科研团队发布海洋关键材料AI科研助手",
+          "url": "https://wallstreetcn.com/livenews/3125194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
@@ -477,9 +557,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美光科技收涨16%，创5月26日以来最佳单日表现。",
@@ -526,6 +617,28 @@
           "time_info": "10时54分"
         },
         {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "中泰证券王芳：大模型的快速发展和供应链短缺 有利于AI行业高资本开支的持续",
+          "url": "https://wallstreetcn.com/livenews/3125184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
@@ -557,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "《人工智能 智能体互联》系列7项国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/3125180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "如何看待九成高报师用 AI 辅助填志愿？学生跳过高报师直接用 AI 报志愿可行吗？",
@@ -603,24 +727,13 @@
           "time_info": "07时14分"
         },
         {
-          "title": "短剧男主自曝因AI失业已返乡卖菜",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
           "title": "A股锂电池板块持续走弱，永杉锂业、融捷股份触及跌停，海科新源、容百科技、蔚蓝锂芯、丰元股份、孚日股份等跌幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3125063",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -642,7 +755,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -656,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "分析师：需求弹性可能会成为制约AI相关盈利增长的下一个因素",
+          "url": "https://flash.jin10.com/detail/20260626173840891800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "A股CPO概念震荡走低，太辰光跌超10%，新易盛、中际旭创跌超5%，长盈通、汇绿生态、仕佳光子、光迅科技、亨通光电、永鼎股份纷纷下挫。",
@@ -702,6 +826,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "芯原股份董事长：端侧AI的开发应用有望成为下一风口",
+          "url": "https://wallstreetcn.com/livenews/3125167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
           "url": "https://wallstreetcn.com/livenews/3124752",
           "source": "华尔街见闻-快讯",
@@ -733,6 +868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "于正这部AI剧夯爆了",
+          "url": "https://www.douyin.com/hot/2547720",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "中国AI智能体爆火世界杯",
