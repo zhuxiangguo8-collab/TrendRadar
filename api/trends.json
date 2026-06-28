@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T16:18:57.624644+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-06-28T19:04:14.661909+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 19时04分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -30,8 +30,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 16时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 19时04分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -41,11 +41,24 @@
             13,
             10,
             19,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 19时04分]"
+        },
+        {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 19时04分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -98,26 +111,39 @@
           "time_info": "[00时04分 ~ 06时04分]"
         },
         {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
           "title": "中材科技：子公司泰山玻纤电子布、特种纤维布产品销售收入总体占比较小",
           "url": "https://flash.jin10.com/detail/20260628154556882800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 19时04分]"
+        },
+        {
+          "title": "纳指科技ETF景顺：6月29日开市起停牌 10:30起复牌",
+          "url": "https://flash.jin10.com/detail/20260628182343949800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "富信科技：网传公司销售周志奇演讲完整原文为杜撰文章",
@@ -144,28 +170,28 @@
           "time_info": "[07时58分 ~ 16时18分]"
         },
         {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 16时18分]"
-        },
-        {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
           "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            15
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 19时04分]"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时02分 ~ 16时18分]"
+          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
@@ -186,7 +212,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -200,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "中泰证券：后续市场风格依然是科技扩散而非风格切换",
+          "url": "https://flash.jin10.com/detail/20260628175358592800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "国防科技大学新开设专业发展前景如何",
@@ -219,9 +256,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
+          "url": "https://flash.jin10.com/detail/20260628170103760800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     }
