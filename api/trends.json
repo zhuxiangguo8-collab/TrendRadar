@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T01:11:38.847362+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-02T03:48:41.674517+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
         },
         {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
@@ -41,6 +41,88 @@
           "time_info": "01时11分"
         },
         {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
+        },
+        {
+          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
+          "url": "https://www.cls.cn/detail/2414258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
+        },
+        {
+          "title": "人工智能冲击婚纱影楼",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
+        },
+        {
+          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
+        },
+        {
+          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2055569067063375363",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
+        },
+        {
+          "title": "越来越多公司证明AI无法替代人工",
+          "url": "https://www.toutiao.com/trending/7657394487626416137/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
+        },
+        {
+          "title": "蓝箭航天IPO恢复审核，金风科技年内再度涨停站上千亿市值",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33488166",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时48分]"
+        },
+        {
           "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
           "url": "https://wallstreetcn.com/livenews/3127537",
           "source": "华尔街见闻-快讯",
@@ -52,59 +134,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "人工智能冲击婚纱影楼",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
-          "url": "https://www.cls.cn/detail/2414258",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
+          "title": "恒生指数主连夜盘收涨0.63%，报22990点。 恒生科技指数主连夜盘收涨0.94%，报4510点。",
+          "url": "https://wallstreetcn.com/livenews/3127583",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
-          "url": "https://www.zhihu.com/question/2055569067063375363",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时48分"
         },
         {
           "title": "美国总统特朗普：美光科技宣布对“特朗普账户”投资2.5亿美元。",
@@ -140,6 +178,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "马斯克否认《华尔街日报》报道，该报道称SpaceX(SPCX.O)曾向投资者展示新型人工智能设备的原型。",
+          "url": "https://flash.jin10.com/detail/20260702023511622800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
           "title": "联合国秘书长呼吁各国加强人工智能治理",
           "url": "https://wallstreetcn.com/livenews/3127526",
           "source": "华尔街见闻-快讯",
@@ -151,20 +200,20 @@
           "time_info": "01时11分"
         },
         {
+          "title": "报道：SpaceX开发出类似手机的AI原型机",
+          "url": "https://wallstreetcn.com/livenews/3127573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
           "title": "A股科技股真的过热了吗",
           "url": "https://www.toutiao.com/trending/7657519502266994230/",
           "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "蓝箭航天IPO恢复审核，金风科技年内再度涨停站上千亿市值",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33488166",
-          "source": "澎湃新闻",
           "ranks": [
             19
           ],
@@ -184,15 +233,48 @@
           "time_info": "01时11分"
         },
         {
-          "title": "越来越多公司证明AI无法替代人工",
-          "url": "https://www.toutiao.com/trending/7657394487626416137/",
-          "source": "今日头条",
+          "title": "费城半导体指数扩大跌幅至5.87%，泛林集团(LRCX.O)跌11.24%，应用材料(AMAT.O)跌11.24%，美光科技(MU.O)跌9.42%，英特尔(INTC.O)跌8.11%，阿斯麦(ASML.O)跌7.51%。",
+          "url": "https://flash.jin10.com/detail/20260702022742162800",
+          "source": "金十数据",
           "ranks": [
-            22
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时48分"
+        },
+        {
+          "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
+          "url": "https://www.zhihu.com/question/2055677703194403478",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
+          "url": "https://flash.jin10.com/detail/20260702020830991800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
+          "url": "https://flash.jin10.com/detail/20260702020102144800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "Guggenheim称AI并非该行业的“丧钟”",
