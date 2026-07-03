@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T06:14:15.385739+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-07-03T08:03:15.414076+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时03分]"
         },
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时03分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时03分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -47,11 +47,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时03分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -69,11 +70,12 @@
           "url": "https://www.cls.cn/detail/2415483",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时03分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
@@ -82,11 +84,12 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时03分]"
         },
         {
           "title": "宇树科技IPO注册获批",
@@ -96,8 +99,47 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 08时03分]"
+        },
+        {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 08时03分]"
+        },
+        {
+          "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发",
+          "url": "https://wallstreetcn.com/livenews/3128284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "深度复盘长鑫科技发展史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            25,
+            19,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时14分]"
+          "time_info": "[01时43分 ~ 08时03分]"
         },
         {
           "title": "Meta Platforms(META.O)CEO：2026年初，高管们曾担心在人工智能领域“行动不够迅速”。",
@@ -109,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
-          "url": "https://flash.jin10.com/detail/20260703060215958800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
         },
         {
           "title": "Meta Platforms(META.O)CTO：对鼠标追踪数据安全事件的初步审查表明，人工智能训练中并未包含任何员工数据。",
@@ -144,30 +175,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
-          "url": "https://flash.jin10.com/detail/20260703055641484800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 06时14分]"
-        },
-        {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
           "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
@@ -189,6 +196,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 05时01分]"
+        },
+        {
+          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
+          "url": "https://flash.jin10.com/detail/20260703060215958800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 08时03分]"
+        },
+        {
+          "title": "“全球最大杠杆ETF”的威力：“两倍海力士ETF”不仅影响海力士，甚至是整个全球科技股走势",
+          "url": "https://wallstreetcn.com/articles/3776019",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 08时03分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.04%，报23061点。 恒生科技指数主连夜盘收跌0.31%，报4447点。",
@@ -216,6 +247,18 @@
           "time_info": "[01时43分 ~ 05时01分]"
         },
         {
+          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
+          "url": "https://flash.jin10.com/detail/20260703055641484800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 08时03分]"
+        },
+        {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
           "url": "https://wallstreetcn.com/livenews/3128190",
           "source": "华尔街见闻-快讯",
@@ -228,17 +271,40 @@
           "time_info": "[03时18分 ~ 05时01分]"
         },
         {
-          "title": "深度复盘长鑫科技发展史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
-          "source": "bilibili 热搜",
+          "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
+          "url": "https://wallstreetcn.com/articles/3776055",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            25,
-            19
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时01分]"
+          "time_info": "[06时13分 ~ 08时03分]"
+        },
+        {
+          "title": "实体游戏盘的消失是趋势吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E4%BD%93%E6%B8%B8%E6%88%8F%E7%9B%98%E7%9A%84%E6%B6%88%E5%A4%B1%E6%98%AF%E8%B6%8B%E5%8A%BF%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 08时03分]"
+        },
+        {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 08时03分]"
         },
         {
           "title": "数字时代还能真正拥有游戏吗",
@@ -301,51 +367,6 @@
           "time_info": "[05时01分 ~ 06时14分]"
         },
         {
-          "title": "“全球最大杠杆ETF”的威力：“两倍海力士ETF”不仅影响海力士，甚至是整个全球科技股走势",
-          "url": "https://wallstreetcn.com/articles/3776019",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 06时14分]"
-        },
-        {
-          "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
-          "url": "https://wallstreetcn.com/articles/3776055",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 06时14分]"
-        },
-        {
-          "title": "实体游戏盘的消失是趋势吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E4%BD%93%E6%B8%B8%E6%88%8F%E7%9B%98%E7%9A%84%E6%B6%88%E5%A4%B1%E6%98%AF%E8%B6%8B%E5%8A%BF%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 03时18分]"
-        },
-        {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 06时14分]"
-        },
-        {
           "title": "美国AI三大巨头争抢哲学家",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
           "source": "百度热搜",
@@ -374,7 +395,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -385,9 +406,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
+          "url": "https://flash.jin10.com/detail/20260703065821847800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
@@ -412,6 +444,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "科技板块遭遇深度调整，机构建议聚焦细分龙头",
+          "url": "https://wallstreetcn.com/livenews/3128269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
           "url": "https://wallstreetcn.com/livenews/3128205",
           "source": "华尔街见闻-快讯",
@@ -434,6 +477,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "科技行情行至十字路口，公募推敲“业绩验证”逻辑",
+          "url": "https://wallstreetcn.com/livenews/3128267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：预计公司将在未来3-6个月内感受到人工智能投资带来​​的更多益处。",
           "url": "https://flash.jin10.com/detail/20260703040026284800",
           "source": "金十数据",
@@ -454,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
+          "url": "https://flash.jin10.com/detail/20260703061710084800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
@@ -484,7 +549,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -528,7 +593,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -539,7 +604,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -583,7 +648,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
         },
@@ -608,6 +673,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 成分股闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究至少收跌10.19%表现最差，在收涨的六只成分股中，核电股CEG涨1.16%表现第四，微软涨1.62%，公共服务企业集团（PEG）涨1.68%，Palantir涨2.84%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。 成分股C3.ai收跌3.92%，新思科技跌3.82%，甲骨文跌1.56%跌幅第三大，HubSpot则涨2.34%、与Palantir、Adobe领跑。",
+          "url": "https://wallstreetcn.com/livenews/3128253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "周四（7月2日），美股信息科技指数跌5.79%，报413.81点，本周累跌4.92%。 周四当天，成分股闪迪、泰瑞达、科磊、康宁公司、IREN、希捷科技、拉姆研究收跌14.13%-10.19%表现最差，西部数据、迈威尔科技/美满电子、高意公司Coherent、Lumentum、Ciena至少跌8.65%紧随其后，微软则涨1.62%，Adobe涨4.14%表现第四，埃森哲涨4.74%，苹果涨4.84%，FICO涨5.32%。 在标普科技板块，伟创力国际收跌10.86%，与闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究、西部数据等领跌，Tyler科技涨5.45%，与FICO、苹果、埃森哲、Adobe领涨。",
+          "url": "https://wallstreetcn.com/livenews/3128252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     }
