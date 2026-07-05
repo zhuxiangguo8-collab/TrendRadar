@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T04:55:03.924028+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-06T05:58:46.742028+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
@@ -64,8 +64,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时58分]"
+        },
+        {
+          "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
+          "url": "https://flash.jin10.com/detail/20260706053240940800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -75,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -85,11 +96,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时58分]"
         },
         {
           "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
@@ -99,8 +111,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -109,11 +121,12 @@
           "ranks": [
             20,
             17,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 05时58分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -123,8 +136,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
