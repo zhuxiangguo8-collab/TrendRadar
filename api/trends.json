@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T15:08:57.207531+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-07-06T20:02:32.971804+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 39,
+      "match_count": 49,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -41,11 +41,12 @@
             8,
             10,
             11,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 15时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 20时02分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -89,6 +90,17 @@
           "time_info": "[00时04分 ~ 07时02分]"
         },
         {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
           "url": "https://wallstreetcn.com/livenews/3129011",
           "source": "华尔街见闻-快讯",
@@ -107,9 +119,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "高盛：将闪迪目标价从1200美元上调至2200美元。 将西部数据目标价从400美元上调至650美元。 将应用材料目标价从520美元上调至645美元。 将高通目标价从145美元上调至180美元。 将AMD目标价从450美元上调至640美元。 将希捷科技目标价从700美元上调至960美元。",
+          "url": "https://wallstreetcn.com/livenews/3129379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
@@ -141,9 +164,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "航锦科技：上半年净利同比预增191%-308% 智算算力板块发展持续向好成为主要创利来源",
+          "url": "https://flash.jin10.com/detail/20260706195253786800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "Reddit利用AI打击网站上的AI营销垃圾信息。",
+          "url": "https://wallstreetcn.com/livenews/3129376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "中国航天科技集团商业火箭公司增资至41.7亿",
@@ -152,9 +197,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "航锦科技：预计上半年净利润4000万元-5600万元，同比增长191.45%-308.03%。本报告期，公司智算算力板块发展持续向好，已成为公司主要创利来源，预计盈利1.37亿元-1.53亿元；化工板块受销售价格下降影响，预计亏损8500万元-1亿元。",
+          "url": "https://wallstreetcn.com/livenews/3129375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -206,6 +262,30 @@
           "time_info": "[10时44分 ~ 15时08分]"
         },
         {
+          "title": "为什么直到现在，游戏里的角色建模依然以裤子和短裙为主，却很少做得出现实中长裙那种飘逸的效果呢？",
+          "url": "https://www.zhihu.com/question/2036416062737101529",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 20时02分]"
+        },
+        {
+          "title": "全球科技投资者翘首以待！存储巨头SK海力士周五将登陆纳斯达克",
+          "url": "https://www.cls.cn/detail/2417719",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
           "title": "科技股调整怎么看？无差别抱团正分化",
           "url": "https://www.cls.cn/detail/2417336",
           "source": "财联社热门",
@@ -228,6 +308,17 @@
           "time_info": "[10时44分 ~ 10时45分]"
         },
         {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
           "title": "恒生科技指数上涨1%。零跑汽车涨超6%，快手、小鹏集团、京东健康涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3129103",
           "source": "华尔街见闻-快讯",
@@ -245,7 +336,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -256,7 +347,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -267,7 +358,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -278,9 +369,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "光迅科技：拟启动H股上市筹备工作。",
+          "url": "https://wallstreetcn.com/livenews/3129364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -322,7 +424,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -338,15 +440,26 @@
           "time_info": "10时45分"
         },
         {
-          "title": "为什么直到现在，游戏里的角色建模依然以裤子和短裙为主，却很少做得出现实中长裙那种飘逸的效果呢？",
-          "url": "https://www.zhihu.com/question/2036416062737101529",
-          "source": "知乎",
+          "title": "德福科技：拟定增募资不超过28亿元，用于5万吨人工智能高端电子电路AI铜箔项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3129358",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时08分"
+          "time_info": "20时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/JabNEK3oBsLbVTw3j518m.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260706193100044800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "AI 能取代科研人员吗？",
@@ -355,7 +468,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -366,7 +479,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -410,7 +523,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         },
@@ -454,7 +567,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         }
