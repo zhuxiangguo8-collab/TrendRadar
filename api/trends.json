@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:44:48.492271+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-07-07T22:22:32.061796+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时08分 ~ 08时04分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
@@ -40,18 +52,6 @@
             9,
             5,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 19时44分]"
-        },
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
+          "url": "https://wallstreetcn.com/livenews/3130042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
@@ -297,6 +308,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "报道：智谱考虑自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3130039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
           "url": "https://flash.jin10.com/detail/20260707074846278800",
           "source": "金十数据",
@@ -306,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "“印太司令部”改名，并非一个无关紧要的文字游戏",
+          "url": "https://news.ifeng.com/c/8uZX9OuWr3C",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月7日）",
@@ -328,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1kpbDlnwLmXOUl-HjThIH.jpg/lite\" height=\"120\"/></a>",
@@ -396,6 +440,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "李开复：AI迈入决策时代，一号位主导推进AI将改善经营业绩表现",
+          "url": "https://wallstreetcn.com/livenews/3130028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "消息人士：美国网络防御机构CISA正使用Anthropic的人工智能工具来审计政府代码。CISA在使用人工智能工具审计政府代码过程中，已发现多处漏洞。",
           "url": "https://flash.jin10.com/detail/20260707040223748800",
           "source": "金十数据",
@@ -405,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "上海市消保委：今年上半年共享租赁和AI相关投诉频发",
+          "url": "https://flash.jin10.com/detail/20260707215933419800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
@@ -418,13 +484,24 @@
           "time_info": "08时04分"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.09%，标普500指数跌0.22%，纳指跌0.6%。存储概念股延续跌势，西部数据跌超8%，闪迪、美光科技跌超6%；Rivian跌超12%，公司计划通过增发股票筹集资金。SpaceX跌1.7%，今日正式纳入纳斯达克100指数。",
+          "url": "https://wallstreetcn.com/livenews/3130024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "有没有什么游戏在死亡机制上别出心裁？让你觉得在游戏里死亡也是这部作品的魅力点？",
           "url": "https://www.zhihu.com/question/2010847275946091590",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -457,7 +534,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -512,7 +589,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -589,7 +666,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -611,7 +688,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -633,7 +710,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
