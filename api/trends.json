@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T16:20:08.802891+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-07T19:44:48.492271+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 50,
+      "match_count": 56,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -31,6 +31,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 16时20分]"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 19时44分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 19时44分]"
         },
         {
           "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -90,16 +115,16 @@
           "time_info": "04时50分"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时47分 ~ 16时20分]"
+          "time_info": "[16时19分 ~ 19时44分]"
         },
         {
           "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路 强化模型、算力、数据等关键技术攻关",
@@ -119,21 +144,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
-        },
-        {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 16时20分]"
         },
         {
           "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
@@ -206,17 +219,6 @@
           "time_info": "[02时08分 ~ 02时09分]"
         },
         {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
           "title": "为什么 PC 取消光驱转向数字化很自然，游戏机取消光驱却被玩家强烈抵触？",
           "url": "https://www.zhihu.com/question/2056063684812846834",
           "source": "知乎",
@@ -279,7 +281,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -356,7 +358,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -367,7 +369,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -389,7 +391,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -416,6 +418,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "有没有什么游戏在死亡机制上别出心裁？让你觉得在游戏里死亡也是这部作品的魅力点？",
+          "url": "https://www.zhihu.com/question/2010847275946091590",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路",
           "url": "https://flash.jin10.com/detail/20260707115944634800",
           "source": "金十数据",
@@ -438,13 +451,24 @@
           "time_info": "02时09分"
         },
         {
+          "title": "华菱线缆：子公司三竹科技正在研发液冷电机连接器 产品将间接配套英伟达产业链",
+          "url": "https://flash.jin10.com/detail/20260707192325539800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "港股收盘，恒指收跌0.51%，科指收跌0.75%；遭腾讯减持，快手(01024.HK)跌超12%；存储概念下跌，兆易创新(03986.HK)跌超12%，澜起科技(06809.HK)跌超10%。",
           "url": "https://flash.jin10.com/detail/20260707160931308800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -480,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "联动科技：预计上半年净利润2,100万元-2,900万元，同比增长73.39%-139.44%；报告期内，公司在手订单充裕，经营业绩实现稳健增长。",
+          "url": "https://wallstreetcn.com/livenews/3129920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
@@ -543,9 +578,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "五洲医疗：正在筹划发行股份及支付现金购买旋智电子科技（上海）有限公司控股权，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3129915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
@@ -559,15 +605,37 @@
           "time_info": "08时04分"
         },
         {
+          "title": "ST海龙：收到公司第一大股东温州康南科技有限公司的通知，公司实际控制人胡兴荣先生已被有权机关采取强制措施。",
+          "url": "https://wallstreetcn.com/livenews/3129914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "新思科技停产部分传统EDA软件",
           "url": "https://wallstreetcn.com/livenews/3129787",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "广合科技：预计上半年净利润9.1亿元-9.6亿元，同比增长85.12%-95.29%",
+          "url": "https://wallstreetcn.com/livenews/3129911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     }
