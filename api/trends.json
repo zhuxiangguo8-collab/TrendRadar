@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T08:04:45.741855+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-07-07T12:47:48.177369+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 25,
+      "match_count": 41,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -31,6 +31,17 @@
           "time_info": "[06时10分 ~ 06时11分]"
         },
         {
+          "title": "国家发改委：预计今年AI手机、AI电脑的销量将首次超过非AI产品",
+          "url": "https://wallstreetcn.com/livenews/3129750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
@@ -44,6 +55,17 @@
           "time_info": "[02时08分 ~ 08时04分]"
         },
         {
+          "title": "国家发改委：初步预测今年人工智能相关产业规模还会有30%以上增速",
+          "url": "https://flash.jin10.com/detail/20260707122516969800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "xAI将旗下X账号更名为SpaceXAI。",
           "url": "https://flash.jin10.com/detail/20260707042933753800",
           "source": "金十数据",
@@ -53,6 +75,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路 强化模型、算力、数据等关键技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3129745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时47分]"
         },
         {
           "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
@@ -112,6 +157,17 @@
           "time_info": "[02时08分 ~ 02时09分]"
         },
         {
+          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
+          "url": "https://wallstreetcn.com/articles/3776266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时47分]"
+        },
+        {
           "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
           "url": "https://wallstreetcn.com/livenews/3129551",
           "source": "华尔街见闻-快讯",
@@ -135,15 +191,37 @@
           "time_info": "[02时08分 ~ 02时09分]"
         },
         {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
-          "source": "财联社热门",
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "12时47分"
+        },
+        {
+          "title": "招商证券国际：腾讯混元Hy3跻身第一梯队 AI产品生态加速",
+          "url": "https://flash.jin10.com/detail/20260707121237234800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "初步预测今年我国人工智能相关产业规模将有30%以上增速",
+          "url": "https://wallstreetcn.com/livenews/3129741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
@@ -152,9 +230,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月7日）",
@@ -163,7 +263,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -179,15 +279,15 @@
           "time_info": "02时09分"
         },
         {
-          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
-          "url": "https://wallstreetcn.com/articles/3776266",
-          "source": "华尔街见闻",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850566&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1kpbDlnwLmXOUl-HjThIH.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260707121115593800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "12时47分"
         },
         {
           "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
@@ -199,6 +299,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
+          "url": "https://www.zhihu.com/question/2057735732068979803",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
+          "url": "https://flash.jin10.com/detail/20260707120608604800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "消息人士：美国网络防御机构CISA正使用Anthropic的人工智能工具来审计政府代码。CISA在使用人工智能工具审计政府代码过程中，已发现多处漏洞。",
@@ -218,9 +340,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "国家发展改革委披露人工智能产业“十五五”五大工作思路",
+          "url": "https://flash.jin10.com/detail/20260707115944634800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "【腾讯正式发布升级版人工智能模型混元Hy3】腾讯在微信公众号发布声明，正式发布混元模型Hy3。声明称，Hy3是在今年4月发布的预览版基础上的升级版本。",
@@ -234,6 +367,17 @@
           "time_info": "02时09分"
         },
         {
+          "title": "国家发展改革委将在2026世界人工智能大会发布两项成果",
+          "url": "https://wallstreetcn.com/livenews/3129712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
           "url": "https://wallstreetcn.com/livenews/3129491",
           "source": "华尔街见闻-快讯",
@@ -243,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "我国规上工业企业人工智能应用普及率已超30%",
+          "url": "https://wallstreetcn.com/livenews/3129711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
@@ -262,9 +417,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "上海市经信委主任汤文侃：业界最大规模超节点华为Atlas 950、阶跃Agent操作系统、全球首款AI智能体手机将在2026世界人工智能大会首秀",
+          "url": "https://wallstreetcn.com/livenews/3129706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.11%，报23571点。 恒生科技指数主连夜盘收跌0.37%，报4520点。",
@@ -278,13 +444,24 @@
           "time_info": "04时50分"
         },
         {
+          "title": "2026世界人工智能大会会前已累计达成162亿元意向合作",
+          "url": "https://wallstreetcn.com/livenews/3129704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
           "url": "https://wallstreetcn.com/livenews/3129433",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
