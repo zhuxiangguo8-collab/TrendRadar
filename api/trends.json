@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T10:27:31.041601+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-07-08T13:47:47.816349+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 34,
+      "match_count": 44,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -17,8 +17,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 10时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 13时47分]"
+        },
+        {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 13时47分]"
         },
         {
           "title": "“印太司令部”改名，并非一个无关紧要的文字游戏",
@@ -32,16 +44,26 @@
           "time_info": "[01时10分 ~ 07时57分]"
         },
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
+          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
+          "url": "https://www.cls.cn/detail/2419748",
           "source": "财联社热门",
           "ranks": [
-            3,
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时27分]"
+          "time_info": "[10时27分 ~ 13时47分]"
+        },
+        {
+          "title": "A股华为算力概念持续走强，广电运通午后涨停，荣联科技、恒为科技此前封板，并行科技、神州数码、拓维信息、先进数通、常山北明跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3130398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "闪迪、美光科技跌超6%",
@@ -61,9 +83,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "加快高水平科技自立自强",
+          "url": "https://www.toutiao.com/trending/7659232108666388543/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "2026人工智能大会将启幕",
+          "url": "https://www.douyin.com/hot/2562850",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "SpaceXAI与Cursor最快将于周三发布模型。（The Information）",
@@ -83,20 +127,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
         {
-          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
-          "url": "https://www.cls.cn/detail/2419748",
-          "source": "财联社热门",
+          "title": "A股信息安全概念异动拉升，绿盟科技20cm涨停，众诚科技、熙菱信息、浩瀚深度、奇安信、亚信安全、天融信等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3130394",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时47分"
         },
         {
           "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
@@ -110,6 +154,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.11%，报23499点。 恒生科技指数主连夜盘收涨0.02%，报4513点。",
           "url": "https://wallstreetcn.com/livenews/3130140",
           "source": "华尔街见闻-快讯",
@@ -119,6 +174,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 13时47分]"
         },
         {
           "title": "微软 Xbox 部门拟裁员 3200 人并剥离多家游戏工作室，背后的原因是什么？",
@@ -131,18 +199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时20分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时27分]"
         },
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
@@ -178,6 +234,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 10时27分]"
+        },
+        {
+          "title": "为什么在日本游戏里「忍者」多半都是正义一方，而国产武侠游戏里「杀手」都是邪恶一方呢？",
+          "url": "https://www.zhihu.com/question/1999603273607451591",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时47分]"
         },
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
@@ -224,6 +291,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "A股软件开发板块震荡走高，绿盟科技20CM涨停，南天信息、大恒科技此前封板，达梦数据、拓维信息、亚信安全跟涨。",
+          "url": "https://flash.jin10.com/detail/20260708131412791800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
           "url": "https://wallstreetcn.com/livenews/3130102",
           "source": "华尔街见闻-快讯",
@@ -252,18 +330,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "为什么在日本游戏里「忍者」多半都是正义一方，而国产武侠游戏里「杀手」都是邪恶一方呢？",
-          "url": "https://www.zhihu.com/question/1999603273607451591",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -285,7 +352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -307,7 +374,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -323,6 +390,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "再挖OpenAI！腾讯宣布OpenAI前研究员田永龙入职，参与VLM研发",
+          "url": "https://wallstreetcn.com/livenews/3130374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.58%，报5978.44点。 热门中概股里，日月光半导体初步收跌8.9%，蔚来、百度、拼多多、新东方、京东、百胜中国之多跌2.6%，阿里巴巴涨0.1%，腾讯涨1.9%，金山云涨3.2%，美团涨6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌3.38%，XtrackersHarvest中证50（ASHS）收跌1.47%，德银嘉实沪深300指数ETF（ASHR）收跌1.27%。 中国科技指数ETF（CQQQ）收跌0.92%，中概互联网指数ETF（KWEB）收跌0.31%。",
           "url": "https://wallstreetcn.com/livenews/3130156",
           "source": "华尔街见闻-快讯",
@@ -334,15 +412,37 @@
           "time_info": "05时20分"
         },
         {
+          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
+          "url": "https://wallstreetcn.com/livenews/3130368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "恒指高开0.19%，报23541.22点；恒生科技指数涨0.42%。联想集团涨超4%，小米、阿里巴巴涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3130275",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "澳洲养老基金UniSuper无视AI泡沫担忧，计划逢低买入科技股",
+          "url": "https://flash.jin10.com/detail/20260708130125726800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "据研究机构PivotalPath的数据，截至6月30日，2026年对冲基金平均回报率为7.2%，创2021年以来最强劲的上半年表现。 其中，专注于科技股的对冲基金表现领跑，平均回报率高达27%。",
@@ -373,9 +473,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "国家科技进步一等奖！同济大学为纳米制造铸就“精准标尺”",
+          "url": "https://wallstreetcn.com/livenews/3130359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "报道：SpaceXAI与Cursor计划最快于周三推出新模型",
