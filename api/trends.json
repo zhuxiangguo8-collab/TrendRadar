@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T20:48:32.620384+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-07-08T23:17:51.003625+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -110,6 +110,21 @@
           "time_info": "19时02分"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 23时17分]"
+        },
+        {
           "title": "加快高水平科技自立自强",
           "url": "https://www.toutiao.com/trending/7659232108666388543/",
           "source": "今日头条",
@@ -132,13 +147,24 @@
           "time_info": "13时47分"
         },
         {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "福赛科技：向特定对象发行股票申请获深交所审核通过",
           "url": "https://flash.jin10.com/detail/20260708203743580800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -176,6 +202,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "上交所官网显示，英韧科技股份有限公司科创板IPO审核状态变更为“已问询”。",
+          "url": "https://wallstreetcn.com/livenews/3130786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
           "url": "https://flash.jin10.com/detail/20260708045337952800",
           "source": "金十数据",
@@ -198,20 +235,6 @@
           "time_info": "03时50分"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 20时48分]"
-        },
-        {
           "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
           "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
@@ -225,17 +248,55 @@
           "time_info": "[07时57分 ~ 13时47分]"
         },
         {
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2420693",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 23时17分]"
+        },
+        {
           "title": "日本高中生携AI爆破被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
           "ranks": [
             6,
             12,
-            14
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 23时17分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时21分 ~ 20时48分]"
+          "time_info": "[19时02分 ~ 23时17分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 23时17分]"
         },
         {
           "title": "为什么在日本游戏里「忍者」多半都是正义一方，而国产武侠游戏里「杀手」都是邪恶一方呢？",
@@ -283,30 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时48分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时48分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -399,17 +436,6 @@
           "time_info": "19时02分"
         },
         {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2420693",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
           "url": "https://flash.jin10.com/detail/20260708002232140800",
           "source": "金十数据",
@@ -485,6 +511,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "据上交所官网显示，英韧科技股份有限公司科创板IPO审核状态变更为“已问询”。",
+          "url": "https://flash.jin10.com/detail/20260708224811352800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "人社部：到2030年人社行业大模型成熟完备，人工智能应用体系基本健全",
@@ -597,6 +645,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "A股热门科技股回撤超25%",
+          "url": "https://www.toutiao.com/trending/7660129507965144585/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
           "url": "https://wallstreetcn.com/livenews/3130368",
           "source": "华尔街见闻-快讯",
@@ -691,7 +750,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
