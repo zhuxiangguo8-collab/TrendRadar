@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T03:19:16.883585+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-09T05:03:22.450984+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时03分]"
         },
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时03分]"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时03分]"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -79,11 +79,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时03分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -93,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时03分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -104,8 +105,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时03分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -115,8 +116,31 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时03分]"
+        },
+        {
+          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
+          "url": "https://www.zhihu.com/question/2055612016530810492",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时19分]"
+          "time_info": "[03时18分 ~ 05时03分]"
+        },
+        {
+          "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
+          "url": "https://www.cls.cn/detail/2420437",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 05时03分]"
         },
         {
           "title": "“中国天眼”获国家科技进步奖一等奖",
@@ -130,15 +154,37 @@
           "time_info": "[03时18分 ~ 03时19分]"
         },
         {
-          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
-          "url": "https://www.zhihu.com/question/2055612016530810492",
-          "source": "知乎",
+          "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
+          "url": "https://flash.jin10.com/detail/20260709041822379800",
+          "source": "金十数据",
           "ranks": [
-            18
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 03时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "北美科技软件股指数ETF跌1.75%，报92.48美元。 Global X网络安全ETF跌1.71%，纳斯达克网络安全ETF跌0.60%，ETFMG网络安全ETF跌0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3130886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "韩国股市，正走向现实版“鱿鱼游戏”",
+          "url": "https://news.ifeng.com/c/8ubLZunCT8y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -147,20 +193,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
         {
-          "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
-          "url": "https://www.cls.cn/detail/2420437",
-          "source": "财联社热门",
+          "title": "标普500指数的11个板块中，原材料板块收跌2.49%，金融、房地产、可选消费、电信、保健、工业板块跌1.92%-1.08%，信息技术/科技板块涨1.44%，能源板块涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3130883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "05时03分"
+        },
+        {
+          "title": "周三（7月8日），美股行业ETF多数收跌，区域银行ETF跌2.30%，银行业ETF跌2.27%，全球航空业ETF跌2.21%。 科技行业ETF、全球科技股指数ETF至少涨1.24%，能源业ETF涨1.76%，半导体ETF涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3130880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "xAI：Grok 4.5目前尚未在欧盟上线，未接入SpaceX旗下任何xAI产品，也未开放至API控制台；预计7月中旬在欧盟推出可用服务。",
@@ -169,7 +226,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -191,9 +248,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
+          "url": "https://wallstreetcn.com/livenews/3130877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
@@ -216,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
+          "url": "https://wallstreetcn.com/livenews/3130861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     }
