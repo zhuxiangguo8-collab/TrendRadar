@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T19:02:30.710900+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-07-08T20:48:32.620384+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -33,6 +33,17 @@
           "time_info": "[07时57分 ~ 16时21分]"
         },
         {
+          "title": "国家最高科技奖揭晓",
+          "url": "https://www.douyin.com/hot/2562960",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 20时48分]"
+        },
+        {
           "title": "“印太司令部”改名，并非一个无关紧要的文字游戏",
           "url": "https://news.ifeng.com/c/8uZX9OuWr3C",
           "source": "凤凰网",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 07时57分]"
-        },
-        {
-          "title": "国家最高科技奖揭晓",
-          "url": "https://www.douyin.com/hot/2562960",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
@@ -105,7 +105,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "福赛科技：向特定对象发行股票申请获深交所审核通过",
+          "url": "https://flash.jin10.com/detail/20260708203743580800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "SpaceXAI与Cursor最快将于周三发布模型。（The Information）",
@@ -187,6 +198,20 @@
           "time_info": "03时50分"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 20时48分]"
+        },
+        {
           "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
           "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
@@ -200,17 +225,17 @@
           "time_info": "[07时57分 ~ 13时47分]"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
           "ranks": [
-            5,
-            10,
-            16
+            6,
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时47分 ~ 19时02分]"
+          "time_info": "[16时21分 ~ 20时48分]"
         },
         {
           "title": "为什么在日本游戏里「忍者」多半都是正义一方，而国产武侠游戏里「杀手」都是邪恶一方呢？",
@@ -249,18 +274,6 @@
           "time_info": "[16时21分 ~ 19时02分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 19时02分]"
-        },
-        {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
           "url": "https://wallstreetcn.com/articles/3776319",
           "source": "华尔街见闻",
@@ -270,6 +283,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时48分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时48分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -324,7 +361,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -346,7 +383,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -357,31 +394,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2420693",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "20时48分"
         },
         {
           "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
@@ -445,7 +471,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -566,7 +592,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -599,7 +625,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -643,7 +669,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -657,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "张雨霏发视频AI模仿哈兰德",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%8F%91%E8%A7%86%E9%A2%91AI%E6%A8%A1%E4%BB%BF%E5%93%88%E5%85%B0%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "据研究机构PivotalPath的数据，截至6月30日，2026年对冲基金平均回报率为7.2%，创2021年以来最强劲的上半年表现。 其中，专注于科技股的对冲基金表现领跑，平均回报率高达27%。",
