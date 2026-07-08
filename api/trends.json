@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:27:53.961733+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-09T03:19:16.883585+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
-          "url": "https://flash.jin10.com/detail/20260709010430451800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时19分]"
         },
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -35,6 +24,17 @@
           "source": "抖音",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时19分]"
+        },
+        {
+          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
+          "url": "https://flash.jin10.com/detail/20260709010430451800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -70,8 +70,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时19分]"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时19分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -81,8 +93,63 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时19分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时19分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时19分]"
+        },
+        {
+          "title": "“中国天眼”获国家科技进步奖一等奖",
+          "url": "https://www.toutiao.com/trending/7659271576501092402/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时19分]"
+        },
+        {
+          "title": "孩子考得很好，要玩手机。我不太想让他碰，可他跟我保证，既能玩好游戏，还能稳住成绩，这种承诺可信吗？",
+          "url": "https://www.zhihu.com/question/2055612016530810492",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 03时19分]"
+        },
+        {
+          "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
+          "url": "https://wallstreetcn.com/livenews/3130843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "03时19分"
         },
         {
           "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
@@ -96,26 +163,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
+          "title": "xAI：Grok 4.5目前尚未在欧盟上线，未接入SpaceX旗下任何xAI产品，也未开放至API控制台；预计7月中旬在欧盟推出可用服务。",
+          "url": "https://flash.jin10.com/detail/20260709023953811800",
+          "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "03时19分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -129,20 +185,20 @@
           "time_info": "01时27分"
         },
         {
+          "title": "OpenAI推出GPT-Live语音模型",
+          "url": "https://wallstreetcn.com/livenews/3130838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3130812",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
           "ranks": [
             19
           ],
