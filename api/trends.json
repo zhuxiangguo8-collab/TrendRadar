@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-07-10T00:25:29.555652+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-10T02:48:20.823682+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
-          "url": "https://flash.jin10.com/detail/20260710000936587800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
           "url": "https://www.cls.cn/detail/2422005",
           "source": "财联社热门",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
+          "url": "https://flash.jin10.com/detail/20260710000936587800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,48 +63,51 @@
           "time_info": "00时25分"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
+          "title": "Meta：探索AI云业务是合理的，考虑出租算力",
+          "url": "https://wallstreetcn.com/livenews/3131509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时48分"
         },
         {
           "title": "长鑫科技最高估值超4万亿",
           "url": "https://www.toutiao.com/trending/7660515495698763283/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
         },
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
           "url": "https://wallstreetcn.com/articles/3776526",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -103,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
         },
         {
           "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
@@ -114,8 +128,52 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时48分]"
+        },
+        {
+          "title": "Meta：探索AI云业务是合理的，考虑出租算力",
+          "url": "https://flash.jin10.com/detail/20260710022508536800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时48分"
+        },
+        {
+          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
+          "url": "https://wallstreetcn.com/livenews/3131501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "富兰克林·邓普顿：AI基础设施看涨逻辑将延续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3131498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         },
         {
           "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
@@ -129,6 +187,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "Meta Platforms(META.O)CEO：探索AI云业务具有合理性。",
+          "url": "https://flash.jin10.com/detail/20260710020637737800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
           "title": "【美光上调美国投资计划至2500亿美元，押注AI存储芯片需求】美光科技表示，计划将对美国新工厂的支出增至2500亿美元，以满足全球人工智能热潮推动的存储芯片需求激增。此举意味着在美光此前宣布的2000亿美元支持承诺上再增加500亿美元，用于扩大国内芯片制造规模，其中包括在纽约州、爱达荷州和弗吉尼亚州的项目。这笔支出预计将持续到2035年，并支持美光在未来十年内实现40%的DRAM产品在美国生产的目标。",
           "url": "https://wallstreetcn.com/livenews/3131453",
           "source": "华尔街见闻-快讯",
@@ -140,15 +209,26 @@
           "time_info": "00时25分"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "马斯克：承认此前低估Anthropic，称其目前无疑是AI行业领先者",
+          "url": "https://flash.jin10.com/detail/20260710020628223800",
+          "source": "金十数据",
           "ranks": [
-            29
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时48分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
+          "url": "https://wallstreetcn.com/livenews/3131490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         }
       ]
     }
