@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-09T07:01:59.021305+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-07-09T10:32:41.485379+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 30,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 10时32分]"
+        },
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
           "url": "https://www.cls.cn/detail/2420693",
@@ -19,15 +30,52 @@
           "time_info": "[01时27分 ~ 07时01分]"
         },
         {
-          "title": "我国人工智能产业加速发展壮大",
-          "url": "https://www.douyin.com/hot/2563823",
-          "source": "抖音",
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 10时32分]"
+        },
+        {
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 10时32分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 10时32分]"
         },
         {
           "title": "美伊停火破裂刺激油价，欧股重挫，美科技股护盘，纳指逆市收涨，中概股大涨",
@@ -36,7 +84,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -63,6 +111,17 @@
           "time_info": "[01时27分 ~ 07时01分]"
         },
         {
+          "title": "恒生科技指数涨幅扩大至2%，华虹宏力涨近8%，中芯国际、联想集团涨超6%，阿里巴巴涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3131030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
           "url": "https://flash.jin10.com/detail/20260709010344704800",
           "source": "金十数据",
@@ -85,38 +144,16 @@
           "time_info": "01时27分"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
+          "title": "长鑫科技，7月16日打新！",
+          "url": "https://www.cls.cn/detail/2421004",
+          "source": "财联社热门",
           "ranks": [
             10,
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时01分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时01分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时01分]"
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 10时32分]"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -178,15 +215,26 @@
           "time_info": "[03时18分 ~ 03时19分]"
         },
         {
-          "title": "长鑫科技，7月16日打新！",
-          "url": "https://www.cls.cn/detail/2421004",
-          "source": "财联社热门",
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "10时32分"
+        },
+        {
+          "title": "恒生科技指数盘初涨2%，恒指涨0.5%，芯片股走强，芯智控股 (02166.HK)涨超17%，兆易创新(03986.HK)涨超10%，华虹宏力(01347.HK)涨超8%，中芯国际(00981.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260709101502631800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
@@ -211,6 +259,39 @@
           "time_info": "05时03分"
         },
         {
+          "title": "A股先进封装板块再度拉升，华天科技、中京电子、朗迪集团、高德红外、同兴达、旭光电子涨停，上海新阳涨超10%，汇成股份、深科达、深科技、太极实业、甬矽电子跟涨。",
+          "url": "https://flash.jin10.com/detail/20260709101403323800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
+          "url": "https://www.cls.cn/detail/2420934",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "联合声明显示，越南马山高科技材料公司与韩国GB Innovation签署长期钨加工协议，马山高科将在越南加工韩国钨精矿。",
+          "url": "https://flash.jin10.com/detail/20260709101256729800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
           "url": "https://wallstreetcn.com/livenews/3130843",
           "source": "华尔街见闻-快讯",
@@ -222,13 +303,24 @@
           "time_info": "03时19分"
         },
         {
+          "title": "MLCC概念震荡拉升，艾华集团、中京电子双双涨停，南亚新材、江海股份、麦捷科技、法拉电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "长鑫科技7月16日开启新股申购",
           "url": "https://flash.jin10.com/detail/20260709060437571800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -299,6 +391,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "长鑫科技7月16日开启新股申购",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%807%E6%9C%8816%E6%97%A5%E5%BC%80%E5%90%AF%E6%96%B0%E8%82%A1%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3130812",
           "source": "华尔街见闻-快讯",
@@ -308,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "长鑫科技新股申购",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%96%B0%E8%82%A1%E7%94%B3%E8%B4%AD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
@@ -321,15 +435,59 @@
           "time_info": "01时27分"
         },
         {
+          "title": "A股半导体产业链开盘活跃，合肥城建接近涨停，普冉股份、汇成股份、沐曦股份、晶合集成、神工股份纷纷高开，消息上，长鑫科技披露科创板上市招股意向书及《发行安排及初步询价公告》，正式启动科创板IPO发行程序，公司新股网下申购日和网上申购日均为2026年7月16日。",
+          "url": "https://wallstreetcn.com/livenews/3130996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "长鑫科技7月16日开启新股申购",
           "url": "https://wallstreetcn.com/livenews/3130910",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "阶跃星辰将发布AI智能体手机",
+          "url": "https://wallstreetcn.com/livenews/3130994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "阶跃星辰AI智能体手机代工企业为华勤技术",
+          "url": "https://flash.jin10.com/detail/20260709095513307800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "恒指低开0.07%，报24181.34点；恒生科技指数涨0.29%。华虹宏力涨3.7%，智谱涨近3%，阿里巴巴、中芯国际涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3130991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
