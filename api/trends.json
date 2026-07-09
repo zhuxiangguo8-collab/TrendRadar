@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T18:22:09.041489+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-07-09T21:47:22.508982+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 61,
+      "match_count": 74,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -37,11 +37,23 @@
             15,
             16,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时27分 ~ 21时47分]"
+        },
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时47分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -82,17 +94,6 @@
           "time_info": "[01时27分 ~ 14时45分]"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
           "url": "https://wallstreetcn.com/articles/3776500",
           "source": "华尔街见闻",
@@ -102,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 21时47分]"
         },
         {
           "title": "高盛重磅发声：做多中国AI价值链",
@@ -219,6 +220,29 @@
           "time_info": "14时45分"
         },
         {
+          "title": "苹果洽谈AI公司PrismML 拟将270亿参数大模型部署至iPhone",
+          "url": "https://wallstreetcn.com/livenews/3131410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 21时47分]"
+        },
+        {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
           "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
@@ -243,18 +267,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 07时01分]"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 18时22分]"
         },
         {
           "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
@@ -324,15 +336,37 @@
           "time_info": "[18时21分 ~ 18时22分]"
         },
         {
+          "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
+          "url": "https://www.cls.cn/detail/2422005",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "工业富联：2026年上半年云服务商AI服务器营业收入同比增长超过230%",
           "url": "https://wallstreetcn.com/livenews/3131285",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.08%，标普500指数涨0.2%，纳指涨0.2%。明星科技股多数反弹，闪迪、美光科技涨超6%，康宁涨超8%，迈威尔科技涨超6%。META下跌4.3%，创7月2日以来最大跌幅；IBM下跌5.8%，微软下跌2.6%，此前报道称星巴克借助AI减少对微软、IBM软件的依赖；百事下跌4.6%，创2025年4月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3131408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "宇信科技与硅基流动战略合作 打造适配金融行业的AI综合解决方案",
@@ -341,9 +375,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "海力士美股IPO点燃AI热情，美光盘前涨3%、康宁涨5%，韩股弱势反弹，黄金触及4100",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "恒生科技指数盘初涨2%，恒指涨0.5%，芯片股走强，芯智控股 (02166.HK)涨超17%，兆易创新(03986.HK)涨超10%，华虹宏力(01347.HK)涨超8%，中芯国际(00981.HK)涨超6%。",
@@ -355,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "高盛：下半年的科技股怎么买？",
+          "url": "https://wallstreetcn.com/articles/3776490",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
@@ -434,6 +490,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：基准情景预计AI将得到更广泛的应用，从而提高生产率。 我们将使通胀回到2%。 关键是要关注潜在通胀因素，而不仅仅是某一特定指标。 政府的技术性调整可以更好地协调PCE通胀与CPI之间的差异。 美联储政策仍需依赖数据。 劳动力市场非常稳定。 对于长期中性利率仍存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3131402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "长鑫科技7月16日开启新股申购",
           "url": "https://flash.jin10.com/detail/20260709060437571800",
           "source": "金十数据",
@@ -451,9 +518,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能热潮可能推动中性利率上升。",
+          "url": "https://flash.jin10.com/detail/20260709213327456800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "标普500指数的11个板块中，原材料板块收跌2.49%，金融、房地产、可选消费、电信、保健、工业板块跌1.92%-1.08%，信息技术/科技板块涨1.44%，能源板块涨1.45%。",
@@ -478,6 +556,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "阳光电源发布全自研SST固态变压器，800V直流架构切入AIDC赛道",
+          "url": "https://wallstreetcn.com/livenews/3131401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "A股半导体设备板块震荡走高，长川科技涨近10%，中微公司、北方华创、微导纳米、华海清科纷纷上扬。",
           "url": "https://wallstreetcn.com/livenews/3131114",
           "source": "华尔街见闻-快讯",
@@ -498,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：通胀仍然“过高”。 市场仍预计油价将在未来6至12个月内回落，这一看法是合理的。 货币政策关注能源价格如何影响通胀。 AI投资是通胀的一个驱动因素。 美联储正在积极讨论围绕通胀的各种情景。 美联储会议纪要捕捉到了一种“集体应对机制”。 从长远来看，AI投资将是一次积极的供给冲击。",
+          "url": "https://wallstreetcn.com/livenews/3131400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "xAI：Grok 4.5目前尚未在欧盟上线，未接入SpaceX旗下任何xAI产品，也未开放至API控制台；预计7月中旬在欧盟推出可用服务。",
@@ -566,6 +666,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "美股开盘，道指开涨0.08%，标普500指数涨0.2%，纳指涨0.2%。美光科技(MU.O)涨超6%，公司到2035年在美投资规模将扩大至逾2500亿美元。高通(QCOM.O)涨1.9%，Meta Platforms(META.O)跌3.4%，公司计划于9月开始生产一款AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260709213031263800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3130812",
           "source": "华尔街见闻-快讯",
@@ -586,6 +697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "AI预测法国夺冠概率居首",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BD%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%B1%85%E9%A6%96%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
@@ -685,6 +807,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "上交所：上海燧原科技股份有限公司科创板IPO注册生效。",
+          "url": "https://wallstreetcn.com/livenews/3131385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "美光科技：将在2035年前把在美国的投资增至超过2,500亿美元。 目标将40%的DRAM生产放在美国。 纽约项目预计将创造50,000个工作岗位，其中包含9,000个直接就业岗位。 美国各项目预计将创造超过90,000个工作岗位。",
+          "url": "https://wallstreetcn.com/livenews/3131383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.22%，报23983点。 恒生科技指数主连夜盘收跌0.36%，报4681点。",
