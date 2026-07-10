@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T08:02:24.423155+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-07-10T12:46:52.287215+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 41,
+      "match_count": 55,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 12时46分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -72,6 +73,19 @@
           "time_info": "[00时25分 ~ 08时02分]"
         },
         {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时44分 ~ 12时46分]"
+        },
+        {
           "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
           "url": "https://www.cls.cn/detail/2421885",
           "source": "财联社热门",
@@ -94,19 +108,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 08时02分]"
-        },
-        {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时44分 ~ 08时02分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -132,6 +133,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "长鑫科技IPO豪华承销团抢眼！6家券商同框不常见，真正看点不止承销保荐费",
+          "url": "https://www.cls.cn/detail/2422351",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "谷歌(GOOG.O)：向所有谷歌云客户推出AlphaEvolve人工智能代码优化代理。",
           "url": "https://flash.jin10.com/detail/20260710000625543800",
           "source": "金十数据",
@@ -141,6 +153,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "广西洪水致大批学生被困，「救援航母」开入校园，这是种什么装备？救灾中还有哪些硬核科技派上了用场？",
+          "url": "https://www.zhihu.com/question/2058504856239970003",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "科技强国建设进入加速冲刺阶段",
+          "url": "https://www.toutiao.com/trending/7660428355804676139/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
@@ -226,6 +260,17 @@
           "time_info": "[04时44分 ~ 08时02分]"
         },
         {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 12时46分]"
+        },
+        {
           "title": "《剑星》《红色沙漠》《匹诺曹的谎言》，是不是代表韩国 3A 游戏已经成功崛起了？",
           "url": "https://www.zhihu.com/question/2045664169492473179",
           "source": "知乎",
@@ -237,15 +282,15 @@
           "time_info": "[06时18分 ~ 06时19分]"
         },
         {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "12时46分"
         },
         {
           "title": "沃什启动美联储“大改革”：科技圈、学界和企业界人士加入五大任务组",
@@ -254,9 +299,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -265,7 +321,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -276,9 +332,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "国家能源局：鼓励能源领域人工智能模型创新，探索数智化节能降碳解决方案",
+          "url": "https://wallstreetcn.com/livenews/3131743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
@@ -287,9 +354,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
@@ -336,6 +425,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "绝区零相比其他游戏的核心优势是什么？",
+          "url": "https://www.zhihu.com/question/2058098027085181756",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "北美科技软件股指数ETF涨1.51%，报93.88美元。 Global X网络安全ETF涨2.97%，纳斯达克网络安全ETF涨2.84%，ETFMG网络安全ETF涨2.78%",
           "url": "https://wallstreetcn.com/livenews/3131555",
           "source": "华尔街见闻-快讯",
@@ -375,7 +475,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -430,9 +530,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850569&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/tDG__2dFH6j1LWZb_ueNn.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260710121143858800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
@@ -452,9 +563,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "宇树科技王兴兴：机器人最终会走向普通消费者",
+          "url": "https://flash.jin10.com/detail/20260710121021038800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -468,6 +590,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "港股午评：恒生指数涨1.86%，恒生科技指数涨2.69%",
+          "url": "https://flash.jin10.com/detail/20260710120139429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.31%，报24052点。 恒生科技指数主连夜盘收涨0.27%，报4741点。",
           "url": "https://wallstreetcn.com/livenews/3131513",
           "source": "华尔街见闻-快讯",
@@ -477,6 +610,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "给哈兰德做了一支AI大片",
+          "url": "https://www.douyin.com/hot/2565285",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-10）",
+          "url": "https://flash.jin10.com/detail/20260710115903293800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     }
