@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-07-11T12:10:50.724409+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-07-11T15:10:01.932541+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
+          "url": "https://wallstreetcn.com/articles/3776629",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 15时10分]"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 15时10分]"
+        },
         {
           "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
           "url": "https://www.cls.cn/detail/2422854",
@@ -31,34 +63,40 @@
           "time_info": "[00时52分 ~ 05时58分]"
         },
         {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
+          "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
+          "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 15时10分]"
         },
         {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
+          "title": "看广西洪灾中的救援硬核科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%B9%BF%E8%A5%BF%E6%B4%AA%E7%81%BE%E4%B8%AD%E7%9A%84%E6%95%91%E6%8F%B4%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时10分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8,
-            7,
-            6
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 15时10分]"
         },
         {
           "title": "BW游戏展台抢先看",
@@ -71,17 +109,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 08时03分]"
-        },
-        {
-          "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时10分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -129,39 +156,39 @@
           "time_info": "06时59分"
         },
         {
-          "title": "看广西洪灾中的救援硬核科技",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%B9%BF%E8%A5%BF%E6%B4%AA%E7%81%BE%E4%B8%AD%E7%9A%84%E6%95%91%E6%8F%B4%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "BW2026游戏舞台",
           "url": "https://search.bilibili.com/all?keyword=BW2026%E6%B8%B8%E6%88%8F%E8%88%9E%E5%8F%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            3
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时59分 ~ 12时10分]"
+          "time_info": "[12时10分 ~ 15时10分]"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时10分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时10分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -174,6 +201,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 08时03分]"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时10分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
@@ -248,6 +286,17 @@
           "time_info": "[05时58分 ~ 06时59分]"
         },
         {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
+        },
+        {
           "title": "纳指科技股指数收涨将近0.7%，本周半导体指数涨2.7%",
           "url": "https://wallstreetcn.com/livenews/3132238",
           "source": "华尔街见闻-快讯",
@@ -276,40 +325,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -320,7 +336,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -331,7 +347,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -342,7 +358,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -375,7 +391,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -386,7 +402,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
