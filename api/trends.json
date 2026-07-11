@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-12T04:04:55.672817+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-07-12T05:45:27.656801+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时04分]"
-        },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
@@ -26,26 +15,39 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
         },
         {
           "title": "阿里合计持股长鑫科技近5%，超过董事长朱一明",
           "url": "https://wallstreetcn.com/articles/3776703",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -60,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -69,11 +71,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -83,8 +86,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 04时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -93,20 +96,43 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时04分 ~ 05时45分]"
         },
         {
           "title": "“孤岛”救援的中国科技",
           "url": "https://www.toutiao.com/trending/7660424105610117147/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时04分 ~ 05时45分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "05时45分"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         }
       ]
     }
