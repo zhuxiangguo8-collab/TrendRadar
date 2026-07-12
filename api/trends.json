@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T05:44:40.460869+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-07-13T06:43:33.835760+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "中报主线如何掘金？科技风格扩散何时结束？十大券商策略来了",
@@ -57,11 +58,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -71,8 +73,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时43分]"
+        },
+        {
+          "title": "夏粮增产20亿斤背后的科技密码",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%B2%AE%E5%A2%9E%E4%BA%A720%E4%BA%BF%E6%96%A4%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -93,11 +106,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 04时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 06时43分]"
         }
       ]
     }
