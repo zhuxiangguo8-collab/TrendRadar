@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T21:10:47.476840+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-07-12T22:53:04.921329+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "阿里合计持股长鑫科技近5%，超过董事长朱一明",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 21时10分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 22时53分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 21时10分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 22时53分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -93,6 +93,18 @@
           "time_info": "[00时52分 ~ 07时52分]"
         },
         {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 22时53分]"
+        },
+        {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
           "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
@@ -106,16 +118,30 @@
           "time_info": "[10时15分 ~ 18时23分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时10分]"
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 22时53分]"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时23分 ~ 22时53分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -155,19 +181,6 @@
           "time_info": "[05时45分 ~ 07时52分]"
         },
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 21时10分]"
-        },
-        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -203,6 +216,17 @@
           "time_info": "[19时56分 ~ 21时10分]"
         },
         {
+          "title": "金价震荡科技回调 资金寻找新均衡",
+          "url": "https://www.toutiao.com/trending/7661411388552085513/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 22时53分]"
+        },
+        {
           "title": "“孤岛”救援的中国科技",
           "url": "https://www.toutiao.com/trending/7660424105610117147/",
           "source": "今日头条",
@@ -215,15 +239,15 @@
           "time_info": "[04时04分 ~ 05时45分]"
         },
         {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
+          "title": "招商证券：海外科技波动加大 关注国产算力机会",
+          "url": "https://flash.jin10.com/detail/20260712215048587800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "22时53分"
         },
         {
           "title": "开源证券：风险逐步释放，寻找新一轮科技线索",
@@ -287,7 +311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
