@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T03:03:12.019464+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-07-13T04:40:36.620568+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时40分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时40分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时40分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时40分]"
         },
         {
           "title": "中报主线如何掘金？科技风格扩散何时结束？十大券商策略来了",
@@ -60,20 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时03分]"
-        },
-        {
-          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
-          "url": "https://flash.jin10.com/detail/20260713010355573800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时40分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -83,19 +71,33 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 04时40分]"
+        },
+        {
+          "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
+          "url": "https://flash.jin10.com/detail/20260713010355573800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 04时40分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
           "url": "https://www.toutiao.com/trending/7661654432722980388/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 04时40分]"
         }
       ]
     }
