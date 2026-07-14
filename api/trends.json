@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T05:55:38.350726+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-15T06:54:53.743642+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
         },
         {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
@@ -39,8 +39,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
+        },
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
         },
         {
           "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
@@ -54,6 +67,18 @@
           "time_info": "01时10分"
         },
         {
+          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
+          "url": "https://www.cls.cn/detail/2426403",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
+        },
+        {
           "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
           "url": "https://flash.jin10.com/detail/20260715004945505800",
           "source": "金十数据",
@@ -65,16 +90,67 @@
           "time_info": "01时10分"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
+          "title": "长鑫科技IPO定价出炉，专家呼吁理性看待企业创新成长价值",
+          "url": "https://wallstreetcn.com/livenews/3133909",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "长鑫科技公告：发行价格为8.66元/股",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%EF%BC%9A%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC%E4%B8%BA8.66%E5%85%83%2F%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时54分]"
+        },
+        {
+          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
+          "url": "https://wallstreetcn.com/livenews/3133879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时54分]"
         },
         {
           "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
@@ -89,18 +165,6 @@
           "time_info": "[04时57分 ~ 05时55分]"
         },
         {
-          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
-          "url": "https://www.cls.cn/detail/2426403",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
-        },
-        {
           "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
           "url": "https://flash.jin10.com/detail/20260715044636741800",
           "source": "金十数据",
@@ -113,53 +177,31 @@
           "time_info": "[04时57分 ~ 05时55分]"
         },
         {
-          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
-          "url": "https://wallstreetcn.com/livenews/3133879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时55分]"
-        },
-        {
-          "title": "长鑫科技公告：发行价格为8.66元/股",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%EF%BC%9A%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC%E4%B8%BA8.66%E5%85%83%2F%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
-        },
-        {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
+          "title": "UP主解读AI浪潮下的资本周期",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
+          "source": "bilibili 热搜",
           "ranks": [
             8,
+            26,
             10,
-            13
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
+          "time_info": "[01时10分 ~ 06时54分]"
         },
         {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
+          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
+          "url": "https://www.zhihu.com/question/2058449781597459395",
+          "source": "知乎",
           "ranks": [
-            11
+            20,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时55分]"
+          "time_info": "[03时13分 ~ 06时54分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -174,29 +216,17 @@
           "time_info": "[01时10分 ~ 05时55分]"
         },
         {
-          "title": "UP主解读AI浪潮下的资本周期",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
-          "source": "bilibili 热搜",
+          "title": "长鑫科技发行价确定为8.66元",
+          "url": "https://www.douyin.com/hot/2571581",
+          "source": "抖音",
           "ranks": [
-            8,
-            26,
-            10
+            22,
+            27,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时10分 ~ 05时55分]"
-        },
-        {
-          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
-          "url": "https://www.zhihu.com/question/2058449781597459395",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时55分]"
+          "time_info": "[01时10分 ~ 06时54分]"
         },
         {
           "title": "周二（7月14日），美股存储芯片与硬件供应链指数涨3.67%，报221.73点。 成分股Sandisk涨5.01%，美光、拉姆研究至少涨4.9%，希捷科技涨2.05%，西部数据涨1.4%。",
@@ -271,18 +301,6 @@
           "time_info": "[04时57分 ~ 05时55分]"
         },
         {
-          "title": "长鑫科技发行价确定为8.66元",
-          "url": "https://www.douyin.com/hot/2571581",
-          "source": "抖音",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 05时55分]"
-        },
-        {
           "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
           "url": "https://flash.jin10.com/detail/20260715004912134800",
           "source": "金十数据",
@@ -333,7 +351,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -399,7 +417,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
