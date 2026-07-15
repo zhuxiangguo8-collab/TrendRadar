@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T21:27:33.390221+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-07-15T23:25:19.369759+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 113,
+      "match_count": 130,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -71,6 +71,23 @@
           "time_info": "[07时50分 ~ 15时13分]"
         },
         {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            7,
+            10,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 23时25分]"
+        },
+        {
           "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
           "url": "https://www.zhihu.com/question/2060385485915263811",
           "source": "知乎",
@@ -99,20 +116,18 @@
           "time_info": "[01时10分 ~ 17时58分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
           "ranks": [
-            3,
-            4,
+            13,
+            6,
             7,
-            10,
-            11,
-            13
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时59分 ~ 21时27分]"
+          "time_info": "[12时55分 ~ 23时25分]"
         },
         {
           "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
@@ -129,18 +144,38 @@
           "time_info": "[09时59分 ~ 19时37分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            6,
-            7,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时55分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 23时25分]"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 23时25分]"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 23时25分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -171,40 +206,6 @@
           "time_info": "[01时10分 ~ 09时59分]"
         },
         {
-          "title": "5张图看懂中国人工智能进化之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 21时27分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 21时27分]"
-        },
-        {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 21时27分]"
-        },
-        {
           "title": "xQc吐槽拳头游戏纯抄无原创",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356191&amp;topic_name=xQc%E5%90%90%E6%A7%BD%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E7%BA%AF%E6%8A%84%E6%97%A0%E5%8E%9F%E5%88%9B",
           "source": "贴吧",
@@ -212,11 +213,12 @@
             3,
             5,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 23时25分]"
         },
         {
           "title": "长鑫科技公告：发行价格为8.66元/股",
@@ -239,7 +241,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -313,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "美联储主席沃什：认为大学毕业生具备应对AI所需的技能与直觉。",
+          "url": "https://wallstreetcn.com/livenews/3134476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
@@ -450,6 +463,19 @@
           "time_info": "[12时55分 ~ 15时13分]"
         },
         {
+          "title": "长鑫科技打新明日来袭",
+          "url": "https://www.douyin.com/hot/2572596",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 23时25分]"
+        },
+        {
           "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
           "url": "https://www.zhihu.com/question/2058996805182960802",
           "source": "知乎",
@@ -484,6 +510,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时37分 ~ 21时27分]"
+        },
+        {
+          "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
+          "url": "https://www.cls.cn/detail/2427322",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 23时25分]"
         },
         {
           "title": "周二（7月14日），美股存储芯片与硬件供应链指数涨3.67%，报221.73点。 成分股Sandisk涨5.01%，美光、拉姆研究至少涨4.9%，希捷科技涨2.05%，西部数据涨1.4%。",
@@ -556,18 +594,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 03时13分]"
-        },
-        {
-          "title": "长鑫科技打新明日来袭",
-          "url": "https://www.douyin.com/hot/2572596",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 21时27分]"
         },
         {
           "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
@@ -644,9 +670,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "美联储主席沃什：我认为美国的大学毕业生具备应对人工智能所需的技能和直觉。",
+          "url": "https://flash.jin10.com/detail/20260715225337412800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "灿勤科技：拟定增募资不超过8.51亿元",
@@ -693,6 +730,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "沃什：AI是否会导致通胀取决于美联储",
+          "url": "https://flash.jin10.com/detail/20260715225310593800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "恒指高开0.87%，报24551.34点；恒生科技指数涨0.78%。智谱涨超6%，中国人寿涨超4%，宁德时代、联想集团涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3133976",
           "source": "华尔街见闻-快讯",
@@ -724,17 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
-        },
-        {
-          "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
-          "url": "https://www.cls.cn/detail/2427322",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
         },
         {
           "title": "白宫启动网络安全“金鹰”AI倡议",
@@ -809,7 +846,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -820,7 +857,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -853,9 +890,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "市场消息：欧盟与印度同意加强在芯片、人工智能、6G和量子领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260715225144065800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "知网：对AI署名论文已做下架处理",
@@ -880,6 +928,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "欧盟与印度围绕霍尔木兹海峡问题“启动正式磋商”达成共识。 双方希望，在2026年年底之前完成相关讨论。 双方还同意，围绕芯片、AI、6G、量子进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3134467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "灿勤科技：拟定增募资不超8.51亿元，用于第六代信息技术研发及产业化等项目",
           "url": "https://flash.jin10.com/detail/20260715172444419800",
           "source": "金十数据",
@@ -900,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "沃什：近期通胀数据未完全反映真实压力 AI投资短期内有利就业",
+          "url": "https://flash.jin10.com/detail/20260715224958848800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC在AI繁荣期没能实现关键的电力供应目标。 该公司与可靠的电力需求目标之间存在6.8 GW缺口。",
@@ -946,6 +1016,28 @@
           "time_info": "07时50分"
         },
         {
+          "title": "沃什：怀疑AI将在未来12个月推高价格",
+          "url": "https://wallstreetcn.com/livenews/3134465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "AI行情降温 黄金会迎来上涨吗",
+          "url": "https://www.toutiao.com/trending/7662715895654911526/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
           "url": "https://flash.jin10.com/detail/20260715050136121800",
           "source": "金十数据",
@@ -979,15 +1071,59 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美股存储板块跌幅继续扩大，美光科技跌7.81%，西部数据跌8.69%，希捷科技跌9.02%，闪迪跌12.96%，铠侠ADR跌3.30%，SK海力士ADR跌11.03%。",
+          "url": "https://wallstreetcn.com/livenews/3134463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "当一个孩子问「我为什么要学自己不会的东西，用 AI 不就知道了」，你会怎么回答？",
           "url": "https://www.zhihu.com/question/2057919284106498140",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美联储主席沃什：人工智能引发的价格飙升是真实存在的，我不想对此轻描淡写。",
+          "url": "https://flash.jin10.com/detail/20260715224720664800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美联储主席沃什：我一直都要求获得关于一些列新AI模型的权限。",
+          "url": "https://wallstreetcn.com/livenews/3134462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "OpenAI计划推出家用智能音箱",
@@ -1034,6 +1170,17 @@
           "time_info": "19时37分"
         },
         {
+          "title": "美联储主席沃什：关于人工智能的短期影响，我无法保证不会造成就业颠覆，也无法在就业问题上让人安心。",
+          "url": "https://flash.jin10.com/detail/20260715224637511800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "ChatGPT出现故障",
           "url": "https://www.baidu.com/s?wd=ChatGPT%E5%87%BA%E7%8E%B0%E6%95%85%E9%9A%9C",
           "source": "百度热搜",
@@ -1065,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "美联储主席沃什：相信人工智能是长期的就业创造者，可能会带来颠覆性影响。",
+          "url": "https://flash.jin10.com/detail/20260715224531095800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "泰和科技：预计2026年上半年净利润同比增长112.89%至176.75%",
@@ -1109,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "美联储主席沃什：预计未来12个月人工智能将推高可观测到的物价水平，AI是否会导致通胀取决于美联储。",
+          "url": "https://flash.jin10.com/detail/20260715224507553800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "恒生科技指数盘中一度涨2%，MINIMAX涨超12%，智谱涨近10%，美团涨超6%，腾讯涨超3%。",
@@ -1175,6 +1344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "美联储主席沃什：我们看到人工智能对需求的影响比对供给的影响来得更快。",
+          "url": "https://flash.jin10.com/detail/20260715224319239800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.11%，报6105.95点。 热门中概股里，百度初步收跌3.3%，网易跌2.4%，拼多多跌0.7%，阿里涨0.1%，腾讯涨0.5%，新东方涨2.1%，比亚迪涨3.1%，小鹏涨3.2%，小马智行涨4.2%，文远知行涨7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.19%，中国科技指数ETF（CQQQ）收涨1.52%。 XtrackersHarvest中证50（ASHS）收涨2.88%，德银嘉实沪深300指数ETF（ASHR）收涨2.84%，MSCI新兴市场ex中国ETF（EMXC）收涨1.79%。",
@@ -1254,6 +1434,17 @@
           "time_info": "17时58分"
         },
         {
+          "title": "苹果公司寻找AI芯片交易。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3134452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "科技巨头掀起融资狂潮！华尔街开始担忧：美股牛市会否就此结束？",
           "url": "https://flash.jin10.com/detail/20260715114338187800",
           "source": "金十数据",
@@ -1282,7 +1473,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
