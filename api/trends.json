@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T06:56:25.058389+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-07-16T07:57:10.346638+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 07时57分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 07时57分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -37,11 +37,63 @@
             2,
             4,
             8,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 07时57分]"
+        },
+        {
+          "title": "xQc吐槽拳头游戏纯抄无原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356191&amp;topic_name=xQc%E5%90%90%E6%A7%BD%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E7%BA%AF%E6%8A%84%E6%97%A0%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 07时57分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 07时57分]"
+        },
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，美光、闪迪暴跌8%，原油黄金走V",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
+          "ranks": [
+            18,
+            11,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时57分]"
         },
         {
           "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
@@ -93,30 +145,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "xQc吐槽拳头游戏纯抄无原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356191&amp;topic_name=xQc%E5%90%90%E6%A7%BD%E6%8B%B3%E5%A4%B4%E6%B8%B8%E6%88%8F%E7%BA%AF%E6%8A%84%E6%97%A0%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时56分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 06时56分]"
-        },
-        {
           "title": "微软在安全业务更换八名高管、裁员数百人，将侧重于网络防御方面的AI。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3134561",
           "source": "华尔街见闻-快讯",
@@ -139,29 +167,16 @@
           "time_info": "01时14分"
         },
         {
-          "title": "提前布局硬科技企业，银行系“耐心资本”加速崛起",
-          "url": "https://wallstreetcn.com/livenews/3134630",
-          "source": "华尔街见闻-快讯",
+          "title": "长鑫科技的下一“战”",
+          "url": "https://www.cls.cn/detail/2427664",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
-          "url": "https://www.zhihu.com/question/2053497628416030104",
-          "source": "知乎",
-          "ranks": [
-            18,
-            11,
-            9,
-            19
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时56分]"
+          "time_info": "[04时56分 ~ 07时57分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -169,11 +184,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时57分]"
         },
         {
           "title": "SPACEXAI：开源Grok Build，SPACEXAI的编码代理和TUI。",
@@ -188,6 +204,30 @@
           "time_info": "[04时56分 ~ 05时56分]"
         },
         {
+          "title": "提前布局硬科技企业，银行系“耐心资本”加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3134630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时57分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 07时57分]"
+        },
+        {
           "title": "世界人工智能大会逛展攻略来了",
           "url": "https://www.douyin.com/hot/2570881",
           "source": "抖音",
@@ -200,15 +240,49 @@
           "time_info": "[01时13分 ~ 06时56分]"
         },
         {
-          "title": "长鑫科技的下一“战”",
-          "url": "https://www.cls.cn/detail/2427664",
-          "source": "财联社热门",
+          "title": "你见过最疯最像赌徒的游戏制作人是谁？",
+          "url": "https://www.zhihu.com/question/2050625433629102926",
+          "source": "知乎",
           "ranks": [
-            13
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时56分]"
+          "time_info": "[05时56分 ~ 07时57分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 07时57分]"
+        },
+        {
+          "title": "在游戏挑战的过程中，你会舍不得用药水（消耗品）吗？有没有除了让玩家囤积更好的游戏设计方法？",
+          "url": "https://www.zhihu.com/question/2060383045018969591",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 07时57分]"
+        },
+        {
+          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
+          "url": "https://www.cls.cn/detail/2427842",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
@@ -305,15 +379,15 @@
           "time_info": "03时05分"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
+          "url": "https://wallstreetcn.com/livenews/3134643",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "07时57分"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -325,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "SpaceXAI宣布开源Grok Build",
+          "url": "https://flash.jin10.com/detail/20260716071515031800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
@@ -349,28 +434,6 @@
           "time_info": "03时05分"
         },
         {
-          "title": "你见过最疯最像赌徒的游戏制作人是谁？",
-          "url": "https://www.zhihu.com/question/2050625433629102926",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
           "url": "https://www.zhihu.com/question/2058593716542222509",
           "source": "知乎",
@@ -380,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "在游戏挑战的过程中，你会舍不得用药水（消耗品）吗？有没有除了让玩家囤积更好的游戏设计方法？",
-          "url": "https://www.zhihu.com/question/2060383045018969591",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         },
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -404,6 +456,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "英伟达(NVDA.O)：与丰田扩大合作伙伴关系，推动汽车、机器人和城市领域的物理人工智能发展。",
+          "url": "https://flash.jin10.com/detail/20260716070324992800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3134540",
           "source": "华尔街见闻-快讯",
@@ -415,13 +478,24 @@
           "time_info": "03时05分"
         },
         {
+          "title": "英伟达(NVDA.O)：日本公司正在使用英伟达的Nemotron以构建人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260716070209815800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
