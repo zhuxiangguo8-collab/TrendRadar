@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T01:14:16.281999+08:00",
-  "total_titles_processed": 318,
+  "generated_at": "2026-07-16T03:05:17.271780+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
           "title": "国行苹果AI完成备案",
           "url": "https://www.douyin.com/hot/2572485",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -47,9 +48,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.71%，报24829点。 恒生科技指数主连夜盘收涨0.63%，报4767点。",
+          "url": "https://wallstreetcn.com/livenews/3134564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "微软在安全业务更换八名高管、裁员数百人，将侧重于网络防御方面的AI。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3134561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
@@ -58,7 +81,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         },
@@ -70,19 +93,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
           "title": "xQc吐槽拳头游戏纯抄无原创",
@@ -92,19 +116,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
-          "title": "世界人工智能大会逛展攻略来了",
-          "url": "https://www.douyin.com/hot/2570881",
-          "source": "抖音",
+          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
+          "url": "https://www.zhihu.com/question/2053497628416030104",
+          "source": "知乎",
           "ranks": [
-            12
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
@@ -114,15 +139,15 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时05分]"
         },
         {
-          "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
-          "url": "https://www.zhihu.com/question/2053497628416030104",
-          "source": "知乎",
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
           "ranks": [
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -140,13 +165,68 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
+          "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
+          "url": "https://flash.jin10.com/detail/20260716023727073800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
+          "url": "https://www.zhihu.com/question/2058593981005665566",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
+          "url": "https://www.zhihu.com/question/2058593716542222509",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
+          "url": "https://wallstreetcn.com/livenews/3134541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3134540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
           "url": "https://wallstreetcn.com/livenews/3134505",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
         }
