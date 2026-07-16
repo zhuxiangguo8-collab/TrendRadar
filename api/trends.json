@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T16:05:58.069504+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-07-16T18:55:38.299455+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 82,
+      "match_count": 92,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 16时05分]"
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 18时55分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -44,6 +44,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 10时12分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 18时55分]"
         },
         {
           "title": "xQc吐槽拳头游戏纯抄无原创",
@@ -75,29 +89,16 @@
           "time_info": "[01时13分 ~ 13时37分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 16时05分]"
-        },
-        {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 16时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 18时55分]"
         },
         {
           "title": "长鑫科技IPO",
@@ -132,6 +133,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时12分 ~ 16时05分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时56分 ~ 18时55分]"
         },
         {
           "title": "长鑫科技的下一“战”",
@@ -200,18 +216,16 @@
           "time_info": "[01时13分 ~ 07时57分]"
         },
         {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
+          "title": "长鑫科技IPO倒计时 中一签能赚多少？",
+          "url": "https://www.cls.cn/detail/2428095",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            17,
-            15,
-            12
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时56分 ~ 16时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时55分]"
         },
         {
           "title": "全球人工智能 进入“上海时间”",
@@ -285,6 +299,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "礼来将以每股6.75美元现金加CVR收购AtaiBeckley。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "半导体板块震荡走高，瑞芯微涨停，艾为电子涨超15%，盛科通信、安路科技、赛微微电、乐鑫科技、全志科技跟涨。",
           "url": "https://wallstreetcn.com/livenews/3134744",
           "source": "华尔街见闻-快讯",
@@ -325,7 +350,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -358,7 +383,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -374,6 +399,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 07时57分]"
+        },
+        {
+          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
+          "url": "https://www.zhihu.com/question/2059993412737283983",
+          "source": "知乎",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 18时55分]"
         },
         {
           "title": "澳大利亚政府成立AI办公室",
@@ -411,27 +448,17 @@
           "time_info": "[06时56分 ~ 07时57分]"
         },
         {
-          "title": "长鑫科技IPO倒计时 中一签能赚多少？",
-          "url": "https://www.cls.cn/detail/2428095",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 16时05分]"
-        },
-        {
           "title": "花钱就看这?功夫女足公开用AI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
           "source": "贴吧",
           "ranks": [
             9,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 16时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 18时55分]"
         },
         {
           "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
@@ -552,6 +579,30 @@
           "time_info": "[13时36分 ~ 13时37分]"
         },
         {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 18时55分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 18时55分]"
+        },
+        {
           "title": "xAI：Grok Build现在开源",
           "url": "https://wallstreetcn.com/livenews/3134605",
           "source": "华尔街见闻-快讯",
@@ -603,18 +654,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        },
-        {
-          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
-          "url": "https://www.zhihu.com/question/2059993412737283983",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -630,13 +670,24 @@
           "time_info": "13时37分"
         },
         {
+          "title": "【午报】创业板指冲高回落跌1.73%，端侧AI概念逆势爆发，医药板块持续活跃",
+          "url": "https://www.cls.cn/detail/2428155",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "AWS发布AI-DLC与Kiro工具 瞄准AI编程“效率低、安全弱”痛点",
           "url": "https://flash.jin10.com/detail/20260716155335282800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -652,13 +703,24 @@
           "time_info": "10时12分"
         },
         {
+          "title": "月之暗面将在未来几天推出人工智能模型Kimi K3。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3135007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
           "url": "https://www.cls.cn/detail/2427879",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -691,20 +753,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
         {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
+          "title": "鼎通科技：预计上半年净利润为1.85亿元，同比增长60.04%",
+          "url": "https://wallstreetcn.com/livenews/3135005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时05分"
+          "time_info": "18时55分"
+        },
+        {
+          "title": "长鑫科技8名高管身家过亿",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%808%E5%90%8D%E9%AB%98%E7%AE%A1%E8%BA%AB%E5%AE%B6%E8%BF%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
@@ -729,6 +813,17 @@
           "time_info": "13时37分"
         },
         {
+          "title": "募资65亿 稀宇科技登陆离岸债市场",
+          "url": "https://wallstreetcn.com/livenews/3134996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "恒指、恒生科技指数均涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3134718",
           "source": "华尔街见闻-快讯",
@@ -746,9 +841,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -768,7 +874,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -790,18 +896,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
@@ -834,9 +929,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "AI四秒赢了人类一辈子",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%9B%9B%E7%A7%92%E8%B5%A2%E4%BA%86%E4%BA%BA%E7%B1%BB%E4%B8%80%E8%BE%88%E5%AD%90&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "A股煤化工板块持续走低，江苏索普跌超6%，金煤科技、诚志股份、华谊集团、华昌化工等跟跌。",
@@ -916,6 +1022,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "阿里整合QoderWork、悟空、MuleRun 将推出新的生产力AI产品",
+          "url": "https://flash.jin10.com/detail/20260716181105460800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
@@ -933,7 +1050,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
         },
