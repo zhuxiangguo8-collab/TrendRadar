@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T10:13:09.760707+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-07-17T13:38:31.567777+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 56,
+      "match_count": 76,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时02分 ~ 10时13分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 13时38分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -173,11 +173,12 @@
           "url": "https://www.cls.cn/detail/2428882",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 10时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时12分 ~ 13时38分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -220,9 +221,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "恒生科技指数午后跌幅扩大至5%，恒生指数跌超2%，智谱跌超26%，MINIMAX跌超14%。",
+          "url": "https://wallstreetcn.com/livenews/3135491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -242,9 +265,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
@@ -275,9 +320,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 13时38分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，成分股Nebius集团跌14.2%，闪迪跌12.8%，Rocket Labs跌12.2%，希捷科技跌10.6%，西部数据跌10.2%，Astera Labs跌9.8%，迈威尔科技/美满电子、Lumentum、泰瑞达、英特尔至少跌6.9%，谷歌A跌4.7%。 半导体指数跌5%，存储芯片指数维持大约9%的跌幅。 北美科技软件股指数ETF跌幅重新扩大至0.4%，美股盘初一度跌1.9%。",
@@ -290,18 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时09分]"
-        },
-        {
-          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 10时13分]"
         },
         {
           "title": "2026世界人工智能大会太火了",
@@ -366,7 +411,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -380,6 +425,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "沪指午后跌超2%，科创50指数跌幅扩大至5%，源杰科技、佰维存储、盛科通信跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3135483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "深夜，澜起科技连发三则公告",
+          "url": "https://www.cls.cn/detail/2429080",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
@@ -399,7 +477,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -432,7 +510,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -443,9 +521,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "韩国惨遭AI泡沫绞杀局",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%83%A8%E9%81%ADAI%E6%B3%A1%E6%B2%AB%E7%BB%9E%E6%9D%80%E5%B1%80%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "恒生科技指数午后跌幅扩大至5%，恒生指数现跌2.36%，智谱(02513.HK)跌26.81%，MINIMAX-W(00100.HK)跌14.3%。",
+          "url": "https://flash.jin10.com/detail/20260717131949000800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
@@ -459,6 +570,28 @@
           "time_info": "05时09分"
         },
         {
+          "title": "世界人工智能大会期间国家发展改革委发布2项重要成果",
+          "url": "https://wallstreetcn.com/livenews/3135478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "世界人工智能大会今日开幕",
+          "url": "https://www.douyin.com/hot/2574489",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（7月17日）",
           "url": "https://flash.jin10.com/detail/20260717073222961800",
           "source": "金十数据",
@@ -468,6 +601,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》。",
+          "url": "https://wallstreetcn.com/livenews/3135476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "闪迪(SNDK.O)盘中跌幅扩大至10%，西部数据(WDC.O)跌近9%，SK海力士ADR(SKHY.O)跌8.6%，美光科技(MU.O)跌超5%。",
@@ -547,15 +702,37 @@
           "time_info": "00时17分"
         },
         {
+          "title": "恐慌性抛售席卷亚洲！日经225暴跌6%，动量交易正在反噬科技股狂潮",
+          "url": "https://flash.jin10.com/detail/20260717131126252800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "恒指高开0.06%，报25022.54点；恒生科技指数跌0.05%。智谱跌超12%，MINIMAX跌超3%；比亚迪电子涨3.8%，小米涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3135359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美联储副主席杰斐逊：如果人工智能基础设施建设和消费引发的需求效应先于人工智能带来的生产力红利显现，那么人工智能可能会给通胀带来上行压力。",
@@ -575,7 +752,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -602,6 +779,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "漫威金刚狼游戏PV",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%AB%E5%A8%81%E9%87%91%E5%88%9A%E7%8B%BC%E6%B8%B8%E6%88%8FPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美联储副主席杰斐逊：人工智能带来的经济冲击可能对供需产生持久影响。",
           "url": "https://flash.jin10.com/detail/20260717070221875800",
           "source": "金十数据",
@@ -611,6 +799,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "全球科技股为何突然“熄火”",
+          "url": "https://www.toutiao.com/trending/7662310627776757787/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "科创50指数午后跌幅扩大至5%，源杰科技、佰维存储、盛科通信跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260717130337738800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/livenews/3135462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美联储副主席杰斐逊：目前正在关注两个事情的重要发展（中东冲突以及人工智能的普及）。",
