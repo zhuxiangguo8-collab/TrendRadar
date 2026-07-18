@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:49:55.364569+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-07-18T10:02:21.703198+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -59,11 +59,24 @@
           "ranks": [
             5,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
+        },
+        {
+          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
+          "url": "https://www.cls.cn/detail/2429589",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -77,18 +90,6 @@
           "time_info": "[00时11分 ~ 05时48分]"
         },
         {
-          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
-          "url": "https://www.cls.cn/detail/2429589",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
-        },
-        {
           "title": "UP主手搓WAIC逛展小助手",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
           "source": "bilibili 热搜",
@@ -100,8 +101,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -113,8 +114,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -123,11 +124,40 @@
           "ranks": [
             9,
             8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            6,
+            15,
+            18,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
+        },
+        {
+          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2429875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -142,42 +172,17 @@
           "time_info": "[00时11分 ~ 06时44分]"
         },
         {
-          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2429875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
-        },
-        {
           "title": "中国拉群搞AI,28国兄弟入伙",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
-        },
-        {
-          "title": "2026世界人工智能大会有哪些不同",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            6,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -188,8 +193,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -197,11 +202,23 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 10时02分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时02分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -213,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
-        },
-        {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -238,6 +244,28 @@
           "time_info": "[00时11分 ~ 06时44分]"
         },
         {
+          "title": "图灵奖得主称赞中国倡导AI向善",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%E8%B5%9E%E4%B8%AD%E5%9B%BD%E5%80%A1%E5%AF%BCAI%E5%90%91%E5%96%84%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "工信部原副部长王江平：建议加大对优质人工智能终端消费的补贴",
+          "url": "https://wallstreetcn.com/livenews/3135943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美国法官在一宗新型人工智能歧视案件中，拒绝叫停Meta Platforms(META.O)的裁员计划。",
           "url": "https://flash.jin10.com/detail/20260718012747898800",
           "source": "金十数据",
@@ -247,6 +275,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "一周热榜精选：韩国给单股杠杆交易“降温”！千万投资者申购长鑫科技",
+          "url": "https://flash.jin10.com/detail/20260718091958036800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 10时02分]"
         },
         {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
@@ -274,29 +326,17 @@
           "time_info": "[00时12分 ~ 02时02分]"
         },
         {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时44分]"
-        },
-        {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
           "url": "https://wallstreetcn.com/livenews/3135917",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时48分 ~ 07时49分]"
+          "appearance_count": 4,
+          "time_info": "[05时48分 ~ 10时02分]"
         },
         {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
@@ -359,6 +399,30 @@
           "time_info": "[02时02分 ~ 04时03分]"
         },
         {
+          "title": "AI能终结癌症吗",
+          "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时02分]"
+        },
+        {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 10时02分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
           "url": "https://wallstreetcn.com/livenews/3135899",
           "source": "华尔街见闻-快讯",
@@ -368,6 +432,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时44分]"
+        },
+        {
+          "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
+          "url": "https://www.zhihu.com/question/2061411962487924266",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2061099332632416849",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850575&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/NxIIi4xiQ8YloH102nPfv.jpg/lite\" height=\"120\"/></a>",
@@ -401,6 +487,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "机器人在WAIC一脚踹出真本事",
+          "url": "https://www.douyin.com/hot/2574930",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "壁仞科技推出NPO光互连、分布式解耦架构超节点方案，最大实现1024卡",
+          "url": "https://flash.jin10.com/detail/20260718085108483800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "MiniMax携M3、H3等全模态模型及产品亮相WAIC2026",
@@ -447,6 +555,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "人工智能数据中心储能兴起 多家上市公司积极布局",
+          "url": "https://flash.jin10.com/detail/20260718084129030800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
           "url": "https://flash.jin10.com/detail/20260718030935465800",
           "source": "金十数据",
@@ -469,17 +588,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "AI能终结癌症吗",
-          "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
           "title": "据华尔街日报：SpaceX(SPCX.O)正在洽谈为五角大楼的人工智能推进计划提供计算能力。",
           "url": "https://flash.jin10.com/detail/20260718030514730800",
           "source": "金十数据",
@@ -491,15 +599,15 @@
           "time_info": "04时03分"
         },
         {
-          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "10时02分"
         },
         {
           "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
