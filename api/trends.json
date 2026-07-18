@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T22:48:40.148739+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-07-18T23:53:09.500390+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 119,
+      "match_count": 120,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时49分 ~ 22时48分]"
+          "appearance_count": 11,
+          "time_info": "[07时49分 ~ 23时53分]"
         },
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -64,6 +64,18 @@
           "time_info": "[00时11分 ~ 10时02分]"
         },
         {
+          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
+          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时42分 ~ 23时53分]"
+        },
+        {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
           "url": "https://wallstreetcn.com/articles/3777168",
           "source": "华尔街见闻",
@@ -106,8 +118,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 22时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时11分 ~ 23时53分]"
         },
         {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
@@ -122,16 +134,20 @@
           "time_info": "[00时11分 ~ 10时02分]"
         },
         {
-          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
-          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
-          "source": "凤凰网",
+          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
+          "url": "https://wallstreetcn.com/articles/3777275",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
+            7,
+            6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 22时48分]"
+          "appearance_count": 8,
+          "time_info": "[15时42分 ~ 23时53分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -145,8 +161,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 22时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 23时53分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -160,11 +176,12 @@
             16,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时11分 ~ 22时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 23时53分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -202,8 +219,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时02分 ~ 22时48分]"
+          "appearance_count": 12,
+          "time_info": "[02时02分 ~ 23时53分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -219,6 +236,19 @@
           "time_info": "[00时11分 ~ 10时02分]"
         },
         {
+          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
+          "url": "https://www.cls.cn/detail/2430120",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 23时53分]"
+        },
+        {
           "title": "大瓦特·让每一度电都有AI",
           "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
           "source": "澎湃新闻",
@@ -230,6 +260,34 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时11分 ~ 13时21分]"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            12,
+            13,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 23时53分]"
+        },
+        {
+          "title": "世界人工智能大会超全攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 23时53分]"
         },
         {
           "title": "多项AI在世界人工智能大会首发首秀",
@@ -255,20 +313,18 @@
           "time_info": "[00时11分 ~ 06时44分]"
         },
         {
-          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
-          "url": "https://wallstreetcn.com/articles/3777275",
-          "source": "华尔街见闻",
+          "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
+          "url": "https://www.zhihu.com/question/2061067983900906626",
+          "source": "知乎",
           "ranks": [
-            9,
-            7,
-            6,
+            19,
+            11,
             5,
-            4,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时42分 ~ 22时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 23时53分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -284,44 +340,19 @@
           "time_info": "[00时11分 ~ 10时02分]"
         },
         {
-          "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
-          "url": "https://www.cls.cn/detail/2430120",
-          "source": "财联社热门",
+          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 22时48分]"
-        },
-        {
-          "title": "美企抄袭中国AI玩双标被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            12,
+            16,
             13,
-            14,
-            16
+            12,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时21分 ~ 22时48分]"
-        },
-        {
-          "title": "世界人工智能大会超全攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 22时48分]"
+          "time_info": "[17时20分 ~ 23时53分]"
         },
         {
           "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
@@ -336,20 +367,6 @@
           "time_info": "[07时49分 ~ 21时05分]"
         },
         {
-          "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
-          "url": "https://www.zhihu.com/question/2061067983900906626",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 22时48分]"
-        },
-        {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
@@ -359,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
-        },
-        {
-          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3136059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
@@ -421,17 +427,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "星宸科技：预计上半年净利润同比增583.72%—650.42%",
-          "url": "https://flash.jin10.com/detail/20260718223035198800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "美国法官在一宗新型人工智能歧视案件中，拒绝叫停Meta Platforms(META.O)的裁员计划。",
           "url": "https://flash.jin10.com/detail/20260718012747898800",
           "source": "金十数据",
@@ -452,31 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
-          "url": "https://wallstreetcn.com/livenews/3136055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 22时48分]"
         },
         {
           "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
@@ -530,6 +500,30 @@
           "time_info": "[05时48分 ~ 07时49分]"
         },
         {
+          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3136059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "星宸科技：预计上半年净利润同比增583.72%—650.42%",
+          "url": "https://flash.jin10.com/detail/20260718223035198800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
           "title": "2025诺奖得主：中国人工智能技术领先，基础研究投入是主因",
           "url": "https://wallstreetcn.com/livenews/3136033",
           "source": "华尔街见闻-快讯",
@@ -553,6 +547,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时21分 ~ 17时20分]"
+        },
+        {
+          "title": "AI牛市结束了吗？市场充满疑虑",
+          "url": "https://wallstreetcn.com/articles/3777289",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时05分 ~ 23时53分]"
         },
         {
           "title": "网易有道WAIC首展AI耳机OpenPods",
@@ -640,6 +646,30 @@
           "time_info": "[05时48分 ~ 10时02分]"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时05分 ~ 23时53分]"
+        },
+        {
+          "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
+          "url": "https://wallstreetcn.com/livenews/3136055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
           "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
           "url": "https://www.zhihu.com/question/2061411962487924266",
           "source": "知乎",
@@ -666,6 +696,17 @@
           "time_info": "[05时48分 ~ 07时49分]"
         },
         {
+          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
+          "url": "https://wallstreetcn.com/articles/3777307",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
           "url": "https://flash.jin10.com/detail/20260718044353532800",
           "source": "金十数据",
@@ -679,6 +720,17 @@
           "time_info": "[05时48分 ~ 07时49分]"
         },
         {
+          "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
+          "url": "https://www.cls.cn/detail/2430037",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
           "url": "https://wallstreetcn.com/livenews/3135906",
           "source": "华尔街见闻-快讯",
@@ -689,18 +741,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时48分 ~ 07时49分]"
-        },
-        {
-          "title": "AI牛市结束了吗？市场充满疑虑",
-          "url": "https://wallstreetcn.com/articles/3777289",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时48分]"
         },
         {
           "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
@@ -727,16 +767,16 @@
           "time_info": "[17时20分 ~ 18时59分]"
         },
         {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
+          "title": "一周展望：美伊局势延续“高烈度升级”，超卖黄金与科技股迎关键大考",
+          "url": "https://flash.jin10.com/detail/20260718215539992800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8
+            8,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时48分]"
+          "time_info": "[22时48分 ~ 23时53分]"
         },
         {
           "title": "京东健康AI医生“大为”亮相WAIC 2026",
@@ -787,6 +827,30 @@
           "time_info": "[19时55分 ~ 21时05分]"
         },
         {
+          "title": "上海“星枢计划”首发星座在WAIC正式发布",
+          "url": "https://wallstreetcn.com/livenews/3136051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "机器人的指尖上新晋一家百亿公司：一目科技完成超10亿元E轮融资",
+          "url": "https://wallstreetcn.com/livenews/3136050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
           "title": "机器人在WAIC一脚踹出真本事",
           "url": "https://www.douyin.com/hot/2574930",
           "source": "抖音",
@@ -797,6 +861,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 18时59分]"
+        },
+        {
+          "title": "中创新航发布提供广汽埃安AION S电池系统直接维保服务的公告",
+          "url": "https://flash.jin10.com/detail/20260718213737406800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
         },
         {
           "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
@@ -820,6 +896,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时12分]"
+        },
+        {
+          "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
+          "url": "https://flash.jin10.com/detail/20260718213228936800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
+          "url": "https://wallstreetcn.com/livenews/3136047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "95后夫妻手搓500集AI漫剧爆火",
+          "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
         },
         {
           "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
@@ -904,6 +1015,42 @@
           "time_info": "[07时49分 ~ 10时02分]"
         },
         {
+          "title": "魔法原子Magic-VLA K02亮相WAIC，叠盒封胶长程任务成功率超90%",
+          "url": "https://wallstreetcn.com/livenews/3136040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "中国首创人工智能赋能核能技术路线全球首发",
+          "url": "https://flash.jin10.com/detail/20260718210538813800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "中国首创AI赋能核能技术路线全球首发",
+          "url": "https://wallstreetcn.com/livenews/3136038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
           "title": "首届世界人工智能大会·学术正式亮相",
           "url": "https://wallstreetcn.com/livenews/3135948",
           "source": "华尔街见闻-快讯",
@@ -914,6 +1061,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 15时42分]"
+        },
+        {
+          "title": "洞察时空首次公开“数算一体AI星座”：576颗卫星打造“一天一次”对地观测能力",
+          "url": "https://wallstreetcn.com/livenews/3136036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
+        },
+        {
+          "title": "阿里发布秒悟团队版，打造企业级AI应用创作平台",
+          "url": "https://wallstreetcn.com/livenews/3136035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时53分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
@@ -949,17 +1120,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "一周展望：美伊局势延续“高烈度升级”，超卖黄金与科技股迎关键大考",
-          "url": "https://flash.jin10.com/detail/20260718215539992800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
           "url": "https://wallstreetcn.com/livenews/3135823",
           "source": "华尔街见闻-快讯",
@@ -971,17 +1131,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
-          "url": "https://wallstreetcn.com/articles/3777307",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "B2B行业首份AI智能体全球支付白皮书发布",
           "url": "https://flash.jin10.com/detail/20260718202648250800",
           "source": "金十数据",
@@ -991,17 +1140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
-        },
-        {
-          "title": "上海“星枢计划”首发星座在WAIC正式发布",
-          "url": "https://wallstreetcn.com/livenews/3136051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
@@ -1024,17 +1162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "机器人的指尖上新晋一家百亿公司：一目科技完成超10亿元E轮融资",
-          "url": "https://wallstreetcn.com/livenews/3136050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "壁仞科技推出NPO光互连、分布式解耦架构超节点方案，最大实现1024卡",
@@ -1092,17 +1219,6 @@
           "time_info": "13时21分"
         },
         {
-          "title": "中创新航发布提供广汽埃安AION S电池系统直接维保服务的公告",
-          "url": "https://flash.jin10.com/detail/20260718213737406800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
           "url": "https://wallstreetcn.com/livenews/3135819",
           "source": "华尔街见闻-快讯",
@@ -1114,17 +1230,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
-          "url": "https://www.cls.cn/detail/2430037",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "平头哥宣布开源AI软件栈T-Head SAIL",
           "url": "https://flash.jin10.com/detail/20260718163926638800",
           "source": "金十数据",
@@ -1134,28 +1239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
-        },
-        {
-          "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
-          "url": "https://flash.jin10.com/detail/20260718213228936800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
-          "url": "https://wallstreetcn.com/livenews/3136047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "道指再次转跌，闪迪(SNDK.O)、美光科技(MU.O)亦均转跌，此前一度涨超2%。",
@@ -1213,17 +1296,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "魔法原子Magic-VLA K02亮相WAIC，叠盒封胶长程任务成功率超90%",
-          "url": "https://wallstreetcn.com/livenews/3136040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "95后夫妻手搓AI漫剧爆火",
           "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
           "source": "百度热搜",
@@ -1244,28 +1316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "中国首创人工智能赋能核能技术路线全球首发",
-          "url": "https://flash.jin10.com/detail/20260718210538813800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "中国首创AI赋能核能技术路线全球首发",
-          "url": "https://wallstreetcn.com/livenews/3136038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
@@ -1312,17 +1362,6 @@
           "time_info": "04时03分"
         },
         {
-          "title": "洞察时空首次公开“数算一体AI星座”：576颗卫星打造“一天一次”对地观测能力",
-          "url": "https://wallstreetcn.com/livenews/3136036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
           "url": "https://flash.jin10.com/detail/20260718004214447800",
           "source": "金十数据",
@@ -1332,17 +1371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "阿里发布秒悟团队版，打造企业级AI应用创作平台",
-          "url": "https://wallstreetcn.com/livenews/3136035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
         },
         {
           "title": "俄罗斯：在Mykolaiv港口打击四艘干散货船只。）（国际文传电讯社IFX）",
@@ -1362,7 +1390,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
