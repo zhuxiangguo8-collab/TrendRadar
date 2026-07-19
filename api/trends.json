@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T22:52:00.455959+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-07-19T23:54:48.953158+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 113,
+      "match_count": 115,
       "titles": [
         {
           "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时47分 ~ 22时52分]"
+          "appearance_count": 10,
+          "time_info": "[13时47分 ~ 23时54分]"
         },
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -167,8 +167,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时04分 ~ 22时52分]"
+          "appearance_count": 17,
+          "time_info": "[04时04分 ~ 23时54分]"
         },
         {
           "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
@@ -176,11 +176,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时13分 ~ 22时52分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 23时54分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -258,6 +259,20 @@
           "time_info": "[06时44分 ~ 16时09分]"
         },
         {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时09分 ~ 23时54分]"
+        },
+        {
           "title": "2026世界人工智能大会有哪些不同",
           "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
           "source": "bilibili 热搜",
@@ -274,18 +289,29 @@
           "time_info": "[00时53分 ~ 06时44分]"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9,
-            8,
-            7
+            7,
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时09分 ~ 22时52分]"
+          "time_info": "[18时23分 ~ 23时54分]"
+        },
+        {
+          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2430460",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 23时54分]"
         },
         {
           "title": "这一秒过火 AI片头",
@@ -297,6 +323,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
+          "url": "https://www.zhihu.com/question/2061864895159833546",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时54分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -368,19 +408,6 @@
           "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时52分]"
-        },
-        {
           "title": "“中国AI只差两三个月”，硅谷坐不住了",
           "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
           "source": "凤凰网",
@@ -393,6 +420,17 @@
           "time_info": "[18时23分 ~ 22时52分]"
         },
         {
+          "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
+          "url": "https://wallstreetcn.com/livenews/3136307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时54分]"
+        },
+        {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
@@ -403,31 +441,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 05时46分]"
-        },
-        {
-          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
-          "url": "https://www.cls.cn/detail/2430460",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时54分 ~ 22时52分]"
-        },
-        {
-          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
-          "url": "https://www.zhihu.com/question/2061864895159833546",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时52分]"
         },
         {
           "title": "觅蜂科技姚卯青：物理AI要实现规模化，必须突破三道“墙”",
@@ -450,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "姚期智：中国AI产业领跑全球",
+          "url": "https://flash.jin10.com/detail/20260719232612191800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "长鑫科技中签号出炉 共约770.22万个",
@@ -508,15 +532,18 @@
           "time_info": "19时54分"
         },
         {
-          "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
-          "url": "https://wallstreetcn.com/livenews/3136307",
-          "source": "华尔街见闻-快讯",
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
           "ranks": [
-            5
+            13,
+            12,
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 23时54分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -554,6 +581,19 @@
           "time_info": "[19时54分 ~ 21时07分]"
         },
         {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 23时54分]"
+        },
+        {
           "title": "WAIC 2026智启具身论坛今日举行，姚卯青：物理AI 要实现规模化，必须突破三道“墙”",
           "url": "https://wallstreetcn.com/livenews/3136117",
           "source": "华尔街见闻-快讯",
@@ -578,17 +618,17 @@
           "time_info": "[19时54分 ~ 21时07分]"
         },
         {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
+          "title": "长鑫科技770万个中签号背后",
+          "url": "https://www.toutiao.com/trending/7664182019143765546/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12,
-            9
+            9,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时54分 ~ 22时52分]"
+          "time_info": "[21时07分 ~ 23时54分]"
         },
         {
           "title": "“真干活机器人”在WAIC走红",
@@ -640,30 +680,6 @@
           "time_info": "[00时53分 ~ 05时46分]"
         },
         {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时52分]"
-        },
-        {
-          "title": "长鑫科技770万个中签号背后",
-          "url": "https://www.toutiao.com/trending/7664182019143765546/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时52分]"
-        },
-        {
           "title": "AI风向标！甲骨文债券CDS升至历史新高",
           "url": "https://wallstreetcn.com/articles/3777278",
           "source": "华尔街见闻",
@@ -674,6 +690,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 10时13分]"
+        },
+        {
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时54分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时54分]"
         },
         {
           "title": "世界两大AI组织都是狠角色",
@@ -698,6 +737,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时09分 ~ 18时24分]"
+        },
+        {
+          "title": "无锡梁溪区组团参访2026世界人工智能大会：AI浪潮中梁溪该怎么干？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614322",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时54分]"
         },
         {
           "title": "AI行业要重新洗牌了",
@@ -758,6 +809,18 @@
           "time_info": "[22时51分 ~ 22时52分]"
         },
         {
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 23时54分]"
+        },
+        {
           "title": "陈茂波：香港将出台政策支持中小企业采用AI",
           "url": "https://wallstreetcn.com/livenews/3136250",
           "source": "华尔街见闻-快讯",
@@ -768,29 +831,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时54分 ~ 21时07分]"
-        },
-        {
-          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
-          "url": "https://wallstreetcn.com/livenews/3136278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 22时52分]"
-        },
-        {
-          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "如何评价 EWC 八强赛 BLG 1:2 DK 的比赛中，上单选手 Bin 在三局游戏中的整体表现？",
@@ -809,17 +849,6 @@
           "source": "澎湃新闻",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
-        },
-        {
-          "title": "无锡梁溪区组团参访2026世界人工智能大会：AI浪潮中梁溪该怎么干？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614322",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1112,17 +1141,6 @@
           "time_info": "10时13分"
         },
         {
-          "title": "用AI预测西班牙vs阿根廷",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
           "title": "善水科技：预计2026年半年度归母净利7700万元—9500万元，同比增长61.17%—98.84%。",
           "url": "https://wallstreetcn.com/livenews/3136203",
           "source": "华尔街见闻-快讯",
@@ -1198,6 +1216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "用Deepseek生成战地游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "上海“星枢计划”首发星座在WAIC正式发布",
