@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:09:58.121571+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-19T18:24:09.934773+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 75,
+      "match_count": 87,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -95,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 18时24分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -155,8 +155,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时04分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[04时04分 ~ 18时24分]"
+        },
+        {
+          "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
+          "url": "https://wallstreetcn.com/articles/3777330",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时24分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -180,8 +192,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 16时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 18时24分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -238,15 +250,15 @@
           "time_info": "[00时53分 ~ 06时44分]"
         },
         {
-          "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
-          "url": "https://wallstreetcn.com/articles/3777330",
-          "source": "华尔街见闻",
+          "title": "中国AI站上全球治理主场",
+          "url": "https://www.douyin.com/hot/2577012",
+          "source": "抖音",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时47分 ~ 16时09分]"
+          "time_info": "[16时09分 ~ 18时24分]"
         },
         {
           "title": "这一秒过火 AI片头",
@@ -341,6 +353,18 @@
           "time_info": "[00时53分 ~ 05时46分]"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 18时24分]"
+        },
+        {
           "title": "觅蜂科技姚卯青：物理AI要实现规模化，必须突破三道“墙”",
           "url": "https://wallstreetcn.com/livenews/3136120",
           "source": "华尔街见闻-快讯",
@@ -363,24 +387,13 @@
           "time_info": "13时48分"
         },
         {
-          "title": "中国AI站上全球治理主场",
-          "url": "https://www.douyin.com/hot/2577012",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
           "title": "长鑫科技中签号出炉 共约770.22万个",
           "url": "https://wallstreetcn.com/livenews/3136176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -467,18 +480,6 @@
           "time_info": "[01时53分 ~ 04时04分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 16时09分]"
-        },
-        {
           "title": "世界人工智能大会有何看点",
           "url": "https://www.douyin.com/hot/2575956",
           "source": "抖音",
@@ -527,6 +528,42 @@
           "time_info": "[07时50分 ~ 10时13分]"
         },
         {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 18时24分]"
+        },
+        {
+          "title": "世界两大AI组织都是狠角色",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 18时24分]"
+        },
+        {
+          "title": "长鑫科技中签号出炉",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 18时24分]"
+        },
+        {
           "title": "AI行业要重新洗牌了",
           "url": "https://s.weibo.com/weibo?q=%23AI%E8%A1%8C%E4%B8%9A%E8%A6%81%E9%87%8D%E6%96%B0%E6%B4%97%E7%89%8C%E4%BA%86%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -539,6 +576,28 @@
           "time_info": "[13时47分 ~ 16时09分]"
         },
         {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
           "title": "当“大投行”撞上“硬科技”：中国券商正复制海外巨头的超级进化",
           "url": "https://wallstreetcn.com/premium/articles/3776376?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -548,6 +607,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "如何评价 EWC 八强赛 BLG 1:2 DK 的比赛中，上单选手 Bin 在三局游戏中的整体表现？",
+          "url": "https://www.zhihu.com/question/2061599727179789978",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
+          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
+          "url": "https://www.zhihu.com/question/2061864895159833546",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "日媒：印企越来越依赖中国AI大模型",
@@ -578,7 +659,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -600,7 +681,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -633,7 +714,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -649,15 +730,15 @@
           "time_info": "10时13分"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "纳指科技ETF景顺：将于7月20日开市起至当日10:30停牌",
+          "url": "https://flash.jin10.com/detail/20260719172330019800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时09分"
+          "time_info": "18时24分"
         },
         {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
@@ -669,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "纳指科技ETF景顺：将于7月20日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3136210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "WAIC AI会客厅回顾",
@@ -688,18 +780,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "世界两大AI组织都是狠角色",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%A4%E5%A4%A7AI%E7%BB%84%E7%BB%87%E9%83%BD%E6%98%AF%E7%8B%A0%E8%A7%92%E8%89%B2&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -710,7 +791,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -721,7 +802,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -743,18 +824,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "长鑫科技中签号出炉",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -765,7 +835,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -787,7 +857,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -803,15 +873,37 @@
           "time_info": "10时13分"
         },
         {
+          "title": "善水科技：预计2026年半年度归母净利7700万元—9500万元，同比增长61.17%—98.84%。",
+          "url": "https://wallstreetcn.com/livenews/3136203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "长三角人工智能协同投资平台共建签约",
           "url": "https://flash.jin10.com/detail/20260719141411430800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "善水科技：上半年净利润同比预计增61.17%—98.84%",
+          "url": "https://flash.jin10.com/detail/20260719165525049800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "长三角人工智能协同投资平台共建签约",
@@ -820,7 +912,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -864,9 +956,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "https://wallstreetcn.com/livenews/3136195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "机器人的指尖上新晋一家百亿公司：一目科技完成超10亿元E轮融资",
@@ -878,6 +981,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "扬杰科技：预期上半年净利同比增长20%—40%",
+          "url": "https://flash.jin10.com/detail/20260719164116830800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3136190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "世界人工智能合作组织未来将重点开展三方面工作",
+          "url": "https://flash.jin10.com/detail/20260719163808991800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
