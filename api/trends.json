@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T20:14:43.342730+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-07-20T23:08:44.933458+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 77,
+      "match_count": 81,
       "titles": [
         {
           "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
@@ -74,18 +74,6 @@
           "time_info": "[00时54分 ~ 14时14分]"
         },
         {
-          "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
-          "url": "https://www.zhihu.com/question/2062096553184120966",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 20时14分]"
-        },
-        {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
           "url": "https://www.zhihu.com/question/2062166923002090163",
           "source": "知乎",
@@ -110,6 +98,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 04时10分]"
+        },
+        {
+          "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
+          "url": "https://www.zhihu.com/question/2062096553184120966",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 23时08分]"
         },
         {
           "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
@@ -211,15 +212,42 @@
           "time_info": "[17时56分 ~ 20时14分]"
         },
         {
+          "title": "清华姚班 全球AI半壁江山",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 23时08分]"
+        },
+        {
           "title": "淘天集团正式发布AIGX四项重磅成果",
           "url": "https://flash.jin10.com/detail/20260720200533725800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时34分 ~ 23时08分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -259,6 +287,29 @@
           "time_info": "10时34分"
         },
         {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 23时08分]"
+        },
+        {
+          "title": "今天为什么需要世界人工智能大会",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
           "url": "https://wallstreetcn.com/livenews/3136307",
           "source": "华尔街见闻-快讯",
@@ -270,6 +321,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时54分 ~ 04时10分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 23时08分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月20日）",
@@ -306,17 +369,6 @@
           "time_info": "[14时13分 ~ 17时56分]"
         },
         {
-          "title": "清华姚班 全球AI半壁江山",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
           "url": "https://www.cls.cn/detail/2430865",
           "source": "财联社热门",
@@ -329,42 +381,17 @@
           "time_info": "[14时13分 ~ 17时56分]"
         },
         {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
+          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+          "url": "https://www.zhihu.com/question/2061405940272960418",
+          "source": "知乎",
           "ranks": [
-            17,
-            12,
-            9,
-            11
+            19,
+            18,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时34分 ~ 20时14分]"
-        },
-        {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 20时14分]"
-        },
-        {
-          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
-          "url": "https://wallstreetcn.com/articles/3777388",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 20时14分]"
+          "time_info": "[14时13分 ~ 23时08分]"
         },
         {
           "title": "业内：“模数共振”建设可大幅提升工业人工智能模型对场景的适配性",
@@ -415,16 +442,30 @@
           "time_info": "[05时47分 ~ 06时46分]"
         },
         {
-          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
-          "url": "https://www.zhihu.com/question/2061405940272960418",
-          "source": "知乎",
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
           "ranks": [
-            19,
-            18
+            7,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 20时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 23时08分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 23时08分]"
         },
         {
           "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
@@ -461,18 +502,6 @@
           "time_info": "[14时13分 ~ 14时14分]"
         },
         {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 20时14分]"
-        },
-        {
           "title": "全球科技板块“去拥挤化”，多家公募关注传统行业修复机会",
           "url": "https://wallstreetcn.com/livenews/3136346",
           "source": "华尔街见闻-快讯",
@@ -485,6 +514,18 @@
           "time_info": "[05时47分 ~ 06时46分]"
         },
         {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 23时08分]"
+        },
+        {
           "title": "公募基金看好长鑫科技上市，称若估值合理“必配”",
           "url": "https://wallstreetcn.com/livenews/3136344",
           "source": "华尔街见闻-快讯",
@@ -495,18 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时46分]"
-        },
-        {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 20时14分]"
         },
         {
           "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
@@ -576,17 +605,6 @@
           "time_info": "07时54分"
         },
         {
-          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
-          "url": "https://wallstreetcn.com/articles/3777377",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
           "title": "东方财富证券陈果：从今天起，对中国真科技龙头，不应太悲观，应动态评估性价比",
           "url": "https://wallstreetcn.com/livenews/3136772",
           "source": "华尔街见闻-快讯",
@@ -604,7 +622,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -692,7 +710,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -752,6 +770,17 @@
           "time_info": "17时56分"
         },
         {
+          "title": "游戏《古剑》形容第一轮公开试玩为一次大考，你觉得这场考试他们及格了吗？目前游戏能拿几分？",
+          "url": "https://www.zhihu.com/question/2061787385566859898",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "姚期智：中国AI产业领跑全球",
           "url": "https://flash.jin10.com/detail/20260719232612191800",
           "source": "金十数据",
@@ -791,7 +820,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
@@ -816,6 +845,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "并行科技：拟1131.32万元采购GPU算力服务器及配套IT设备",
+          "url": "https://flash.jin10.com/detail/20260720223632727800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "建议普通人都尽早用上AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E4%BA%BA%E9%83%BD%E5%B0%BD%E6%97%A9%E7%94%A8%E4%B8%8AAI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "A股保险股震荡走高，中国太保涨超6%，中国平安涨超4%，中国人保、新华保险双双涨超3%，中国人寿涨超2%。中国太保午间表示，公司后续将继续投资科技成长、消费、新能源等领域股票及ETF，支持培育和发展新质生产力，做真正的市场耐心资本。",
@@ -846,7 +897,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         },
