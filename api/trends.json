@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T16:21:33.781827+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-07-21T19:05:05.615830+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 56,
+      "match_count": 66,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -62,11 +62,12 @@
             11,
             13,
             18,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时58分 ~ 16时21分]"
+          "appearance_count": 13,
+          "time_info": "[01时58分 ~ 19时05分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -135,6 +136,17 @@
           "time_info": "[07时55分 ~ 10时12分]"
         },
         {
+          "title": "源杰科技、中一科技半年报净利最高预增均超10倍",
+          "url": "https://www.cls.cn/detail/2432698",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
           "url": "https://www.cls.cn/detail/2431896",
           "source": "财联社热门",
@@ -144,6 +156,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 13时46分]"
+        },
+        {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "Rain喊话NiKo大表哥对决",
+          "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 19时05分]"
         },
         {
           "title": "中国科技这3组数字真提气",
@@ -169,6 +205,19 @@
           "time_info": "[10时12分 ~ 16时21分]"
         },
         {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 19时05分]"
+        },
+        {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
           "url": "https://wallstreetcn.com/livenews/3137082",
           "source": "华尔街见闻-快讯",
@@ -186,21 +235,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "Rain喊话NiKo大表哥对决",
-          "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时21分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.21%，报25099点。 恒生科技指数主连夜盘收跌0.25%，报4745点。",
@@ -227,16 +264,53 @@
           "time_info": "[05时08分 ~ 06时56分]"
         },
         {
-          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
-          "url": "https://www.zhihu.com/question/2062575282591209175",
-          "source": "知乎",
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
           "ranks": [
-            5,
-            9
+            6,
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 19时05分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 19时05分]"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 19时05分]"
+        },
+        {
+          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
+          "url": "https://www.cls.cn/detail/2432387",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时05分]"
         },
         {
           "title": "WAIC机器人格斗拳拳到铁",
@@ -251,6 +325,18 @@
           "time_info": "[06时55分 ~ 07时55分]"
         },
         {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.toutiao.com/trending/7664683124179337279/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 19时05分]"
+        },
+        {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
           "url": "https://wallstreetcn.com/articles/3777377",
           "source": "华尔街见闻",
@@ -260,6 +346,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 03时43分]"
+        },
+        {
+          "title": "未来的AI终端长什么样",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84AI%E7%BB%88%E7%AB%AF%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 19时05分]"
         },
         {
           "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
@@ -274,27 +372,26 @@
           "time_info": "[13时46分 ~ 16时21分]"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时21分]"
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
+          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
+          "url": "https://www.cls.cn/detail/2432530",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时21分]"
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
@@ -308,16 +405,15 @@
           "time_info": "[07时55分 ~ 10时12分]"
         },
         {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
+          "title": "科技股终于暴力反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E8%82%A1%E7%BB%88%E4%BA%8E%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时21分]"
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
@@ -332,6 +428,17 @@
           "time_info": "[06时56分 ~ 07时55分]"
         },
         {
+          "title": "科技股终于暴力反弹",
+          "url": "https://www.toutiao.com/trending/7664481386530766874/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
           "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
           "source": "澎湃新闻",
@@ -342,6 +449,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时46分 ~ 16时21分]"
+        },
+        {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9A%84%E7%8C%B4%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%AE%A9%E8%8F%B2%E5%BE%8B%E5%AE%BE%E2%80%9C%E7%A0%B4%E9%98%B2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         },
         {
           "title": "陈果：对中国真科技龙头不应太悲观",
@@ -372,18 +490,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.toutiao.com/trending/7664683124179337279/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -419,17 +526,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
-        },
-        {
-          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
-          "url": "https://www.cls.cn/detail/2432387",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "脑虎科技“三全”脑机接口系统进入国家药监局创新医疗器械特别审查程序",
@@ -471,7 +567,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -496,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "AI耗电激增与高温炙烤下 美国电网迎极限考验",
+          "url": "https://wallstreetcn.com/livenews/3137523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "日媒：美国五大科技巨头的“隐性债务”飙升至1.65万亿美元",
@@ -608,6 +715,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "澜起科技：DDR5 RCD芯片出货量显著增加 CPU需求增加将推动内存互连芯片市场规模扩大",
+          "url": "https://wallstreetcn.com/livenews/3137509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "特朗普人工智能安全机构负责人辞职",
           "url": "https://www.toutiao.com/trending/7664142573326172210/",
           "source": "今日头条",
@@ -630,15 +748,15 @@
           "time_info": "10时12分"
         },
         {
-          "title": "未来的AI终端长什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84AI%E7%BB%88%E7%AB%AF%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
+          "title": "美银全球研究：将美光科技(MU.O)纳入美股首选名单“US 1 List”。",
+          "url": "https://flash.jin10.com/detail/20260721184528884800",
+          "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "19时05分"
         },
         {
           "title": "AI都扛不住反复焦虑的人",
@@ -647,7 +765,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         }
