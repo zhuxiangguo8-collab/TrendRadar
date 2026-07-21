@@ -1,218 +1,22 @@
 {
-  "generated_at": "2026-07-21T23:41:13.886236+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-07-22T01:13:43.733013+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 88,
+      "match_count": 23,
       "titles": [
         {
-          "title": "今天为什么需要世界人工智能大会",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时58分 ~ 10时12分]"
-        },
-        {
-          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
-          "url": "https://wallstreetcn.com/articles/3777388",
+          "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时58分 ~ 16时21分]"
-        },
-        {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时55分]"
-        },
-        {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时08分]"
-        },
-        {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            13,
-            18,
-            24,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时58分 ~ 21时29分]"
-        },
-        {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            15,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时58分 ~ 16时21分]"
-        },
-        {
-          "title": "清华姚班 全球AI半壁江山",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5,
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时55分]"
-        },
-        {
-          "title": "源杰科技、中一科技半年报净利最高预增均超10倍",
-          "url": "https://www.cls.cn/detail/2432698",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时04分 ~ 23时41分]"
-        },
-        {
-          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
-          "url": "https://www.cls.cn/detail/2432754",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时04分 ~ 23时41分]"
-        },
-        {
-          "title": "建议普通人都尽早用上AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E4%BA%BA%E9%83%BD%E5%B0%BD%E6%97%A9%E7%94%A8%E4%B8%8AAI&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时55分]"
-        },
-        {
-          "title": "世界人工智能大会达成丰硕成果",
-          "url": "https://www.toutiao.com/trending/7664544012321426987/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时41分]"
-        },
-        {
-          "title": "中国科技这3组数字真提气",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时41分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            15,
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时46分 ~ 23时41分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时46分 ~ 23时41分]"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时46分 ~ 23时41分]"
-        },
-        {
-          "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
-          "url": "https://www.zhihu.com/question/2062096553184120966",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 06时56分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -222,287 +26,129 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
+          "title": "纳斯达克100指数涨幅扩大至2%，刷新日高，成分股Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。 标普500指数涨幅扩大至将近1%，道指涨526点涨幅超过1%，纳指涨353点涨幅1.4%，半导体指数涨5.4%，银行指数涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3137697",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "WAIC预计达成超200亿元意向采购金额",
-          "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时12分]"
-        },
-        {
-          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
-          "url": "https://www.cls.cn/detail/2431896",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时46分]"
-        },
-        {
-          "title": "Rain喊话NiKo大表哥对决",
-          "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 19时05分]"
-        },
-        {
-          "title": "中国科技这3组数字真提气",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "世界人工智能大会达成丰硕成果",
+          "url": "https://www.toutiao.com/trending/7664544012321426987/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "01时13分"
         },
         {
-          "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
-          "url": "https://www.cls.cn/detail/2432010",
+          "title": "中国科技这3组数字真提气",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "源杰科技、中一科技半年报净利最高预增均超10倍",
+          "url": "https://www.cls.cn/detail/2432698",
           "source": "财联社热门",
           "ranks": [
-            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 16时21分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
-          "url": "https://www.zhihu.com/question/2062575282591209175",
-          "source": "知乎",
+          "title": "如何看待科技股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            9,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 19时05分]"
-        },
-        {
-          "title": "长鑫科技：网上投资者放弃认购658万股",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E7%BD%91%E4%B8%8A%E6%8A%95%E8%B5%84%E8%80%85%E6%94%BE%E5%BC%83%E8%AE%A4%E8%B4%AD658%E4%B8%87%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
           "url": "https://www.cls.cn/detail/2433005",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时41分]"
-        },
-        {
-          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
-          "url": "https://wallstreetcn.com/livenews/3137082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "恒生指数收盘跌0.04%，恒生科技指数涨1.33%",
-          "url": "https://wallstreetcn.com/livenews/3137447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时04分 ~ 23时41分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.21%，报25099点。 恒生科技指数主连夜盘收跌0.25%，报4745点。",
-          "url": "https://wallstreetcn.com/livenews/3137061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 05时08分]"
-        },
-        {
-          "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
-          "url": "https://flash.jin10.com/detail/20260721045929468800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时56分]"
-        },
-        {
-          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
-          "url": "https://www.cls.cn/detail/2432387",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时05分]"
-        },
-        {
-          "title": "WAIC机器人格斗拳拳到铁",
-          "url": "https://www.douyin.com/hot/2576677",
-          "source": "抖音",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 07时55分]"
-        },
-        {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.toutiao.com/trending/7664683124179337279/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时05分]"
-        },
-        {
-          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
-          "url": "https://wallstreetcn.com/articles/3777377",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 03时43分]"
-        },
-        {
-          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
-          "url": "https://www.zhihu.com/question/2061915732447687216",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时41分]"
-        },
-        {
-          "title": "科技股终于暴力反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E8%82%A1%E7%BB%88%E4%BA%8E%E6%9A%B4%E5%8A%9B%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 21时29分]"
-        },
-        {
-          "title": "未来的AI终端长什么样",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84AI%E7%BB%88%E7%AB%AF%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 19时05分]"
-        },
-        {
-          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
-          "url": "https://www.cls.cn/detail/2432258",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时21分]"
+          "time_info": "01时13分"
         },
         {
           "title": "董事长带头，华工科技高管组团增持！两高管跌停价“抄底”买入近5万股",
           "url": "https://www.cls.cn/detail/2432986",
           "source": "财联社热门",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
-          "url": "https://www.cls.cn/detail/2432530",
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
           "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "长鑫科技：网上弃购658.62万股",
@@ -512,8 +158,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
+          "url": "https://wallstreetcn.com/livenews/3137685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "首部AI长剧要来了",
@@ -523,54 +180,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
-          "url": "https://www.cls.cn/detail/2431826",
-          "source": "财联社热门",
+          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时12分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
-          "url": "https://wallstreetcn.com/livenews/3137105",
+          "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
+          "url": "https://wallstreetcn.com/livenews/3137680",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            24
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "科技股终于暴力反弹",
-          "url": "https://www.toutiao.com/trending/7664481386530766874/",
-          "source": "今日头条",
+          "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3137679",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 16时21分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "长鑫科技打新弃购658万股",
@@ -580,448 +224,41 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时40分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
-          "title": "AI的猴子为什么能让菲律宾“破防”",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9A%84%E7%8C%B4%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%AE%A9%E8%8F%B2%E5%BE%8B%E5%AE%BE%E2%80%9C%E7%A0%B4%E9%98%B2%E2%80%9D",
+          "title": "长鑫科技：网上投资者放弃认购658万股",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E7%BD%91%E4%B8%8A%E6%8A%95%E8%B5%84%E8%80%85%E6%94%BE%E5%BC%83%E8%AE%A4%E8%B4%AD658%E4%B8%87%E8%82%A1",
           "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "深圳：聚焦人工智能、生物医药等风口抓重点产业 不断巩固提升工业良好增长态势",
-          "url": "https://wallstreetcn.com/livenews/3137599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "陈果：对中国真科技龙头不应太悲观",
-          "url": "https://www.baidu.com/s?wd=%E9%99%88%E6%9E%9C%EF%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9C%9F%E7%A7%91%E6%8A%80%E9%BE%99%E5%A4%B4%E4%B8%8D%E5%BA%94%E5%A4%AA%E6%82%B2%E8%A7%82",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
-          "url": "https://wallstreetcn.com/livenews/3137664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "A股半导体产业链持续走高，强一股份、晶方科技午后涨停，格科微、臻宝科技、杰华特、托伦斯、屹唐股份、北方华创、大为股份、新洁能等十余股封板，东微半导、东芯股份、华虹宏力、长川科技等近20股涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3137329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普涨，闪迪涨约7%，SK海力士涨约6%，美光科技涨约5%，西部数据涨约5%，希捷科技涨约5%。 光通信板块上涨，迈威尔科技涨超6%，Credo涨超5%，Coherent涨5%，Lumentum、康宁涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3137441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "高盛称对冲基金以创纪录的速度抛售美国科技股，一些投降迹象也开始出现",
-          "url": "https://wallstreetcn.com/livenews/3137052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3137077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：批准UmmShaif气顶项目价值62亿美元的最终投资决定，以加速天然气增长战略。",
-          "url": "https://flash.jin10.com/detail/20260721132844455800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "深圳：聚焦人工智能、生物医药等风口抓重点产业 不断巩固提升工业良好增长态势",
-          "url": "https://flash.jin10.com/detail/20260721205624316800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "面壁智能李大海：未来端侧AI的70%市场将由第三方模型厂商提供",
-          "url": "https://wallstreetcn.com/livenews/3137660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "微软与Mistral扩大AI合作，签署数十亿美元欧洲AI基础设施协议",
-          "url": "https://wallstreetcn.com/livenews/3137592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "脑虎科技“三全”脑机接口系统进入国家药监局创新医疗器械特别审查程序",
-          "url": "https://wallstreetcn.com/livenews/3137197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
-          "url": "https://wallstreetcn.com/livenews/3137072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "A股半导体芯片股震荡反弹，东芯股份涨超12%，强一股份、普冉股份、华虹宏力、北京君正、臻宝科技涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3137195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "AI 的「最后一公里」，还要走多久？",
-          "url": "https://www.zhihu.com/question/2058520434031555606",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "A股贵金属板块震荡走高，盛达资源、兴业银锡双双涨超6%，赤峰黄金、晓程科技、山金国际、中金黄金、湖南白银等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260721132427665800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "纳指科技指数收涨超0.4%，半导体指数涨0.6%，银行指数跌1%",
-          "url": "https://wallstreetcn.com/livenews/3137070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "AI耗电激增与高温炙烤下 美国电网迎极限考验",
-          "url": "https://wallstreetcn.com/livenews/3137523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "日媒：美国五大科技巨头的“隐性债务”飙升至1.65万亿美元",
-          "url": "https://flash.jin10.com/detail/20260721063333398800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "港股电力设备股连日走强，哈尔滨电气(01133.HK)涨超13%，潍柴动力(02338.HK)、东方电气(01072.HK)、金风科技(02208.HK)、威胜控股(03393.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260721094421367800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
-          "url": "https://www.zhihu.com/question/2061405940272960418",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "A股数字货币概念早盘活跃，智度股份涨停，四方精创涨超10%，宇信科技、长亮科技、京北方、天阳科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3137190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "对冲基金创纪录抛售美科技股！戴蒙警告市场低估风险：当前不会买股票或美债",
-          "url": "https://flash.jin10.com/detail/20260721094243314800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美国拟限制中国开源AI模型",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B&t=31&band_rank=20&Refer=top",
-          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "01时13分"
         },
         {
-          "title": "港股PCB概念走强，建滔积层板(01888.HK)涨超5%，建滔集团(00148.HK)涨超4%，鼎泰高科(01377.HK)、广合科技(01989.HK)、大族数控(03200.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260721094045604800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3137182",
+          "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3137675",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "01时13分"
         },
         {
-          "title": "ITIF智库：美国制造业生产率增速放缓，AI和机器人技术或成为破局关键",
-          "url": "https://flash.jin10.com/detail/20260721131529421800",
-          "source": "金十数据",
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "有色板块盘初拉升，东方锆业涨停，国瓷材料涨超10%，爱迪特、三祥新材、凯盛科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3137180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "澜起科技：DDR5 RCD芯片出货量显著增加 CPU需求增加将推动内存互连芯片市场规模扩大",
-          "url": "https://wallstreetcn.com/livenews/3137509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "美国财长贝森特：认为今年可通过支付系统改革节省3.5亿美元。 正在追踪阿亚图拉的财产，希望能显示地址。 已听闻关于开源AI模型威胁美国的讨论。 美国支持开源AI模型，但反对侵犯知识产权。",
-          "url": "https://wallstreetcn.com/livenews/3137575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "113家私募打新长鑫科技获配，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://wallstreetcn.com/livenews/3137648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "特朗普人工智能安全机构负责人辞职",
-          "url": "https://www.toutiao.com/trending/7664142573326172210/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "传伊朗主动提出停火，抄底资金涌入科技股大反弹",
-          "url": "https://flash.jin10.com/detail/20260721230709082800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "孩之宝上调2026年业绩展望，取消多个数字游戏项目",
-          "url": "https://wallstreetcn.com/livenews/3137647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "深证成指涨超1%；成分股中，国瓷材料、宇信科技、四方精创等多股涨超11%。",
-          "url": "https://flash.jin10.com/detail/20260721093843491800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美银全球研究：将美光科技(MU.O)纳入美股首选名单“US 1 List”。",
-          "url": "https://flash.jin10.com/detail/20260721184528884800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "如何看待科技股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "AI都扛不住反复焦虑的人",
-          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E5%8F%8D%E5%A4%8D%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "01时13分"
         }
       ]
     }
