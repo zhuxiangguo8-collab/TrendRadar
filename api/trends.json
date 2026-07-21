@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T07:55:20.335359+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-07-21T10:12:37.148217+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 23,
+      "match_count": 35,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 10时12分]"
         },
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 10时12分]"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
@@ -74,11 +74,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 10时12分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -86,11 +87,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 10时12分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -124,9 +126,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时12分]"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "10时12分"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -187,6 +200,17 @@
           "time_info": "[01时58分 ~ 03时43分]"
         },
         {
+          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
+          "url": "https://www.cls.cn/detail/2431826",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时12分]"
+        },
+        {
           "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
           "url": "https://wallstreetcn.com/livenews/3137105",
           "source": "华尔街见闻-快讯",
@@ -197,6 +221,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时55分]"
+        },
+        {
+          "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
+          "url": "https://www.cls.cn/detail/2432010",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "高盛称对冲基金以创纪录的速度抛售美国科技股，一些投降迹象也开始出现",
@@ -221,15 +256,15 @@
           "time_info": "05时08分"
         },
         {
-          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
-          "url": "https://www.cls.cn/detail/2431826",
-          "source": "财联社热门",
+          "title": "脑虎科技“三全”脑机接口系统进入国家药监局创新医疗器械特别审查程序",
+          "url": "https://wallstreetcn.com/livenews/3137197",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "10时12分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
@@ -241,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "A股半导体芯片股震荡反弹，东芯股份涨超12%，强一股份、普冉股份、华虹宏力、北京君正、臻宝科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3137195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "纳指科技指数收涨超0.4%，半导体指数涨0.6%，银行指数跌1%",
@@ -260,9 +306,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "港股电力设备股连日走强，哈尔滨电气(01133.HK)涨超13%，潍柴动力(02338.HK)、东方电气(01072.HK)、金风科技(02208.HK)、威胜控股(03393.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260721094421367800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -274,6 +331,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "A股数字货币概念早盘活跃，智度股份涨停，四方精创涨超10%，宇信科技、长亮科技、京北方、天阳科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3137190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "对冲基金创纪录抛售美科技股！戴蒙警告市场低估风险：当前不会买股票或美债",
+          "url": "https://flash.jin10.com/detail/20260721094243314800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "港股PCB概念走强，建滔积层板(01888.HK)涨超5%，建滔集团(00148.HK)涨超4%，鼎泰高科(01377.HK)、广合科技(01989.HK)、大族数控(03200.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260721094045604800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3137182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "有色板块盘初拉升，东方锆业涨停，国瓷材料涨超10%，爱迪特、三祥新材、凯盛科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3137180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "特朗普人工智能安全机构负责人辞职",
+          "url": "https://www.toutiao.com/trending/7664142573326172210/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "深证成指涨超1%；成分股中，国瓷材料、宇信科技、四方精创等多股涨超11%。",
+          "url": "https://flash.jin10.com/detail/20260721093843491800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     }
