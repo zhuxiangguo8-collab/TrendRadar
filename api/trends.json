@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T21:41:48.248131+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-07-22T23:30:10.906867+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 128,
+      "match_count": 142,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时53分 ~ 21时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时53分 ~ 23时30分]"
         },
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -110,6 +110,19 @@
           "time_info": "[01时13分 ~ 07时54分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 23时30分]"
+        },
+        {
           "title": "董事长带头，华工科技高管组团增持！两高管跌停价“抄底”买入近5万股",
           "url": "https://www.cls.cn/detail/2432986",
           "source": "财联社热门",
@@ -123,6 +136,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 10时10分]"
+        },
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 23时30分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -159,19 +185,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时03分 ~ 16时22分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 21时41分]"
         },
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
@@ -234,19 +247,6 @@
           "time_info": "[16时21分 ~ 19时05分]"
         },
         {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 21时41分]"
-        },
-        {
           "title": "两个AI演员比内娱待爆艺人都火",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时21分 ~ 21时41分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
@@ -319,6 +330,40 @@
           "time_info": "[19时05分 ~ 21时41分]"
         },
         {
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时30分]"
+        },
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
           "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
           "source": "澎湃新闻",
@@ -330,6 +375,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时13分 ~ 07时54分]"
+        },
+        {
+          "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
+          "url": "https://www.zhihu.com/question/2063197377310233514",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时30分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -461,7 +518,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -516,7 +573,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -534,16 +591,17 @@
           "time_info": "[10时10分 ~ 19时05分]"
         },
         {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
           "ranks": [
-            28,
-            1
+            7,
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时30分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，刷新日高，成分股Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。 标普500指数涨幅扩大至将近1%，道指涨526点涨幅超过1%，纳指涨353点涨幅1.4%，半导体指数涨5.4%，银行指数涨1%。",
@@ -582,18 +640,6 @@
           "time_info": "[06时52分 ~ 07时54分]"
         },
         {
-          "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
-          "url": "https://www.zhihu.com/question/2063197377310233514",
-          "source": "知乎",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时41分]"
-        },
-        {
           "title": "长鑫科技：网上弃购658.62万股",
           "url": "https://www.douyin.com/hot/2580123",
           "source": "抖音",
@@ -604,6 +650,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 07时54分]"
+        },
+        {
+          "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
+          "url": "https://www.zhihu.com/question/2062983976835344170",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时30分]"
         },
         {
           "title": "数据中心业务放量，源杰科技上半年净利润同比预增1197%-1305%｜财报见闻",
@@ -654,16 +713,15 @@
           "time_info": "[07时53分 ~ 10时10分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时41分]"
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "AI交易热情午后回落，韩股涨幅收窄至2%，日股转跌，金银走强",
@@ -675,18 +733,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
-          "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
-          "url": "https://www.zhihu.com/question/2062983976835344170",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时41分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -770,6 +816,39 @@
           "time_info": "[16时21分 ~ 16时22分]"
         },
         {
+          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
+          "url": "https://www.cls.cn/detail/2434259",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "前所未有的人工智能失控事故！中方救场",
+          "url": "https://news.ifeng.com/c/8uyRMC8mtQh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
+        },
+        {
           "title": "王祖贤脸的AI使用权授权游戏公司",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%84%B8%E7%9A%84AI%E4%BD%BF%E7%94%A8%E6%9D%83%E6%8E%88%E6%9D%83%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -791,6 +870,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 03时14分]"
+        },
+        {
+          "title": "科技股尾盘为何跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E8%82%A1%E5%B0%BE%E7%9B%98%E4%B8%BA%E4%BD%95%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)的AI孵化器正在开发OpenRouter的竞品，旨在降低编码成本。",
@@ -821,7 +911,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -832,7 +922,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -865,7 +955,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -887,7 +977,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -931,7 +1021,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -964,9 +1054,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普对伊态度转鹰，OpenAI智能体测试中突破隔离| Plus日报",
+          "url": "https://flash.jin10.com/detail/20260722230716718800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "A股PCB概念股表现活跃，兴森科技、贤丰控股午后涨停，红板科技此前封板，江南新材、大族激光、景旺电子、金禄电子涨超5%。",
@@ -1008,9 +1109,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "亚马逊对其通用人工智能部门进行裁员",
+          "url": "https://flash.jin10.com/detail/20260722230559912800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
@@ -1063,7 +1175,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1085,7 +1197,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1140,7 +1252,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1200,6 +1312,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "亚马逊对其通用人工智能部门进行裁员",
+          "url": "https://wallstreetcn.com/livenews/3138282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "据华尔街日报：CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。",
           "url": "https://flash.jin10.com/detail/20260722015437812800",
           "source": "金十数据",
@@ -1239,7 +1362,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1272,9 +1395,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "印度国防研究与发展组织与AI Engineering和阿达尼防务签署合同。",
+          "url": "https://flash.jin10.com/detail/20260722225337966800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.68%，报6294.45点。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。 ETF中，中概互联网指数ETF（KWEB）收跌1.53%，中国科技指数ETF（CQQQ）收涨3.81%。 德银嘉实沪深300指数ETF（ASHR）收涨3.09%，MSCI新兴市场ex中国ETF（EMXC）收涨3.63%，XtrackersHarvest中证50（ASHS）收涨5.46%。",
@@ -1286,6 +1420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "普华永道中国在上海成立人工智能研究院",
+          "url": "https://wallstreetcn.com/livenews/3138278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "长鑫科技：网上投资者放弃认购658万股",
@@ -1316,7 +1461,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1354,13 +1499,24 @@
           "time_info": "16时22分"
         },
         {
+          "title": "报道：苹果计划全面改版MacBook与iMac，来应对AI需求",
+          "url": "https://wallstreetcn.com/livenews/3138275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "越疆科技创业板IPO过会",
           "url": "https://wallstreetcn.com/livenews/3138208",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1382,7 +1538,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1393,7 +1549,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1426,7 +1582,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1459,7 +1615,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
