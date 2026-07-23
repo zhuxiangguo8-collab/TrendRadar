@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-23T21:47:00.026346+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-07-23T23:53:47.797572+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 86,
+      "match_count": 92,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时59分 ~ 23时53分]"
+        },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时13分 ~ 21时46分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时59分 ~ 21时46分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -131,6 +132,18 @@
           "time_info": "[07时59分 ~ 14时28分]"
         },
         {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 23时53分]"
+        },
+        {
           "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
           "url": "https://www.cls.cn/detail/2434755",
           "source": "财联社热门",
@@ -154,18 +167,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时16分 ~ 19时49分]"
-        },
-        {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 21时46分]"
         },
         {
           "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
@@ -258,6 +259,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时08分 ~ 11时16分]"
+        },
+        {
+          "title": "长鑫科技下周一上市，发行价为8.66元/股",
+          "url": "https://www.cls.cn/detail/2435368",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 23时53分]"
         },
         {
           "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
@@ -360,20 +373,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
         {
-          "title": "长鑫科技下周一上市，发行价为8.66元/股",
-          "url": "https://www.cls.cn/detail/2435368",
-          "source": "财联社热门",
+          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时46分"
+          "time_info": "23时53分"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -468,6 +481,29 @@
           "time_info": "[07时59分 ~ 11时16分]"
         },
         {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 23时53分]"
+        },
+        {
+          "title": "长鑫科技：将于7月27日在科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 23时53分]"
+        },
+        {
           "title": "rain淘汰猎鹰高光集锦",
           "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
           "source": "bilibili 热搜",
@@ -478,17 +514,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 14时28分]"
-        },
-        {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 21时46分]"
         },
         {
           "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
@@ -503,18 +528,6 @@
           "time_info": "[11时16分 ~ 14时28分]"
         },
         {
-          "title": "长鑫科技：将于7月27日在科创板上市",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 21时46分]"
-        },
-        {
           "title": "国产超节点如何赋能AI",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E8%B6%85%E8%8A%82%E7%82%B9%E5%A6%82%E4%BD%95%E8%B5%8B%E8%83%BDAI",
           "source": "bilibili 热搜",
@@ -524,6 +537,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 23时53分]"
+        },
+        {
+          "title": "不要随意把照片和视频发给AI",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 23时53分]"
         },
         {
           "title": "7月游戏版号公布",
@@ -546,6 +583,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时02分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 23时53分]"
         },
         {
           "title": "用AI后理解甲方思维了",
@@ -587,7 +635,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -636,17 +684,6 @@
           "time_info": "19时49分"
         },
         {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
           "title": "市场消息：OpenAI澳大利亚数据中心的开发商放弃了使用再生水进行冷却的计划。",
           "url": "https://flash.jin10.com/detail/20260723070044363800",
           "source": "金十数据",
@@ -691,6 +728,17 @@
           "time_info": "19时49分"
         },
         {
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
           "url": "https://news.ifeng.com/c/8uyaFs12NfO",
           "source": "凤凰网",
@@ -722,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+          "url": "https://www.cls.cn/detail/2435567",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "硬科技企业密集登陆，港股IPO市场活力持续释放",
@@ -785,18 +844,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -821,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850579&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/9u1CwaYbDGbHdVT7PgOsr.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260723233239030800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
@@ -928,7 +987,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -966,6 +1025,17 @@
           "time_info": "19时49分"
         },
         {
+          "title": "APEC数字和人工智能部长会议通过成都声明",
+          "url": "https://wallstreetcn.com/livenews/3138953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "西力科技：股东徐新如已减持0.60% 杨培勇、杨兴拟提前终止减持计划",
           "url": "https://flash.jin10.com/detail/20260723163505981800",
           "source": "金十数据",
@@ -977,15 +1047,15 @@
           "time_info": "17时23分"
         },
         {
-          "title": "不要随意把照片和视频发给AI",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
           "ranks": [
-            29
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时46分"
+          "time_info": "23时53分"
         },
         {
           "title": "国家新闻出版署今日发布2026年7月份国产网络游戏审批信息，共197款游戏获得版号，其中国产网络游戏193款、进口网络游戏4款。",
