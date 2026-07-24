@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T16:19:17.740038+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-07-24T19:02:00.768483+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 86,
+      "match_count": 93,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时06分 ~ 19时02分]"
+        },
         {
           "title": "长鑫科技下周一上市，发行价为8.66元/股",
           "url": "https://www.cls.cn/detail/2435368",
@@ -21,16 +33,20 @@
           "time_info": "[01时35分 ~ 10时26分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
           "ranks": [
-            2,
-            1
+            23,
+            11,
+            9,
+            5,
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时06分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[03时09分 ~ 19时02分]"
         },
         {
           "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
@@ -83,19 +99,29 @@
           "time_info": "[01时35分 ~ 04时58分]"
         },
         {
-          "title": "长鑫科技7月27日科创板上市",
-          "url": "https://www.douyin.com/hot/2582708",
-          "source": "抖音",
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
           "ranks": [
-            23,
-            11,
-            9,
-            5,
-            18
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时09分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 19时02分]"
+        },
+        {
+          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
+          "url": "https://www.cls.cn/detail/2436009",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 19时02分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -108,6 +134,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时57分 ~ 16时19分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 19时02分]"
+        },
+        {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 19时02分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -150,16 +202,29 @@
           "time_info": "[01时35分 ~ 10时26分]"
         },
         {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
           "ranks": [
-            6,
-            4
+            15,
+            8,
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 19时02分]"
+        },
+        {
+          "title": "浙江：到2027年科技型中小企业达16万家",
+          "url": "https://wallstreetcn.com/livenews/3139440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -208,7 +273,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -222,19 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
-        },
-        {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 16时19分]"
         },
         {
           "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
@@ -267,30 +319,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
-          "url": "https://www.cls.cn/detail/2436009",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 16时19分]"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -363,17 +392,28 @@
           "time_info": "[04时58分 ~ 06时06分]"
         },
         {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            8,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 19时02分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 19时02分]"
         },
         {
           "title": "中国AI大反超，美国还能挡多久？",
@@ -386,6 +426,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 13时48分]"
+        },
+        {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 19时02分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -434,6 +486,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时06分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
@@ -536,6 +599,17 @@
           "time_info": "13时48分"
         },
         {
+          "title": "欣天科技：石伟平先生正在筹划涉及所持有公司股份转让的相关事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3139433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
           "url": "https://flash.jin10.com/detail/20260724010957846800",
           "source": "金十数据",
@@ -553,9 +627,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "欣天科技：筹划公司控制权变更事项 股票7月27日开市起停牌不超过2个交易日",
+          "url": "https://flash.jin10.com/detail/20260724183434765800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
@@ -602,17 +687,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
           "url": "https://flash.jin10.com/detail/20260724010724640800",
           "source": "金十数据",
@@ -644,17 +718,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
-        },
-        {
-          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
-          "url": "https://www.cls.cn/detail/2435979",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "AMD上调AI加速器市场规模预期至1.4万亿美元 正式发布机架级AI系统Helios",
@@ -767,6 +830,17 @@
           "time_info": "01时36分"
         },
         {
+          "title": "蓝思科技：与Intel签署合作备忘录",
+          "url": "https://wallstreetcn.com/livenews/3139423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
           "url": "https://www.toutiao.com/trending/7665870757104193078/",
           "source": "今日头条",
@@ -784,7 +858,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -800,15 +874,15 @@
           "time_info": "07时57分"
         },
         {
-          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
-          "url": "https://www.zhihu.com/question/2063730050579396490",
-          "source": "知乎",
+          "title": "全球最大的通用AI机器人公司智元创新表示，公司已启动赴港上市流程",
+          "url": "https://wallstreetcn.com/livenews/3139415",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时02分"
         },
         {
           "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
@@ -916,7 +990,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -952,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "亚马逊升级Alexa+AI助手，新增多项智能代理功能",
+          "url": "https://wallstreetcn.com/livenews/3139397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "xAI：将Grok 4.5投放到苹果公司iOS、安卓、网页、以及X平台。",
