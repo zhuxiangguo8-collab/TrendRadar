@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T19:02:00.768483+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-07-24T20:24:30.798976+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 93,
+      "match_count": 99,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时06分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[06时06分 ~ 20时24分]"
         },
         {
           "title": "长鑫科技下周一上市，发行价为8.66元/股",
@@ -63,6 +63,18 @@
           "time_info": "[01时35分 ~ 16时19分]"
         },
         {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 20时24分]"
+        },
+        {
           "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
           "url": "https://www.cls.cn/detail/2435567",
           "source": "财联社热门",
@@ -75,6 +87,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时35分 ~ 13时48分]"
+        },
+        {
+          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
+          "url": "https://www.cls.cn/detail/2436009",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 20时24分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -99,53 +124,17 @@
           "time_info": "[01时35分 ~ 04时58分]"
         },
         {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 19时02分]"
-        },
-        {
-          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
-          "url": "https://www.cls.cn/detail/2436009",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 19时02分]"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 16时19分]"
-        },
-        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 20时24分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -158,8 +147,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 20时24分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时19分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -189,6 +190,20 @@
           "time_info": "[10时26分 ~ 16时19分]"
         },
         {
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 20时24分]"
+        },
+        {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
           "url": "https://www.cls.cn/detail/2435521",
           "source": "财联社热门",
@@ -200,31 +215,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时35分 ~ 10时26分]"
-        },
-        {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 19时02分]"
-        },
-        {
-          "title": "浙江：到2027年科技型中小企业达16万家",
-          "url": "https://wallstreetcn.com/livenews/3139440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -324,6 +314,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.toutiao.com/trending/7665999382545698310/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
           "url": "https://wallstreetcn.com/livenews/3139028",
           "source": "华尔街见闻-快讯",
@@ -380,6 +381,18 @@
           "time_info": "[01时35分 ~ 06时06分]"
         },
         {
+          "title": "浙江：到2027年科技型中小企业达16万家",
+          "url": "https://wallstreetcn.com/livenews/3139440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时24分]"
+        },
+        {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
           "url": "https://wallstreetcn.com/livenews/3139066",
           "source": "华尔街见闻-快讯",
@@ -397,11 +410,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 20时24分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -412,8 +426,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 20时24分]"
+        },
+        {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 20时24分]"
         },
         {
           "title": "中国AI大反超，美国还能挡多久？",
@@ -428,16 +454,16 @@
           "time_info": "[10时26分 ~ 13时48分]"
         },
         {
-          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
-          "url": "https://www.zhihu.com/question/2063730050579396490",
-          "source": "知乎",
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            14
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时19分 ~ 19时02分]"
+          "time_info": "[19时01分 ~ 20时24分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -486,17 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时06分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
@@ -605,7 +620,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -638,7 +653,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -674,6 +689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "淳中科技：拟回购5000万元至1亿元股份",
+          "url": "https://wallstreetcn.com/livenews/3139463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致",
@@ -836,9 +862,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "【瑞银：不认为中国AI行业存在“泡沫”】7月24日，瑞银证券中国互联网行业分析师熊玮表示，中国云厂商投入节奏更稳健，强调ROI和可持续性，不认为中国AI行业有“泡沫”。同时，随着模型能力继续进步，推理需求持续增加，中国AI行业的投入会逐渐增大。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3139454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美股科技七巨头市值蒸发近8千亿美元",
@@ -863,6 +900,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "某种程度上，Steam 市场是不是救活了国产单机游戏？",
+          "url": "https://www.zhihu.com/question/1959538298000221939",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "A股科技板块持续调整，机构关注资源品与红利低位股",
           "url": "https://wallstreetcn.com/livenews/3139106",
           "source": "华尔街见闻-快讯",
@@ -880,9 +928,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "上交所举办在港机构座谈会 近40家外资机构表示将持续布局A股硬科技",
+          "url": "https://flash.jin10.com/detail/20260724195015416800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "Black Forest Labs推出机器人模型，进军物理AI领域",
@@ -905,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "AMD(AMD.O)CEO苏姿丰：MI450 AI加速器将成为行业性能最强的AI加速器。",
@@ -1034,7 +1104,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
