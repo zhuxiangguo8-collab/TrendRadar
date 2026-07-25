@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-25T21:48:33.304630+08:00",
-  "total_titles_processed": 1325,
-  "failed_sources": [],
+  "generated_at": "2026-07-25T23:01:48.675437+08:00",
+  "total_titles_processed": 1428,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -16,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时00分 ~ 21时48分]"
+          "appearance_count": 11,
+          "time_info": "[08时00分 ~ 23时01分]"
         },
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -31,8 +33,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 21时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 22时59分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -47,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 21时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 22时59分]"
         },
         {
           "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
@@ -66,6 +68,35 @@
           "time_info": "[02时16分 ~ 18时28分]"
         },
         {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 23时01分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            7,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 23时01分]"
+        },
+        {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
           "source": "华尔街见闻",
@@ -78,6 +109,22 @@
           "time_info": "[00时35分 ~ 08时01分]"
         },
         {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时13分 ~ 23时01分]"
+        },
+        {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
           "url": "https://www.cls.cn/detail/2436901",
           "source": "财联社热门",
@@ -87,23 +134,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时13分 ~ 21时48分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时12分 ~ 21时48分]"
+          "time_info": "[14时13分 ~ 22时59分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -130,17 +162,18 @@
           "time_info": "[00时35分 ~ 06时02分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
+          "title": "爽玩!Bin哥躲酒店天天打游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
           "ranks": [
-            8,
+            3,
+            4,
             6,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 21时48分]"
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时01分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -155,34 +188,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 11时12分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时13分 ~ 21时48分]"
-        },
-        {
-          "title": "爽玩!Bin哥躲酒店天天打游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时48分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -211,6 +216,19 @@
           "time_info": "[00时35分 ~ 06时02分]"
         },
         {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时00分 ~ 23时01分]"
+        },
+        {
           "title": "长鑫科技一签能赚多少",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
           "source": "百度热搜",
@@ -224,6 +242,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 08时01分]"
+        },
+        {
+          "title": "儿子游戏成瘾 父亲起诉4家游戏公司",
+          "url": "https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E6%B8%B8%E6%88%8F%E6%88%90%E7%98%BE+%E7%88%B6%E4%BA%B2%E8%B5%B7%E8%AF%894%E5%AE%B6%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时01分]"
         },
         {
           "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -320,6 +351,18 @@
           "time_info": "[14时13分 ~ 20时01分]"
         },
         {
+          "title": "马上评｜中国青年科技人才何以“井喷式”爆发",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33657557",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时00分 ~ 23时01分]"
+        },
+        {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
           "url": "https://wallstreetcn.com/livenews/3139722",
           "source": "华尔街见闻-快讯",
@@ -332,6 +375,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时13分 ~ 20时01分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时00分 ~ 23时01分]"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时00分 ~ 23时01分]"
         },
         {
           "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
@@ -398,28 +465,16 @@
           "time_info": "[14时13分 ~ 20时01分]"
         },
         {
-          "title": "儿子游戏成瘾 父亲起诉4家游戏公司",
-          "url": "https://www.baidu.com/s?wd=%E5%84%BF%E5%AD%90%E6%B8%B8%E6%88%8F%E6%88%90%E7%98%BE+%E7%88%B6%E4%BA%B2%E8%B5%B7%E8%AF%894%E5%AE%B6%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
           "ranks": [
-            22,
-            27
+            20,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时48分]"
-        },
-        {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时00分 ~ 21时48分]"
+          "time_info": "[18时28分 ~ 23时01分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -433,27 +488,16 @@
           "time_info": "[00时35分 ~ 04时17分]"
         },
         {
-          "title": "马上评｜中国青年科技人才何以“井喷式”爆发",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33657557",
-          "source": "澎湃新闻",
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时00分 ~ 21时48分]"
-        },
-        {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
-          "ranks": [
+            9,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时00分 ~ 21时48分]"
+          "time_info": "[21时48分 ~ 23时01分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -469,16 +513,16 @@
           "time_info": "[00时35分 ~ 04时17分]"
         },
         {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            28
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时00分 ~ 21时48分]"
+          "time_info": "[21时48分 ~ 23时01分]"
         },
         {
           "title": "靠出轨剧情出海小游戏日入338万",
@@ -530,6 +574,18 @@
           "time_info": "[16时58分 ~ 18时28分]"
         },
         {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时01分]"
+        },
+        {
           "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
           "url": "https://wallstreetcn.com/livenews/3139701",
           "source": "华尔街见闻-快讯",
@@ -540,18 +596,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时12分 ~ 14时13分]"
-        },
-        {
-          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 21时48分]"
         },
         {
           "title": "长鑫科技会成为下一个“中石油”吗",
@@ -578,6 +622,17 @@
           "time_info": "[16时58分 ~ 18时28分]"
         },
         {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
           "url": "https://wallstreetcn.com/livenews/3139600",
           "source": "华尔街见闻-快讯",
@@ -600,17 +655,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
-          "url": "https://wallstreetcn.com/articles/3777898",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
           "url": "https://wallstreetcn.com/livenews/3139633",
           "source": "华尔街见闻-快讯",
@@ -620,17 +664,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "Meta加码AI助手 接入Gmail和日历拓展能力",
@@ -732,6 +765,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
+          "url": "https://wallstreetcn.com/livenews/3139765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "韩国科学部：SK集团将与Anthropic就韩国境内的吉瓦（GW）级AI数据中心项目开展投资合作。",
           "url": "https://flash.jin10.com/detail/20260725131035027800",
           "source": "金十数据",
@@ -754,17 +798,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
           "url": "https://flash.jin10.com/detail/20260724234329207800",
           "source": "金十数据",
@@ -782,7 +815,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
