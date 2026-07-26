@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T13:57:25.666225+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-07-26T16:23:33.972690+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 47,
+      "match_count": 53,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -34,8 +34,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 16时23分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -47,6 +47,57 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 06时51分]"
+        },
+        {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 16时23分]"
+        },
+        {
+          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
+          "url": "https://www.cls.cn/detail/2436740",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 16时23分]"
+        },
+        {
+          "title": "爽玩!Bin哥躲酒店天天打游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 16时23分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 16时23分]"
         },
         {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
@@ -62,57 +113,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时56分 ~ 13时57分]"
-        },
-        {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时57分]"
-        },
-        {
-          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
-          "url": "https://www.cls.cn/detail/2436740",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时57分]"
-        },
-        {
-          "title": "爽玩!Bin哥躲酒店天天打游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时57分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时57分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -213,9 +213,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
+          "url": "https://www.zhihu.com/question/2064331256884622163",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -266,6 +277,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 06时51分]"
+        },
+        {
+          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 16时23分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -320,18 +346,16 @@
           "time_info": "[00时07分 ~ 04时14分]"
         },
         {
-          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
-          "source": "澎湃新闻",
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            19,
-            18,
-            14
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时51分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 16时23分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -359,17 +383,6 @@
           "time_info": "[10时28分 ~ 13时57分]"
         },
         {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时57分]"
-        },
-        {
           "title": "假如莫奈遇上AI机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E8%8E%AB%E5%A5%88%E9%81%87%E4%B8%8AAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -380,6 +393,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 13时57分]"
+        },
+        {
+          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
+          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时23分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "韩国科技巨头高管造访英伟达总部",
@@ -410,9 +445,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "英国人工智能大臣：芯片和无人机将成为“再工业化”战略的核心",
@@ -421,20 +467,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
         {
-          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
-          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
-          "source": "凤凰网",
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "16时23分"
         },
         {
           "title": "英伟达与首尔大学在韩国设立联合AI研究中心",
@@ -443,7 +489,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -454,18 +500,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -531,7 +566,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -542,7 +577,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -564,9 +599,42 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "严浩翔对AI写rap词的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "AI坑惨手机圈",
+          "url": "https://www.toutiao.com/trending/7666708037893099071/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "AI的回答让我重新理解活着",
+          "url": "https://www.douyin.com/hot/2584567",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "AI冲击下短剧演员掀起改行潮",
@@ -575,7 +643,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
