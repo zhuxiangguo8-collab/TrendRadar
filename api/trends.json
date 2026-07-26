@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-26T21:43:15.031421+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-26T23:03:18.251863+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 74,
+      "match_count": 78,
       "titles": [
+        {
+          "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
+          "url": "https://www.zhihu.com/question/2064331256884622163",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 23时03分]"
+        },
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
           "url": "https://wallstreetcn.com/articles/3777926",
@@ -20,6 +33,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时07分 ~ 13时57分]"
+        },
+        {
+          "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
+          "url": "https://www.zhihu.com/question/2064578743788745259",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时41分 ~ 23时03分]"
         },
         {
           "title": "马上评｜中国青年科技人才何以“井喷式”爆发",
@@ -38,17 +63,16 @@
           "time_info": "[00时07分 ~ 16时23分]"
         },
         {
-          "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
-          "url": "https://www.zhihu.com/question/2064331256884622163",
-          "source": "知乎",
+          "title": "Mrbeast野兽游戏首入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 21时43分]"
+          "appearance_count": 6,
+          "time_info": "[20时00分 ~ 23时03分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -70,20 +94,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 21时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 23时03分]"
         },
         {
-          "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
-          "url": "https://www.zhihu.com/question/2064578743788745259",
-          "source": "知乎",
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            2
+            10,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 23时03分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -107,11 +132,12 @@
             10,
             15,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 21时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 23时03分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -122,11 +148,12 @@
             14,
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时07分 ~ 21时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 23时03分]"
         },
         {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
@@ -144,29 +171,29 @@
           "time_info": "[01时56分 ~ 13时57分]"
         },
         {
-          "title": "Mrbeast野兽游戏首入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
+          "title": "不要长期向AI倾泻心事",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            2
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时00分 ~ 21时43分]"
+          "time_info": "[21时42分 ~ 23时03分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
           "ranks": [
-            10,
-            7,
-            5
+            19,
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 21时43分]"
+          "appearance_count": 8,
+          "time_info": "[18时41分 ~ 23时03分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -251,6 +278,18 @@
           "time_info": "[06时51分 ~ 18时42分]"
         },
         {
+          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3139854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时03分]"
+        },
+        {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
           "url": "https://www.cls.cn/detail/2436602",
           "source": "财联社热门",
@@ -262,17 +301,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 06时51分]"
-        },
-        {
-          "title": "不要长期向AI倾泻心事",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "美国发生AI失控事故",
@@ -287,17 +315,6 @@
           "time_info": "[20时00分 ~ 21时43分]"
         },
         {
-          "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
-          "url": "https://flash.jin10.com/detail/20260726213859697800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
           "url": "https://www.zhihu.com/question/2063587044526404438",
           "source": "知乎",
@@ -305,19 +322,6 @@
             11,
             8,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时41分 ~ 21时43分]"
-        },
-        {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            8
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -346,6 +350,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时57分 ~ 21时43分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时00分 ~ 23时03分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -380,17 +397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3139854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -459,6 +465,18 @@
           "time_info": "[00时07分 ~ 05时51分]"
         },
         {
+          "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
+          "url": "https://flash.jin10.com/detail/20260726213859697800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时03分]"
+        },
+        {
           "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
           "url": "https://wallstreetcn.com/articles/3777919",
           "source": "华尔街见闻",
@@ -470,6 +488,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时51分 ~ 10时28分]"
+        },
+        {
+          "title": "长鑫科技员工：上市和我们没啥关系",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%92%8C%E6%88%91%E4%BB%AC%E6%B2%A1%E5%95%A5%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时03分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -484,16 +513,15 @@
           "time_info": "[00时07分 ~ 04时14分]"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
+          "title": "长鑫科技上市前夕记者探访",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            15
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时00分 ~ 21时43分]"
+          "time_info": "[21时42分 ~ 23时03分]"
         },
         {
           "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
@@ -556,15 +584,16 @@
           "time_info": "[10时28分 ~ 13时57分]"
         },
         {
-          "title": "长鑫科技员工：上市和我们没啥关系",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%98%E5%B7%A5%EF%BC%9A%E4%B8%8A%E5%B8%82%E5%92%8C%E6%88%91%E4%BB%AC%E6%B2%A1%E5%95%A5%E5%85%B3%E7%B3%BB",
-          "source": "百度热搜",
+          "title": "金十整理：下周重要事件与数据预告——美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
+          "url": "https://flash.jin10.com/detail/20260726210004874800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "time_info": "[21时43分 ~ 23时03分]"
         },
         {
           "title": "如何看美国审查中国AI模型",
@@ -614,6 +643,17 @@
           "time_info": "[18时42分 ~ 20时01分]"
         },
         {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "中国AI步步紧逼，美国科技巨头先内讧了",
           "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
           "source": "凤凰网",
@@ -623,6 +663,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 16时23分]"
+        },
+        {
+          "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
+          "url": "https://www.zhihu.com/question/2064467113771791028",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "中国AI芯片国产替代率五年从10%升至40%",
@@ -669,15 +720,38 @@
           "time_info": "[18时41分 ~ 18时42分]"
         },
         {
-          "title": "长鑫科技上市前夕记者探访",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%AE%B0%E8%80%85%E6%8E%A2%E8%AE%BF",
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时03分]"
+        },
+        {
+          "title": "AI冲击短剧行业 “戏王”也扛不住了",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "AI改写创意职场 从业者何去何从",
+          "url": "https://www.toutiao.com/trending/7666757809874144809/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "韩国科技巨头高管造访英伟达总部",
@@ -700,17 +774,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
-          "url": "https://flash.jin10.com/detail/20260726210004874800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -865,17 +928,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
-          "url": "https://wallstreetcn.com/livenews/3139836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "AI的回答让我重新理解活着",
