@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-27T07:58:36.057985+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-07-27T10:55:49.688186+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 34,
+      "match_count": 63,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时55分]"
         },
         {
           "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
@@ -30,6 +31,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时58分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时55分]"
         },
         {
           "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
@@ -60,6 +73,20 @@
           "time_info": "[00时54分 ~ 07时58分]"
         },
         {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时55分]"
+        },
+        {
           "title": "不要长期向AI倾泻心事",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -73,28 +100,47 @@
           "time_info": "[00时54分 ~ 07时58分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
           "ranks": [
-            7
+            23,
+            25,
+            21,
+            19,
+            22,
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时55分]"
         },
         {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
+          "title": "爽玩!Bin哥躲酒店天天打游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
           "ranks": [
-            8,
-            9,
-            6
+            22,
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时55分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时55分]"
         },
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -125,46 +171,6 @@
           "time_info": "[00时54分 ~ 07时58分]"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            23,
-            25,
-            21,
-            19,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时58分]"
-        },
-        {
-          "title": "爽玩!Bin哥躲酒店天天打游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时58分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时58分]"
-        },
-        {
           "title": "Mrbeast野兽游戏首入驻B站",
           "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
@@ -177,8 +183,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时55分]"
         },
         {
           "title": "长鑫科技上市前夕记者探访",
@@ -203,6 +209,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 06时57分]"
+        },
+        {
+          "title": "长鑫科技上市 成A股市值最高公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技上市",
+          "url": "https://www.douyin.com/hot/2586473",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -234,15 +284,37 @@
           "time_info": "[03时17分 ~ 07时58分]"
         },
         {
+          "title": "长鑫科技高开471%成A股“一哥”",
+          "url": "https://www.toutiao.com/trending/7667014011354877481/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "绩优基金提前减仓锁定收益 公募对科技赛道走势判断现巨大分歧",
           "url": "https://wallstreetcn.com/livenews/3139896",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "长鑫科技总市值",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%80%BB%E5%B8%82%E5%80%BC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "科技赛道震荡避险需求升温 多只红利ETF近一个月合计净流入超百亿元",
@@ -251,9 +323,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "长鑫科技成交突破1000亿，成为A股历史首支单日成交额突破1000亿元的个股，现涨超472%，换手近49%。",
+          "url": "https://wallstreetcn.com/livenews/3139979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技开盘时有人成功卖出4签",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%97%B6%E6%9C%89%E4%BA%BA%E6%88%90%E5%8A%9F%E5%8D%96%E5%87%BA4%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "恒生科技指数日内涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3139976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -307,6 +412,18 @@
           "time_info": "[04时54分 ~ 06时57分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时55分]"
+        },
+        {
           "title": "观众为何不能容忍长剧片头用AI",
           "url": "https://www.toutiao.com/trending/7666471179586650166/",
           "source": "今日头条",
@@ -329,15 +446,48 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
+          "title": "【数读IPO】长鑫科技今日上市",
+          "url": "https://www.cls.cn/detail/2437314",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技开盘价",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E4%BB%B7%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3139891",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "长鑫科技周边酒店一房难求",
@@ -346,9 +496,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "长鑫科技今日将正式登陆科创板。据预测平台Polymarket数据，其上市首日收盘市值突破1万亿人民币的概率为100%，突破1.5万亿、2万亿、2.5万亿的概率分别达96%、84%和62%；冲击3万亿及3.5万亿的概率则为42%和27%。以8.66元/股的发行价计，其IPO对应市值为5791.8亿元人民币（约854亿美元）。",
@@ -357,9 +518,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "港股恒生科技指数盘中涨超1%，智谱(02513.HK)涨超8%，小米集团(01810.HK)涨超5%，携程集团(09961.HK)涨近4%，美团(03690.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260727101727027800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技成交达901亿，超过2024年10月9日东方财富的900亿元成交额，创A股市场个股单日成交额成交新高。",
+          "url": "https://wallstreetcn.com/livenews/3139970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
@@ -368,20 +551,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
+          "title": "长鑫科技成交额突破900亿元创纪录",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B4900%E4%BA%BF%E5%85%83%E5%88%9B%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时55分"
         },
         {
           "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
@@ -390,7 +573,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -401,9 +584,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "科创50指数跌超3%，半导体产业链下挫，兆易创新触及跌停，华虹宏力、全志科技跌超10%，澜起科技、通富微电、佰维存储等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3139950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "本周重要事件与数据预告：美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
@@ -412,9 +606,130 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "国家统计局：上半年人工智能与各领域加速融合，算力需求大幅增长，推动电子行业利润同比增长96.9%",
+          "url": "https://wallstreetcn.com/livenews/3139940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661243",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技单日成交额刷新A股历史",
+          "url": "https://flash.jin10.com/detail/20260727100635089800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技周边酒店一房难求",
+          "url": "https://www.toutiao.com/trending/7666998658205748782/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "2026 年菲尔兹奖会成为「最后一届没有 AI 的菲尔兹奖」吗？",
+          "url": "https://www.zhihu.com/question/2062890686072845429",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "2026国内AI剧漫剧市场规模或达400亿",
+          "url": "https://www.toutiao.com/trending/7666650408294727686/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "现代汽车携手英伟达等科技企业 打造自动驾驶与物理AI生态",
+          "url": "https://flash.jin10.com/detail/20260727100434725800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "鹿晗这两张图被判AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%99%E4%B8%A4%E5%BC%A0%E5%9B%BE%E8%A2%AB%E5%88%A4AI%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技盘中交易短暂出现卡顿，后陆续恢复交易",
+          "url": "https://flash.jin10.com/detail/20260727100221530800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "长鑫科技开盘大涨超471%，报49.5元/股，总市值达3.31万亿，位居A股第一。",
+          "url": "https://wallstreetcn.com/livenews/3139926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "恒指高开0.12%，报24993.77点；恒生科技指数涨0.38%。携程涨3.8%，MINIMAX涨2%，中国海油石油、中国石油股份跌逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3139923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -423,9 +738,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "A股科创50指数早盘触底反弹，现涨超1%，此前一度跌超3%。成分股中，中科飞测涨超6%，源杰科技涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260727095735482800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     }
