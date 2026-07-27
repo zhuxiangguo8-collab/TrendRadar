@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T04:20:20.267601+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-28T06:03:39.156890+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 49,
+      "match_count": 61,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "8家券商持长鑫科技市值约509亿，哪家进账最多？跟投、直投与承销齐齐进入兑现期",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
@@ -59,22 +59,58 @@
           "ranks": [
             1,
             2,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
-          "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
-          "url": "https://wallstreetcn.com/livenews/3140495",
-          "source": "华尔街见闻-快讯",
+          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
+          "url": "https://www.cls.cn/detail/2437874",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
+        },
+        {
+          "title": "国内首部AI长片首播",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
+        },
+        {
+          "title": "美国校园午餐被曝牛奶黏稠似史莱姆、胡萝卜可被磁铁吸起，可能有什么「科技狠活」？对健康有伤害吗？",
+          "url": "https://www.zhihu.com/question/2065066881015177978",
+          "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "06时03分"
+        },
+        {
+          "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "长鑫科技上市首日收涨465%",
@@ -88,18 +124,6 @@
           "time_info": "00时14分"
         },
         {
-          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
-          "url": "https://www.cls.cn/detail/2437874",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
-        },
-        {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
           "url": "https://flash.jin10.com/detail/20260728014458796800",
           "source": "金十数据",
@@ -111,55 +135,18 @@
           "time_info": "02时22分"
         },
         {
-          "title": "国内首部AI长片首播",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
-        },
-        {
           "title": "各个行业被AI取代的概率",
           "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
-        },
-        {
-          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-          "url": "https://www.zhihu.com/question/2052464126996353859",
-          "source": "知乎",
-          "ranks": [
-            4,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
-        },
-        {
-          "title": "如何看待某博主称「客厅游戏 PC 只需插两根线」，被网友吐槽「过度吹捧，所有主机不都这样」？",
-          "url": "https://www.zhihu.com/question/2064715385044199014",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "长鑫科技上市 哪些城市是赢家",
@@ -168,11 +155,40 @@
           "ranks": [
             19,
             5,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
+        },
+        {
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
+          "source": "知乎",
+          "ranks": [
+            4,
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
+        },
+        {
+          "title": "如何看待某博主称「客厅游戏 PC 只需插两根线」，被网友吐槽「过度吹捧，所有主机不都这样」？",
+          "url": "https://www.zhihu.com/question/2064715385044199014",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "美光科技总市值跌破万亿美元",
@@ -182,8 +198,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "【焦点复盘】科创50深V回升收复1800点，全市场超180股涨逾10%，长鑫科技上市首日登顶总市值“一哥”",
@@ -194,8 +210,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
+        },
+        {
+          "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3140495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 06时03分]"
         },
         {
           "title": "Mrbeast野兽游戏首入驻B站",
@@ -204,11 +232,12 @@
           "ranks": [
             17,
             12,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -219,8 +248,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
@@ -231,8 +260,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
@@ -244,8 +273,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
@@ -256,8 +285,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -268,8 +297,34 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时03分]"
+        },
+        {
+          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
+          "url": "https://www.zhihu.com/question/2058547288499119870",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时20分]"
+          "time_info": "[02时22分 ~ 06时03分]"
+        },
+        {
+          "title": "真有人把AI的照片当成自己",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 06时03分]"
         },
         {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
@@ -295,6 +350,18 @@
           "time_info": "[00时14分 ~ 02时22分]"
         },
         {
+          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
+          "url": "https://www.cls.cn/detail/2438154",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 06时03分]"
+        },
+        {
           "title": "长鑫科技挂牌上市，员工称「上市和我们没啥关系」，更关心未来薪资、待遇，上市对员工有哪些隐藏的好处吗？",
           "url": "https://www.zhihu.com/question/2064980903453881609",
           "source": "知乎",
@@ -305,30 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 02时22分]"
-        },
-        {
-          "title": "真有人把AI的照片当成自己",
-          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 04时20分]"
-        },
-        {
-          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
-          "url": "https://www.zhihu.com/question/2058547288499119870",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 04时20分]"
         },
         {
           "title": "安徽卫视播AI剧 明确标注AI制作",
@@ -343,6 +386,18 @@
           "time_info": "[02时22分 ~ 04时20分]"
         },
         {
+          "title": "蔚来1.58亿元战略入股长鑫科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A51.58%E4%BA%BF%E5%85%83%E6%88%98%E7%95%A5%E5%85%A5%E8%82%A1%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 06时03分]"
+        },
+        {
           "title": "Microsoft AI：推出MAI-Cyber-1-Flash，这是我们自主研发的新型网络安全模型。",
           "url": "https://flash.jin10.com/detail/20260728014141537800",
           "source": "金十数据",
@@ -352,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3140521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "长鑫科技上市是行情见顶信号吗",
@@ -376,13 +442,24 @@
           "time_info": "02时22分"
         },
         {
+          "title": "黄仁勋将赴美国国会山，讨论AI领导地位与开源问题",
+          "url": "https://flash.jin10.com/detail/20260728045414356800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
           "url": "https://wallstreetcn.com/livenews/3140484",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -398,15 +475,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
-          "url": "https://www.cls.cn/detail/2438154",
+          "title": "奥尔特曼宣称人类已处于\"奇点\"之中 AI将带来巨大积极影响",
+          "url": "https://www.cls.cn/detail/2437876",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "06时03分"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -418,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
+          "url": "https://flash.jin10.com/detail/20260728042311728800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "虞书欣疑似被AI融脸和声音",
@@ -442,6 +530,28 @@
           "time_info": "00时14分"
         },
         {
+          "title": "标普500指数的11个板块中，电信板块收涨1.46%，金融板块涨1%，信息技术/科技板块跌0.97%，能源板块跌2.01%。",
+          "url": "https://wallstreetcn.com/livenews/3140511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
+          "url": "https://flash.jin10.com/detail/20260728041608521800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3140408",
           "source": "华尔街见闻-快讯",
@@ -459,9 +569,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
+          "url": "https://wallstreetcn.com/livenews/3140509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "报道：特朗普政府即将敲定AI自愿监管框架",
+          "url": "https://wallstreetcn.com/livenews/3140508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "长鑫科技上市首日创下多项记录，美股科技股博弈进入杠杆时代 | Plus日报",
@@ -492,7 +624,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -541,15 +673,26 @@
           "time_info": "02时22分"
         },
         {
-          "title": "蔚来1.58亿元战略入股长鑫科技",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A51.58%E4%BA%BF%E5%85%83%E6%88%98%E7%95%A5%E5%85%A5%E8%82%A1%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%23&t=31&band_rank=26&Refer=top",
+          "title": "A股隐形龙头涨幅远超长鑫科技",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%9A%90%E5%BD%A2%E9%BE%99%E5%A4%B4%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "06时03分"
+        },
+        {
+          "title": "纳指科技指数收跌0.5%，半导体指数跌超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3140500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "佛得角门将签约“泪洒现场”图是AI",
