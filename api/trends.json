@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T13:43:56.052874+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-07-28T16:27:07.633593+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 99,
+      "match_count": 108,
       "titles": [
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 16时27分]"
         },
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -44,17 +44,6 @@
           "time_info": "[00时14分 ~ 10时46分]"
         },
         {
-          "title": "8家券商持长鑫科技市值约509亿，哪家进账最多？跟投、直投与承销齐齐进入兑现期",
-          "url": "https://www.cls.cn/detail/2437945",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 07时59分]"
-        },
-        {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -62,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 16时27分]"
         },
         {
           "title": "美国校园午餐被曝牛奶黏稠似史莱姆、胡萝卜可被磁铁吸起，可能有什么「科技狠活」？对健康有伤害吗？",
@@ -75,8 +64,34 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时03分 ~ 16时27分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15,
+            16,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 16时27分]"
+        },
+        {
+          "title": "8家券商持长鑫科技市值约509亿，哪家进账最多？跟投、直投与承销齐齐进入兑现期",
+          "url": "https://www.cls.cn/detail/2437945",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时03分 ~ 13时43分]"
+          "time_info": "[00时14分 ~ 07时59分]"
         },
         {
           "title": "Mrbeast野兽游戏首入驻B站",
@@ -88,20 +103,6 @@
             15,
             13,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 13时43分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            15,
-            16,
-            21
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -237,7 +238,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -274,9 +275,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
+          "url": "https://www.cls.cn/detail/2438458",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 16时27分]"
         },
         {
           "title": "《杭州市人工智能产业发展促进条例（草案）》拟出台 首次引入词元概念并作出促进生产等制度安排",
@@ -320,7 +333,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -342,9 +355,46 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
+          "url": "https://www.zhihu.com/question/2063239728175043416",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 16时27分]"
+        },
+        {
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 16时27分]"
+        },
+        {
+          "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
+          "url": "https://www.cls.cn/detail/2438405",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 16时27分]"
         },
         {
           "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
@@ -420,41 +470,6 @@
           "time_info": "[02时22分 ~ 07时59分]"
         },
         {
-          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
-          "url": "https://www.cls.cn/detail/2438458",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时43分]"
-        },
-        {
-          "title": "佛得角门将签约泪洒现场？图是AI的",
-          "url": "https://www.toutiao.com/trending/7666819334011584518/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时43分]"
-        },
-        {
-          "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？",
-          "url": "https://www.cls.cn/detail/2438405",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时43分]"
-        },
-        {
           "title": "真有人把AI的照片当成自己",
           "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -466,18 +481,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 06时03分]"
-        },
-        {
-          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
-          "url": "https://www.zhihu.com/question/2063239728175043416",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时43分]"
         },
         {
           "title": "长鑫科技上市 哪些城市是赢家",
@@ -503,6 +506,17 @@
           "time_info": "[10时45分 ~ 13时43分]"
         },
         {
+          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
           "url": "https://www.cls.cn/detail/2437715",
           "source": "财联社热门",
@@ -512,6 +526,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 02时22分]"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -561,6 +586,17 @@
           "time_info": "[00时14分 ~ 02时22分]"
         },
         {
+          "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
+          "url": "https://www.cls.cn/detail/2438626",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "长鑫科技跌超7%",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%857%25%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -594,6 +630,28 @@
           "time_info": "[10时45分 ~ 10时46分]"
         },
         {
+          "title": "AI毁掉了我的胡迪警长",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%AF%81%E6%8E%89%E4%BA%86%E6%88%91%E7%9A%84%E8%83%A1%E8%BF%AA%E8%AD%A6%E9%95%BF&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "英伟达微软反对禁止中国开源AI",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BE%AE%E8%BD%AF%E5%8F%8D%E5%AF%B9%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
           "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
           "url": "https://www.baidu.com/s?wd=%E7%BF%BB%E5%94%B1%E8%80%81%E6%AD%8C%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91+%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%89%8B%E6%98%AFAI%E5%90%97",
           "source": "百度热搜",
@@ -624,7 +682,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -640,13 +698,24 @@
           "time_info": "07时59分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.41%，恒生科技指数收涨0.61%。地平线机器人涨逾8%，网易、京东集团涨逾4%。智谱跌逾18%，MINIMAX跌逾14%，华虹宏力跌近7%。",
+          "url": "https://wallstreetcn.com/livenews/3140869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "长鑫科技如何改写城市竞争力",
           "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%A6%82%E4%BD%95%E6%94%B9%E5%86%99%E5%9F%8E%E5%B8%82%E7%AB%9E%E4%BA%89%E5%8A%9B",
           "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -728,6 +797,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "美股盘前，科技股延续跌势，SK海力士下跌4%，美光科技跌近5%，英伟达跌1.4%。商业航天股走低，SpaceX跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3140863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "长鑫科技上市首晚厂区灯火通明",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E9%A6%96%E6%99%9A%E5%8E%82%E5%8C%BA%E7%81%AF%E7%81%AB%E9%80%9A%E6%98%8E",
           "source": "百度热搜",
@@ -756,7 +836,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -778,9 +858,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "香港恒生指数7月28日（周二）收盘上涨103.67点，涨幅0.41%，报25310.85点；<br/>香港恒生科技指数7月28日（周二）收盘上涨28.56点，涨幅0.61%，报4730.61点；<br/>国企指数7月28日（周二）收盘上涨70.87点，涨幅0.85%，报8436.25点；<br/>红筹指数7月28日（周二）收盘上涨26.56点，涨幅0.64%，报4152.34点。",
+          "url": "https://flash.jin10.com/detail/20260728161125089800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -800,7 +891,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -833,7 +924,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -866,9 +957,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "商务部：人工智能相关产品成为中国外贸“新名片”",
+          "url": "https://wallstreetcn.com/livenews/3140856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美国掀起中国科技大讨论",
@@ -932,7 +1034,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -943,7 +1045,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -987,7 +1089,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
