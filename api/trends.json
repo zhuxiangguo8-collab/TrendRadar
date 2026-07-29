@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:33:02.201402+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-07-29T19:22:23.239758+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 93,
+      "match_count": 104,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 19时22分]"
         },
         {
           "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
@@ -150,6 +150,32 @@
           "time_info": "[07时05分 ~ 13时48分]"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 19时22分]"
+        },
+        {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时05分 ~ 19时22分]"
+        },
+        {
           "title": "【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数",
           "url": "https://www.cls.cn/detail/2439549",
           "source": "财联社热门",
@@ -234,16 +260,15 @@
           "time_info": "[10时08分 ~ 13时48分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "长鑫科技继续上涨",
+          "url": "https://www.douyin.com/hot/2589632",
+          "source": "抖音",
           "ranks": [
-            10,
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时05分 ~ 16时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。",
@@ -263,9 +288,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "澜起科技：回购50万股A股股份，使用资金总额1.03亿元",
+          "url": "https://wallstreetcn.com/livenews/3141669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -351,16 +387,15 @@
           "time_info": "04时53分"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
+          "title": "KT宫斗实锤,Aiming被抬走",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
+          "source": "贴吧",
           "ranks": [
-            8,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 16时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美股盘前半导体股延续近期跌势，SK海力士(SKHY.O)跌1.9%，美光科技(MU.O)跌1.6%，闪迪(SNDK.O)跌2.3%，英伟达(NVDA.O)跌0.3%。",
@@ -369,7 +404,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -380,7 +415,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -421,6 +456,17 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 19时22分]"
+        },
+        {
           "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
           "url": "https://www.cls.cn/detail/2439091",
           "source": "财联社热门",
@@ -456,15 +502,28 @@
           "time_info": "[00时03分 ~ 06时01分]"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            8
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时48分 ~ 16时33分]"
+          "time_info": "[16时32分 ~ 19时22分]"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
           "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
@@ -476,17 +535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "AI剧 一本万利",
@@ -524,17 +572,6 @@
           "time_info": "[04时53分 ~ 06时01分]"
         },
         {
-          "title": "明星为什么愿意把脸“卖”给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
-        },
-        {
           "title": "长鑫科技大涨12.66%",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A812.66%25",
           "source": "百度热搜",
@@ -568,6 +605,17 @@
           "time_info": "13时48分"
         },
         {
+          "title": "澜起科技：首次回购50万股，支付金额1.03亿元",
+          "url": "https://flash.jin10.com/detail/20260729191023073800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
           "url": "https://wallstreetcn.com/livenews/3141230",
           "source": "华尔街见闻-快讯",
@@ -577,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "外交部批日本右翼用AI歪曲侵华历史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E7%94%A8AI%E6%AD%AA%E6%9B%B2%E4%BE%B5%E5%8D%8E%E5%8E%86%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "SpaceXAI：GROK 4.5现已在GitHub Copilot上发布。",
@@ -618,7 +677,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -634,6 +693,28 @@
           "time_info": "10时08分"
         },
         {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "上交所向硕世生物下发监管工作函，处理事由关于江苏硕世生物科技股份有限公司控制权变更事项。",
+          "url": "https://flash.jin10.com/detail/20260729190310814800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "A股金融股震荡拉升，兆日科技20cm涨停，华林证券涨超7%，指南针、银之杰、海德股份、中银证券涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3141465",
           "source": "华尔街见闻-快讯",
@@ -643,6 +724,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "A股消费电子板块直线拉升，昀冢科技涨超10%，国光电器此前涨停，蓝思科技、长盈精密、影石创新、惠威科技、朗特智能等跟涨。",
@@ -783,7 +875,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -887,6 +979,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "马来西亚拟推出“全民人工智能计划”",
+          "url": "https://wallstreetcn.com/livenews/3141647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "英伟达拟为OpenAI提供巨额担保",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E4%B8%BAOpenAI%E6%8F%90%E4%BE%9B%E5%B7%A8%E9%A2%9D%E6%8B%85%E4%BF%9D",
           "source": "bilibili 热搜",
@@ -904,7 +1007,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -918,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "长鑫科技累计换手率超107%",
+          "url": "https://www.toutiao.com/trending/7666771705140756490/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "半导体权重领跌日韩股市，AI信贷循环还能行得通？ | Plus日报",
@@ -1072,6 +1186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "纳指科技ETF景顺将于7月30日开市起停牌，当日10:30起复牌",
+          "url": "https://wallstreetcn.com/livenews/3141633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     }
