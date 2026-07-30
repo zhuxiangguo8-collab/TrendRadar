@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T19:50:07.430256+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-07-30T21:49:43.272859+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 64,
+      "match_count": 78,
       "titles": [
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -33,8 +33,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 21时49分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 21时49分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -70,11 +70,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 21时49分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -120,11 +121,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 21时49分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -242,6 +244,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
+          "url": "https://wallstreetcn.com/livenews/3142509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "A股科技退潮",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -288,6 +301,18 @@
           "time_info": "[11时15分 ~ 14时23分]"
         },
         {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 21时49分]"
+        },
+        {
           "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
           "url": "https://wallstreetcn.com/livenews/3141925",
           "source": "华尔街见闻-快讯",
@@ -300,16 +325,27 @@
           "time_info": "[05时57分 ~ 06时58分]"
         },
         {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时23分 ~ 19时50分]"
+          "time_info": "[17时27分 ~ 21时49分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 21时49分]"
         },
         {
           "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
@@ -336,15 +372,16 @@
           "time_info": "[17时27分 ~ 19时50分]"
         },
         {
-          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
-          "url": "https://wallstreetcn.com/articles/3778268",
-          "source": "华尔街见闻",
+          "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
+          "url": "https://www.cls.cn/detail/2441464",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时50分]"
+          "time_info": "[19时49分 ~ 21时49分]"
         },
         {
           "title": "A股科技股拥挤度",
@@ -360,26 +397,16 @@
           "time_info": "[01时11分 ~ 05时03分]"
         },
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
+          "title": "AI能不能别发展了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E5%8F%91%E5%B1%95%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
-        },
-        {
-          "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
-          "url": "https://www.cls.cn/detail/2441464",
-          "source": "财联社热门",
-          "ranks": [
+            18,
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 21时49分]"
         },
         {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
@@ -392,17 +419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 06时58分]"
-        },
-        {
-          "title": "AI能不能别发展了",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E5%8F%91%E5%B1%95%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "AI手机大战全面开打",
@@ -445,7 +461,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -470,6 +486,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "报道：明星AI投资人Aschenbrenner在遭遇大幅亏损后平仓了结交易",
+          "url": "https://wallstreetcn.com/livenews/3142507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "逢低买盘推动美股高开，科技股反弹，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
@@ -505,6 +543,39 @@
           "time_info": "01时11分"
         },
         {
+          "title": "宇树科技：初步询价日为8月5日 网下申购日为8月10日",
+          "url": "https://flash.jin10.com/detail/20260730211736834800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "宇树科技：初步询价日为8月5日 网下申购日为8月10日",
+          "url": "https://wallstreetcn.com/livenews/3142501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "据悉明星AI投资者在蒙受巨额亏损后正在平仓",
+          "url": "https://flash.jin10.com/detail/20260730211704769800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
           "url": "https://www.cls.cn/detail/2440344",
           "source": "财联社热门",
@@ -516,6 +587,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "广告增长扛不住AI账单，Meta为何盘后一度跌10%？",
+          "url": "https://flash.jin10.com/detail/20260730211332100800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "耐心资本密集落子，央企系基金加速布局硬科技",
           "url": "https://wallstreetcn.com/livenews/3141940",
           "source": "华尔街见闻-快讯",
@@ -525,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "台积电研发AI芯片封装技术。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3142497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
@@ -544,9 +637,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "抗日游戏抵抗者发布实机演示",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "金十图示：2026年07月30日（周四）全球主要科技与互联网公司市值变化",
@@ -558,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "据CNBC：人工智能投资者、前OpenAI Superalignment团队成员莱奥波德·阿申布伦纳在亏损后正在平仓交易。",
+          "url": "https://flash.jin10.com/detail/20260730210858266800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "AI 焚书",
@@ -637,6 +763,28 @@
           "time_info": "14时23分"
         },
         {
+          "title": "甲骨文(ORCL.N)：客户将能够访问Gemini 3.1 FLASH LITE和3.5 FLASH以进行高级的AI任务。",
+          "url": "https://flash.jin10.com/detail/20260730210354664800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "龚正会见美国霍尼韦尔科技董事长兼首席执行官柯伟茂",
+          "url": "https://wallstreetcn.com/livenews/3142487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "Meta Platforms(META.O)首席执行官：对新型人工智能创意工具的需求强劲。",
           "url": "https://flash.jin10.com/detail/20260730044230836800",
           "source": "金十数据",
@@ -646,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "据The Information：台积电(TSM.N) 将开发AI芯片封装技术。",
+          "url": "https://flash.jin10.com/detail/20260730210300606800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
