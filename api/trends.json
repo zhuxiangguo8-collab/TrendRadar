@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T11:16:07.931122+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-07-30T14:23:52.948512+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -15,11 +15,12 @@
             17,
             15,
             12,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 11时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 14时23分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -27,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 11时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 14时23分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -39,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 11时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 14时23分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -51,44 +54,47 @@
           "source": "贴吧",
           "ranks": [
             16,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 11时16分]"
-        },
-        {
-          "title": "A股科技退潮",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 14时23分]"
         },
         {
           "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
           "url": "https://www.zhihu.com/question/2065707692950123437",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时23分]"
+        },
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时23分]"
+        },
+        {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时23分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -100,17 +106,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时11分 ~ 06时58分]"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -217,6 +212,30 @@
           "time_info": "03时08分"
         },
         {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时23分]"
+        },
+        {
+          "title": "A股科技退潮",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时23分]"
+        },
+        {
           "title": "美联储主席沃什：人工智能投资为未来增长奠定基础。",
           "url": "https://flash.jin10.com/detail/20260730023737858800",
           "source": "金十数据",
@@ -226,6 +245,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "AI前沿日报-7月30日",
+          "url": "https://flash.jin10.com/detail/20260730141045782800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时23分]"
         },
         {
           "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
@@ -238,6 +280,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时58分]"
+        },
+        {
+          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
+          "url": "https://www.cls.cn/detail/2440581",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时23分]"
         },
         {
           "title": "A股科技股拥挤度",
@@ -253,28 +307,6 @@
           "time_info": "[01时11分 ~ 05时03分]"
         },
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
-          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
-          "url": "https://www.cls.cn/detail/2440581",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
           "url": "https://www.zhihu.com/question/2065158710427751418",
           "source": "知乎",
@@ -285,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 06时58分]"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "AI手机大战全面开打",
@@ -343,6 +364,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
+          "url": "https://wallstreetcn.com/articles/3778220",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
           "url": "https://flash.jin10.com/detail/20260730003826526800",
           "source": "金十数据",
@@ -352,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
@@ -393,7 +436,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -415,7 +458,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -426,7 +469,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -448,9 +491,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "国内首次 电视台播了AI剧",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%A1+%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E4%BA%86AI%E5%89%A7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：对新型人工智能创意工具的需求强劲。",
@@ -486,6 +540,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
+          "url": "https://wallstreetcn.com/livenews/3142156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "Meta营收创纪录，但AI成本拖累股价下跌",
           "url": "https://flash.jin10.com/detail/20260730044136462800",
           "source": "金十数据",
@@ -503,7 +568,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -528,6 +593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "AI公司被曝大量收购旧书",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E5%A4%A7%E9%87%8F%E6%94%B6%E8%B4%AD%E6%97%A7%E4%B9%A6%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     }
