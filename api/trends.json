@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-31T07:02:24.936493+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-31T10:25:43.269259+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 29,
+      "match_count": 52,
       "titles": [
         {
           "title": "神人自爆,游戏退款还想白嫖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356655&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%87%AA%E7%88%86%2C%E6%B8%B8%E6%88%8F%E9%80%80%E6%AC%BE%E8%BF%98%E6%83%B3%E7%99%BD%E5%AB%96",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时25分]"
         },
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -30,15 +31,59 @@
           "time_info": "01时22分"
         },
         {
+          "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
+          "url": "https://www.cls.cn/detail/2442025",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+          "url": "https://wallstreetcn.com/livenews/3142839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "美通胀降温叠加微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "宇树科技：FCC相关禁令不会影响公司现有主要产品，但后续开发产品存在无法在美销售风险",
+          "url": "https://flash.jin10.com/detail/20260731101355967800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+          "url": "https://flash.jin10.com/detail/20260731101238712800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -63,15 +108,38 @@
           "time_info": "01时22分"
         },
         {
+          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2442063",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "据日经新闻：三星贸易部门与日本可再生能源公司Erex正在合作开发新的能源项目，以满足AI发展带来的电力需求。目标是在2029财年前为数据中心提供稳定的可再生能源供应。",
           "url": "https://flash.jin10.com/detail/20260731064742988800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
+          "url": "https://www.cls.cn/detail/2441965",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 10时25分]"
         },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -103,11 +171,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时25分]"
         },
         {
           "title": "硅谷烧书训AI,焚书坑儒2.0",
@@ -117,8 +186,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时25分]"
+        },
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时25分]"
+        },
+        {
+          "title": "抗日游戏抵抗者发布实机演示",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 10时25分]"
         },
         {
           "title": "宇树科技IPO时间定了 8月10日申购",
@@ -157,29 +250,6 @@
           "time_info": "[01时22分 ~ 07时02分]"
         },
         {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 07时02分]"
-        },
-        {
-          "title": "抗日游戏抵抗者发布实机演示",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 07时02分]"
-        },
-        {
           "title": "宇树科技股票发行安排",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E7%A5%A8%E5%8F%91%E8%A1%8C%E5%AE%89%E6%8E%92%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -192,26 +262,81 @@
           "time_info": "[01时22分 ~ 07时02分]"
         },
         {
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股光纤概念板块盘中震荡反弹，通鼎互联触及涨停，长盈通涨17%，长飞光纤、中天科技、亨通光电、特发信息等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731100706820800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "长鑫科技市值突破4万亿",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
           "url": "https://wallstreetcn.com/articles/3778268",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
         {
-          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
-          "url": "https://www.cls.cn/detail/2441965",
-          "source": "财联社热门",
+          "title": "AI暴力反弹！三星、SK海力士飙升25%，韩股暴涨超14%，软银跳升15%，日股大涨",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "10时25分"
+        },
+        {
+          "title": "宇树科技8月10日开启申购",
+          "url": "https://www.douyin.com/hot/2591318",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
+          "url": "https://www.zhihu.com/question/2066184696107643598",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
@@ -231,9 +356,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
@@ -242,9 +378,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题",
+          "url": "https://www.cls.cn/detail/2441953",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "长鑫科技拉升涨超13%，总市值突破4万亿。",
+          "url": "https://wallstreetcn.com/livenews/3142802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "OpenAI应用研究主管：GPT-5.6 Luna应该会有更多的应用，考虑到模型的快速进展，它的成本低得离谱，速度也很快。",
+          "url": "https://flash.jin10.com/detail/20260731100209277800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
@@ -253,9 +433,64 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
+          "url": "https://www.zhihu.com/question/2065915199089894895",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股燃气轮机概念板块震荡走强，隆达股份涨超11%，杰瑞股份、联德股份涨超9%，飞沃科技、应流股份、博盈特焊、图南股份、汽轮科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731100018527800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "长鑫科技市值首次突破4万亿",
+          "url": "https://www.toutiao.com/trending/7668102382697447470/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股贵金属板块盘中走强，株冶集团涨超7%，晓程科技、招金黄金、赤峰黄金、中金黄金、兴业银锡等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731095626512800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "CPO概念股大幅高开，联讯仪器、联特科技、新易盛、天孚通信、中际旭创、光库科技等近20股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3142782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "苹果(AAPL.O)首席财务官：App Store的移动游戏收入出现“疲软”迹象。",
@@ -264,9 +499,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "OpenAI模型最高降价80%",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%A8%A1%E5%9E%8B%E6%9C%80%E9%AB%98%E9%99%8D%E4%BB%B780%25%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
@@ -275,7 +521,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -286,7 +532,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -297,9 +543,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "恒指低开0.08%，报25837.72点；恒生科技指数涨0.30%。华虹宏力、智谱、MINIMAX涨近15%，联想、中芯国际涨超8%。小米跌5.6%，京东跌3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3142764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -319,7 +576,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -330,7 +587,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
