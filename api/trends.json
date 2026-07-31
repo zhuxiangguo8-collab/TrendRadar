@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T03:18:42.517638+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-01T05:01:27.780592+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 26,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -71,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -83,8 +84,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
+        },
+        {
+          "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3143468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -96,8 +108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
@@ -107,8 +119,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，可选消费板块收涨6.07%，电信板块涨4.6%，工业板块涨0.79%表现第三，信息技术/科技板块跌0.54%，房地产板块跌0.68%，公用事业板块跌0.74%，原材料板块跌2.71%。",
+          "url": "https://wallstreetcn.com/livenews/3143467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -120,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -131,8 +154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
@@ -142,8 +165,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "Aiming回应宫斗:对方先骂人",
@@ -154,8 +177,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "AI公司批量抢购旧书",
@@ -167,8 +190,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
         },
         {
           "title": "神人自爆,游戏退款还想白嫖",
@@ -179,8 +202,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时01分]"
+        },
+        {
+          "title": "南向资金追踪｜7月净流入约629亿港元 大举回流资讯科技业抛售硬件板块",
+          "url": "https://www.cls.cn/detail/2442888",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时01分]"
         },
         {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
@@ -195,6 +229,19 @@
           "time_info": "[00时00分 ~ 01时45分]"
         },
         {
+          "title": "AI男主都能带货了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
           "title": "给杨勇记国防科技一等功",
           "url": "https://www.baidu.com/s?wd=%E7%BB%99%E6%9D%A8%E5%8B%87%E8%AE%B0%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%89%E5%8A%9F",
           "source": "百度热搜",
@@ -206,15 +253,16 @@
           "time_info": "[00时00分 ~ 00时02分]"
         },
         {
-          "title": "南向资金追踪｜7月净流入约629亿港元 大举回流资讯科技业抛售硬件板块",
-          "url": "https://www.cls.cn/detail/2442888",
-          "source": "财联社热门",
+          "title": "保时捷女销冠回应被AI合成不雅视频",
+          "url": "https://www.toutiao.com/trending/7668540826486865930/",
+          "source": "今日头条",
           "ranks": [
-            13
+            14,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时18分]"
+          "time_info": "[03时18分 ~ 05时01分]"
         },
         {
           "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
@@ -239,16 +287,26 @@
           "time_info": "[00时00分 ~ 00时02分]"
         },
         {
-          "title": "AI男主都能带货了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
-          "source": "百度热搜",
+          "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
+          "url": "https://flash.jin10.com/detail/20260801042925321800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            24
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
+          "url": "https://wallstreetcn.com/livenews/3143461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "据港交所文件：立景创新科技股份有限公司向港交所提交上市申请书。",
@@ -262,15 +320,48 @@
           "time_info": "00时02分"
         },
         {
-          "title": "保时捷女销冠回应被AI合成不雅视频",
-          "url": "https://www.toutiao.com/trending/7668540826486865930/",
-          "source": "今日头条",
+          "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3143460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "05时01分"
+        },
+        {
+          "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
+          "url": "https://flash.jin10.com/detail/20260801042118367800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "华尔街自2020年以来最大规模资金轮动，暴露AI交易拥挤风险",
+          "url": "https://wallstreetcn.com/livenews/3143459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
+          "url": "https://flash.jin10.com/detail/20260801041603854800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "韩国杠杆限制措施立竿见影，AI基金疑似被狙击？ | Plus日报",
@@ -284,6 +375,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "纳斯达克金龙中国指数收涨1.47%，报6598.21点，本周累涨8.09%、整体持续走高，7月份累计上涨12.84%，7月1-16日持续上扬、随后持续回撤、24-31日重新持续上涨。 热门中概股里，金山云初步收涨9.9%，阿里涨5.2%，新东方涨4.1%，百胜中国、百度涨超3%。 ETF中，中概互联网指数ETF（KWEB）收涨1.53%，7月份反弹16.43%，2025年10月份以来持续下挫的趋势并无显著改观； XtrackersHarvest中证50（ASHS）收涨1.43%，7月份回撤16.03%； 中国科技指数ETF（CQQQ）收涨1.31%，7月份回撤11.80%，此前三个月先后反弹10.84%、3.51%、8.01%； MSCI新兴市场ex中国ETF（EMXC）收涨1.03%，7月份回撤9.95%； 德银嘉实沪深300指数ETF（ASHR）收跌0.20%，7月份回撤6.71%，此前三个月先后涨8.21%、1.84%、1.92%。",
+          "url": "https://wallstreetcn.com/livenews/3143448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
           "title": "OpenAI：我们的模型目前覆盖超过10亿活跃用户。 覆盖超过200万家企业。",
           "url": "https://wallstreetcn.com/livenews/3143353",
           "source": "华尔街见闻-快讯",
@@ -293,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
+          "url": "https://wallstreetcn.com/livenews/3143443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "欧盟宣布扩大实施《人工智能法》",
