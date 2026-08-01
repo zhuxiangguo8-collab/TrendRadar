@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T16:13:39.638450+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-08-01T18:38:38.017596+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 16时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 18时38分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -80,8 +81,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 16时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 18时38分]"
+        },
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时38分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -95,8 +107,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 16时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 18时38分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时00分 ~ 07时58分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时13分]"
         },
         {
           "title": "Aiming回应宫斗:对方先骂人",
@@ -170,6 +171,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时00分 ~ 10时54分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时38分]"
         },
         {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
@@ -225,17 +240,17 @@
           "time_info": "[01时45分 ~ 10时54分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            5
+            11,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时13分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时38分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
@@ -287,19 +302,6 @@
           "time_info": "[03时18分 ~ 06时11分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时13分]"
-        },
-        {
           "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
           "url": "https://wallstreetcn.com/livenews/3143468",
           "source": "华尔街见闻-快讯",
@@ -322,6 +324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时58分]"
+        },
+        {
+          "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
+          "url": "https://www.zhihu.com/question/2066620089789407496",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "标普500指数的11个板块中，可选消费板块收涨6.07%，电信板块涨4.6%，工业板块涨0.79%表现第三，信息技术/科技板块跌0.54%，房地产板块跌0.68%，公用事业板块跌0.74%，原材料板块跌2.71%。",
@@ -411,6 +425,18 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
+        },
+        {
           "title": "给杨勇记国防科技一等功",
           "url": "https://www.baidu.com/s?wd=%E7%BB%99%E6%9D%A8%E5%8B%87%E8%AE%B0%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%89%E5%8A%9F",
           "source": "百度热搜",
@@ -420,6 +446,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 00时02分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -480,6 +518,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时38分]"
         },
         {
           "title": "A股科技板块全线反攻，机构称调整或接近尾声",
@@ -551,15 +601,15 @@
           "time_info": "10时54分"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "18时38分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月1日）",
@@ -573,15 +623,15 @@
           "time_info": "10时54分"
         },
         {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "18时38分"
         },
         {
           "title": "美媒：OpenAI筹备发布新模型系列Astra，主打多智能体长周期任务协同",
@@ -601,7 +651,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -615,17 +665,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
-          "url": "https://www.zhihu.com/question/2066620089789407496",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         },
         {
           "title": "据港交所文件：立景创新科技股份有限公司向港交所提交上市申请书。",
@@ -645,7 +684,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -681,17 +720,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         },
         {
           "title": "科技股上演反攻行情，重仓基金大面积“回血”",
@@ -780,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "长鑫科技LPDDR6近研发验证尾声",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80LPDDR6%E8%BF%91%E7%A0%94%E5%8F%91%E9%AA%8C%E8%AF%81%E5%B0%BE%E5%A3%B0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     }
