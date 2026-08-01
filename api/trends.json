@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T07:58:56.369060+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-08-01T10:54:44.365319+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -33,6 +33,19 @@
           "time_info": "[00时00分 ~ 07时58分]"
         },
         {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
+        },
+        {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -42,6 +55,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时00分 ~ 06时11分]"
+        },
+        {
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -56,16 +82,45 @@
           "time_info": "[00时00分 ~ 07时58分]"
         },
         {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
-          "source": "华尔街见闻",
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
           "ranks": [
             8,
-            5
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -79,41 +134,28 @@
           "time_info": "[00时00分 ~ 01时45分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
-            8,
-            6
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
         },
         {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
-          "source": "华尔街见闻",
+          "title": "神人自爆,游戏退款还想白嫖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356655&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%87%AA%E7%88%86%2C%E6%B8%B8%E6%88%8F%E9%80%80%E6%AC%BE%E8%BF%98%E6%83%B3%E7%99%BD%E5%AB%96",
+          "source": "贴吧",
           "ranks": [
-            9,
-            7
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
-          "url": "https://www.cls.cn/detail/2442641",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 10时54分]"
         },
         {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
@@ -128,17 +170,15 @@
           "time_info": "[00时00分 ~ 07时58分]"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "AI公司批量抢购旧书",
@@ -155,30 +195,6 @@
           "time_info": "[00时00分 ~ 07时58分]"
         },
         {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
-        },
-        {
-          "title": "神人自爆,游戏退款还想白嫖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356655&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%87%AA%E7%88%86%2C%E6%B8%B8%E6%88%8F%E9%80%80%E6%AC%BE%E8%BF%98%E6%83%B3%E7%99%BD%E5%AB%96",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 07时58分]"
-        },
-        {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
           "url": "https://www.cls.cn/detail/2442363",
           "source": "财联社热门",
@@ -190,17 +206,6 @@
           "time_info": "[00时00分 ~ 00时02分]"
         },
         {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
           "title": "AI男主都能带货了",
           "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
           "source": "百度热搜",
@@ -209,11 +214,12 @@
             24,
             15,
             21,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 10时54分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
@@ -238,6 +244,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时58分]"
+        },
+        {
+          "title": "宇树科技 IPO 时间定了，8 月 10 日开启新股申购，怎样看待其市场前景？",
+          "url": "https://www.zhihu.com/question/2066287957024281069",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
@@ -312,6 +330,19 @@
           "time_info": "[00时00分 ~ 06时11分]"
         },
         {
+          "title": "华尔街AI股神高杠杆爆仓出局",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 10时54分]"
+        },
+        {
           "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
           "url": "https://flash.jin10.com/detail/20260801042925321800",
           "source": "金十数据",
@@ -351,16 +382,28 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
-          "title": "华尔街AI股神高杠杆爆仓出局",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            20
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 07时58分]"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时54分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "给杨勇记国防科技一等功",
@@ -386,6 +429,18 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时54分]"
+        },
+        {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
           "url": "https://wallstreetcn.com/livenews/3143460",
           "source": "华尔街见闻-快讯",
@@ -396,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时11分]"
+        },
+        {
+          "title": "因担忧虚假图像，谷歌撤回地球AI工具",
+          "url": "https://wallstreetcn.com/livenews/3143502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "华尔街自2020年以来最大规模资金轮动，暴露AI交易拥挤风险",
@@ -433,48 +500,48 @@
           "time_info": "[00时00分 ~ 00时02分]"
         },
         {
-          "title": "宇树科技 IPO 时间定了，8 月 10 日开启新股申购，怎样看待其市场前景？",
-          "url": "https://www.zhihu.com/question/2066287957024281069",
-          "source": "知乎",
+          "title": "00后AI股神清仓 血亏1400亿",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8EAI%E8%82%A1%E7%A5%9E%E6%B8%85%E4%BB%93+%E8%A1%80%E4%BA%8F1400%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时54分"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日科技要闻速递（8月1日）",
+          "url": "https://flash.jin10.com/detail/20260801095824370800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "美媒：OpenAI筹备发布新模型系列Astra，主打多智能体长周期任务协同",
+          "url": "https://flash.jin10.com/detail/20260801095559987800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时54分"
         },
         {
-          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3143503",
+          "title": "OpenAI可能会将其首次公开募股 (IPO) 推迟到明年。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3143530",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时54分"
         },
         {
           "title": "据港交所文件：立景创新科技股份有限公司向港交所提交上市申请书。",
@@ -488,15 +555,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "因担忧虚假图像，谷歌撤回地球AI工具",
-          "url": "https://wallstreetcn.com/livenews/3143502",
-          "source": "华尔街见闻-快讯",
+          "title": "达利欧称 AI 资产泡沫特征已显现，80 年一次大周期已进尾声，这一说法有哪些依据？AI 热还能持续多久？",
+          "url": "https://www.zhihu.com/question/2066610469444347106",
+          "source": "知乎",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时54分"
         },
         {
           "title": "报道：OpenAI本周预览了AI模型Astra",
@@ -505,9 +572,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "00后AI股神清仓血亏1400亿",
+          "url": "https://s.weibo.com/weibo?q=00%E5%90%8EAI%E8%82%A1%E7%A5%9E%E6%B8%85%E4%BB%93%E8%A1%80%E4%BA%8F1400%E4%BA%BF&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "科技股上演反攻行情，重仓基金大面积“回血”",
@@ -519,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
+          "url": "https://flash.jin10.com/detail/20260801091854018800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "韩国杠杆限制措施立竿见影，AI基金疑似被狙击？ | Plus日报",
