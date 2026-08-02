@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-03T04:50:09.506807+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-08-03T05:51:55.783456+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
       "match_count": 15,
       "titles": [
+        {
+          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2443573",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
+        },
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
           "url": "https://wallstreetcn.com/articles/3778502",
@@ -15,20 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
-        },
-        {
-          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2443573",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "小伙立遗嘱把氪金10万账号给游戏搭子",
@@ -41,8 +42,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -52,19 +53,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -74,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -86,8 +88,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -98,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -111,8 +113,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -123,19 +125,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时51分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时51分]"
         },
         {
           "title": "小伙立遗嘱把氪金10万账号给游戏搭子",
@@ -143,22 +146,24 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 05时51分]"
         },
         {
           "title": "武侠小说里说高手「摘叶飞花均可伤人」，可为何武侠游戏里的主角却还要依仗神兵利器呢？",
           "url": "https://www.zhihu.com/question/2065524137737695948",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时51分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
