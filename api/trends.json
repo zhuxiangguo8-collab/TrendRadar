@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T16:15:28.465541+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-08-02T18:37:28.060279+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -65,11 +65,12 @@
           "ranks": [
             4,
             10,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 16时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 18时37分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -77,11 +78,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 16时15分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 18时37分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -121,8 +123,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时51分 ~ 18时37分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时51分 ~ 16时15分]"
+          "time_info": "[07时54分 ~ 18时37分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -150,16 +164,15 @@
           "time_info": "[01时04分 ~ 10时21分]"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 16时15分]"
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 18时37分]"
         },
         {
           "title": "中国“科技游”圈粉外国游客",
@@ -173,17 +186,6 @@
           "time_info": "13时53分"
         },
         {
-          "title": "中国AI大模型的优势在哪里",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
           "url": "https://flash.jin10.com/detail/20260802095047745800",
           "source": "金十数据",
@@ -193,6 +195,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 18时37分]"
         },
         {
           "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
@@ -231,16 +246,15 @@
           "time_info": "[04时44分 ~ 07时54分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时15分]"
+          "time_info": "[16时15分 ~ 18时37分]"
         },
         {
           "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
@@ -254,6 +268,28 @@
           "time_info": "10时21分"
         },
         {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
+          "url": "https://flash.jin10.com/detail/20260802172654110800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "美股这个财报季盈利增长“超预期”，科技巨头“资本开支与AI回报”双涨",
           "url": "https://wallstreetcn.com/articles/3778478",
           "source": "华尔街见闻",
@@ -265,17 +301,6 @@
           "time_info": "10时21分"
         },
         {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（8月2日）",
           "url": "https://flash.jin10.com/detail/20260802090825452800",
           "source": "金十数据",
@@ -285,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "AI股神爆仓有哪些启示",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E7%A5%9E%E7%88%86%E4%BB%93%E6%9C%89%E5%93%AA%E4%BA%9B%E5%90%AF%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -309,15 +345,37 @@
           "time_info": "01时04分"
         },
         {
+          "title": "一博科技：2026年上半年营收7.09亿元 净利润同比增1561.55%",
+          "url": "https://flash.jin10.com/detail/20260802155911642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "天才女友 AI片头",
           "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "陆毅鲍蕾看女儿做的AI生日短片",
+          "url": "https://www.douyin.com/hot/2594728",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     }
