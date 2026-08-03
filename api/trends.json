@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T00:20:15.823586+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-04T02:49:21.006435+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时49分]"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时49分]"
         },
         {
           "title": "亚马逊云计算部门AWS的CEO Matt Garman：人工智能（AI）业务从训练转向推理。 AI实验室、初创公司、企业推动AWS销售增长。 AI业务的潜在规模“极其庞大”。（彭博电视）",
@@ -25,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
         },
@@ -34,22 +46,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33709962",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
-        },
-        {
-          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-          "url": "https://www.zhihu.com/question/2067512422555029717",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时49分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -59,19 +61,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时49分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时49分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -81,19 +84,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时49分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时49分]"
         },
         {
           "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
@@ -107,15 +111,59 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
+          "title": "我用AI创造虚拟世界 弹幕即神谕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
+          "url": "https://www.cls.cn/detail/2444442",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "AI热潮持续，新兴市场ETF单周吸金创2月以来新高",
+          "url": "https://wallstreetcn.com/livenews/3144300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "亚马逊云服务(AWS)CEO：人工智能业务潜力“极为巨大”。",
           "url": "https://flash.jin10.com/detail/20260803234837155800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "AI交易剧烈震荡波及对冲基金，千禧年基金上月亏损2%",
+          "url": "https://wallstreetcn.com/livenews/3144298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "亚马逊云服务(AWS)CEO：人工智能业务正从训练转向推理。",
@@ -124,7 +172,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
         }
