@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T04:24:44.028793+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-08-04T06:05:20.462157+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
@@ -27,19 +27,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时05分]"
         },
         {
-          "title": "美国科技股七巨头指数涨3.6%，创3月31日以来最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3144344",
-          "source": "华尔街见闻-快讯",
+          "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
+          "url": "https://flash.jin10.com/detail/20260804051558715800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时24分"
+          "time_info": "06时05分"
+        },
+        {
+          "title": "数学家丘成桐《求是》撰文：科技为人文立实，人文为科技立心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709962",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时05分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时05分]"
         },
         {
           "title": "标普500指数初步收涨1.4%，电信板块涨4.4%，可选消费板块涨2.7%，工业、科技、原材料板块涨超1%，能源板块跌1.2%。 纳斯达克100指数初步收涨1.7%，成分股中，CoreWeave初步收涨19.5%，Nebius涨11.4%，Lumentum涨9.3%，Meta涨6.1%，苹果跌1.9%，Diamondback Energy跌2.1%，恩智浦、德州仪器、西部数据、希捷科技至多跌3.6%，万豪国际跌6.8%。",
@@ -48,9 +72,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时05分]"
         },
         {
           "title": "亚马逊云计算部门AWS的CEO Matt Garman：人工智能（AI）业务从训练转向推理。 AI实验室、初创公司、企业推动AWS销售增长。 AI业务的潜在规模“极其庞大”。（彭博电视）",
@@ -64,39 +100,15 @@
           "time_info": "00时20分"
         },
         {
-          "title": "数学家丘成桐《求是》撰文：科技为人文立实，人文为科技立心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33709962",
-          "source": "澎湃新闻",
+          "title": "Palantir在二季度与（某家）科技公司签署3.7亿美元合同。",
+          "url": "https://wallstreetcn.com/livenews/3144362",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时24分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2444244",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时24分]"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -106,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时05分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -116,22 +128,36 @@
           "ranks": [
             13,
             17,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时05分]"
+        },
+        {
+          "title": "美国科技股七巨头指数涨3.6%，创3月31日以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3144344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 06时05分]"
         },
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时49分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 06时05分]"
         },
         {
           "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
@@ -154,6 +180,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时49分 ~ 04时24分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
+          "url": "https://wallstreetcn.com/livenews/3144359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3144352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
+          "url": "https://wallstreetcn.com/livenews/3144351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "长鑫科技为何能问鼎A股市值第一",
+          "url": "https://www.toutiao.com/trending/7669800779284221476/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "AI热潮持续，新兴市场ETF单周吸金创2月以来新高",
@@ -206,7 +276,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -217,7 +287,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
