@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T03:24:37.303729+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-08-06T05:04:36.829347+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -44,6 +44,29 @@
           "time_info": "[00时02分 ~ 03时24分]"
         },
         {
+          "title": "周三（8月5日），美股存储芯片与硬件供应链指数跌2.87%，报197.07点。 美股盘初冲高回落、北京时间21:50刷新日高至206.67点，随后长时间保持在平盘附近，03:00以来持续下跌。 成分股闪迪收跌5.4%，西部数据跌5.36%，泰瑞达、拉姆研究、Rambus、应用材料、希捷科技至多跌3.51%，美光科技涨0.06%。 此外，SK海力士ADR跌2.17%。",
+          "url": "https://wallstreetcn.com/livenews/3145604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时04分]"
+        },
+        {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
@@ -53,19 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时24分]"
-        },
-        {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "网友吐槽现在的交响乐团只能靠游戏演奏会维持生计，对此你怎么看？",
@@ -74,11 +86,12 @@
           "ranks": [
             15,
             14,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -86,11 +99,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -101,8 +115,21 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时04分]"
+        },
+        {
+          "title": "试玩5个高中生做的高中生活游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            15,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时24分]"
+          "time_info": "[00时02分 ~ 05时04分]"
         },
         {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
@@ -115,18 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 03时24分]"
-        },
-        {
-          "title": "试玩5个高中生做的高中生活游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 03时24分]"
         },
         {
           "title": "李大霄谈高科技反弹",
@@ -147,9 +162,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3145598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
@@ -158,9 +184,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块收跌2.39%，能源板块跌2.03%，信息技术/科技板块涨0.02%，保健板块涨1.34%，原材料板块涨1.54%。",
+          "url": "https://wallstreetcn.com/livenews/3145596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "周三（8月5日），美股行业ETF多数下跌，能源业ETF收跌2.07%，半导体ETF跌1.04%，科技行业ETF跌0.53%，生物科技指数ETF涨0.87%，医疗业ETF涨1.27%。",
+          "url": "https://wallstreetcn.com/livenews/3145595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "据The Information：阿波罗全球管理公司任命新的人工智能领域负责人，以寻求更多大型融资交易。",
@@ -169,7 +217,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -180,7 +228,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -191,7 +239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -205,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.09%，报6552.33点。 热门中概股里，阿特斯太阳能初步收跌5.6%，日月光半导体跌4.6%，金山云跌4.2%，腾讯跌1.9%，网易跌1.8%，阿里跌0.1%，新东方涨1.2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.21%，中国科技指数ETF（CQQQ）收涨0.64%。 MSCI新兴市场ex中国ETF（EMXC）收跌0.40%，德银嘉实沪深300指数ETF（ASHR）收涨0.49%，XtrackersHarvest中证50（ASHS）收涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3145581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "美国半导体板块冲高回落，跌超1%刷新日低。 Tower半导体ADR跌7.6%，莱迪斯半导体、AMD至少跌6%，日月光半导体跌4%，安森美半导体跌3.6%，泰瑞达跌2.8%，拉姆研究跌2.7%，高通、英特尔跌2.4%，SK海力士ADR跌1.6%，阿斯麦ADR跌1.3%。 新思科技目前涨0.4%，Rambus、安费诺、博通、西部数据至多涨1.3%，美光涨2.5%，希捷科技涨2.9%，高意公司Coherent涨4%，英伟达涨4.2%。",
