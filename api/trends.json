@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T17:34:19.442964+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-08-05T19:57:08.309731+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 67,
+      "match_count": 72,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -15,11 +15,24 @@
             9,
             15,
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时44分 ~ 17时34分]"
+          "appearance_count": 12,
+          "time_info": "[01时44分 ~ 19时57分]"
+        },
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时07分 ~ 19时57分]"
         },
         {
           "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
@@ -47,16 +60,16 @@
           "time_info": "[11时57分 ~ 14时27分]"
         },
         {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            4
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时57分]"
         },
         {
           "title": "实拍高校团队研究的灭蚊黑科技",
@@ -160,11 +173,24 @@
           "url": "https://www.cls.cn/detail/2446218",
           "source": "财联社热门",
           "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时57分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时57分]"
         },
         {
           "title": "A股半导体材料板块震荡走高，有研硅20cm涨停，此前雅克科技、康强电子、有研新材等股涨停，神工股份、欧莱新材、西安奕材涨幅居前。",
@@ -178,15 +204,28 @@
           "time_info": "14时27分"
         },
         {
-          "title": "AI做的动物尺度太大了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "李大霄谈高科技反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E9%AB%98%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
           "ranks": [
+            10,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时57分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时57分]"
         },
         {
           "title": "部分基金逆势加仓，A股硬科技板块迎修复契机",
@@ -248,6 +287,29 @@
           "time_info": "[11时57分 ~ 14时27分]"
         },
         {
+          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
+          "url": "https://www.zhihu.com/question/2068289164244693148",
+          "source": "知乎",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时57分]"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
           "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
           "url": "https://www.zhihu.com/question/2067720724765045518",
           "source": "知乎",
@@ -257,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 05时10分]"
+        },
+        {
+          "title": "ai演员接美瞳广告被审判",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%94%E5%91%98%E6%8E%A5%E7%BE%8E%E7%9E%B3%E5%B9%BF%E5%91%8A%E8%A2%AB%E5%AE%A1%E5%88%A4%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "UP主用AI证伪经典数学猜想",
@@ -292,6 +365,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "宇树科技：2026年8月7日举行IPO网上路演，拟发行4044.64万股",
+          "url": "https://wallstreetcn.com/livenews/3145359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "A股三大指数均涨超1%，半导体芯片、贵金属、AI应用、算力硬件等方向涨幅居前，沪深京三市上涨个股近4000只。",
           "url": "https://wallstreetcn.com/livenews/3145129",
           "source": "华尔街见闻-快讯",
@@ -303,15 +387,15 @@
           "time_info": "11时57分"
         },
         {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
+          "title": "魅视科技：拟开展磷化铟半导体材料产业化项目前期工作",
+          "url": "https://wallstreetcn.com/livenews/3145358",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时34分"
+          "time_info": "19时57分"
         },
         {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
@@ -334,17 +418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
-        },
-        {
-          "title": "李大霄谈高科技反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E9%AB%98%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
@@ -444,17 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
-        },
-        {
-          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
-          "url": "https://www.zhihu.com/question/2068289164244693148",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "据Axios：白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
@@ -688,17 +750,6 @@
           "time_info": "06时59分"
         },
         {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
           "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
           "url": "https://wallstreetcn.com/livenews/3144864",
           "source": "华尔街见闻-快讯",
@@ -708,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "千里科技1-7月整车产销同比增加",
+          "url": "https://wallstreetcn.com/livenews/3145329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
@@ -738,7 +800,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -760,7 +822,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
