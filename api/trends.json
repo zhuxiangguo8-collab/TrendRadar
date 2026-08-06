@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-06T16:28:07.471574+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-08-06T19:19:01.798370+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 66,
+      "match_count": 76,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时55分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[06时55分 ~ 19时19分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -128,6 +129,41 @@
           "time_info": "[00时02分 ~ 07时57分]"
         },
         {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
+          "url": "https://www.zhihu.com/question/2068004843956827148",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时19分]"
+        },
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 19时19分]"
+        },
+        {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
           "url": "https://www.zhihu.com/question/10315979917",
           "source": "知乎",
@@ -150,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "宇树科技：确定本次发行价格为150.80元/股",
+          "url": "https://wallstreetcn.com/livenews/3146005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "A股抽水蓄能板块震荡走低，长缆科技跌超6%，汉缆股份、顺钠股份、百利电气跌超5%，九洲集团、保变电气跟跌。",
@@ -180,7 +227,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -202,7 +249,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -229,17 +276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时55分]"
-        },
-        {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 16时28分]"
         },
         {
           "title": "Meta旗下AI入侵一公司系统",
@@ -278,17 +314,6 @@
           "time_info": "[13时45分 ~ 16时28分]"
         },
         {
-          "title": "《完蛋！我被男同学包围了》为什么会好评如潮，纯粹因为它是高中生玩票制作的搞笑玩梗游戏吗？",
-          "url": "https://www.zhihu.com/question/2068004843956827148",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
           "title": "摩根大通：科技股交易在经历惨烈抛售后，散户影响力或将加大",
           "url": "https://wallstreetcn.com/livenews/3145627",
           "source": "华尔街见闻-快讯",
@@ -313,6 +338,28 @@
           "time_info": "[10时11分 ~ 13时45分]"
         },
         {
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "实控人拟变更，欣天科技连续四日20CM涨停",
+          "url": "https://www.cls.cn/detail/2447091",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
           "url": "https://wallstreetcn.com/livenews/3145522",
           "source": "华尔街见闻-快讯",
@@ -335,6 +382,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时50分]"
+        },
+        {
+          "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "宇树科技：确定本次发行价格为150.80元/股",
+          "url": "https://flash.jin10.com/detail/20260806190153127800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
@@ -409,9 +500,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "英国央行：AI正在提升英国的生产率，但也对就业造成负面影响",
+          "url": "https://flash.jin10.com/detail/20260806185551254800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "周三（8月5日），美股行业ETF多数下跌，能源业ETF收跌2.07%，半导体ETF跌1.04%，科技行业ETF跌0.53%，生物科技指数ETF涨0.87%，医疗业ETF涨1.27%。",
@@ -431,7 +533,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -475,7 +577,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -497,7 +599,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -673,7 +775,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -720,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "行云科技：在手算力长单超150亿元 客户主动加价扩量",
+          "url": "https://wallstreetcn.com/livenews/3145969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
