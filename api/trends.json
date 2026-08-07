@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T19:43:03.603445+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-08-07T20:54:00.658767+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 89,
+      "match_count": 92,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -44,8 +44,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 19时43分]"
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 20时54分]"
+        },
+        {
+          "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
+          "url": "https://www.cls.cn/detail/2448544",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 20时54分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -71,17 +85,32 @@
           "time_info": "[08时39分 ~ 15时08分]"
         },
         {
-          "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
-          "url": "https://www.cls.cn/detail/2448544",
-          "source": "财联社热门",
+          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
+          "url": "https://www.zhihu.com/question/2068266245296744222",
+          "source": "知乎",
           "ranks": [
-            5,
-            3,
-            2
+            14,
+            12,
+            13,
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 19时43分]"
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 20时54分]"
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 20时54分]"
         },
         {
           "title": "宇树科技8月10日开启网上申购",
@@ -108,19 +137,44 @@
           "time_info": "[08时39分 ~ 08时40分]"
         },
         {
-          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
-          "url": "https://www.zhihu.com/question/2068266245296744222",
-          "source": "知乎",
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
+            9,
+            25,
             14,
-            12,
             13,
-            17,
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时37分 ~ 19时43分]"
+          "time_info": "[16时54分 ~ 20时54分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 20时54分]"
+        },
+        {
+          "title": "谁是宇树科技背后大赢家",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E6%98%AF%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%83%8C%E5%90%8E%E5%A4%A7%E8%B5%A2%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 20时54分]"
         },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -158,18 +212,6 @@
           "time_info": "[08时39分 ~ 15时08分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 19时43分]"
-        },
-        {
           "title": "报道：LG董事长与黄仁勋下周将会面 或讨论实体AI和智能工厂",
           "url": "https://wallstreetcn.com/livenews/3146328",
           "source": "华尔街见闻-快讯",
@@ -190,6 +232,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 20时54分]"
         },
         {
           "title": "中国AI偶像能飞",
@@ -213,18 +267,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
-          "url": "https://wallstreetcn.com/livenews/3146694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -262,17 +305,6 @@
           "time_info": "18时51分"
         },
         {
-          "title": "胜宏科技：与核心客户合作的研发迭代产品正顺利推进，部分客户已释放2027-2028年长期需求",
-          "url": "https://wallstreetcn.com/livenews/3146693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
@@ -284,29 +316,17 @@
           "time_info": "[08时39分 ~ 15时08分]"
         },
         {
-          "title": "立昂微：拟受让国投（上海）科技成果转化创业投资基金企业（有限合伙）持有的浙江金瑞泓科技股份有限公司11.4705%股权，交易金额为人民币3.18亿元。",
-          "url": "https://wallstreetcn.com/livenews/3146691",
-          "source": "华尔街见闻-快讯",
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            25,
-            14,
-            13
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时43分]"
+          "time_info": "[18时51分 ~ 20时54分]"
         },
         {
           "title": "谁是宇树科技背后赢家",
@@ -321,31 +341,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时37分 ~ 19时43分]"
-        },
-        {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时43分]"
-        },
-        {
-          "title": "谁是宇树科技背后大赢家",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E6%98%AF%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%83%8C%E5%90%8E%E5%A4%A7%E8%B5%A2%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时43分]"
         },
         {
           "title": "汪峰公司因AI从1100人减到400人",
@@ -385,6 +380,18 @@
           "time_info": "[16时54分 ~ 17时57分]"
         },
         {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 20时54分]"
+        },
+        {
           "title": "宇树科技王兴兴：人形机器人会为人类生活带来更多的创新创业机会",
           "url": "https://wallstreetcn.com/livenews/3146591",
           "source": "华尔街见闻-快讯",
@@ -397,6 +404,18 @@
           "time_info": "[16时54分 ~ 17时57分]"
         },
         {
+          "title": "胜宏科技：与核心客户合作的研发迭代产品正顺利推进，部分客户已释放2027-2028年长期需求",
+          "url": "https://wallstreetcn.com/livenews/3146693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 20时54分]"
+        },
+        {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
           "url": "https://wallstreetcn.com/articles/3778828",
           "source": "华尔街见闻",
@@ -407,6 +426,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时39分 ~ 13时37分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 20时54分]"
         },
         {
           "title": "内娱第一人 戚薇开放形象AI授权",
@@ -422,16 +453,16 @@
           "time_info": "[08时39分 ~ 13时37分]"
         },
         {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
+          "title": "立昂微：拟受让国投（上海）科技成果转化创业投资基金企业（有限合伙）持有的浙江金瑞泓科技股份有限公司11.4705%股权，交易金额为人民币3.18亿元。",
+          "url": "https://wallstreetcn.com/livenews/3146691",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            13
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 19时43分]"
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 20时54分]"
         },
         {
           "title": "戚薇AI短剧 雷霆视角",
@@ -447,6 +478,18 @@
           "time_info": "[13时37分 ~ 17时57分]"
         },
         {
+          "title": "宇树科技中一签需缴款7.54万元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 20时54分]"
+        },
+        {
           "title": "试玩5个高中生做的高中生活游戏",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -458,18 +501,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时39分 ~ 17时57分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 19时43分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -531,17 +562,6 @@
           "time_info": "[17时57分 ~ 18时51分]"
         },
         {
-          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
-          "url": "https://wallstreetcn.com/articles/3778904",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 19时43分]"
-        },
-        {
           "title": "宇树科技王兴兴：上市有压力更有动力 将以良好的业绩回报股东",
           "url": "https://wallstreetcn.com/livenews/3146583",
           "source": "华尔街见闻-快讯",
@@ -564,6 +584,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 13时37分]"
+        },
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
@@ -622,17 +653,6 @@
           "time_info": "[13时37分 ~ 15时08分]"
         },
         {
-          "title": "宇树科技中一签需缴款7.54万元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 19时43分]"
-        },
-        {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
@@ -642,6 +662,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "为什么清华姚班的同学很少有做游戏的呢？",
+          "url": "https://www.zhihu.com/question/2062649950488601090",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
@@ -788,6 +819,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "AI相关债券密集发售引发“消化不良”，华尔街被迫重新思考配售策略",
+          "url": "https://wallstreetcn.com/livenews/3146706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
@@ -915,7 +957,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -970,7 +1012,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
