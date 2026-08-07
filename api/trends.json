@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T20:54:00.658767+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-08-07T22:11:02.751842+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 92,
+      "match_count": 95,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时39分 ~ 19时43分]"
+        },
+        {
+          "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
+          "url": "https://www.cls.cn/detail/2448544",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时57分 ~ 22时11分]"
         },
         {
           "title": "宇树科技发行价150.8元",
@@ -48,20 +62,6 @@
           "time_info": "[13时37分 ~ 20时54分]"
         },
         {
-          "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
-          "url": "https://www.cls.cn/detail/2448544",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时57分 ~ 20时54分]"
-        },
-        {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
           "url": "https://www.cls.cn/detail/2447939",
           "source": "财联社热门",
@@ -71,6 +71,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时39分 ~ 15时08分]"
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时57分 ~ 22时11分]"
         },
         {
           "title": "打破国外垄断！中国重磅科技集中上新",
@@ -100,17 +113,45 @@
           "time_info": "[13时37分 ~ 20时54分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            4,
-            8
+            9,
+            25,
+            14,
+            13,
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时57分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[16时54分 ~ 22时11分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时54分 ~ 22时11分]"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时57分 ~ 22时11分]"
         },
         {
           "title": "宇树科技8月10日开启网上申购",
@@ -126,6 +167,20 @@
           "time_info": "[08时39分 ~ 13时37分]"
         },
         {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时51分 ~ 22时11分]"
+        },
+        {
           "title": "宇树科技发行价 150.80 元 / 股，发行市盈率高达 219.23 倍，这个定价贵不贵？",
           "url": "https://www.zhihu.com/question/2068776757054760833",
           "source": "知乎",
@@ -137,31 +192,19 @@
           "time_info": "[08时39分 ~ 08时40分]"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "谁是宇树科技背后赢家",
+          "url": "https://www.toutiao.com/trending/7671113266424368678/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            25,
-            14,
-            13,
-            12
+            10,
+            20,
+            24,
+            29,
+            26
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时54分 ~ 20时54分]"
-        },
-        {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 20时54分]"
+          "time_info": "[13时37分 ~ 22时11分]"
         },
         {
           "title": "谁是宇树科技背后大赢家",
@@ -234,16 +277,17 @@
           "time_info": "13时37分"
         },
         {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
+          "title": "宇树科技中一签需缴款7.54万元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            13
+            17,
+            16,
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时57分 ~ 20时54分]"
+          "time_info": "[19时42分 ~ 22时11分]"
         },
         {
           "title": "中国AI偶像能飞",
@@ -316,31 +360,15 @@
           "time_info": "[08时39分 ~ 15时08分]"
         },
         {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
+          "title": "北美科技软件股指数ETF涨超2.7%，报102.34美元，逼近8月5日盘中最高位103.72美元和6月1日顶部108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3146770",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时51分 ~ 20时54分]"
-        },
-        {
-          "title": "谁是宇树科技背后赢家",
-          "url": "https://www.toutiao.com/trending/7671113266424368678/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时37分 ~ 19时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "汪峰公司因AI从1100人减到400人",
@@ -465,6 +493,18 @@
           "time_info": "[19时43分 ~ 20时54分]"
         },
         {
+          "title": "为什么清华姚班的同学很少有做游戏的呢？",
+          "url": "https://www.zhihu.com/question/2062649950488601090",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 22时11分]"
+        },
+        {
           "title": "戚薇AI短剧 雷霆视角",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -476,18 +516,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时37分 ~ 17时57分]"
-        },
-        {
-          "title": "宇树科技中一签需缴款7.54万元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 20时54分]"
         },
         {
           "title": "试玩5个高中生做的高中生活游戏",
@@ -664,17 +692,6 @@
           "time_info": "[08时39分 ~ 08时40分]"
         },
         {
-          "title": "为什么清华姚班的同学很少有做游戏的呢？",
-          "url": "https://www.zhihu.com/question/2062649950488601090",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
           "url": "https://www.toutiao.com/trending/7670341977426296874/",
           "source": "今日头条",
@@ -825,7 +842,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -850,6 +867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "中欧基金杜厚良：经过近期调整，AI产业链中部分公司估值已处于相对低位区间",
+          "url": "https://wallstreetcn.com/livenews/3146756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "宇树科技王兴兴：将继续开拓C端市场",
@@ -993,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "创系列指数矩阵扩容！16家公募上报创业板算力、金融科技ETF",
+          "url": "https://wallstreetcn.com/livenews/3146746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "港股收盘：恒生指数收涨0.54%，恒生科技指数收涨0.78%。生物医药板块走高，药明生物涨超10%；智谱涨超14%，MINIMAX涨约10%。",
