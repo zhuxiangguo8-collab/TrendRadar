@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:42:45.839919+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-08-08T22:28:26.640372+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "一图看懂 | 宇树科技打新攻略来了，中一签需缴款7.54万元",
@@ -34,6 +34,20 @@
           "time_info": "[09时14分 ~ 20时38分]"
         },
         {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时43分 ~ 22时28分]"
+        },
+        {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
           "url": "https://www.cls.cn/detail/2448863",
           "source": "财联社热门",
@@ -46,22 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时52分 ~ 21时42分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时43分 ~ 21时42分]"
+          "appearance_count": 23,
+          "time_info": "[00时52分 ~ 22时28分]"
         },
         {
           "title": "宇树科技发行价 150.80 元 / 股，总市值突破 600 亿，中一签需缴款 7.54 万元，如何看待这个估值？",
@@ -114,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时53分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时53分 ~ 22时28分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -229,6 +229,32 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 22时28分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时28分]"
+        },
+        {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
@@ -273,18 +299,6 @@
           "time_info": "[14时43分 ~ 19时24分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时42分]"
-        },
-        {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
           "url": "https://wallstreetcn.com/livenews/3146841",
           "source": "华尔街见闻-快讯",
@@ -321,19 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时39分 ~ 14时43分]"
-        },
-        {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时33分 ~ 21时42分]"
         },
         {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
@@ -467,6 +468,31 @@
           "time_info": "[05时35分 ~ 07时30分]"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时28分]"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时28分]"
+        },
+        {
           "title": "用Token还是词元事关科技话语权",
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8Token%E8%BF%98%E6%98%AF%E8%AF%8D%E5%85%83%E4%BA%8B%E5%85%B3%E7%A7%91%E6%8A%80%E8%AF%9D%E8%AF%AD%E6%9D%83&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -514,6 +540,30 @@
           "time_info": "[01时45分 ~ 02时49分]"
         },
         {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时28分]"
+        },
+        {
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时28分]"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（8月8日）",
           "url": "https://flash.jin10.com/detail/20260808091850131800",
           "source": "金十数据",
@@ -550,18 +600,6 @@
           "time_info": "[01时45分 ~ 02时49分]"
         },
         {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时42分]"
-        },
-        {
           "title": "宇树科技中一签或至少赚5万",
           "url": "https://www.toutiao.com/trending/7670835580204453417/",
           "source": "今日头条",
@@ -585,15 +623,16 @@
           "time_info": "[18时27分 ~ 19时24分]"
         },
         {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
+          "title": "苹果官宣Mac接入阿里千问AI，相关功能仅限中国大陆地区",
+          "url": "https://wallstreetcn.com/livenews/3146987",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            27,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时42分]"
+          "time_info": "[21时42分 ~ 22时28分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -629,26 +668,15 @@
           "time_info": "17时33分"
         },
         {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "22时28分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -682,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.49%，报25790点。 恒生科技指数主连夜盘收涨0.72%，报4893点。",
@@ -737,17 +776,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "苹果官宣Mac接入阿里千问AI，相关功能仅限中国大陆地区",
-          "url": "https://wallstreetcn.com/livenews/3146987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         }
       ]
     }
