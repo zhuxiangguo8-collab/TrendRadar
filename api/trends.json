@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T05:26:23.029530+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-08-09T06:24:16.309710+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -73,11 +73,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -88,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -101,8 +102,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -112,11 +113,12 @@
             4,
             6,
             7,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -125,22 +127,47 @@
           "ranks": [
             27,
             25,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时25分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 06时24分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
           "url": "https://wallstreetcn.com/articles/3778982",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 06时24分]"
+        },
+        {
+          "title": "央媒：用Token还是词元事关科技话语权",
+          "url": "https://www.toutiao.com/trending/7671123642835566598/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 06时24分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时24分]"
         },
         {
           "title": "苹果AI 千问",
@@ -152,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "央媒：用Token还是词元事关科技话语权",
-          "url": "https://www.toutiao.com/trending/7671123642835566598/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
