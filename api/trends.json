@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:27:22.082761+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-08-08T19:24:26.702636+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时14分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 19时24分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时52分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 19时24分]"
         },
         {
           "title": "宇树科技发行价 150.80 元 / 股，总市值突破 600 亿，中一签需缴款 7.54 万元，如何看待这个估值？",
@@ -80,11 +80,12 @@
             18,
             15,
             20,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 18时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时52分 ~ 19时24分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -102,6 +103,19 @@
           "time_info": "[00时52分 ~ 13时40分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 19时24分]"
+        },
+        {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
           "url": "https://www.cls.cn/detail/2448766",
           "source": "财联社热门",
@@ -113,8 +127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时52分 ~ 18时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 19时24分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -125,11 +139,12 @@
             15,
             13,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时50分 ~ 18时27分]"
+          "appearance_count": 17,
+          "time_info": "[03时50分 ~ 19时24分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -147,19 +162,6 @@
           "time_info": "[09时14分 ~ 16时36分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时53分 ~ 18时27分]"
-        },
-        {
           "title": "自媒体红利期只剩AI了",
           "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -173,6 +175,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时53分 ~ 18时27分]"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时43分 ~ 19时24分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -210,19 +225,6 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 18时27分]"
-        },
-        {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
@@ -251,6 +253,22 @@
           "time_info": "[00时52分 ~ 06时31分]"
         },
         {
+          "title": "景林资产二季度大幅减持热门科技股",
+          "url": "https://wallstreetcn.com/livenews/3146968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            12,
+            19,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 19时24分]"
+        },
+        {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
           "url": "https://wallstreetcn.com/livenews/3146841",
           "source": "华尔街见闻-快讯",
@@ -262,19 +280,19 @@
           "time_info": "00时52分"
         },
         {
-          "title": "景林资产二季度大幅减持热门科技股",
-          "url": "https://wallstreetcn.com/livenews/3146968",
+          "title": "湖北首家宇树科技产业学院成立",
+          "url": "https://wallstreetcn.com/livenews/3146971",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            7,
-            12,
-            19,
-            20
+            4,
+            9,
+            16,
+            17,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时43分 ~ 18时27分]"
+          "time_info": "[15时45分 ~ 19时24分]"
         },
         {
           "title": "适合夏季玩的游戏盘点",
@@ -331,20 +349,6 @@
           "time_info": "[05时35分 ~ 09时14分]"
         },
         {
-          "title": "湖北首家宇树科技产业学院成立",
-          "url": "https://wallstreetcn.com/livenews/3146971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时27分]"
-        },
-        {
           "title": "摩根大通上调科技债发行预期，今年供应规模将超过5000亿美元",
           "url": "https://wallstreetcn.com/livenews/3146897",
           "source": "华尔街见闻-快讯",
@@ -356,6 +360,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 05时35分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时24分]"
         },
         {
           "title": "戚薇谈把脸交给AI",
@@ -408,6 +424,19 @@
           "time_info": "[04时36分 ~ 07时30分]"
         },
         {
+          "title": "为什么体制内至今仍不鼓励用人工智能？",
+          "url": "https://www.zhihu.com/question/2042649810709239000",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时24分]"
+        },
+        {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
           "url": "https://flash.jin10.com/detail/20260808100104329800",
           "source": "金十数据",
@@ -455,18 +484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 09时14分]"
-        },
-        {
-          "title": "为什么体制内至今仍不鼓励用人工智能？",
-          "url": "https://www.zhihu.com/question/2042649810709239000",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时27分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -527,6 +544,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时43分 ~ 15时45分]"
+        },
+        {
+          "title": "苹果AI",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时24分]"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时24分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -595,17 +634,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "苹果AI",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.49%，报25790点。 恒生科技指数主连夜盘收涨0.72%，报4893点。",
           "url": "https://wallstreetcn.com/livenews/3146878",
           "source": "华尔街见闻-快讯",
@@ -659,28 +687,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         }
       ]
     }
