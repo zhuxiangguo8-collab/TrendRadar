@@ -1,27 +1,39 @@
 {
-  "generated_at": "2026-08-09T06:24:16.309710+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-09T07:24:02.882051+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
-        },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
           "url": "https://wallstreetcn.com/articles/3778984",
           "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时24分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时24分]"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
@@ -35,23 +47,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -60,11 +61,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -77,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -89,8 +91,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -99,11 +101,27 @@
           "ranks": [
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 07时24分]"
+        },
+        {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25,
+            28,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 07时24分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -114,25 +132,12 @@
             6,
             7,
             19,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时24分]"
-        },
-        {
-          "title": "当AI反过来问你问题",
-          "url": "https://www.douyin.com/hot/2600930",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 06时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -143,8 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[05时26分 ~ 07时24分]"
         },
         {
           "title": "央媒：用Token还是词元事关科技话语权",
@@ -152,22 +157,57 @@
           "source": "今日头条",
           "ranks": [
             25,
-            30
+            30,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时24分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 07时24分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时23分 ~ 07时24分]"
+        },
+        {
+          "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
+          "url": "https://wallstreetcn.com/articles/3778981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时23分 ~ 06时24分]"
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "你心目中最好的十款单机游戏是什么？",
+          "url": "https://www.zhihu.com/question/479719590",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "AI帮你开发以前要花钱的功能",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时24分]"
         },
         {
           "title": "苹果AI 千问",
