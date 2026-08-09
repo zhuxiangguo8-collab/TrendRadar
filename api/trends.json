@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T15:51:42.509222+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-08-09T16:37:45.629341+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 16时37分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 16时37分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -131,8 +131,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 15时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 16时37分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -166,6 +166,20 @@
           "time_info": "[00时28分 ~ 07时24分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 16时37分]"
+        },
+        {
           "title": "你心目中最好的十款单机游戏是什么？",
           "url": "https://www.zhihu.com/question/479719590",
           "source": "知乎",
@@ -183,19 +197,6 @@
           "time_info": "[07时23分 ~ 15时51分]"
         },
         {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 15时51分]"
-        },
-        {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
           "url": "https://wallstreetcn.com/livenews/3147043",
           "source": "华尔街见闻-快讯",
@@ -203,11 +204,12 @@
             3,
             6,
             7,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 16时37分]"
         },
         {
           "title": "首个全国产10万卡AI超集群投用",
@@ -216,9 +218,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时37分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 16时37分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -244,18 +258,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时23分 ~ 11时31分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时51分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -319,6 +321,17 @@
           "time_info": "[13时01分 ~ 14时48分]"
         },
         {
+          "title": "如何评价今年被称为「最贵开学季」？游戏本涨至上万元「劝退」准大学生，有哪些平替方案？",
+          "url": "https://www.zhihu.com/question/2058246439600498015",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 16时37分]"
+        },
+        {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
           "url": "https://www.zhihu.com/question/2069446019272724909",
           "source": "知乎",
@@ -328,6 +341,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "宇树科技明日打新，注意四大事项",
+          "url": "https://www.cls.cn/detail/2449251",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时37分]"
         },
         {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
@@ -352,17 +377,6 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
-          "title": "如何评价今年被称为「最贵开学季」？游戏本涨至上万元「劝退」准大学生，有哪些平替方案？",
-          "url": "https://www.zhihu.com/question/2058246439600498015",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时51分]"
-        },
-        {
           "title": "宇树科技上市",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -374,15 +388,15 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "宇树科技明日打新，注意四大事项",
-          "url": "https://www.cls.cn/detail/2449251",
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
           "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时51分"
+          "time_info": "16时37分"
         },
         {
           "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
@@ -391,9 +405,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "宇树科技中一签需缴7.54万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B47.54%E4%B8%87%E5%85%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月9日）",
