@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T22:31:39.799139+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-08-09T23:26:55.662453+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时31分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[11时31分 ~ 23时26分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时51分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[15时51分 ~ 23时26分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -102,6 +102,23 @@
           "time_info": "[00时28分 ~ 11时31分]"
         },
         {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时37分 ~ 23时26分]"
+        },
+        {
           "title": "AI快问快答,D老师语出惊人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
           "source": "贴吧",
@@ -115,11 +132,12 @@
             14,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时28分 ~ 22时31分]"
+          "appearance_count": 28,
+          "time_info": "[00时28分 ~ 23时26分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -132,8 +150,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时28分 ~ 22时31分]"
+          "appearance_count": 28,
+          "time_info": "[00时28分 ~ 23时26分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -195,22 +213,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时25分 ~ 07时24分]"
-        },
-        {
-          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
-          "url": "https://www.cls.cn/detail/2449266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时37分 ~ 22时31分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -282,11 +284,12 @@
             26,
             15,
             29,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 22时31分]"
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 23时26分]"
         },
         {
           "title": "宇树科技明日申购，中一签能赚多少？",
@@ -297,8 +300,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[18时29分 ~ 23时26分]"
         },
         {
           "title": "宇树科技中一签需缴7.54万元",
@@ -314,17 +317,6 @@
           "time_info": "[16时37分 ~ 20时40分]"
         },
         {
-          "title": "普通人如何抓住科技红利",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时30分 ~ 22时31分]"
-        },
-        {
           "title": "AI推理前瞻——从基础设施建设到商业化变现",
           "url": "https://wallstreetcn.com/articles/3778997",
           "source": "华尔街见闻",
@@ -338,15 +330,38 @@
           "time_info": "[13时01分 ~ 17时35分]"
         },
         {
-          "title": "券商综合测算：宇树科技中一签或赚20万元",
-          "url": "https://wallstreetcn.com/livenews/3147113",
+          "title": "宇树科技中签率远低于长鑫科技",
+          "url": "https://wallstreetcn.com/livenews/3147117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时26分"
+        },
+        {
+          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
+          "url": "https://wallstreetcn.com/livenews/3147116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "普通人如何抓住科技红利",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时30分 ~ 23时26分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -374,6 +389,18 @@
           "time_info": "[07时23分 ~ 11时31分]"
         },
         {
+          "title": "券商综合测算：宇树科技中一签或赚20万元",
+          "url": "https://wallstreetcn.com/livenews/3147113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时26分]"
+        },
+        {
           "title": "方正证券：市场超跌反弹进入攻坚期，科技与景气赛道分化演绎",
           "url": "https://flash.jin10.com/detail/20260809165833532800",
           "source": "金十数据",
@@ -385,6 +412,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时35分 ~ 19时25分]"
+        },
+        {
+          "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
+          "url": "https://www.cls.cn/detail/2449229",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 23时26分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -424,6 +463,30 @@
           "time_info": "[09时18分 ~ 11时31分]"
         },
         {
+          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时30分 ~ 23时26分]"
+        },
+        {
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时30分 ~ 23时26分]"
+        },
+        {
           "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
           "url": "https://wallstreetcn.com/articles/3778989",
           "source": "华尔街见闻",
@@ -448,15 +511,15 @@
           "time_info": "[13时01分 ~ 14时48分]"
         },
         {
-          "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
-          "url": "https://www.cls.cn/detail/2449229",
-          "source": "财联社热门",
+          "title": "网民AI造谣“西平灭门案”被行拘",
+          "url": "https://www.toutiao.com/trending/7671970111683969066/",
+          "source": "今日头条",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时51分 ~ 22时31分]"
+          "time_info": "[22时30分 ~ 23时26分]"
         },
         {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
@@ -493,15 +556,28 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
-          "url": "https://wallstreetcn.com/articles/3778910",
-          "source": "华尔街见闻",
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时30分 ~ 22时31分]"
+          "time_info": "[22时31分 ~ 23时26分]"
+        },
+        {
+          "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
+          "url": "https://wallstreetcn.com/livenews/3147103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时26分]"
         },
         {
           "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
@@ -513,28 +589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2449376",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时30分 ~ 22时31分]"
-        },
-        {
-          "title": "网民AI造谣“西平灭门案”被行拘",
-          "url": "https://www.toutiao.com/trending/7671970111683969066/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "70亿token做出AI督学军官",
@@ -557,28 +611,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
-          "url": "https://wallstreetcn.com/livenews/3147106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
-          "url": "https://wallstreetcn.com/livenews/3147103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月9日）",
