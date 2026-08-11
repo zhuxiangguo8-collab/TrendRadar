@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-08-12T00:57:27.570724+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-12T01:56:35.965103+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "宇树科技中签号出炉",
+          "url": "https://www.cls.cn/detail/2451500",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
           "url": "https://flash.jin10.com/detail/20260812003202953800",
@@ -19,59 +63,16 @@
           "time_info": "00时57分"
         },
         {
-          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
-          "url": "https://www.cls.cn/detail/2451347",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "宇树科技中签号出炉",
-          "url": "https://www.cls.cn/detail/2451500",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
           "title": "AI打开了我童年记忆的百宝箱",
           "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -81,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -92,8 +93,111 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
+          "url": "https://www.zhihu.com/question/2070098614244864702",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
+          "url": "https://www.cls.cn/detail/2451331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "宇树科技中签者发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
+          "url": "https://www.zhihu.com/question/2068955233896640772",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33760242",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "宇树科技中签号出炉 共约1.94万个",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "Brad Lightcap宣布从OpenAI离职，称：将向前看，将“尝试一些新的东西”。",
@@ -107,103 +211,70 @@
           "time_info": "00时57分"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
+          "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3148181",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时56分"
         },
         {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
-          "url": "https://www.zhihu.com/question/2070098614244864702",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
-          "url": "https://www.cls.cn/detail/2451331",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
+          "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
+          "url": "https://wallstreetcn.com/livenews/3148176",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时56分"
         },
         {
-          "title": "如何评价起点官方被曝禁止新人作者使用 AI 润色？否则不允许上架？",
-          "url": "https://www.zhihu.com/question/2068955233896640772",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33760242",
-          "source": "澎湃新闻",
+          "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
+          "url": "https://flash.jin10.com/detail/20260812005839889800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时56分"
         },
         {
-          "title": "宇树科技中签号出炉 共约1.94万个",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
-          "source": "百度热搜",
+          "title": "SpaceXAI：推出Grok Bot聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260812005621568800",
+          "source": "金十数据",
           "ranks": [
-            28
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时56分"
         },
         {
-          "title": "宇树科技中签者发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
+          "url": "https://wallstreetcn.com/livenews/3148170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "01时56分"
         }
       ]
     }
