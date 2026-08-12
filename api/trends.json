@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-08-12T07:36:15.209645+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-08-12T09:27:35.611496+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "宇树科技中签号出炉",
+          "url": "https://www.cls.cn/detail/2451500",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时27分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时27分]"
+        },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
@@ -20,26 +43,16 @@
           "time_info": "[00时57分 ~ 07时36分]"
         },
         {
-          "title": "宇树科技中签号出炉",
-          "url": "https://www.cls.cn/detail/2451500",
-          "source": "财联社热门",
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
           "ranks": [
-            4
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时27分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -48,18 +61,6 @@
           "ranks": [
             6,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -78,19 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时36分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时27分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -98,11 +88,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时27分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -111,6 +102,17 @@
           "ranks": [
             9,
             10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 09时27分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -141,6 +143,18 @@
           "time_info": "[00时57分 ~ 07时36分]"
         },
         {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时37分 ~ 09时27分]"
+        },
+        {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
           "url": "https://wallstreetcn.com/articles/3779115",
           "source": "华尔街见闻",
@@ -150,17 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 02时56分]"
-        },
-        {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时37分 ~ 07时36分]"
         },
         {
           "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
@@ -192,20 +195,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
         {
-          "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
-          "url": "https://wallstreetcn.com/livenews/3148287",
-          "source": "华尔街见闻-快讯",
+          "title": "香港恒生指数8月12日（周三）开盘下跌154.43点，跌幅0.6%，报25498.39点；<br/>香港恒生科技指数8月12日（周三）开盘下跌38.67点，跌幅0.8%，报4785.75点；<br/>国企指数8月12日（周三）开盘下跌48.5点，跌幅0.57%，报8479.6点；<br/>红筹指数8月12日（周三）开盘下跌5.66点，跌幅0.14%，报4116.27点。",
+          "url": "https://flash.jin10.com/detail/20260812092135039800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "09时27分"
         },
         {
           "title": "AI云服务巨头Coreweave(CRWV.O)第二财季营收25.8亿美元，市场预期25.6亿美元；第二财季净亏损6.26亿美元，市场预期亏损7.571亿美元；截至2026年6月30日，合同在手订单总额约为1040亿美元。",
@@ -217,17 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
-          "url": "https://wallstreetcn.com/livenews/3148284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
         },
         {
           "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
@@ -279,6 +271,18 @@
           "time_info": "[06时37分 ~ 07时36分]"
         },
         {
+          "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
+          "url": "https://wallstreetcn.com/livenews/3148287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时27分]"
+        },
+        {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
           "url": "https://wallstreetcn.com/livenews/3148243",
           "source": "华尔街见闻-快讯",
@@ -290,6 +294,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 06时37分]"
+        },
+        {
+          "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
+          "url": "https://wallstreetcn.com/livenews/3148284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时27分]"
         },
         {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
@@ -410,15 +426,70 @@
           "time_info": "00时57分"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
+          "url": "https://wallstreetcn.com/articles/3779167",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
+          "url": "https://wallstreetcn.com/articles/3779129",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
           "url": "https://wallstreetcn.com/livenews/3148270",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "国行苹果AI支持机型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "SpaceXAI：Grok Bot聊天机器人目前处于测试阶段，今日向SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium订阅用户开放，支持桌面端和iOS端使用。",
