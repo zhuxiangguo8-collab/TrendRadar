@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-13T21:00:48.476217+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-08-13T22:24:27.391098+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 81,
+      "match_count": 85,
       "titles": [
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 22时24分]"
+        },
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
           "url": "https://wallstreetcn.com/articles/3779299",
@@ -20,21 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时55分 ~ 21时00分]"
-        },
-        {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时17分 ~ 21时00分]"
+          "appearance_count": 15,
+          "time_info": "[01时55分 ~ 22时24分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -49,8 +49,37 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时55分 ~ 21时00分]"
+          "appearance_count": 15,
+          "time_info": "[01时55分 ~ 22时24分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            15,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 22时24分]"
+        },
+        {
+          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
+          "url": "https://www.cls.cn/detail/2453237",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时17分 ~ 22时24分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -64,17 +93,18 @@
           "time_info": "[01时55分 ~ 05时41分]"
         },
         {
-          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
-          "url": "https://www.cls.cn/detail/2453237",
-          "source": "财联社热门",
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
+            8,
             6,
-            5
+            1,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时17分 ~ 21时00分]"
+          "time_info": "[18时00分 ~ 22时24分]"
         },
         {
           "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
@@ -99,33 +129,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 07时37分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            19,
-            13,
-            15,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时17分 ~ 21时00分]"
-        },
-        {
-          "title": "长鑫科技 中国市值最大上市公司",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时00分 ~ 21时00分]"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -184,9 +187,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        },
+        {
+          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
+          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时00分 ~ 22时24分]"
+        },
+        {
+          "title": "行云科技：公司所有核心长单无集中兑现风险 业绩释放平稳可持续",
+          "url": "https://wallstreetcn.com/livenews/3149208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "宇树科技遭弃购8734股",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时24分]"
         },
         {
           "title": "A股黄金概念股午后持续走低，晓程科技跌超8%，招金黄金跌超6%，湖南白银、盛达资源等跟跌。",
@@ -221,18 +259,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时00分 ~ 19时06分]"
-        },
-        {
-          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
-          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时00分 ~ 21时00分]"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -394,6 +420,29 @@
           "time_info": "[01时55分 ~ 04时55分]"
         },
         {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时24分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时24分]"
+        },
+        {
           "title": "张朝阳谈AI如何帮助物理研究",
           "url": "https://www.douyin.com/hot/2607629",
           "source": "抖音",
@@ -416,17 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时01分 ~ 19时06分]"
-        },
-        {
-          "title": "宇树科技遭弃购8734股",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "腾讯启动顶尖AI产品人才招聘专项",
@@ -477,17 +515,6 @@
           "time_info": "[18时01分 ~ 19时06分]"
         },
         {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
-        },
-        {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
@@ -498,17 +525,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时41分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "梁文锋打新宇树科技有望浮盈超7亿",
@@ -562,7 +578,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -683,7 +699,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -754,6 +770,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
           "url": "https://flash.jin10.com/detail/20260813063512720800",
           "source": "金十数据",
@@ -804,9 +831,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        },
+        {
+          "title": "大疆发布第二代全景相机，AI成为影像产品升级重点",
+          "url": "https://wallstreetcn.com/livenews/3149188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "甄子丹「饰演」《影之刃零》中的角色「魔渊」，通过动捕 + 面捕参与游戏制作，使用「饰演」描述是否合适？",
@@ -848,7 +886,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -897,6 +935,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "美国克利夫兰联储主席哈马克（Hammack）：大量杠杆资金被用于购买美国国债。 国债是我在金融稳定方面关注的一个领域，还关注私募信贷，以及人工智能是否存在泡沫。",
+          "url": "https://wallstreetcn.com/livenews/3149179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "A股CPO概念股持续拉升，天孚通信、德科立涨超10%，共进股份此前涨停，炬光科技、华懋科技、东山精密、锐捷网络涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148855",
           "source": "华尔街见闻-快讯",
@@ -914,7 +963,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
