@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T09:28:52.926346+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-08-13T12:08:49.587492+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -19,6 +19,32 @@
           "time_info": "[01时55分 ~ 05时41分]"
         },
         {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 12时08分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 12时08分]"
+        },
+        {
           "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
           "url": "https://www.cls.cn/detail/2452438",
           "source": "财联社热门",
@@ -29,17 +55,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 07时37分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 09时28分]"
         },
         {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
@@ -66,17 +81,27 @@
           "time_info": "[01时55分 ~ 09时28分]"
         },
         {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            6
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 09时28分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 12时08分]"
+        },
+        {
+          "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
+          "url": "https://www.zhihu.com/question/2070900468931191892",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
@@ -92,18 +117,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时58分 ~ 09时28分]"
-        },
-        {
-          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
-          "url": "https://www.cls.cn/detail/2452911",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时28分]"
         },
         {
           "title": "95家公募获配宇树科技，金额超18亿元",
@@ -226,6 +239,17 @@
           "time_info": "07时37分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813115321665800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "路透调查显示，超过一半的日本企业计划在近期增加人工智能预算，31%的企业尚未决定。",
           "url": "https://flash.jin10.com/detail/20260813070049622800",
           "source": "金十数据",
@@ -243,7 +267,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -254,9 +278,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "小马智行在佛山新设科技公司，含智能机器人研发业务",
+          "url": "https://wallstreetcn.com/livenews/3148882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "宇树科技中签股民：计划全款提车",
@@ -265,7 +300,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -276,7 +311,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -309,7 +344,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -331,9 +366,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "臻宝科技落子光谷 拟5.2亿元投建半导体零部件研发生产基地项目",
+          "url": "https://flash.jin10.com/detail/20260813112646703800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
@@ -345,6 +391,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "A股CPO概念股持续拉升，天孚通信、德科立涨超10%，共进股份此前涨停，炬光科技、华懋科技、东山精密、锐捷网络涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3148855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260813111452092800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
