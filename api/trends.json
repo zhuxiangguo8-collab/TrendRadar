@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T19:06:25.515223+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-08-13T21:00:48.476217+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 71,
+      "match_count": 81,
       "titles": [
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
@@ -16,26 +16,12 @@
             8,
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 19时06分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            15,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时55分 ~ 19时06分]"
+          "appearance_count": 14,
+          "time_info": "[01时55分 ~ 21时00分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -47,8 +33,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时06分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 21时00分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            15,
+            18,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时55分 ~ 21时00分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -60,6 +62,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时55分 ~ 05时41分]"
+        },
+        {
+          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
+          "url": "https://www.cls.cn/detail/2453237",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 21时00分]"
         },
         {
           "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
@@ -84,6 +99,33 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 07时37分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13,
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 21时00分]"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时00分 ~ 21时00分]"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -136,17 +178,15 @@
           "time_info": "[01时55分 ~ 09时28分]"
         },
         {
-          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
-          "url": "https://www.cls.cn/detail/2453237",
-          "source": "财联社热门",
+          "title": "美国里士满联储主席巴尔金：美国的投资热潮并不仅限于数据中心。 当前通胀很大程度上源于应当会消退的冲击。 包括人工智能在内的一些通胀驱动因素可能具有持续性。 认为加息存在正反两方面的理由。 美国经济在消费者驱动下仍保持韧性。 AI投资似乎对利率水平具有免疫力。",
+          "url": "https://wallstreetcn.com/livenews/3149174",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            6,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
         },
         {
           "title": "A股黄金概念股午后持续走低，晓程科技跌超8%，招金黄金跌超6%，湖南白银、盛达资源等跟跌。",
@@ -183,6 +223,18 @@
           "time_info": "[18时00分 ~ 19时06分]"
         },
         {
+          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
+          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时00分 ~ 21时00分]"
+        },
+        {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
           "url": "https://www.zhihu.com/question/2070508935673378471",
           "source": "知乎",
@@ -196,6 +248,41 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时58分 ~ 09时28分]"
+        },
+        {
+          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
+          "url": "https://www.cls.cn/detail/2453081",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时00分 ~ 21时00分]"
+        },
+        {
+          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
+          "url": "https://www.cls.cn/detail/2453126",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时00分 ~ 21时00分]"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时00分 ~ 21时00分]"
         },
         {
           "title": "95家公募获配宇树科技，金额超18亿元",
@@ -270,29 +357,30 @@
           "time_info": "[01时55分 ~ 02时58分]"
         },
         {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
+          "title": "长鑫科技成为中国市值最大上市公司",
+          "url": "https://www.toutiao.com/trending/7673430128885501476/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            13,
-            15
+            8,
+            9,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时06分]"
+          "time_info": "[18时00分 ~ 21时00分]"
         },
         {
-          "title": "长鑫科技 中国市值最大上市公司",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "“阿里最年轻P10”林俊旸创业：语用科技落户模速空间，估值超百亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769319",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6
+            20,
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时00分 ~ 19时06分]"
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 21时00分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -304,39 +392,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时55分 ~ 04时55分]"
-        },
-        {
-          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
-          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时00分 ~ 19时06分]"
-        },
-        {
-          "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
-          "url": "https://www.cls.cn/detail/2453081",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时00分 ~ 19时06分]"
-        },
-        {
-          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
-          "url": "https://www.cls.cn/detail/2453126",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时00分 ~ 19时06分]"
         },
         {
           "title": "张朝阳谈AI如何帮助物理研究",
@@ -351,18 +406,6 @@
           "time_info": "[14时14分 ~ 18时01分]"
         },
         {
-          "title": "长鑫科技 中国市值最大上市公司",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时00分 ~ 19时06分]"
-        },
-        {
           "title": "宏和科技：2026年上半年电子级玻璃纤维布营收10.33亿元 同比上涨147.61%",
           "url": "https://wallstreetcn.com/livenews/3149092",
           "source": "华尔街见闻-快讯",
@@ -375,6 +418,17 @@
           "time_info": "[18时01分 ~ 19时06分]"
         },
         {
+          "title": "宇树科技遭弃购8734股",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%81%AD%E5%BC%83%E8%B4%AD8734%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
+        },
+        {
           "title": "腾讯启动顶尖AI产品人才招聘专项",
           "url": "https://wallstreetcn.com/livenews/3149091",
           "source": "华尔街见闻-快讯",
@@ -385,18 +439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时01分 ~ 19时06分]"
-        },
-        {
-          "title": "长鑫科技成为中国市值最大上市公司",
-          "url": "https://www.toutiao.com/trending/7673430128885501476/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时00分 ~ 19时06分]"
         },
         {
           "title": "福赛科技：公司机器人零部件产品处于早期研发、小批量试制及送样阶段",
@@ -435,6 +477,17 @@
           "time_info": "[18时01分 ~ 19时06分]"
         },
         {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
+        },
+        {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
@@ -445,6 +498,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时41分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "梁文锋打新宇树科技有望浮盈超7亿",
@@ -459,16 +523,15 @@
           "time_info": "[07时37分 ~ 09时28分]"
         },
         {
-          "title": "“阿里最年轻P10”林俊旸创业：语用科技落户模速空间，估值超百亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769319",
-          "source": "澎湃新闻",
+          "title": "老外到华强北扫货高科技",
+          "url": "https://www.toutiao.com/trending/7672710058145202239/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 16时17分]"
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "路透调查显示，超过80%的日本企业仅部分使用或根本不使用人工智能。",
@@ -493,13 +556,24 @@
           "time_info": "12时08分"
         },
         {
+          "title": "美联储巴尔金：人工智能使企业能够尝试减少员工人数，但由于盈利强劲，裁员压力不大。",
+          "url": "https://flash.jin10.com/detail/20260813204132248800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
           "title": "保险科技公司Accelerant美股盘前涨超45%，报道称该公司将被软件投资机构Thoma Bravo以每股20.25美元的价格私有化。",
           "url": "https://wallstreetcn.com/livenews/3149117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -521,7 +595,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -603,6 +677,17 @@
           "time_info": "14时14分"
         },
         {
+          "title": "中际旭创：拟17.47亿元受让中石科技10.47%股份",
+          "url": "https://wallstreetcn.com/livenews/3149163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
           "title": "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪",
           "url": "https://www.cls.cn/detail/2452850",
           "source": "财联社热门",
@@ -653,7 +738,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -713,6 +798,17 @@
           "time_info": "18时01分"
         },
         {
+          "title": "甲骨文与AWS扩大长期战略合作协议，加速客户迁移，Oracle AI Database@AWS现已在22个AWS区域提供并新增扩展功能。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3149155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
           "title": "甄子丹「饰演」《影之刃零》中的角色「魔渊」，通过动捕 + 面捕参与游戏制作，使用「饰演」描述是否合适？",
           "url": "https://www.zhihu.com/question/2070894183359983825",
           "source": "知乎",
@@ -746,6 +842,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
+          "url": "https://wallstreetcn.com/livenews/3149151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
           "title": "福赛科技：公司机器人零部件产品处于早期研发、小批量试制及送样阶段",
           "url": "https://flash.jin10.com/detail/20260813172839737800",
           "source": "金十数据",
@@ -774,7 +881,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -801,13 +908,24 @@
           "time_info": "12时08分"
         },
         {
+          "title": "美国科技巨头疯狂融资引发资本争夺战 非AI企业的信用风险指标也被推高",
+          "url": "https://wallstreetcn.com/livenews/3149143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时00分"
+        },
+        {
           "title": "锐新科技：终止收购芜湖德恒51%股权并撤回申请文件",
           "url": "https://flash.jin10.com/detail/20260813180753259800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
