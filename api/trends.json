@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:04:44.696146+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-08-14T16:12:14.485716+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 16时12分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -46,8 +47,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 16时12分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -68,11 +69,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 16时12分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -82,11 +84,12 @@
             19,
             21,
             23,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 16时12分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -111,11 +114,12 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 16时12分]"
         },
         {
           "title": "宇树科技遭弃购8734股",
@@ -132,6 +136,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 05时41分]"
+        },
+        {
+          "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
+          "url": "https://www.zhihu.com/question/2061559620792063850",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 16时12分]"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 16时12分]"
         },
         {
           "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
@@ -151,7 +180,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -167,27 +196,38 @@
           "time_info": "09时28分"
         },
         {
-          "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
-          "url": "https://www.zhihu.com/question/2061559620792063850",
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
           "source": "知乎",
           "ranks": [
-            7,
-            3
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时04分]"
+          "time_info": "[12时04分 ~ 16时12分]"
         },
         {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
+          "title": "OpenAI商业化加速：年化收入超400亿美元，7月单月增长超过20%",
+          "url": "https://flash.jin10.com/detail/20260814160403026800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "16时12分"
+        },
+        {
+          "title": "炬光科技：NPO/CPO相关微光学产品及高通道V型槽产品部分完成批量验证 在手订单持续增加",
+          "url": "https://wallstreetcn.com/livenews/3149581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "长鑫科技单日市值超越腾讯，成 A 股、港股两市市值最高的中国上市公司，如何看待当下市场给出的估值水平？",
@@ -196,7 +236,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -249,6 +289,17 @@
           "time_info": "[04时38分 ~ 05时41分]"
         },
         {
+          "title": "iPhoneAir2再爆料",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneAir2%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
           "title": "OpenAI在不到一年内任命新首席营收官",
           "url": "https://wallstreetcn.com/livenews/3149247",
           "source": "华尔街见闻-快讯",
@@ -259,6 +310,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时55分]"
+        },
+        {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
@@ -295,6 +357,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时38分]"
+        },
+        {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "AI企业扎堆内蒙古抢风",
@@ -341,17 +414,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
-        },
-        {
           "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
           "url": "https://www.cls.cn/detail/2453237",
           "source": "财联社热门",
@@ -391,7 +453,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -440,6 +502,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "炬光科技：NPO/CPO相关微光学产品及高通道V型槽产品部分完成批量验证，在手订单持续增加",
+          "url": "https://flash.jin10.com/detail/20260814155855958800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "中芯国际高管：下半年，人工智能产生的产业推动与溢出效应还将继续为集成电路制造带来广泛需求。",
           "url": "https://wallstreetcn.com/livenews/3149386",
           "source": "华尔街见闻-快讯",
@@ -479,7 +552,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -490,9 +563,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "如果算力期货上市，AI泡沫会被放大吗？",
+          "url": "https://flash.jin10.com/detail/20260814155121344800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官。",
@@ -523,7 +607,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -545,7 +629,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -572,13 +656,24 @@
           "time_info": "00时53分"
         },
         {
+          "title": "AI就业真相：一边裁员白领，一边催生蓝领",
+          "url": "https://flash.jin10.com/detail/20260814154938772800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
           "url": "https://wallstreetcn.com/livenews/3149415",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -589,7 +684,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -600,7 +695,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
