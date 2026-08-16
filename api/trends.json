@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T03:19:32.362991+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-17T04:17:58.827875+08:00",
+  "total_titles_processed": 338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -48,8 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
+        },
+        {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -59,8 +60,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
+        },
+        {
+          "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
+          "url": "https://flash.jin10.com/detail/20260817035338220800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时17分"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -70,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -81,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -92,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -103,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -114,8 +126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
@@ -125,19 +137,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
           "url": "https://www.douyin.com/hot/2612104",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -147,8 +160,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -158,19 +171,32 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
+        },
+        {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
           "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "中信证券：恒生科技指数的调整具有显著事件效应",
@@ -180,19 +206,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时17分]"
         },
         {
           "title": "AI公司或在抢购未经污染的二手书",
