@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:17:58.827875+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-08-17T07:16:09.999046+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -46,22 +47,35 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
+        },
+        {
+          "title": "新发基金频现提前结募，多位绩优基金经理看好科技成长",
+          "url": "https://wallstreetcn.com/livenews/3150094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
@@ -70,9 +84,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "杠杆出清行情或近尾声，全球科技股再迎资金流入",
+          "url": "https://wallstreetcn.com/livenews/3150093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -82,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -93,19 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
-        },
-        {
-          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
-          "url": "https://wallstreetcn.com/livenews/3150072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -115,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -126,8 +140,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
@@ -137,8 +151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -149,8 +163,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
+        },
+        {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -160,31 +187,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
-        },
-        {
-          "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
-          "url": "https://wallstreetcn.com/livenews/3150060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
-        },
-        {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -193,6 +197,29 @@
           "ranks": [
             21,
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 07时16分]"
+        },
+        {
+          "title": "全球开源AI大洗牌 中国开源模型加速崛起",
+          "url": "https://wallstreetcn.com/livenews/3150072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 07时16分]"
+        },
+        {
+          "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
+          "url": "https://wallstreetcn.com/livenews/3150060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -208,6 +235,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时17分]"
+        },
+        {
+          "title": "AI如何能辅助办公",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%83%BD%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时16分]"
+        },
+        {
+          "title": "A股科技修复行情延续，机构：结构性轮动或成主旋律",
+          "url": "https://wallstreetcn.com/livenews/3150088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
+          "url": "https://flash.jin10.com/detail/20260817062707189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "AI公司或在抢购未经污染的二手书",
