@@ -1,302 +1,231 @@
 {
-  "generated_at": "2026-08-18T10:16:04.038096+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-08-19T08:58:42.520417+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI ChatGPT 人工智能 数码 科技 游戏 Claude code",
-      "match_count": 26,
+      "match_count": 20,
       "titles": [
         {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 10时16分]"
-        },
-        {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
+          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
+          "url": "https://www.cls.cn/detail/2457709",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
-          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 10时16分]"
-        },
-        {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "08时58分"
         },
         {
-          "title": "宇树科技8月19日上市",
-          "url": "https://www.douyin.com/hot/2613555",
-          "source": "抖音",
+          "title": "宇树科技今日上市",
+          "url": "https://www.toutiao.com/trending/7674826639377334298/",
+          "source": "今日头条",
           "ranks": [
-            12,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 10时16分]"
-        },
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "08时58分"
         },
         {
-          "title": "苹果股东因AI版权指控起诉公司高管",
-          "url": "https://wallstreetcn.com/livenews/3150642",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "频准激光开盘大涨超488%，报1100元，单签收益超45万，创新股首日收益历史记录，公司从事精准激光器的研产销，主要面向量子科技、半导体等领域。",
-          "url": "https://wallstreetcn.com/livenews/3150764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 10时16分]"
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
-          "title": "宇树科技，8月19日上市",
-          "url": "https://www.cls.cn/detail/2456358",
-          "source": "财联社热门",
+          "title": "法国官员：政府将引入人工智能工具测试系统网络安全漏洞",
+          "url": "https://wallstreetcn.com/livenews/3151390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 10时16分]"
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
-          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
-          "url": "https://www.zhihu.com/question/2063294189954250663",
+          "title": "如何评价网传消息「3700 均订起点作者因使用 AI 被斩杀」？",
+          "url": "https://www.zhihu.com/question/2073007368435151461",
           "source": "知乎",
           "ranks": [
-            18,
-            14
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 10时16分]"
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
-          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
-          "url": "https://wallstreetcn.com/articles/3779645",
+          "title": "宇树科技今日上市",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E6%97%A5%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
+          "url": "https://wallstreetcn.com/articles/3779679",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "盘点难以超越的游戏神作",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E9%9A%BE%E4%BB%A5%E8%B6%85%E8%B6%8A%E7%9A%84%E6%B8%B8%E6%88%8F%E7%A5%9E%E4%BD%9C",
+          "title": "自制AI电影出马仙镇东北",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
           "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "宇树科技：8月19日上市",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33800029",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "08时58分"
         },
         {
-          "title": "恒指低开0.33%，报25368.87点；恒生科技指数跌0.28%。京东健康、京东集团、小米集团、美团跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3150758",
-          "source": "华尔街见闻-快讯",
+          "title": "【数读IPO】宇树科技，今日上市",
+          "url": "https://www.cls.cn/detail/2457712",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "AirPods5曝光",
+          "url": "https://s.weibo.com/weibo?q=%23AirPods5%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "“新债王”Gundlach警告：芯片变“新资产类别”是AI牛市见顶信号",
+          "url": "https://wallstreetcn.com/articles/3779682",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "08时58分"
         },
         {
-          "title": "巴克莱美国利率策略主管Anshul Pradhan：我们一直反对做空长端抛售，现在依然如此。 要转向建设性观点，需要财政出现下行意外、AI相关发行放缓、财政部发行策略转变，以及经济活动数据持续走软的某种组合。",
-          "url": "https://wallstreetcn.com/livenews/3150638",
-          "source": "华尔街见闻-快讯",
+          "title": "日本股市下跌，因债市担忧令AI风险偏好降温",
+          "url": "https://flash.jin10.com/detail/20260819083944565800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "兆易创新上半年净利润同比增长逾10倍 所持长鑫科技股份市值已超640亿|财报解读",
+          "url": "https://www.cls.cn/detail/2457600",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "08时58分"
         },
         {
-          "title": "A股猪肉概念再度活跃，罗牛山2连板，此前天邦食品涨停，大北农、大禹生物、正邦科技、巨星农牧等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260818095117127800",
-          "source": "金十数据",
+          "title": "新规一刀切,AI漫剧被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "港股医药外包概念走强，金斯瑞生物科技(01548.HK)涨7%，药明生物(02269.HK)涨近5%，康龙化成(03759.HK)涨近3%。",
-          "url": "https://flash.jin10.com/detail/20260818094844185800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "美国能源部长Wright围绕伊朗问题宣称：美国正在玩长期游戏。",
-          "url": "https://wallstreetcn.com/livenews/3150630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "08时58分"
         },
         {
-          "title": "抖音成立汇智观云科技公司 注册资本15.6亿元",
-          "url": "https://flash.jin10.com/detail/20260818094625196800",
+          "title": "为什么老一辈厌恶游戏?",
+          "url": "https://www.zhihu.com/question/2055910921130842003",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "新闻交易员：美国科技股不是泡沫破了，是债市开始查账了",
+          "url": "https://flash.jin10.com/detail/20260819081304416800",
           "source": "金十数据",
           "ranks": [
-            19
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "08时58分"
         },
         {
-          "title": "A股印制电路板板块短线拉升，博敏电子涨停，金禄电子涨超15%，依顿电子、景旺电子、贤丰控股、骏亚科技、兴森科技等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260818094010249800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "微软、Salesforce与ADP意向收购人力资源科技公司Darwinbox。（Mint）",
-          "url": "https://wallstreetcn.com/livenews/3150735",
+          "title": "看好AI投资机遇，QFII资金“广撒网”",
+          "url": "https://wallstreetcn.com/livenews/3151369",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "08时58分"
+        },
+        {
+          "title": "资金加速涌向硬科技赛道，A股并购重组聚焦“补链强链”",
+          "url": "https://wallstreetcn.com/livenews/3151365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     }
